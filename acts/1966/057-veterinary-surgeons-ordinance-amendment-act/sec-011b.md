@@ -1,0 +1,6 @@
+# 11B. Investigation of complaints
+(1) In addition to any other powers specifically conferred on it by this Act, the court may investigate any complaint relating to the tenancy of premises made to it either by a tenant or landlord of such premises.
+(2) Nothing in this section or in the other provisions of this Act shall be deemed to preclude the court from taking cognizance of any infringement or alleged infringement of this Act of any dispute or matter likely to lead to a dispute between a tenant and a landlord, although such tenant or such landlord has not made a complaint to the court under the provisions of this Act.
+(3) Where a complaint has been made against a tenant or against a landlord, or against the agent or servant of either of them, or where the court has taken cognizance of any dispute, or of any facts which are likely to lead to a dispute between a landlord and a tenant, the court may summon the parties or the landlord or tenant as the case may be, to appear before the court at a time and place specified in such summons for the purpose of investigating such complaint or dispute.
+No. 57 Rent Restriction (Amendment) (No. 2)
+(4) Where the court investigates any complaint under this section, the court may make such order in the matter as the justice of the case may require.

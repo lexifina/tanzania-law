@@ -1,0 +1,2 @@
+# 11D. Appeals from the
+An appeal shall lie to the High Court from every decision of order, decision or judgment made or given by the court in any claim, proceedings or other matter of a civil nature arising out of this Act and the provisions of the Civil Proce-dure Code, 1966 relating to appeals from orders and decrees in civil suits shall apply, mutatis mutandis, to appeals from such orders, decisions and judgments.''
