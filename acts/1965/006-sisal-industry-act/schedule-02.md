@@ -1,0 +1,10 @@
+# SECOND SCHEDULE
+(Section 32)
+TRANSFER OF PROPERTY AND TRANSITIONAL PROVISIONS
+1. In this Schedule the ''old Board'' means the Board constituted under the Sisal Interpretation Industry Ordinance, hereby repealed, and the ''new Board'' the Board constituted under
+2. The provisions of this Schedule shall take effect notwithstanding the dissolution Effect
+3. All assets and liabilities which immediately before the coming into operation of this Vesting of Act were vested in or incurred by the old Boards shall movable property vested in the movables, assets and Board and the new Board shall have all powers necessary to take possession of, liabilities recover and deal with such assets and discharge such liabilities.
+4. Upon the coming into operation of this Act the old Board shall deliver to Delivery of the new Board, or as the new Board may order, all movable property vested in the movables, old Board and all books, papers, documents, minutes, receipts and edgers appertaining etc
+5. Any proceedings pending at the commencement of this Act to which the old Legal Board were party shall be continued as if the new Board were party thereto in lieu proceedings
+6. Where anything has been commenced by or under the authority of the old Completion Board prior to the commencement of this Act and such thing is within the powers of acts of the new Board or was done in relation to any of the matters transferred by this Schedule from the old Board to the new Board such thing may be carried on and completed by, or under the authority the new Boards
+7. The Minister may by order Provide for any other matter which appears to him Minister to be necessary or expedient for such purpose of Securing the effective transfer of any to secure assets or liabilities vested in the new Board by virtue of this Act and without transfer prejudice to the generality of the foregoing may appoint any person to do any act or sign any document for and on behalf the old Board whereby the assets of the old Board may be transferred to t he new Board.
