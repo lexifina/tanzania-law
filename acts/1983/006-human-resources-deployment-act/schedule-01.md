@@ -1,0 +1,17 @@
+# FIRST SCHEDULE
+THE NATIONAL HUMAN RESOURCES DEPLOYMENT COMMITTEE (Compositions and Procedure) Section 8
+1. The National Human Resources Advisory Committee shall consist of not more than twenty members to be appointed by the Minister.
+2. A member of the Committee shall, unless his appointment is sonner revoked by the Minister or, for any other cause he ceases to be a member, hold office for a period of four years from the date of his appointment, and shall be eligible for re-appointment: 3.-(1) The Commissioner for Labour shall be the Secretary to the Committee:
+(2) The Secretary shall, in consultation with the Chairman or in the absence of the Chairman, in consultation with the Vice Chairman convene meetings of the Committee and shall also keep minutes of the meetings and perform such other secretarial duties as the Committee may require.
+No. 6 Human Resources Deployment FIRST SCHEDULE-(contd.)
+(3) The Secretary shall be an ex-officio member of the Committee but shall have no power to vote at any meeting of the Committee. 4.-(I) Any member of the Committee may resign by giving notice in writing addres-sed to the Chairman and as from the date specified in the notice or if no date specified from the date of receipt of the notice by the Chairman the member shall cease to be a member of the Committee.
+(2) The Minister may fill any casual vacancy occurring in the membership of the Committee.
+(3) A member appointed to fill any casual vacancy shall, subject to the provision of this Act hold office for the remainder of the term of his predecessor.
+(4) If during any period any member of the Committee is for any cause unable to perform his duties as a member of the Committee, the Minister may appoint a temporary member for the period during which that member is disabled.
+5. Subject to the general or specific directions by the Minister, the Committee may Powers prepare and act upon a programme of action on matters which are within the scope of the functions exercisable by the Committee under this Act. 6.-(l) The Committee shall meet not less than twice in every period of twelve Meetings and months and at such additional times as may be fixed by the Chairman or, if he is for any Procedure reason unable to act, by the Secretary after consultations with the Minister.
+(2) The Chairman or, if he is for any reason unable to act, the Secretary, shall at the direction of the Vice-Chairman or at the request in writing of any ten members, call a meeting of the Committee as soon as possible after the receipt by him of the dire-ction or request.
+(3) The Secretary shall give to each member one month's notice of the time and place. of every ordinary meeting of the Committee.
+(4) At any meeting of the Committee not less than one half of all members of the Committee shall constitute a quorum.
+(5) At every meeting of the Committee the Chairman of the Committee shall preside i In the absence of the Chairman from the meeting, the members of the Committee present at the meeting may, from among their number elect a temporary Chairman who shall preside at the meeting.
+(6) The Chairman may at his discretion invite any person who is not a member of the Committee, to attend and take part, but not to vote, in the proceedings of any meet-ing of the Committee.
+(7) All questions at a meeting of the Committee shall be decided by a majority of votes of the members present and voting at the meeting and in the event of an equality of votes the Chairman shall be entitled to a casting vote in addition to his deliberative vote.
