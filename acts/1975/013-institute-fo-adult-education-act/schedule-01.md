@@ -1,0 +1,25 @@
+# SCHEDULE
+1. In this Schedule the ''appointing authority'' means in the case of the Chairman, Interpreta-the President, and in the case of any other member of the Council, the Minister. tion Composition
+(a) a Chairman who shall be appointed by the President;
+(b) not more than twenty five and not less than ten other members, who shall be
+3. In making appointments of members of the Council, the Minister shall ensure Represanta-that there is adequate representation on the Council of such organizations and professional and academic bodies as are likely to utilize the skills and disciplines to be promoted tion by the Institute and shall further ensure that every person appointed by him is a who, in his opinion, has the necessary experience or qualification to enable him to make useful contribution to the deliberations of he Council and to assist the Council in the discharge of its functions.
+4. Every member of the Council shall continue to hold office as such until his Tenure of appointment is revoked by the appointing authority. appointment
+5. Where any member absents himself from three consecutive meetings of the Council Absence without reasonable excuse the Council shall advise the appointing authority of the from three fact and the appointing authority may, if 't deems fit so to do, terminate the appoint-consecutive ment of the member and appoint another member m his place. meetings
+6. Where any member is by reason of illness infirmity or absence from the United Appoint-Republic, unable to attend any meeting of the Council, the Minister may appoint a ment of temporary member in his Place and such temporary member shall cease to hold office on the resumption of office by the substantive member. temporary member
+7. The Council shall elect one of its members to be the Vice-Chairman and any Vice-member elected as Vice-Chairman shall, subject to h s continuing to be a member, hold office of Vice-Chairman for a term of one year from the date of his election, Chairman &.--(I) The Chairman shall preside at all meetings of the Council.
+Power of Chairman
+(2) Where at any meeting of the Council the chairman is absent, the Vice-Chairman and Vice-Chairman
+(3) In the absence of both the Chairman and the Vice-chairman at any meeting of the Council, the members present may, from amongst their number, elect a temporary Chairman who shall preside at that meeting.
+The Chairman Vice-Chairman or temporary Chairman, presiding at any meeting of Council, shall have a vote and, in the event of an equality of votes, shall have a casting vote in addition to his deliberative vote. 9 -(1) Subject to any general or specific direction by the Minister the Council Meeting and shall meet not less than four times during every financial year and at such additional procedure of times as may be fixed by the Chairman or, if he is absent from the United Republic, or unable for any reason to act, the Vice-Chairman:
+Council Provided that the Chairman or, if he is absent from the United Republic or is unable for any reason to act, the Vice-Chairman shall, at the request of at least seven members, summon a meeting of the Council within thirty days of such request
+(2) The Secretary. of the Council shall give to each member not less than fourteen days' notice of the tune and place of the meeting. 10.-(1) At any meeting of the Council not less than one-third of the members Quorum in office for the time being shall constitute a quorum.
+(2) If a quorum is not present within half-an-hour of the time appointed for the meeting the members present or the majority of them, or any one member if only one is present, or the Secretary if no member is present, may adjourn the meeting to any time not later than fourteen days from the date of adjournment.
+No. 12 Institute of Adult Education
+11. Subject to the provisions relating to a casting vote, all questions at a meeting of the Council shall be decided by a majority of the votes of the members present
+12. Notwithstanding the foregoing provisions of this Schedule decisions may be made by the Council without a meeting, by circulation Of the relevant papers among the members and the expression of the views of the majority thereof in writing:
+Provided that any member shall be entitled to require any such decision to be deferred and the subject matter to be considered at a meeting of the Council. 13.-(1) The seal of the Institute shall be of such shape, am and form " the
+(2) The seal shall be affixed in the presence of-
+(b) such other officer of the Institute as the Director may nominate in that behalf, and the person or persons present shall sign over or underneath the seal m witness
+14. Subject to paragraph 13, all conveyances, transfers, contracts guarantees, agree-ments, bonds, mortgages, charges bills of exchange, Promissory notes, bank drafts, letters of credit, securities and other instruments whatsoever to which the institute n a party shall be executed on behalf of the Institute by--
+(b) such other officer of the Institute as the Director may nominate in that behalf.
+15. Subject to the provisions of this Schedule the Council may regulate its own
