@@ -1,0 +1,3 @@
+# 5A. added "Petition by member who is declared
+(1) Where a member of the National Assembly is required to vacate his seat in the National Assembly by virtue of the provisions of paragraph (a), (b). (c) or (d) of subsection (1) of section 35 of the Constitution otherwise than by reason of the circumstances specified in section 3 of this Act, and the Speaker of the National Assembly has declared such member to have vacated his seat, the member may, if he is aggrieved by such declaration, petition the High Court for a declaration that he is not required to vacate his seat.
+(2) Every petition under subsection (1) shall be lodged in the High Court within thirty days of the date on which the Speaker declares such member to have vacated his seat.
