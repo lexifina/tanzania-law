@@ -1,0 +1,23 @@
+# SCHEDULE
+1.-(1) The members of the Board shall, from among their number, elect a vice-Constitution chairman, who shall hold office for so long as he remains a member of the Board.
+(2) A member of the Board shall, unless his appointment is sooner determined by the appointing authority, or he otherwise ceases to be a member, hold office for such period as the appointing authority may specify in his appointment:
+Provided that in the case of a member who is a member by virtue of his holding some other office, he shall cease to be a member upon his ceasing to hold that office.
+(3) Any member of the Board may at any time resign by giving notice in writing to the appointing authority and from the date specified in the notice oil, if no date is so specified, from the date of the receipt of the notice by the appointing authority, he shall cease to be a member.
+(4) The Board may, with the approval of the Minister, appoint any member or officer of the Board or a public officer to be the Secretary of the Board.
+No. 15 Board of internal Trade
+2. If a member is unable for any reason to attend a meeting, the body or the Ministry, as the case may be, which he represents, may in writing nominate another person in his place for the purpose of that meeting.
+3. Where any member ceases to be a member for any reason before the expiration of his term of office, the appointing authority shall appoint another person in his place and the person so appointed shall hold office for the remainder of the term of office of his predecessor. 4.-(1) An ordinary meeting of the Board shall be convened by the chairman and the notice specifying the Place, date and time of the meeting shall be sent to each member at his usual place of business or residence not less than seven days before, the date of such meeting. In case the chairman is unable to act by reason of illness, absence from Tanganyika, or other sufficient cause, the vice-chairman may convene
+(2) The chairman, or in his absence, the vice-chairman, shall be bound to convene a special meeting of the Board upon receipt of a request in writing in that behalf signed by not less than three members of the Board. Not less than seven days' notice of such meeting shall be given to all members of the Boat in the manner prescribed
+(3) The chairman, the vice-chairman, or the temporary chairman elected in accordance with the provisions of paragraph 5 (2) presiding at any meeting of the Board may invite any person who is not a member to participate in to deliberations of the Board, but any such person shall not be entitled to vote.
+Procedure 5.-(1) one-half of the total number of the members of the Board, or four members, whichever is the lesser number, shall form a quorum for a meeting of the Board.
+(2) In the absence of the chairman from a meeting of the Board the vice-chairman shall preside. In the absence of both the chairman and the vice-chairman from any meeting, the members present shall elect one of their number to be a temporary chairman of that meeting.
+(3) At any meeting of the Board a decision of the majority of the members Present and voting shall be deemed to be a decision of the Board. In the event of an equality of votes the chairman of the meeting shall have a casting vote in addition to his deliberative vote.
+(4) Notwithstanding the provisions of sub-paragraph (2), where the chairman so directs, a decision may be made by the Board without a meeting by circulation of the relevant papers among all the members and the expression in writing of their view but any member shall be entitled to require that any such decision shall be deferred until the subject matter shall be considered at a meeting of the Board.
+6. Minutes in Proper form of each meeting of the Board shall be kept and shall meetings be confirmed by the Board at the following meeting and signed by the chairman of the
+7. Subject to the provisions Of paragraph 5 relating to quorum, the Board may act notwithstanding any vacancy in the membership thereof and no act or proceeding of the Board shall be invalid by reason only of some defect in the appointment of a person who purports to be a member thereof.
+8. All orders directions, notices or documents made or issued by the Board shall
+(a) the Director-General; or
+(b) any member of the Board or other officer of the Board authorized in writing by the Director-General in that behalf.
+9. The seal of the Board shall not be affixed to any instrument except in the presence of the Director-General or the chairman or the Vice-chairman or the Secretary and at least one other member of the Board.
+No. 15 Board of Internal Trade
+10. Subject to the provisions of this Schedule the Board shall have power to Board may regulate its own proceedings
