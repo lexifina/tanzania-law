@@ -1,0 +1,6 @@
+# SCHEDULE
+Recurrent Development Total Expenditure Expenditure Shs Shs.
+Shs.
+(3)
+(4)
+(5) 10,000,000,000 10,000,000,000 37,250,000,000 37,250,000,000 40,000,000,000 - 40,000,000,000 87,250,000,000 - 87,250,000,000
