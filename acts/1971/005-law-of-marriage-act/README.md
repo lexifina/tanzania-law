@@ -1,0 +1,135 @@
+# The Law of Marriage Act, 1971 (No. 5 of 1971)
+
+Act No. 5 of 1971 as passed, dated 1971-02-11. Text of the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz): <https://polis.bunge.go.tz/uploads/bills/acts/1566120102-The%20Law%20of%20Marriage%20Act%2C%201971.pdf>.
+
+Language: English. Text layer: publisher OCR.
+
+| Provision | File |
+| --- | --- |
+| Long title and enacting words | [preamble.md](preamble.md) |
+| 1. | [sec-001.md](sec-001.md) |
+| 2. | [sec-002.md](sec-002.md) |
+| 3. Appointment of Registrar General, Deputy and Assistant | [sec-003.md](sec-003.md) |
+| 4. | [sec-004.md](sec-004.md) |
+| 5. | [sec-005.md](sec-005.md) |
+| 6. | [sec-006.md](sec-006.md) |
+| 7. | [sec-007.md](sec-007.md) |
+| 8. | [sec-008.md](sec-008.md) |
+| 9. | [sec-009.md](sec-009.md) |
+| 10. | [sec-010.md](sec-010.md) |
+| 11. Conversion of marriages | [sec-011.md](sec-011.md) |
+| 12. Duration of marriage | [sec-012.md](sec-012.md) |
+| 13. Minimum age | [sec-013.md](sec-013.md) |
+| 14. | [sec-014.md](sec-014.md) |
+| 15. | [sec-015.md](sec-015.md) |
+| 16. | [sec-016.md](sec-016.md) |
+| 17. | [sec-017.md](sec-017.md) |
+| 18. Notice of intention to many | [sec-018.md](sec-018.md) |
+| 19. | [sec-019.md](sec-019.md) |
+| 20. | [sec-020.md](sec-020.md) |
+| 21. | [sec-021.md](sec-021.md) |
+| 22. | [sec-022.md](sec-022.md) |
+| 23. RegistrarGeneral to dispense with requirement | [sec-023.md](sec-023.md) |
+| 24. Lodging of objections with Registrar- | [sec-024.md](sec-024.md) |
+| 25. Manner of contracting marriage | [sec-025.md](sec-025.md) |
+| 26. | [sec-026.md](sec-026.md) |
+| 27. | [sec-027.md](sec-027.md) |
+| 28. | [sec-028.md](sec-028.md) |
+| 29. | [sec-029.md](sec-029.md) |
+| 30. | [sec-030.md](sec-030.md) |
+| 31. Power for RegistrarGeneral to authorize | [sec-031.md](sec-031.md) |
+| 32. Duty of kadhis and registration officers | [sec-032.md](sec-032.md) |
+| 33. Issue of | [sec-033.md](sec-033.md) |
+| 34. | [sec-034.md](sec-034.md) |
+| 35. | [sec-035.md](sec-035.md) |
+| 36. Recognition | [sec-036.md](sec-036.md) |
+| 37. Recognition of marriage contracted in | [sec-037.md](sec-037.md) |
+| 38. Void ceremonies | [sec-038.md](sec-038.md) |
+| 39. | [sec-039.md](sec-039.md) |
+| 40. | [sec-040.md](sec-040.md) |
+| 41. Matters not affecting validity | [sec-041.md](sec-041.md) |
+| 42. Maintenance of marriage registers | [sec-042.md](sec-042.md) |
+| 43. Duty to register marriages and procedure | [sec-043.md](sec-043.md) |
+| 44. | [sec-044.md](sec-044.md) |
+| 45. Registration contracted abroad | [sec-045.md](sec-045.md) |
+| 46. Returns to be sent to Registrar- | [sec-046.md](sec-046.md) |
+| 47. Completed registers to be sent to Registrar- | [sec-047.md](sec-047.md) |
+| 48. Maintenance of index, searches, inspection | [sec-048.md](sec-048.md) |
+| 49. | [sec-049.md](sec-049.md) |
+| 50. | [sec-050.md](sec-050.md) |
+| 51. | [sec-051.md](sec-051.md) |
+| 52. | [sec-052.md](sec-052.md) |
+| 53. Correction of errors | [sec-053.md](sec-053.md) |
+| 54. Power of Minister to restrict provisions relating to | [sec-054.md](sec-054.md) |
+| 55. Evidence of marriage | [sec-055.md](sec-055.md) |
+| 56. | [sec-056.md](sec-056.md) |
+| 57. | [sec-057.md](sec-057.md) |
+| 58. | [sec-058.md](sec-058.md) |
+| 59. | [sec-059.md](sec-059.md) |
+| 60. Presumptions as to property acquired | [sec-060.md](sec-060.md) |
+| 61. Gifts between husband and wife | [sec-061.md](sec-061.md) |
+| 62. No liability for antecedent debts of | [sec-062.md](sec-062.md) |
+| 63. Duty to maintain spouse | [sec-063.md](sec-063.md) |
+| 64. Presumption of wife s authority husband's | [sec-064.md](sec-064.md) |
+| 65. | [sec-065.md](sec-065.md) |
+| 66. | [sec-066.md](sec-066.md) |
+| 67. | [sec-067.md](sec-067.md) |
+| 68. | [sec-068.md](sec-068.md) |
+| 69. | [sec-069.md](sec-069.md) |
+| 70. Limitation of actions for breach of promise | [sec-070.md](sec-070.md) |
+| 71. Right to return of gifts | [sec-071.md](sec-071.md) |
+| 72. Right to damages | [sec-072.md](sec-072.md) |
+| 73. Right to damages for enticement | [sec-073.md](sec-073.md) |
+| 74. Assessment of damages for adultery | [sec-074.md](sec-074.md) |
+| 75. | [sec-075.md](sec-075.md) |
+| 76. | [sec-076.md](sec-076.md) |
+| 77. | [sec-077.md](sec-077.md) |
+| 78. Transfer of | [sec-078.md](sec-078.md) |
+| 79. Power for | [sec-079.md](sec-079.md) |
+| 80. Appeals | [sec-080.md](sec-080.md) |
+| 81. Forms of proceedings | [sec-081.md](sec-081.md) |
+| 82. Alternative reliefs | [sec-082.md](sec-082.md) |
+| 83. | [sec-083.md](sec-083.md) |
+| 84. | [sec-084.md](sec-084.md) |
+| 85. | [sec-085.md](sec-085.md) |
+| 86. | [sec-086.md](sec-086.md) |
+| 87. | [sec-087.md](sec-087.md) |
+| 88. | [sec-088.md](sec-088.md) |
+| 89. | [sec-089.md](sec-089.md) |
+| 90. | [sec-090.md](sec-090.md) |
+| 91. | [sec-091.md](sec-091.md) |
+| 92. Recognition of extrajudicial divorces | [sec-092.md](sec-092.md) |
+| 93. Special provisions regulating proceedings in primary | [sec-093.md](sec-093.md) |
+| 94. Power for court to grant declaratory decrees | [sec-094.md](sec-094.md) |
+| 95. | [sec-095.md](sec-095.md) |
+| 96. | [sec-096.md](sec-096.md) |
+| 97. Parties to petition for annulment | [sec-097.md](sec-097.md) |
+| 98. Effect of decree of annulment | [sec-098.md](sec-098.md) |
+| 99. Right to petition for divorce | [sec-099.md](sec-099.md) |
+| 100. Restriction | [sec-100.md](sec-100.md) |
+| 101. | [sec-101.md](sec-101.md) |
+| 102. | [sec-102.md](sec-102.md) |
+| 103. | [sec-103.md](sec-103.md) |
+| 104. | [sec-104.md](sec-104.md) |
+| 105. Parties to petitions | [sec-105.md](sec-105.md) |
+| 106. Contents of petitions | [sec-106.md](sec-106.md) |
+| 107. | [sec-107.md](sec-107.md) |
+| 108. Duties of court on petition for separation or | [sec-108.md](sec-108.md) |
+| 109. Powers of court on claim to damages for | [sec-109.md](sec-109.md) |
+| 110. | [sec-110.md](sec-110.md) |
+| 111. | [sec-111.md](sec-111.md) |
+| 112. | [sec-112.md](sec-112.md) |
+| 113. Power of court to set aside or vary decrees | [sec-113.md](sec-113.md) |
+| 114. Power of court to order | [sec-114.md](sec-114.md) |
+| 115. Power of court to order maintenance for spouse | [sec-115.md](sec-115.md) |
+| 116. | [sec-116.md](sec-116.md) |
+| 117. | [sec-117.md](sec-117.md) |
+| 118. | [sec-118.md](sec-118.md) |
+| 119. | [sec-119.md](sec-119.md) |
+| 120. | [sec-120.md](sec-120.md) |
+| 121. Power of court to vary orders for | [sec-121.md](sec-121.md) |
+| 122. Power of court to Nary agreements | [sec-122.md](sec-122.md) |
+| 123. Maintenance payable under order of | [sec-123.md](sec-123.md) |
+| 124. Recovery of arrears of maintenance | [sec-124.md](sec-124.md) |
+| FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |
+| SECOND SCHEDULE | [schedule-02.md](schedule-02.md) |
