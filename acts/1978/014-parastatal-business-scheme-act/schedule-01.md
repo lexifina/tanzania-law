@@ -1,0 +1,18 @@
+# FIRST SCHEDULE
+COMPOSITION AND PROCEEDINGS OF THE BOARD 1.-(1) The Board shall consist of-Composition
+(a) the Principal Secretary in the Ministry of Finance who shall be the ex-officio of the Board Chairman; and
+(b) not less than four and not more than eight other members appointed by the
+(2) The majority of the appointments ,to be made by the Minister shall be made from amongst the employers and employees who will be covered by the Scheme.
+2. No act or proceedings of the Board shall be invalid by reason only of the number Proceedings of members not being complete at the time of such act or proceeding not to be or of any defect in the appointment of any member or any of the fact that any member invalid by was at the time disqualified or disentitled as such. reason of irregularity
+3. Every member of the Board shall continue to hold office for three years and Tenure of appointment
+4. Where any member absents himself from three consecutive meetings of the Absence Board without reasonable excuse, the Board shall advise the Minister of the fact and from three the Minister may terminate the appointment of the member and appoint another consecutive meetings
+5. Where any member is by reason of illness, infirmity or absence from the United Appointment Republic unable to attend any meeting of the Board, the Minister may appoint of a temporary member in his place and such temporary member shall cease to hold temporary office on the resumption of office of the substantive member. member
+6. The Corporation shall act as Secretary to the Board.
+Secretary to the Board 7.-(1) An ordinary meeting of the Board shall be convened by the Chairman and Meetings the notice specifying the place, date and time of the meeting shall be sent to each member at his usual place of business or residence not less than fourteen days before the No. 14 Parastatal Pensions Scheme
+(2) The Chairman shall be bound to convene a special meeting of the Board upon receipt of a request in writing in that behalf signed by not less than three members of the Board. Not less than fourteen days' notice of such meeting shall be given to all members of the Board in the manner prescribed in sub-paragraph (1).
+(3) The Chairman or the temporary Chairman elected in accordance with the provisions of paragraph 8 (2) presiding at any meeting of the Board may invite any person who is not a member to participate in the deliberations of the Board, but any such person shall not be entitled to vote. 8.-(l) Three members shall form a quorum for a meeting of the Board.
+(2) In the absence of the Chairman from a meeting of the Board, the members present shall elect one of their number to be a temporary Chairman of that meeting.
+(3) At any meeting of the Board a decision of the majority of the members present and voting shall be deemed to be a decision of the Board. In the event of an equality of votes the Chairman of the meeting shall have a casting vote in addition to his deli-berative vote.
+9. Notwithstanding the provisions of paragraph 8, where the Chairman so directs circulation a decision may be made by the Board without a meeting by circulation of the relevant of papers papers among all the members and the expression in writing of their views; but any member shall be entitled to require that any such decision shall be deferred until the subject matter shall be considered at a meeting of the Board.
+Minutes of 10. Minutes in proper form of each meeting of the Board shall be kept and shall be confirmed by the Board at the next meeting and signed by the Chairman of the
+11. Subject to the provisions of this Schedule, the Board shall have power to regulate regulate its its own proceedings.
