@@ -1,0 +1,3 @@
+# SECOND SCHEDULE
+Section 46 THE FOOD (CONTROL OF QUALITY) ACT, 1978 Certificate of Analysis (Section 46) To:
+I, being the Government Analyst for the purposes of the Food (Control of Quality) Act, 1978, do hereby certify that I received on the day of a sealed packet marked , that I found the seals intact and have analysed the contents of that packet and declare the result of my analysis to be as follows:-I am of the opinion that the sample contained the parts or the foreign ingredients Observations day of Signature Government Chemist (or as the case may be) Now-All percentages given in definitions or standards prescribed are, unless otherwise specified, percentages by weight.
