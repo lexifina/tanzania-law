@@ -1,0 +1,5 @@
+# FIRST SCHEDULE
+(Section 1)
+THE SCHEDULED TERRITORIES Kenya.
+Tanzania.
+Uganda.
