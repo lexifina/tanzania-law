@@ -1,0 +1,27 @@
+# SECOND SCHEDULE
+(Section 7 (2))
+BOARD OF DIRECTORS No. 6 Tanzania Fisheries Research Institute 1.-(l) The Board shall consist of-Composition
+(a) a Chairman, who shall be appointed by the President;
+(c) not less than nine nor more than fifteen other members, who shall be appointed by
+(2) The Board may appoint any employee of the Institute to be the Secretary of the
+2. The members shall elect one of their number to be the Vice-Chairman of the Board, Vice-and any member elected as Vice-Chairman shall, subject to his continuing to be a Chairman member, hold office for a term of one year from the date of his election, and shall be Duty of
+3. In appointing Persons to be members, the Minister shall ensure that every person Minister to appointed by him is a person who, in his opinion, has the necessary experience or qualification to enable that person to make a useful contribution to the deliberations of appoint-the Board and to assist the Board in the Performance of his functions. able and prominent person 4.-(1) Subject to sub-paragraph (2), a member of the Board shall, unless his appoint Tenure of ment is sooner determined by the appointing authority, or he otherwise ceases to be a member, hold office for such period as the appointing authority may specify in his appointment appointment, or if no period is so specified, shall hold office for a term of three years from the date of his appointment, and shall be eligible for re-appointment.
+(2) In the case of a member who is a Member by virtue of his holding some other office, he shall cease to be a member upon his ceasing to hold that office.
+(3) Any member, other than a member referred to in sub-paragraph (2), may at any time resign by giving notice in writing to the President or, as the case may be, to the Minister, and from the date specified in the notice or if no date is so specified, from the date of the receipt of the notice by the President or the Minister, he shall cease to be a Absent
+5. If a member of the Board who is a member by virtue of his holding some other office is unable for any reason to attend any meeting, he may nominate in writing member to another person from his organization if he is nominated for appointment to the Board be be repre-by an organization, to attend that meeting in his place. sented at meetings
+6. Where any member ceases to be a member for any reason before the expiration of his term of office, the appointing authority may appoint another person in his place and Tenure the person so appointed shall hold office for the remainder of the term of office of his Vacancies 7.-(l) The Board shall ordinarily meet for the transaction of its business at the times Meetings and at the places determined by it, but shall meet at least once every three months. of the Board
+(2) The Chairman, or in his absence the Vice-Chairman, may at any time call a special Meeting of the Board, and shall call a special meeting upon a written request by a
+(3) The Chairman or in his absence the Vice-Chairman, shall preside at every meeting of the Board. In the absence of both the Chairman and Vice-Chairman the members present shall appoint one of their number to preside over the meeting.
+(4) The Chairman, or in his absence the Vice-Chairman, may invite any person who is not a member to participate in the deliberations at any meeting of the Board, but any person so invited shall not be entitled to vote.
+8. The quorum at any meeting of the Board shall be half of the members in office.
+Quorum 9.-(I) Questions proposed at a meeting of the Board, shall be decided by a majority Decisions of the votes of the members present and voting and in the event of an equality of votes, of the person presiding shall have a second or casting vote in addition to his deliberative the Board
+(2) Notwithstanding sub-paragraph (1), a decision may be made by the Board without a meeting by circulation of the relevant papers among the members, and the expression in writing of the views of the majority of the members.
+No. 6 Tanzania Fisheries Research Institute 10.-(1) The Board shall cause to be recorded and kept minutes of all business of meetings conducted or transacted at its meetings, and the minutes of each meeting of the Board shall be read and confirmed, or amended and confirmed, at the next meeting of the Board and signed by the person presiding at the meeting.
+(2) Any minutes purporting to be signed by the person presiding at a meeting of the Board shall, in the absence of proof of error, be deemed to be a correct record of the meeting whose minutes they purport to be.
+11. The validity of any act or proceeding of the Board shall not be affected by any vacancy among its members or by any defect in the appointment of any of them.
+12. All orders, directions, notices or documents made or issued on behalf of the Board
+(a) the Chairman of the Board; or
+(b) the Director-General or any or other officer of the Institute authorized in writing in that behalf by the Director-General.
+Seal of the 13. The seal of the Institute shall not be affixed to any instrument except in the Organization presence of the Chairman or the Vice-Chairman or the Director-General or some other officer of the Institute and at least one member of the Board.
+14. Subject to the provisions of this Schedule, the Board may regulate its own Passed m the National Assembly on the fourth day of January, 1980.
+Clerk ssembly
