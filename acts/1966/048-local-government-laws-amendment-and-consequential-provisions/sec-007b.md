@@ -1,0 +1,11 @@
+# 7B. Chairman and ViceChairman
+(I) In every municipality established under this Ordi-nance there shall be a chairman and a vice-chairman.
+(2) The chairman of a municipality shall be the person who for the time being holds the office of District Chairman of the Party for the area within which the municipality lies.
+(3) The vice-chairman of a municipality shall be elected by the members of the council from amongst its elected members on the first day of November in each year, or so soon as is practicable thereafter, and shall hold office until his successor is elected.
+(4) In the event of an equality of votes for two or more candidates for the office of vice-chairman the election shall be determined by lot drawn by the chairman.
+(5) In the event of the office of vice-chairman becoming vacant from any cause whatsoever during the term of office of the holder thereof a new vice-chairman shall be elected in the same manner as soon as practicable, and shall serve for the remainder of the period for which his predecessor had been elected.
+(6) A retiring vice-chairman shall be eligible for re-election.
+(7) For the avoidance of doubt it is hereby declared that the provisions of this Ordinance relating to disqualification of members or providing for a member ceasing to be a member in certain circumstances shall not apply to the chairman but shall apply to the vice-chairman.
+(8) The vice-chairman shall, whenever it shall be necessary owing to a vacancy in the office of chairman or his absence, illness or incapacity exercise all the powers and discharge all the duties vested in and imposed upon the chairman under and by virtue of this Ordinance.
+No. 48 Local Government Laws (Amendment)
+(9) If at any meeting of a council the chairman is absent and no vice-chairman has been elected or if the vice-chairman is also absent, the members present shall elect one of their number from amongst the elected members to be chairman of the meeting, and such election shall, in the event of an equality of votes for two or more candidates, be determined between them by lot. 7c. It shall be competent for any councillor to resign his seat on the council by giving one month's notice in writing of such intention to resign to the town clerk.
