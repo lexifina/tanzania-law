@@ -1,0 +1,3 @@
+# 4A.
+Every public corporation existing on the coming inter operation of this Act shall be deemed to be established pur-suant to this Act and nothing in this Act or in any regulations made under this -Act shall be construed as to affect any pro : ~ vision of any existing law or of My articles of association or any other charter or instrument of a public corporation and those provisions shall continue to have effect after the com-mencement of this Act. ,'I.
+(b) in section 6 by deleting the words ''Minister responsible for the parent Ministry'' which appear in the section and in the marginal note and substituting for them in each case the words ''responsible Minister"
