@@ -1,0 +1,25 @@
+# SCHEDULE
+(Section 5 (2)) 1.-(1) The Board of Directors shall consist of-Composition
+(a) a Chairman, who shall be appointed by the President; of Board
+(b) the Director-General;
+(c) not less than eight nor more than sixteen other members, who shall be appointed by the Minister;
+NO. 23 Tanzania Eng. and Man. Design Organization
+(2) The Board may appoint any employee of the organization to be the Secretary or the Board Vice- 2. The members shall elect on of their number to be the Vice-Chairman of the Board, and any member elected as Vice-Chairman shall subject to his continuing to be a member hold office for a term of one year from the date of his election, and shall be eligible for re-election.
+3. In making appointments of members of the Board, the Minister shall ensure that Duty of every person appointed by him is a person who, in his opinion, has the necessary Minister to appoint- experience or qualification to enable that person to make a useful contribution to able person deliberation of the Board and assist the Board in the performance if its functions.
+Tenure of 4.-(1) Subject to sub-paragraph (2), a member of the Board shall, unless his appoint-ment is sooner determined by the appointing authority, or he otherwise ceases to be a member, hold office for such period as the appointing authority may specify in his appointment, or if no period is so specified, shall hold office for a term of three years from the date of his appointment, and shall be eligible for re-appointment.
+(2) In the case of a member who is a member by virtue of his holding some other office, he shall cease to be a member upon his ceasing to hold that office.
+(3) Any member, other than a member referred to in sub-paragraph (2), at any time resign by giving notice in writing to the President or, as the case may be, to the Minister, and from the date specified in the notice or if no date is so specified, from the date of the receipt of the notice by the President or the Minister, he shall cease to be a member.
+5. Where a member ceases to be a member for any reason before the expiration of his term of office, the appointing authority may appoint another person in his place and the person so appointed shall hold office for the remaining term of office of predecessor, Meeting of 6.-(1) The Board shall ordinarily meet for the transaction of its business at the the Board times and at the places determined by it, but shall meet at least once every three months.
+(2) The Chairman, in his absence the Vice-Chairman, shall preside at every meeting of the Board, and shall call a special meeting upon a written request by a majority of the member in office.
+(3) The Chairman, or in his absence the Vice-Chairman, shall preside at every meeting of the Board. In the absence of both the Chairman and the Vice-Chairman the members present shall appoint one of their number to preside over the meeting.
+(4) The Chairman, or in his absence the Vice-Chairman, may invite any person who is not a member to participate in the deliberations at any meeting of the Board, but any person so invited shall not be entitled to vote.
+7. The quorum at any meeting of the Board shall be half of the members in office. 8.-(1) Questions proposed at a meeting of the Board shall be decided by a majority of the votes of the members present and voting and in the event of an equality of votes the person presiding shall have a second or casting vote in addition to his deliberative vote.
+(2) Notwithstanding sub-paragraph (1), a decision maybe made by the Board without a meeting by circulation of the relevant papers among the members, and the expression of the views of the majority of the members. 9.-(1) The Board shall cause to be recorded and kept minutes of all business conducted or transacted at its meetings, and the minutes of each, meeting of the Board shall be read and confirmed, or amended and confirmed, at the next meeting of the Board and signed by the person presiding at the meeting.
+No. 23 Tanzania Eng. and Man. Design Organization
+(2) Any minutes purporting to be signed by the person presiding at a meeting of the Board shall, the absence of proof of error, be doomed to be a correct record of the meeting whose minutes they purport to be Vacancies
+10. The validity of any act or proceeding of the Board shall not be affected by etc; not to vacancy among its members or by any defect in the appointment of any of them invalidate proceeding
+11. All orders, directions, notice or documents made or issued on behalf to the Orders, Board shall be signed. directions
+(a) the Chairman of the Board; or etc.
+(b) the Director-General any other officer of the organization authorized in wring in the that behalf by the Director-General.
+12. The seal of the Organization shall not be affixed to any instrument except Seal of the the presence of the Chairman or the Vice-Chairman or the Director-General or some Organization other officer of the Organization and at least member of the Board.
+13. Subject to the provisions of this Schedule, the Board may regulate its own Board may proceedings. regulate its proceedings
