@@ -1,0 +1,39 @@
+# The Motor Vehicles (Restriction on acquisitions and Dispositions) Act, 1972 (No. 5 of 1972)
+
+Act No. 5 of 1972 as passed, dated 1972-02-08. Text of the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz): <https://polis.bunge.go.tz/uploads/bills/acts/1566203103-The%20Motor%20Vehicles%20%28Restriction%20on%20acquisitions%20and%20Dispositions%29%20Act%2C%201972.pdf>.
+
+Language: English. Text layer: publisher OCR.
+
+| Provision | File |
+| --- | --- |
+| Long title and enacting words | [preamble.md](preamble.md) |
+| 1. | [sec-001.md](sec-001.md) |
+| 2. | [sec-002.md](sec-002.md) |
+| 3. | [sec-003.md](sec-003.md) |
+| 4. Establishment of Committee | [sec-004.md](sec-004.md) |
+| 5. Restriction on acquisitions and | [sec-005.md](sec-005.md) |
+| 6. Application for permit | [sec-006.md](sec-006.md) |
+| 7. Grant of permit | [sec-007.md](sec-007.md) |
+| 8. | [sec-008.md](sec-008.md) |
+| 9. | [sec-009.md](sec-009.md) |
+| 10. | [sec-010.md](sec-010.md) |
+| 11. | [sec-011.md](sec-011.md) |
+| 12. Reference to Committee | [sec-012.md](sec-012.md) |
+| 13. Transfer of permits | [sec-013.md](sec-013.md) |
+| 14. Returns, information, etc. | [sec-014.md](sec-014.md) |
+| 15. Effect of testamentary disposition, attachment | [sec-015.md](sec-015.md) |
+| 16. | [sec-016.md](sec-016.md) |
+| 17. | [sec-017.md](sec-017.md) |
+| 18. | [sec-018.md](sec-018.md) |
+| 19. | [sec-019.md](sec-019.md) |
+| 20. Liability of | [sec-020.md](sec-020.md) |
+| 21. Burden of proof | [sec-021.md](sec-021.md) |
+| 22. Jurisdiction of courts | [sec-022.md](sec-022.md) |
+| 23. Amendment | [sec-023.md](sec-023.md) |
+| 24. by Committee | [sec-024.md](sec-024.md) |
+| 25. Appeals | [sec-025.md](sec-025.md) |
+| 26. | [sec-026.md](sec-026.md) |
+| 27. | [sec-027.md](sec-027.md) |
+| FIRST SCHEDULE | [schedule-01.md](schedule-01.md) |
+| SECOND SCHEDULE | [schedule-02.md](schedule-02.md) |
+| THIRD SCHEDULE | [schedule-03.md](schedule-03.md) |
