@@ -1,0 +1,3 @@
+# SCHEDULE
+(Section 14) FEES Amount Shs. ... ... ... ... ... ...
+On the issue of a dealer's licence ... 100/-On the issue of a broadcast receiver licence ... ... ... ... ... 10/-... ... ... ... ... ... ... 5/-
