@@ -1,0 +1,8 @@
+# Long title and enacting words
+SHERIA YA MABADILIKO YA KUMINA NNE KATEfCA
+KATIBA YA JAMHURI YA MUUNGANO YA MWAKA 1977
+YALIYOMO
+Ibara
+Kichxva cha Habari
+SEHEMU YA KWANZA
+U t a n g u l i z i
