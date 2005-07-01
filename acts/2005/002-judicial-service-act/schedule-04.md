@@ -1,0 +1,12 @@
+# FOURTH SCHEDULE
+(Made under section 27(3)) M e e t in g s a n d P r o c e e d in g s o f t h e E t h ic s C o m m it t e e a n d J u d ic ia l O f f ic e r s C o m m it t e e l.-(l) The Committee shall ordinarily meet for the transaction of its business at the time and at the places determined by it. but shall meet at least once every three months.
+(2) The Chairman, may, at any time upon a written request by a majority o f the members in office, call a special meeting o f the Committee.
+(3) The Chairm an, shall preside at every meeting of the Committee and in the absence of the Chairman members present shall appoint one of their number to preside No. 2 Judicial Service
+(4) The Committee may invite any person who is not a member to participate in the deliberations at any meeting of the Committee, but any person so invited shall not be
+2. The quorum at any meeting o f the Committee shall be half o f the members in Quorum 3 .-(l) Questions proposed at a meeting of the Committee shall be decided by a Decisions majority o f the votes o f the members present and voting and in the event of an equality o f the Committee o f votes the person presiding shall have a second or casting vote in addition to his original or deliberative vote.
+(2) Notwithstanding the provisions of subparagraph (1), a decision may be made by the Com m ittee w ithout a m eeting by circulation of the relevant papers among the mem bers, by the expression in writing of the majority o f the members. 4 .-(l) The Committee shall cause to be recorded and kept minutes of all business Vacancies, conducted or transacted at its meetings, and the minutes o f each meeting o f the Commit­ not to tee shall be read and confirmed, or amended and confirmed, at the next meeting whose invalidate minutes they purport to be. proceedings
+(2) Any minutes purporting to be signed by the person presiding at a meeting of the Committee shall, in the absence of proof o f error, be deemed to be a correct record of the meeting whose minutes they purport to be.
+5. The validity o f any act or proceedings of the Committee shall not be affected by Minutes o f any vacancy among its members or by any defect in the appointment of any of them. m eetings
+6. All orders, directions, notices or other documen ts made or issued on behalf of the Orders, Committee shall be signed by-directions, etc.
+(c) any other member authorized in writing in thal: behalf by the Chairman.
+7. Subject to the provisions o f this Schedule, the Committee may regulate its own Committee may regulate its own proceedings
