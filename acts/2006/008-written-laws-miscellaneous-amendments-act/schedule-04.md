@@ -1,0 +1,6 @@
+# SCHEDULE
+No. 8 T h ir d C o l u m n respect of an advertisement, it shall be a defence for that person to prove that, he is a person whose business is to publish or arrange for the publication in the advertisem ents, and that he received the Written advertisement for publication in the ordinary cause of business and did not know, and had no reason to suspect that the publication would amount to an offence.
+Laws (Miscellaneous Amendments)______ 2006
+(5) Where a promoter is charged by reason of commission of an offence by another person pursuant to subsection (4), it shall be a defence for that promoter to prove that the act constituting an offence was committed without his consent.
+Interprcta-171 C .-( 1) For the purposes of sections 171A and tion 171B, unless the context requires otherwise-“goods” includes property of any description and a right to or interest in any property; “participants” in relation to a scheme, means a person other than a promoter or any of the promoters who participated in the scheme; “scheme” means any arrangement made in connection with the carrying on of a business whether such arrangement is made or recorded wholly or partly in writing or not.
+(2) Any reference to the provision or supply of goods shall be construed as including a reference to

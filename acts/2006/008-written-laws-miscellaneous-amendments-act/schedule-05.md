@@ -1,0 +1,5 @@
+# SCHEDULE
+F ir st C o l u m n S e c o n d C o l u m n Cap. 391 The Commission for Human Rights and Good Governance Act No. 8 T h ird C o l u m n the grant or transfer of a right or interest.” The Act is amended:
+(a) by inserting immediately after section 28 Written the following section: “ M atters 28A.-(1) W here the relating to investigation under section 28 relates Laws (Miscellaneous Amendments)______ 2006 Tanzania to appropriate authority in Zanzibar, Zanzibar. the Commission shall submit the report o f its decision, recommendation and reasons to the M inister responsible for Human Rights and Good Governance of the R evolutionary G overnm ent o f Zanzibar.
+(2) The Minister responsible for H um an R ights and G ood Governance o f the Revolutionary Government of Zanzibar shall within twenty one days after receiving the report as provided for under subsection ( 1), refer the report to the appropriate authority concerned in the Revolutionary Government of Zanzibar.
+(3) The appropriate authority concerned in Zanzibar shall within F ir st C o lum n S e c o n d C o l u m n oo <
