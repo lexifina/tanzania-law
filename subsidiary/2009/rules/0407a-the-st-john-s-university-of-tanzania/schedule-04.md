@@ -1,0 +1,3 @@
+# THIRD SCHEDULE
+____________
+PROVISIONS RELATING TO THE COUNCIL ____________
