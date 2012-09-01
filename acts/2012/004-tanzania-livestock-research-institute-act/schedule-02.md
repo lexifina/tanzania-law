@@ -1,0 +1,21 @@
+# SECOND SCHEDULE
+(Under section 8(3))
+PROVISIONS RELATING TO THE BOARD
+1. The members shall elect one of their members to be the Vice-chairman Chairman of the Board and any member so elected shall, subject to his continuing to be a member, hold office for a term of one year from the date of his election, and may be 2.-(l) Subject to sub-paragraph (2), a member o f the Board shall unless his office for appointment is sooner terminated by the appointing authority, or he otherwise ceases to be a member, hold office for such period as the appointing authority may specify members in his appointment, or if no period is so specified, shall hold office for term of three years from the date of his appointment, and is eligible for re-appointment.
+(2) In the case of the member who is a member by virtue of his holding some other office, he shall cease to be a member upon his ceasing to hold that
+(3) Any member, other than member referred to in sub-paragraph (2), may at any time resign by giving notice in writing to the Minister, and upon receipt of the notice by the Minister, he shall cease to be a member.
+Tanzania Livestock Research Institute If a member o f the Board who is a member by virtue of his holding member some other office is unable for any reason to attend any meeting of the Board, he may be may nominate in writing another person from his organization to attend that meeting
+4. Where any member ceases to be a member for any reason before the expiration of his term of office, the appointing authority may appoint another person in his place and the persons so appointed shall hold office for the remainder of term of office of his predecessor. 5.-(l) The Board shall ordinarily meet for the transaction of its business the Board at the time and at the place determined by it, but shall meet four times in a year.
+(2) The Chairman, or in his absence the Vice-Chairman, may at any lime call a special meeting of the Board, and shall call a special meeting upon a written request by the majority of the members in office.
+(3) The Chairman, or in his absence the Vice-Chairman, shall preside at every meeting of the Board, in the absence of both Chairman and Vice-Chairman, the members present shall appoint one member amongst themselves to preside over
+(4) The Chairman, or in his absence the Vice-Chairman, may invite any person who is not a member to participate in the deliberations at any meeting of the Board, but any person so invited shall not be entitled to vote.
+6. The quorum at any meeting of the Board shall be half of the members in
+7. Questions proposed at a meeting of the Board, shall be decided by a the Board majority of the votes of the members present and voting and in the event of an equality of votes the person presiding shall have a second or casting vote in addition to his original or deliberative vote. 8.-(l) The Board shall cause to be recorded and kept minutes of all Meetings business conducted or transacted at its meetings, and the minutes of each meeting of the Board shall be read and confirmed, or amended and confirmed, at the next meeting of the Board and signed by the person presiding at the meeting.
+(2) Any minutes purporting to be signed by the person presiding at a meeting of the Board shall, in the absence of proof of error, be deemed to be a correct record of the meeting whose minutes they purport to be.
+9. The validity of any act or proceeding of the Board shall not be affected by any vacancy among its members or by any defect in the appointment of any of Tanzania Livestock Research Institute '2012
+10. All orders, directions, notices or documents made or issued on behalf directions of the Board shall be signed by:
+(a) the Chairman of the Board; or
+(b) the Director or any other officer of the National Livestock Research Institute authorized in writing in that behalf by the Director.
+11. The seal of the Institute shall not be affixed to any instruments except Institute in the presence of the Chairman or the Vice-Chairman or the Director or some other officer of the Institute and at least one member of the Board.
+Subject to the provisions of this schedule, the Board may regulate its Passed in the National Assem bly on the 12th April, 2012.
+D r . T h o m a s D. K a sh ilila h Clerk o f the National Assem bly
