@@ -1,0 +1,19 @@
+FIFTH SCHEDULE
+___________ (Made under section 16)) ___________
+THE UNITED REPUBLIC OF TANZANIA MINISTRY OF LABOUR AND EMPLOYMENT
+RETURN ON EMPLOYMENT OF NON-CITIZENS _____________ (Made Under Section 16) ____________
+NOTE: This form is to be duly completed in duplicate and submitted to - The Labour Commissioner, P. O. Box 1422, DAR ES SALAAM. between 30th June and 31st December of every year.
+Report for the period ending 30th June, 20............/31st December, 20..................... (Delete as appropriate)
+PART I- PARTICULARS OF THE EMPLOYER
+1. Name of Employer .................................................................................
+2. Physical address .............. Region ................ District ............ street .............
+Plot No ................ House No. .................................................................
+3. Nature of Industry..................................................................................
+4. Total number of employees.
+(a) Citizens...................Male ..............Female .....................
+(b) Non-Citizens........... Male .................. Female......................
+PART II- PARTICULARS OF NON-CITIZENS EMPLOYED BY COMPANY
+Ref. Employee's Sex Nationality Job Date of issue name Title of the permit
+PART III PARTICULARS OF NON-CITIZENS LEAVING THE COMPANY AND SUCCEEDING LOCAL EMPLOYEES
+Ref. Name Sex Nationality Job Date of Expiry Title Issue of date of the permit the permit
+Date ................... ...Signature and Official Stamp of Employer................. _________
