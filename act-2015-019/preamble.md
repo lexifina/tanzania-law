@@ -1,0 +1,3 @@
+An Act to make provisions to facilitate sound management of commodity exchanges, ensuring the proper management of the business of persons who accept consignment of commodities on commodity exchanges whether in physical or electronic format setting out conditions for the organization of commodity exchanges, management of transactions on commodity markets and other matters, thereby contributing to the appropriate price discovery for all listed commodity contracts and management of the markets for commodities and to the protection of buyers, sellers and investors in the transactions on commodity exchanges markets.
+ENACTED by Parliament of the united Republic of Tanzania.
+PART I PRELIMINARY PROVISIONS
