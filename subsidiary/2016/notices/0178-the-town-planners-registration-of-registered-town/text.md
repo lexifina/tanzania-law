@@ -1,0 +1,2053 @@
+# Text
+GN. No. 178 (contd.)
+GOVERNMENT NOTICE NO. 178 published on 13/05/2016
+THE TOWN PLANNERS (REGISTRATION) ACT
+(CAP. 426)
+___________
+NOTICE
+___________
+(Made under section 9(3))
+________
+THE TOWN PLANNERS (REGISTRATION OF REGISTERED TOWN PLANNERS)
+NOTICE, 2016
+1. This Notice may be cited as the Town Planners (Registration of
+Registered Town Planners) Notice, 2016 and shall be deemed to have
+come into operation on 28th January, 2016.
+2. The Town Planners remaining in the Register as on the Thirty
+First day of December, 2015 and whose names appears in the Schedule
+are declared to be registered in accordance with the Town Planners
+Registration Act.
+_______
+SCHEDULE
+________
+GN. No. 178 (contd.)
+REGISTERED TOWN PLANNERS AND TOWN PLANNING FIRMS
+REGISTRAT QUALIFICA TYPE/CATEG
+S/N
+NAME
+ADDRESS
+ION No.
+TION ORY/CLASS
+1. RAPHAEL
+P. O. Box 244 0001 – T0810 Master of Arts FULLY
+SILIKUHOWA
+Environment REGISTERED
+Morogoro
+NDUNGURU
+Planning TOWN
+PLANNER
+2. WILLY ZAKAYO P. O. Box 3118 0002 – T0810 Master of Arts FULLY
+KITONKA
+Urban Design REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+3. TUMSIFU JONAS P. O. Box 32867 0004 – T0810 PhD. Urban FULLY
+NNKYA
+Planning REGISTERED
+Dar es Salaam.
+TOWN
+PLANNER
+4. JOHN MOCHO
+P. O. Box 5974 0005 – T0810 Master of Arts FULLY
+LUBUVA
+Urban Design REGISTERED
+Dar es salaam.
+TOWN
+PLANNER
+5. VINCENT MARKO P. O. Box 24038 0006 – T0810 Masters
+FULLY
+SHAIDI
+Degree in REGISTERED
+Dar es salaam
+Town Planning TOWN
+PLANNER
+6. FRED SIMON LERISE P. O. Box 32669 0007 – T0810 PhD. Rural FULLY
+Land Use REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+7. ALDO MODESTUS P. O. Box 20671 0008 – T0810 PhD. (Spatial FULLY
+LUPALA
+Planning) REGISTERED
+Dar es Salaam
+Urban Land TOWN
+Development PLANNER
+8. EMERESIANA SHIJA P. O. Box 20671 0009 – T0810 MSc. in Urban FULLY
+KAYEGA
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+9. JOHN EDSON
+P. O. Box 966 0010 – T0810 B. A. Regional FULLY
+KASEGE
+and Urban REGISTERED
+Mbeya
+Planning TOWN
+PLANNER
+10. ALBINA BENEDICT P. O. Box 33038 0011 – T0810 Postgraduate FULLY
+BURRA
+Diploma in REGISTERED
+Dar es Salaam
+Geo-
+TOWN
+information PLANNER
+Systems
+GN. No. 178 (contd.)
+11. EDWARD DAVID P. O. Box 35039 0012 – T0810 M. A.
+FULLY
+KIHUNRWA
+Environmental REGISTERED
+Dar es Salaam.
+Planning for TOWN
+Developing PLANNER
+Countries
+12. GEOFREY GAMALIEL P.O. Box 90240 0013 – T0810 MSc. Urban FULLY
+KANZA
+Planning REGISTERED
+Dar es Salaam
+Studies
+TOWN
+PLANNER
+13. SOSPETER
+P. O. Box 20671 0014 – T0810 Postgraduate FULLY
+LUGEMALILA
+Diploma in REGISTERED
+Dar es Salaam
+KAJUNA
+Urban Surveys TOWN
+PLANNER
+14. LAMECK ANDREA P. O. Box 40838 0015 – T0810 Advanced FULLY
+MTUI
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural
+PLANNER
+Planning.
+15. LINUS FURAHA
+P. O. Box 13012. 0016 – T0810 MSc. in Urban FULLY
+SHAO
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+16. MARTIN XAVER P. O. Box 20671 0017 – T0810 Postgraduate FULLY
+MHAGAMA
+Diploma in REGISTERED
+Dar es Salaam
+Geographic TOWN
+Information PLANNER
+Systems
+17. ALPHONCE GABRIEL P. O. Box 35176 0018 – T0810 PhD. Spatial FULLY
+KYESSI
+Planning REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+18. OTHINIEL MFYOMI P. O. Box 1
+0019 – T0810 Postgraduate FULLY
+Diploma in REGISTERED
+Kiomboi Iramba
+Regional TOWN
+Planning PLANNER
+19. NIMROD S. MUSHI P. O. Box 2637 0020 – T0810 PhD. Regional FULLY
+Development REGISTERED
+Dar es Salaam
+Planning and TOWN
+Management PLANNER
+20. WILBARD JACKSON P. O. Box 65487 0021 – T0810 PhD. Land FULLY
+KOMBE
+Management REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+21. HEZRON SAMSON P. O. Box 6328 0022 – T0810 Postgraduate FULLY
+KAJANGE
+Diploma in REGISTERED
+Morogoro
+Regional TOWN
+Planning PLANNER
+GN. No. 178 (contd.)
+22. JOSEPH NSABI
+P. O. Box 71281 0023 – T0810 Master of FULLY
+MASHIGALA
+Science in REGISTERED
+Dar es Salaam
+Architecture TOWN
+PLANNER
+23. PAULINA
+P. O. Box 32669 0024 – T0810 Postgraduate FULLY
+ABEDNEGOFRED
+Diploma in REGISTERED
+Dar es Salaam
+LERISE
+GIS for Urban TOWN
+Application PLANNER
+24. JOHN ANDREW
+P. O. Box 12436 0025 – T0810 Postgraduate FULLY
+MHANDO
+Diploma in REGISTERED
+Dar es Salaam.
+Human
+TOWN
+Settlements PLANNER
+25. SARAH ALPHONCE P. O. Box 22683 0026 – T0810 Master of FULLY
+KYESSI
+science in REGISTERED
+Dar es Salaam
+Urban Surveys TOWN
+and Human PLANNER
+Settlements
+analysis
+26. CHARLES MWITONDI P. O. Box 11167 0027 – T0810 MSc. Urban FULLY
+MAFURU
+Housing
+REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+27. MARCO MATHIAS P.O.Box 35176 0028 – T0810 PhD.
+FULLY
+BURRA
+Geography/Pla REGISTERED
+Dar es Salaam
+nning
+TOWN
+PLANNER
+28. CONSOLATA
+P. O. Box 2509 0029 – T0810 Postgraduate FULLY
+AUGUSTINE
+Diploma in REGISTERED
+Dodoma.
+MALIYAKIBABA
+Land
+TOWN
+Management PLANNER
+and Informal
+Settlement
+Regularization
+29. DAYNESS SAMWEL P. O. Box 20671 0030 – T0810 Postgraduate FULLY
+MWASYOGE
+Diploma in REGISTERED
+Dar es Salaam
+GIS for Urban TOWN
+Application PLANNER
+30. ROBERT NDERINGO P. O. Box 2509 0031 – T0810 Advanced FULLY
+SHAYO
+Diploma in REGISTERED
+Dodoma.
+Human
+TOWN
+Settlements PLANNER
+31. JOHN GORDIAN L. P. O. Box 913 0032 – T0810 Postgraduate FULLY
+MTEMI
+Diploma in REGISTERED
+Dodoma
+Human
+TOWN
+Settlements PLANNER
+Analysis
+GN. No. 178 (contd.)
+32. ELIZABETH IDDI P. O. Box 615, 0033 – T0810 Postgraduate FULLY
+MGOMBA
+Diploma in REGISTERED
+KOROGWE-
+Geographical TOWN
+TANGA
+Information PLANNER
+System in
+Urban
+Application.
+33. SARAH A. MUSHI P.O.Box 2637 0034 – T0810 MSc. Land FULLY
+Management REGISTERED
+Dar es Salaam,
+and Land TOWN
+Tenure
+PLANNER
+34. DAMIANI ROGERS P. O. Box 33653 0035 – T0810 Advanced in FULLY
+MPETULA
+Diploma REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural Planning PLANNER
+35. MBOKA SIMON
+P. O. Box 75776 0036 – T0810 Advanced FULLY
+MBOKA
+Diploma in REGISTERED
+Dar es Salaam.
+Urban and TOWN
+Rural Planning PLANNER
+36. MR. DESIDERIUS P. O. Box 20671 0037 – T0810 Advanced FULLY
+LUGUZYO
+Diploma in REGISTERED
+Dar es Salaam.
+NARWANGO
+Urban and TOWN
+Rural Planning PLANNER
+37. SADA SEKIETE
+P. O. Box 11506 0038 – T0810 MSc. Urban FULLY
+ISAAC
+Management REGISTERED
+Dar es Salaam
+and
+TOWN
+Development PLANNER
+38. JOHN MODESTUS P. O. Box 20671 0039 – T0810 Ph. D. Built FULLY
+LUPALA
+Environment REGISTERED
+Dar es Salaam
+Analysis
+TOWN
+PLANNER
+39. HELENA SEBASTIAN P. O. Box 63303. 0040 – T0810 Postgraduate FULLY
+MTUTWA
+Diploma in REGISTERED
+Dar es Salaam.
+Urban surveys TOWN
+and Human PLANNER
+Settlements
+Analysis
+40. MENYIAICHI ALDO P. O. Box 20950 0041 – T0810 MSc. Land FULLY
+LUPALA
+Management REGISTERED
+Dar es Salaam
+and Land TOWN
+Tenure
+PLANNER
+41. LYDIA NGISARIAO P. O. Box 9132 0042 – T0810 Advanced FULLY
+BAGENDA
+Diploma in REGISTERED
+Dar es Salaam.
+Urban and TOWN
+Rural Planning PLANNER
+42. HELLENIC ALICE P. O. Box 9132 0043 – T0810 Postgraduate FULLY
+MPETULA
+Diploma in REGISTERED
+GN. No. 178 (contd.)
+Dar es Salaam
+Environmental TOWN
+Management PLANNER
+43. FRANK ALOYCE P. O. Box 599, 0044 – T0810 Advanced FULLY
+MINJA
+Diploma in REGISTERED
+Mbeya
+Urban and TOWN
+Rural Planning PLANNER
+44. AMULIKE
+P. O. Box 20671 0045 – T0810 MSc. Urban FULLY
+ANYAWILE
+Planning and REGISTERED
+MAHENGE
+Dar es salaam
+Management TOWN
+PLANNER
+45. SHAIRU SHOMARI P. O. Box 3083 0046 – T0810 Postgraduate FULLY
+CHUMA
+Diploma in REGISTERED
+Arusha
+Geo-
+TOWN
+Information PLANNER
+Science and
+Earth
+Observation
+for Urban
+Planning and
+Management
+46. CLEMENCE SALMON P. O. Box 13075 0047 – T0810 Professional FULLY
+MERO
+Master Degree REGISTERED
+Dar es Salaam
+in Geo-
+TOWN
+Information in PLANNER
+Urban
+Planning
+47. MICHAEL MOSES P. O. Box 5429 0048 – T0810 Master of FULLY
+OLE-MUNGAYA
+Science
+REGISTERED
+Dar es Salaam
+Degree in TOWN
+Urban Housing PLANNER
+Management
+48. ALI ABDALLAH
+P.O.BOX 384 0049 – T0810 MSc. Urban FULLY
+KIDAKWA
+Planning and REGISTERED
+Geita
+Management TOWN
+PLANNER
+49. JUSTIN SHITRAEL P. O. Box 14376 0050 – T0810 Postgraduate FULLY
+SHOO
+Diploma in REGISTERED
+Dar es Salaam
+Urban
+TOWN
+Management PLANNER
+and Planning
+50. MARTHA JOHN
+P. O. Box 10 0051 – T0810 MSc. in Urban FULLY
+MKUPASI
+Planning and REGISTERED
+Mkuranga
+Management TOWN
+PLANNER
+51. RACHEL ABISAI
+P. O. Box 9084 0052 – T0810 Advanced FULLY
+KADUMA
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+GN. No. 178 (contd.)
+Rural Planning PLANNER
+52. NICE WILLIAM
+P. O. Box 46343 0053 – T0810 MSc. in Urban FULLY
+MWAKALINGA
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+53. PHILIP HOMEL
+P. O. Box 9084 0054 – T0810 MSc. in Urban FULLY
+MWAKYUSA
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+54. MR. FREDERICK
+P. O. Box 20
+0055– T0810 Master of FULLY
+ANDREW NYOKA
+Science in REGISTERED
+Misungwi
+Urban
+TOWN
+Planning and PLANNER
+Management
+55. ANNA CHARLES P. O. Box 70638 0056 – T0810 Professional FULLY
+MACHA
+Master Degree REGISTERED
+Dar es Salaam
+in Geo-
+TOWN
+information PLANNER
+Systems for
+Urban
+Application
+56. GEORGE MSOVELA P. O. Box 9132 0057 – T0810 MSc. Urban FULLY
+PANGAWE
+Planning and REGISTERED
+Dar es salaam
+Management TOWN
+PLANNER
+57. AMOS ADOLF
+P. O. Box 1923 0058 – T0810 Advanced FULLY
+MWAKAPESA
+Diploma in REGISTERED
+Dodoma.
+Urban and TOWN
+Rural Planning PLANNER
+58. PAUL JOHN
+P. O. Box 20950 0059 – T0810 M. A. in Urban FULLY
+MBEMBELA
+Management REGISTERED
+Dar es Salaam
+and
+TOWN
+Development PLANNER
+59. EMMANUEL
+P. O. Box 35176 0060 – T0810 M. A. in Urban FULLY
+ELIFADHILI
+Management REGISTERED
+Dar es Salam
+MCHOME
+and
+TOWN
+Development PLANNER
+60. SAMSON ELISHA P. O. Box 35176 0061 – T0810 Master of FULLY
+KASALA
+Science in REGISTERED
+Dar es Salaam.
+Urban
+TOWN
+Planning and PLANNER
+Management
+61. EDWARD JOHN
+P. O. Box 913 0062 – T0810 BSc. Urban FULLY
+MPANDA
+and Regional REGISTERED
+Dodoma
+Planning TOWN
+PLANNER
+GN. No. 178 (contd.)
+62. THIERRY JOSEPH P. O. Box 32, 0063 – T0810 BSc. Urban FULLY
+KAYOMBO
+Lushoto
+and Regional REGISTERED
+Planning TOWN
+PLANNER
+63. CARTRES MAGONGO P. O. Box 284 0064 – T0810 BSc. Urban FULLY
+RWEGASIRA
+and Regional REGISTERED
+Bukoba
+Planning TOWN
+PLANNER
+64. JOSEPH FRANKLIN P. O. Box 457 0065 – T0810 BSc. Urban FULLY
+TOWO
+and Regional REGISTERED
+Dodoma
+Planning TOWN
+PLANNER
+65. DANFORD BENEDICT P. O. Box 577 0066 – T0810 BSc. Urban FULLY
+MASHIBA
+and Regional REGISTERED
+Njombe, Iringa
+Planning TOWN
+PLANNER
+66. SAID SWALEHE P. O. Box 46343, 0067 – T0810 Degree of FULLY
+Dar es Salaam.
+Bachelor of REGISTERED
+Science in TOWN
+Urban and PLANNER
+Regional
+Planning
+67. ZAHOR RASHID
+P. O. Box 2444 0068 – T0810 MSc. Urban FULLY
+MWALONGO
+Planning and REGISTERED
+Iringa
+Management TOWN
+PLANNER
+68. EMMANUEL
+P. O. Box 20950 0069 – T0810 Bachelor of FULLY
+RICHARD KIWIA
+Science in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Regional PLANNER
+Planning
+69. GOMBO SAMANDITO P. O. Box 5706 0070 – T0810 Master of Arts FULLY
+GOMBO
+degree in REGISTERED
+Dar es salaam.
+Urban
+TOWN
+Management PLANNER
+and
+Development
+70 GERLAD KASSIAN P. O. Box 68155 0071 –T0810 MSc. in Urban FULLY
+MANGO
+and Rural REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+71. EMMANUEL ENOCK P. O. Box 79528 0072 – T0810 Master of Arts FULLY
+MPOLI
+(Urban
+REGISTERED
+Dar es Salaam
+Design)
+TOWN
+PLANNER
+GN. No. 178 (contd.)
+72. LUSAJO JIMSON
+P. O. Box 1599 0073 - T0810 Master of Arts FULLY
+ASWILE MWAIBALE
+in Planning REGISTERED
+Dodoma
+TOWN
+PLANNER
+73. MBARUKU
+P. O. Box 1066 0074 – T0810 Master of Arts, FULLY
+ATHUMAN MLINGA
+(Planning) REGISTERED
+Mwanza
+TOWN
+PLANNER
+74. JULIERY KAGYA P. O. Box 59
+0075 – T0810 Degree of FULLY
+MTOBESYA
+Master of REGISTERED
+Bagamoyo
+Science in TOWN
+Urban Survey PLANNER
+and Human
+Settlement
+Analysis
+75. FRANCIS JOSEPH P. O. 1831
+0076 – T0810 MSc. Urban FULLY
+KILAWE
+Planning and REGISTERED
+Mwanza
+Management TOWN
+PLANNER
+76. MGANGA WEGORO P. O. Box 40651 0077 – T0810 Postgraduate FULLY
+MAJURA
+Diploma in REGISTERED
+Dar es Salaam
+Urban Survey TOWN
+and Human PLANNER
+Settlements
+Analysis
+77. BLASI APOLINARI P. O. Box 9344 0078 – T0810 B. Sc.
+FULLY
+SELEKI
+Planning REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+78. ANNA WILLIAM
+P. O. Box 10421 0079 – T0810 Master of FULLY
+MTANI
+Science in REGISTERED
+Dodoma
+Urban
+TOWN
+Planning, PLANNER
+Urban Surveys
+and Human
+Settlement
+Analysis
+79. NASHON KIPANDE P. O. Box 6351 0080 – T0810 Postgraduate FULLY
+SIKULE
+Diploma in REGISTERED
+Dar es Salaam
+Survey
+TOWN
+Integration for PLANNER
+Resources
+Development
+80. SAMSON KAKARA P. O. Box 50
+0081 – T0810 Postgraduate FULLY
+RUSAGIRA
+Diploma in REGISTERED
+Kahama
+Urban Surveys TOWN
+and Human PLANNER
+GN. No. 178 (contd.)
+Settlement
+Analysis
+81. MR. ELLY JACOB P. O. Box 1618 0082 – T0810 Postgraduate FULLY
+KIRENGA
+Diploma in REGISTERED
+Monduli
+Land Use TOWN
+Planning for PLANNER
+Natural
+Resources
+Management
+82. EMMANUEL SHIJA P. O. Box 1705 0083 – T0810 Advanced FULLY
+SONDA SALAGE
+Diploma in REGISTERED
+Mwanza
+Urban and TOWN
+Rural Planning PLANNER
+83. MUNISHI LEON
+P. O. Box 2705 0084 – T0810 Advanced FULLY
+DONALD
+Diploma in REGISTERED
+Arusha
+Urban and TOWN
+Rural Planning PLANNER
+84. LUCY BONNY KIMOI P. O. Box 30112, 0085 – T0810 Postgraduate FULLY
+Kibaha.
+Diploma in REGISTERED
+Land
+TOWN
+Information PLANNER
+System
+85. ASTERIA LEON
+P. O. Box 7181 0086 – T0810 Master in FULLY
+MLAMBO
+Urban
+REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+86 FRANCIS
+P. O. Box 116 0088 – T0810 Advanced FULLY
+MUTASINGWA
+Diploma in REGISTERED
+Chato
+Urban and TOWN
+Rural Planning PLANNER
+87. DONATHA S.K.
+P. O. Box 20671 0089 - T0810 Advanced FULLY
+MUSHI
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural Planning PLANNER
+88. MAGDALENA
+P. O. Box 3013 0090 – T0810 Postgraduate FULLY
+FRANCIS NGUSA
+Diploma in REGISTERED
+Arusha
+Urban Surveys TOWN
+and Human PLANNER
+Settlement
+Analysis
+89. VENANCE ALOYCE P. O. Box 20
+0091 – T0810 Postgraduate FULLY
+NGELEUYA
+Diploma in REGISTERED
+Karagwe
+Entrepreneursh TOWN
+ip and
+PLANNER
+Enterprise
+Development
+GN. No. 178 (contd.)
+90. BERTHA GLADYS P. O.Box 20671 0092 – T0810 Master of FULLY
+MLONDA
+Science in REGISTERED
+Dar es Salaam
+Urban
+TOWN
+Management PLANNER
+and
+Development
+91. ELIAKIMU SAMWELI P. O. B0x 11502 0093 – T0810 Postgraduate FULLY
+NTABO
+Diploma, REGISTERED
+Mwanza
+Environmental TOWN
+Planning PLANNER
+92. PHOTIDAS ALFONCE P. O. Box 46343 0094 – T0810 MSc. Urban FULLY
+KAGIMBO
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+93. VERDIANA
+P. O. Bx 20671 0095 – T0810 Masters of FULLY
+AUGUSTINE
+Science in REGISTERED
+Dar es Salaam
+MASHINGIA
+Urban
+TOWN
+Planning and PLANNER
+Policy
+Development.
+94. HAMIS HASSAN
+P. O. Box 383, 0096 – T0810 MSc. urban FULLY
+MASAKA Babati-Manyara
+Planning and REGISTERED
+Management TOWN
+PLANNER
+95. RAMADHANI HAJI P. O. Box 1810 0097 – T0810 Advanced FULLY
+SALUM
+Diploma in REGISTERED
+Dodoma
+Urban and TOWN
+Rural Planning PLANNER
+96. STANSALUS
+P. O. Box 1453 0098 –T0810 Professional FULLY
+MBONEA MSUYA
+Master degree REGISTERED
+Dodoma
+in Geo-
+TOWN
+information PLANNER
+System for
+Rural
+Application
+97. KAFTI ESHIWAKWE P. O. Box 2330 0099 – T0810 Advanced FULLY
+TARIMU
+Diploma in REGISTERED
+Arusha
+Urban and TOWN
+Rural Planning PLANNER
+98. FELIX HENRY
+P. O. Box 122 0100 – T0810 Postgraduate FULLY
+KIMARYO
+Diploma in REGISTERED
+Kahama
+Urban
+TOWN
+Planning and PLANNER
+Management
+99. EPHRAIM DANNY P. O. Box 149 0101 – T0810 Postgraduate FULLY
+MKUMBO
+Diploma in REGISTERED
+Mbeya
+Environment TOWN
+GN. No. 178 (contd.)
+Management PLANNER
+and Planning
+100. IMMACULATA
+P. O. Box 20671 0102 – T0810 MSc. Urban FULLY
+MWANJA SENJE
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+101. ALEX LUFINGO
+P. O. Box 318 0103 – T0810 Master of FULLY
+POTEKA
+Science in REGISTERED
+Moshi
+Urban
+TOWN
+Management PLANNER
+and
+Development
+102. ANNA EUSEBIO
+P. O. Box 20671 0104 – T0810 Master of Arts FULLY
+MISIGARO
+in Urban REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+103. MICHAEL BARNABAS P. O. Box 20671 0105 – T0810 Masters
+FULLY
+MWALUKASA
+Degree in REGISTERED
+Dar es Salaam
+Planning and TOWN
+Management PLANNER
+104. GORDARD ASANGA P. O. Box 174, 0106 – T0810 MSc. in Urban FULLY
+MWAKALUKWA Tabora.
+Planning and REGISTERED
+Management TOWN
+PLANNER
+105. ELISANTE WILLBALD P. O. Box 2164 0107 – T0810 Postgraduate FULLY
+KIRITA
+Diploma REGISTERED
+Dar es Salaam
+Urban
+TOWN
+Planning and PLANNER
+Management
+106. GASTON
+P. O. Box 31902 0108 – T0810 Professional FULLY
+GALAULAGA SANGA
+Master in Geo- REGISTERED
+Dar es Salaam
+graphic
+TOWN
+Information PLANNER
+System in
+Environmental
+Analysis
+107 JULIANA NAIMA P. O. Box 31902, 0109 – T0810 M. A.
+FULLY
+PHILIP LETARA
+Dar es Salaam
+Development REGISTERED
+Studies
+TOWN
+PLANNER
+108. ALLY HASSAN
+P. O. Box 35176 0110 – T0810 Doctor of FULLY
+NAMANGAYA
+Philosophy REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+109. EVA STANSLAUS P. O. Box 7681 0111 – T0810 BSc. Urban FULLY
+NINJA
+and Rural REGISTERED
+Dar es Salaam
+Planning TOWN
+GN. No. 178 (contd.)
+PLANNER
+110. MADIAN MZAMILU P. O. Box 59
+0112 – T0810 Master of FULLY
+KASOMA
+Integrated REGISTERED
+Bagamoyo
+Environment TOWN
+Management PLANNER
+111 WILFRED MAJINGO P. O. Box 384 0113 –T0810 B. Sc. in
+FULLY
+MKONO
+Urban and REGISTERED
+Geita
+Rural Planning TOWN
+PLANNER
+112 GOODLUCK
+P. O. Box 32108 0114 – T0810 MSc. Urban FULLY
+ANDERSON MGHONU
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+113. GEORGE MICHAEL P. O. Box 32858 0119 – T0810 M. A Planning FULLY
+MBYOPYO
+REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+114. THOMAS MARK P. O. Box 67
+0120 -T0810 Advanced FULLY
+TUKAY
+Diploma in REGISTERED
+Sumbawanga
+Urban and TOWN
+Rural Planning PLANNER
+115. JOEL MSAMI
+P. O. Box 35176 0121 – T0810 MSc. in Urban FULLY
+and Regional REGISTERED
+Dar es Salaam
+Development TOWN
+Planning and PLANNER
+Management
+116. DISMAS WILBARD P. O. Box 20671, 0122 – T0810 Postgraduate FULLY
+MINJA
+Dar es salaam
+Diploma in REGISTERED
+Urban
+TOWN
+Planning and PLANNER
+Management
+117. ELIZABETH JOSEPH P. O. Box 30080 0123 – T0810 Postgraduate FULLY
+NDAGAMSU
+Diploma in REGISTERED
+Kibaha
+Urban Surveys TOWN
+PLANNER
+118. JUMA MOHAMED P. O. Box 35131 0124 – T0810 Ph.D
+FULLY
+Engineering REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+119. ANSELM PAULINS P. O. Box 92 0125 – T0810 Advanced FULLY
+MASUMBUKO
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural Planning PLANNER
+120. JAYSON MWOMBEKI P. O. Box 76550 0126 – T0810 MSc. in Urban FULLY
+KAMI
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+GN. No. 178 (contd.)
+121. DEUSDEDITY
+P. O. Box 77939 0127 – T0810 MSc. Resource FULLY
+MATHIAS KALENZI
+Assessment for REGISTERED
+Dar es Salaam
+Development TOWN
+Planning. PLANNER
+122. MELCHIORY
+P. O. Box 20671 0128 – T0810 BSc. Urban & FULLY
+RUTAYUGA
+Rural Panning REGISTERED
+Dar es Salaam
+MUKANDALA
+TOWN
+PLANNER
+123. PETER MUSA
+P. O. Box 345 0129 – T0810 MSc. in Urban FULLY
+GAMBALOYA
+Planning and REGISTERED
+Tabora
+Management TOWN
+PLANNER
+124. EMMANUEL
+P. O. Box 23410 0130 - T0810 BSc. Urban FULLY
+RICHARD LYIMO
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+125. SUZANA GODWIN P. O. Box 20671 0131 – T0810 M. A Rural FULLY
+MWANGOKA
+Development REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+126. KIMNAA ALEX
+P. O. Box 20671 0132 – T0810 Master in FULLY
+MASAWE
+Engineering REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+127. DONALD JAMES P. O. Box 545 0133 – T0810 MSc. in Urban FULLY
+MSHANI
+Planning and REGISTERED
+Mbozi
+Management TOWN
+PLANNER
+128. FORTUNATA
+P. O. Box 352 0134 – T0810 Advanced FULLY
+RAPHAEL MALYA
+Diploma in REGISTERED
+Nyangw`ale-Geita
+Urban and TOWN
+Rural Planning PLANNER
+129. DENIS E ENERST P. O. Box 528 0135 – T0810 BSc. Urban FULLY
+KITALI
+and Regional REGISTERED
+Mtwara
+Planning TOWN
+PLANNER
+130. DISMAS IRENEUS P. O. Box 190 0136 – T0810 BSc. Urban FULLY
+NGOLE
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+131. MAURUS BERNARD P. O. Box 571 0137 – T0810 Professional FULLY
+HYERA
+Master Degree REGISTERED
+Mbinga
+in Urban TOWN
+Planning and PLANNER
+Management
+132. ELLY JESSE MLAKI P. O. Box96289 0138 – T0810 M.Sc. Urban FULLY
+GN. No. 178 (contd.)
+Dar es salaam
+Planning and REGISTERED
+Management TOWN
+PLANNER
+133. EVARIST EWALD P. O. Box 30370 0139 – T0810 Advanced FULLY
+SIRIWA
+Diploma in REGISTERED
+Kibaha
+Urban and TOWN
+Rural Planning PLANNER
+134. SALOME PETER P. O. Box 3000 0140 – T 0810 Advanced FULLY
+LYIMO
+Diploma in REGISTERED
+Morogoro
+Urban and TOWN
+Rural Planning PLANNER
+135. NZORI ABDALLAH P. O. Box 20671 0141 – T0810 M.Sc. Urban FULLY
+KINERO
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+136. JOSEPH
+P. O. Box 178 0142 – T0810 BSc. Urban FULLY
+CONSTANTINE
+and Regional REGISTERED
+Tanga
+MAFURU
+Planning TOWN
+PLANNER
+137. CLEMENCE BERNAD P. O. Box 11617 0143 – T0810 Advanced FULLY
+MKUSA
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural Planning PLANNER
+138. JACKSON REUBEN P. O. Box 317 0144– T0810 M. A. in
+FULLY
+MWANGOGE
+Geography and REGISTERED
+Mbeya
+Environmental TOWN
+Management PLANNER
+139. CLEMENCE
+P. O. Box 51
+0145 – T0810 BSc. Urban FULLY
+ANDAGILE
+and Regional REGISTERED
+Ruangwa Lindi
+MWAKASENDO
+Planning TOWN
+PLANNER
+140. MONICA MISANYA P. O. Box 5095 0146 - T0810 Post Graduate FULLY
+KINALA
+in Survey REGISTERED
+Tanga
+Integration for TOWN
+Resources PLANNER
+Development
+141. ABDILAH IBRAHIM P. O. Box 5095 0147 – T0810 BSc. Urban FULLY
+KILAGWA
+and Regional REGISTERED
+Tanga
+Planning TOWN
+PLANNER
+142. ALFRED A.
+P. O. Box 20950 0148 – T0810 M.Sc. in Real FULLY
+MBYOPYO
+Estate
+REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+143. MAZENGO FORD P. O. Box 43
+0149 – T0810 M.Sc. in Geo- FULLY
+SABAYA
+Information REGISTERED
+Kibondo
+Science in TOWN
+GN. No. 178 (contd.)
+Urban
+PLANNER
+Planning and
+Management
+144. VALERIAN NORBERT P. O. Box 119 0150 – T0810 Advance FULLY
+KISHINGA
+Diploma in REGISTERED
+Mwanza
+Urban and TOWN
+Rural Planning PLANNER
+145. MARIAM MOHAMED P. O. Box 3013 0151 –T0810 Advance FULLY
+KIMOLO
+Diploma in REGISTERED
+Arusha
+Urban and TOWN
+Rural Planning PLANNER
+146. JOSEPH GUMUSU P. O. Box 2
+0152 – T0810 Advance FULLY
+WASHA
+Diploma in REGISTERED
+Bukombe
+Urban and TOWN
+Rural Planning PLANNER
+147. SEPARATUS
+P. O. Box 318 0153 – T0810 Advance FULLY
+SILIDION
+Diploma in REGISTERED
+Moshi
+REUTEGANYA
+Urban and TOWN
+Rural Planning PLANNER
+148. A KYULU MURO
+P. O. Box 1913 0154 – T0810 Master of Arts FULLY
+in Urban REGISTERED
+Dodoma
+Management TOWN
+PLANNER
+149. MIANI MSILU
+P. O. Box 174 0155 – T0810 M.Sc. in
+FULLY
+Urban
+REGISTERED
+Tabora
+Governance TOWN
+and Spatial PLANNER
+Information
+Management
+150. MARY KOMBA
+P. O. Box 31902, 0156 – T0810 M.Sc. in Geo- FULLY
+Dar es Salaam
+Information REGISTERED
+Science
+TOWN
+System (G.I.S) PLANNER
+151. RWEGASIRA
+P. O. Box 46343 0157 – T0810 Postgraduate FULLY
+DAMMASON
+Diploma in REGISTERED
+Dar es Salaam
+KAYEMAMU
+Housing
+TOWN
+PLANNER
+152. ENRY KATONGE
+P. O. Box 30153 0158 - T0810 Bachelor of FULLY
+Science in REGISTERED
+Kibaha
+Urban and TOWN
+Regional PLANNER
+Planning
+153. RASHID MOHAMED P. O. Box 92 0159 – T0810 BSc. Urban FULLY
+MTIMA
+and Rural REGISTERED
+Mtwara
+Planning TOWN
+PLANNER
+154. GODRICH IBRAHIM P. O. Box 703 0160 – T0810 M.Sc. in Geo- FULLY
+GN. No. 178 (contd.)
+MNYONE
+Dodoma
+Information REGISTERED
+Science and TOWN
+Earth
+PLANNER
+Observation,
+Rural
+Development
+and Resource
+Management
+155. FRANCIS NAFTAL P. O. Box 138 0161 – T0810 Master of FULLY
+MBOWE
+Science in REGISTERED
+Dodoma
+Urban and TOWN
+Regional PLANNER
+Development
+Planning and
+Management
+156. ETER NDONGO
+P. O. Box 139 0162 – T0810 Advance FULLY
+Diploma in REGISTERED
+Geita
+Urban and TOWN
+Rural Planning PLANNER
+157. STEVEN LUTTA
+P. O. Box 166, 0163 – T0810 M.Sc. Urban FULLY
+BALLONZI
+Morogoro.
+Planning and REGISTERED
+Management TOWN
+PLANNER
+158. JOSEPH MPUYA
+P. O. Box 28
+0164 – T0810 Advance FULLY
+SENGELEMA
+Diploma in REGISTERED
+Shinyanga
+Urban and TOWN
+Rural Planning PLANNER
+159. MUDRIKAT HAMIDU P. O. Box 133 0165 – T0810 Master in FULLY
+RUKAZIBWA
+Urban
+REGISTERED
+Kilosa
+Planning and TOWN
+Management PLANNER
+160. ELINE RAMADHANI P. O. Box 31902 0166 – T0810 Advance FULLY
+MMBAGA
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural Planning PLANNER
+161. NA MUGEZI
+P. O. Box 4487 0167 – T0810 Advance FULLY
+Diploma in REGISTERED
+Dar es Salaam
+Urban and TOWN
+Rural Planning PLANNER
+162. JOHNSON GEORGE P. O. Box 30112, 0168 – T0810 BSc. Urban FULLY
+NYAMITI
+Kibaha.
+and Regional REGISTERED
+Planning TOWN
+PLANNER
+163. SALEH SEKISASA P. O. Box 20 0169 – T0810 Advance FULLY
+KAMNGE
+Diploma in REGISTERED
+Muheza
+Urban and TOWN
+Rural Planning PLANNER
+GN. No. 178 (contd.)
+164. PETER VINUNGWA P. O. Box 35176 0170 – T0810 Ph.D. in
+FULLY
+MANDWA
+Geography REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+165. ANTON KALINGA P. O. Box 79746 0171 – T0810 Degree of FULLY
+Master of REGISTERED
+Dar es Salaam
+Public
+TOWN
+Administration PLANNER
+166. RICHARD SIMON P. O. Box 284 0172 – T0810 Postgraduate FULLY
+NDAGAMSU
+Diploma in REGISTERED
+Bukoba
+Human
+TOWN
+Settlement PLANNER
+Analysis
+167. YON CHO
+33F PRIME
+0174 – T0810 PhD. Park, FULLY
+Recreation and REGISTERED
+CENTRE
+Tourism
+TOWN
+GUUIDONG
+Resources PLANNER
+GWANGJINGU
+SEOUL KOREA
+168. JARED JAPHET
+P. O. Box 166 0175 –T0810 MSc. Urban FULLY
+NZILORERA
+Planning and REGISTERED
+Morogoro
+Management TOWN
+(UPM)
+PLANNER
+169. ANGELUS JOHN
+P. O. Box 714, 0176 – T0810 Postgraduate FULLY
+CAMARA
+Singida
+Diploma in REGISTERED
+Urban Surveys TOWN
+and Human PLANNER
+Settlements
+Analysis
+170. KASSIAN BENARLD P. O. Box 384 0177 – T0810 Postgraduate FULLY
+OSWALD
+Diploma in REGISTERED
+Geita
+Environmental TOWN
+Planning and PLANNER
+Management
+171. LONGINO KAMALA P. O. Box 25 0178 – T0810 MSc. in Urban FULLY
+KAZIMOTO
+Planning and REGISTERED
+Tabora
+Management TOWN
+PLANNER
+172. O HAMISI CHEPA
+P. O. Box 1070 0179 – T0810 Advance FULLY
+Diploma in REGISTERED
+Lindi
+Urban and TOWN
+Rural Planning PLANNER
+173. SILAJI HUSSEIN P. O. Box 812 0180 – T0810 Advance FULLY
+RWEZAURA
+Diploma in REGISTERED
+Bukoba
+Urban and TOWN
+Rural Planning PLANNER
+GN. No. 178 (contd.)
+174. ALOYCE PETER P. O. Box 3003 0181 – T0810 Postgraduate FULLY
+MILINGI
+Diploma in REGISTERED
+Moshi
+Land
+TOWN
+information PLANNER
+System
+175. TOMMY VITUS
+P. O. Box 32085 0182 – T0810 Master degree FULLY
+KAPINGA
+of Engineering REGISTERED
+Dar es Salaam
+in Urban TOWN
+Planning and PLANNER
+Design
+176. KAZI MADUHU P. O. Box 11433 0184 – T1011 BSc. Urban FULLY
+and Regional REGISTERED
+Mwanza
+Planning TOWN
+PLANNER
+177. MISANA ABEDNEGO P. O. Box 1333 0185 – T1011 BSc. Urban FULLY
+BIHEMO
+and Regional REGISTERED
+Mwanza
+Planning TOWN
+PLANNER
+178. ARISTIDES
+P. O. Box 714 0186 – T1011 BSc. Urban FULLY
+MULOKOZI
+and Regional REGISTERED
+Singida
+HONORATI
+Planning TOWN
+PLANNER
+179. HAMIS YABIDI
+P. O. Box 714 0187 – T1011 BSc. Urban FULLY
+SOMBWE
+and Regional REGISTERED
+Singida
+Planning TOWN
+PLANNER
+180. KENEDY CHIGURU P. O. Box 753 0188 –T1011 BSc. Urban FULLY
+and Regional REGISTERED
+Mwanza
+Planning TOWN
+PLANNER
+181. MATHIAS MOSES P. O. Box 526 0189 – T1011 Advance FULLY
+MKUMBO
+Diploma in REGISTERED
+Bariadi
+Urban and TOWN
+Rural Planning PLANNER
+182. BERNARD
+P. O. Box 223 0190 – T1011 BSc. Urban FULLY
+WILLBROAD
+and Regional REGISTERED
+Mafinga
+KAJEMBE
+Planning TOWN
+PLANNER
+183. PETER J.N. BITWALE P. O. Box 1705 0191 – T1011 Postgraduate FULLY
+Diploma in REGISTERED
+Morogoro
+Housing
+TOWN
+Planning and PLANNER
+Building
+184. SEIF HUSSEIN
+P. O. Box 299 0192 – T1011 Master in FULLY
+RAMADHANI
+Urban
+REGISTERED
+Bukoba
+Planning and TOWN
+Management PLANNER
+GN. No. 178 (contd.)
+185. VERONICA
+P. O.Box 79127 0193 – T 1011 Master Degree FULLY
+NG’WAMBA IGOKO
+in Geo-
+REGISTERED
+Dar es Salaam
+Information TOWN
+Science and PLANNER
+Earth
+Observation
+186. DEOGRATIAS
+P. O. Box 1333 0194 – T1011 Master in Geo- FULLY
+KALIMENZE
+Information REGISTERED
+Mwanza
+Science and TOWN
+Earth
+PLANNER
+Observation
+187. SMITON BAKEBULA P. O.Box 21838 0195 – T1011 BSc. Urban FULLY
+IJUKAINE
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+188. OSCAR MPAMBALA P. O. Box 44 0196 – T1011 MSc. Urban FULLY
+YOHANA
+Planning and REGISTERED
+Kigoma
+Management TOWN
+PLANNER
+189. CHARLES ROBERT P. O. Box 63
+0197 – T1011 BSc. Urban FULLY
+MWAKAMBAYA
+and Regional REGISTERED
+Nzega
+Planning TOWN
+PLANNER
+190. TUMPALE
+P. O. Box 35176 0198 – T1011 Master of FULLY
+SAKIJENGE
+Business REGISTERED
+Dar es Salaam
+MWANKENJA
+Administration TOWN
+PLANNER
+191. HAMIDU SALUM P. O. Box 160 0200 – T1011 BSc. Land FULLY
+MTEMEKELA
+Management REGISTERED
+Kilwa Masoko
+and Valuation TOWN
+PLANNER
+192. FRED DAUD MGENI P. O. Box 2324 0201– T1011 BSc. Urban FULLY
+and Regional REGISTERED
+Kilolo
+Planning TOWN
+PLANNER
+193. JEROME NCHIMBI P. O. Box 76550 0202 – T1011 MSc. Urban FULLY
+Planning and REGISTERED
+Dar es salaam
+Management TOWN
+PLANNER
+194. ALEX A. NG’ASI
+P. O. Box 19911 0205 – T1011 Master of City FULLY
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+195. ZAINABU S. MJEMA P. O. Box 22195 0206 – T1011 Master in Geo- FULLY
+Information REGISTERED
+Dar es Salaam
+Science and TOWN
+Earth
+PLANNER
+GN. No. 178 (contd.)
+Observation
+196. JOSSY SIRIL MATERU P. O. Box 60424 0207 – T1011 PhD. Town FULLY
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+197. LOUIS WINFRED P. O. Box 12 0208 – T1011 MSc. Urban FULLY
+NDUMBARO
+Planning and REGISTERED
+Mpwapwa
+Management TOWN
+PLANNER
+198. WILLIAM Z.
+P. O. Box 1070 0209 – T1011 Postgraduate FULLY
+MAHIMBO
+Diploma in REGISTERED
+Lindi
+Urban and TOWN
+Rural Planning PLANNER
+199. JULIUS MASHAURI P. O. Box 200 0210 – T0313 MSc. in Urban FULLY
+MAIRA
+Management REGISTERED
+Magu - Mwanza
+TOWN
+PLANNER
+200. NESTORY M. JONAS P. O. Box 176 0211 – T0313 BSc. Urban FULLY
+and Regional REGISTERED
+Serengeti
+Planning TOWN
+PLANNER
+201. NAOMI A. SAWE P. O. Box 1923 0212 – T0313 MSc. in Land FULLY
+Management REGISTERED
+Dodoma
+and Land TOWN
+Tenure.
+PLANNER
+202. JAILOS KILUMANGA P. O. Box 125 0213 – T0313 Postgraduate FULLY
+PILLA
+Diploma in REGISTERED
+Kigoma
+Environmental TOWN
+Planning and PLANNER
+Management
+203. NAILI SIMON
+P. O. Box 565 0214 – T0313 MSc. Degree FULLY
+MBYOPYO
+of Arts in REGISTERED
+Iringa
+Information TOWN
+Studies
+PLANNER
+204. GODBLESS ELIUSHU P. O. Box 3070 0215 –T0313 MSc. Urban FULLY
+KIMARO
+Planning and REGISTERED
+Moshi
+Management TOWN
+PLANNER
+205. ALFRED COSMAS P. O. Box 544 0216 – T0313 MSc. in Urban FULLY
+LUANDA
+Housing
+REGISTERED
+Mtwara
+Management TOWN
+PLANNER
+206. HAMZA KONDO P. O. Box 10
+0217 – T0313 MSc. Degree FULLY
+SIKAMKONO
+in Urban REGISTERED
+Mkuranga
+Planning and TOWN
+Management PLANNER
+GN. No. 178 (contd.)
+207. CHARLES ASANTIEL P. O. Box 1528 0218 – T0313 MSc.
+FULLY
+MARIKI
+Development REGISTERED
+Dodoma
+Economics and TOWN
+International PLANNER
+208. JOHN GASTHO
+P. O. Box 170 0219 – T0313 MSc. Urban FULLY
+NKONKO
+Planning and REGISTERED
+Maswa
+Management TOWN
+PLANNER
+MSc. Degree FULLY
+P. O. Box 1923 0220 – T0313 in Local
+REGISTERED
+PAUL MAKOTA
+209.
+KIHWELE
+Dodoma.
+Government TOWN
+management PLANNER
+BSc. Urban FULLY
+P. O. Box 35176 0221 – T0313 and Regional REGISTERED
+FREDRICK BWIRE
+210.
+MAGINA
+Dar es salaam
+Planning TOWN
+PLANNER
+BSc. Urban FULLY
+MAGRETH
+0222 – T0713 and Regional REGISTERED
+211.
+P. O. BOX 162
+ELIBARIKI
+Planning TOWN
+Iringa
+PLANNER
+Msc. Degree in FULLY
+P. O. Box 2131
+GWAMAKA N.
+0223 – T0713 Urban
+REGISTERED
+212.
+MWAIHOJO
+Mbeya
+Planning TOWN
+PLANNER
+213. JAMES EBEHARD P. O. Box 1940 0228 – T1113 Master of FULLY
+MAPUNDA
+Business REGISTERED
+Dodoma
+Administration TOWN
+PLANNER
+214. GEORGE JOSEPH P. O. Box 10612 0229 – T1113 MSc. Urban FULLY
+MIRINGAY
+Planning and REGISTERED
+Dar es Salaam
+Management TOWN
+PLANNER
+215. NESTORY ERASTO P. O. Box 35905 0231 – T1113 MSc. in
+FULLY
+YAMUNGU
+Geography and REGISTERED
+Dar es Salaam
+Environmental TOWN
+Management PLANNER
+216 LEONARD
+P. O. Box 36033 0235 – T1113 MSc.
+FULLY
+RUTABASIBWA
+International REGISTERED
+Dar es Salaam
+MPANJU
+Transport & TOWN
+Logistics PLANNER
+217. JOSEPH PAUL
+P. O. Box 9132 0236 – T1113 PhD Student FULLY
+LAYSON
+Urban
+REGISTERED
+Dar es Salaam
+Planning and TOWN
+Design
+PLANNER
+218. ISAREL
+P. O. Box 3612 0237 – T1113 PhD.
+FULLY
+BASHURWILE
+Demography REGISTERED
+Dodoma
+GN. No. 178 (contd.)
+KATEGA
+TOWN
+PLANNER
+219. NICKSON ELIUD P. O. Box 9132 0238 – T1113 BSc. Urban FULLY
+MJEMA
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+220. RENNY JOSEPH
+P. O. Box 35720 0239 –T1113 MSc.
+FULLY
+CHIWA
+Integrated REGISTERED
+Watershed TOWN
+Management PLANNER
+221. WICKRIPH BENDA P. O. Box 162 0240 – T1113 BSc. Urban FULLY
+and Regional REGISTERED
+Iringa
+Planning TOWN
+PLANNER
+222. DANIEL DALALI P. O. Box 9201 0241 – T1113 BSc. Urban FULLY
+NGUNO
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+223. FERDINANDSEN IB COWI
+0242 – T1113 Architect, FULLY
+Master of Arts REGISTERED
+PARALLELVEJ
+in
+TOWN
+2 DK – 2800
+Architecture. PLANNER
+KONGENS
+LYNGBY
+224. OSENA JOSEPH JOHN P. O. Box 31078 0243 –T0314 BSc. Urban FULLY
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+225. EMMA GABRIESL P. O. Box 59
+0244 – T0314 BSc. Urban FULLY
+MIHAYO
+and Regional REGISTERED
+Bagamoyo
+Planning TOWN
+PLANNER
+226. ABRAHAM
+P. O. Box 216 0245 – T0314 BSc. Urban FULLY
+MWANDAMILA
+and Regional REGISTERED
+Katavi
+KASWA
+Planning TOWN
+PLANNER
+227. DAWAH LULU
+P. O. Box 76998 0246 – T0314 PhD. in
+FULLY
+MAGEMBE MUSHI
+infrastructure REGISTERED
+Dar es Salaam
+TOWN
+PLANNER
+228. GRACE BENO MBENA P. O. Box 9084 0247 – T0314 BSc. Urban FULLY
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+GN. No. 178 (contd.)
+229. ADELINA
+P. O. Box 9132 0248 – T0314 BSc. Urban FULLY
+NICHOLAUS NGOWI
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+230. NEEMA ABIEL
+P. O. Box 9132 0249 – T0314 BSc. Urban FULLY
+MUNUO
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+231. NYEMBO STEVEN P. O. Box 9132 0250 – T0314 BSc. Urban FULLY
+MSENYI
+and Regional REGISTERED
+Dar es Salaam
+Planning TOWN
+PLANNER
+232. DIOSCORY K.
+P. O. Box 9132 0251 – T0314 BSc. Urban FULLY
+URASSA
+and Regional REGISTERED
+Dar es Salaam.
+Planning TOWN
+PLANNER
+MAIGA RUGEMBE P.O. Box 11970 0256-T0614
+FULLY
+233.
+BSc. Urban REGISTERED
+Dar es salaam
+and Regional TOWN
+Planning PLANNER
+P. O. Box 650, 0257-T0614
+FULLY
+234. LUCAS ARON
+MSc. Urban REGISTERED
+Morogoro
+MWAISAKA
+Planning and
+TOWN
+management
+PLANNER
+235 GWAMAKA
+P. O Box 234 0262 – T0115
+FULLY
+MWAISWELO
+BSc. Urban REGISTERED
+LINDI
+and Regional
+TOWN
+Planning
+PLANNER
+236 LEONARD STEPHAN P. O Box 45548 0263 – T0115
+FULLY
+MHONGOLE
+BSc. Urban REGISTERED
+Dar es Salaam
+and Regional
+TOWN
+Planning
+PLANNER
+AWADH ABDUL
+P. O. Box 9544, 0264-T0715
+FULLY
+237. MAJID
+Bsc.Urban and REGISTERED
+Dar es Salaam
+Regional
+TOWN
+Planning
+PLANNER
+TIMOTH TITUS
+P. O. Box 35835 0265-T0715
+FULLY
+238. NDIBOHOYE
+Bsc.Urban and REGISTERED
+Dar es Salaam
+Regional
+TOWN
+Planing
+PLANNER
+DENIS MSATIMA P. O. Box 10, 0266-T0715
+FULLY
+239. MYOVELA
+Bsc.Urban and REGISTERED
+Mkuranga
+Regional
+TOWN
+Planning
+PLANNER
+GN. No. 178 (contd.)
+HOSIANA BERNARD P. O. Box 1333, 0267-T0715
+FULLY
+240. KUSIGA
+Msc in
+REGISTERED
+Mwanza
+Business
+TOWN
+Maanagement
+PLANNER
+241. RINGO EDEN N. L. E. P. O. Box 7747, 0268-T0715
+FULLY
+Diploma in REGISTERED
+Moshi
+Urban and
+TOWN
+Rural Planning
+PLANNER
+242. ENOCK EDGAR
+P. O. Box 1010, 0269-T0715
+FULLY
+MLIGO
+REGISTERED
+Njombe
+Bsc.Urban and
+Rural Planning TOWN
+PLANNER
+243. SAID ENOCK
+P. O. Box 754, 0270-T0715
+FULLY
+KYANDO
+Bsc.Urban and REGISTERED
+Mbeya
+Regional
+TOWN
+Planning
+PLANNER
+244. LAMECK MAJURA P. O. Box 97, 0271-T0715
+FULLY
+MASEMBEJO
+Diploma in REGISTERED
+Bunda
+Urban and
+TOWN
+Rural Planning
+PLANNER
+245. MARTIN LUTHER P. O. Box 22596, 0273-T0715
+FULLY
+KITILLA
+REGISTERED
+Dar es Salaam
+Masters of
+Arts Planning TOWN
+PLANNER
+246. KAMBONNAH
+P. O. Box 36299, 0274-T1115
+FULLY
+ATHMAN MNJAMBE
+Bsc.Urban and REGISTERED
+Dar es Salaam
+Regional
+TOWN
+Planning
+PLANNER
+247. JOHN GASPER
+P. O. Box 36299, 0275-T1115
+FULLY
+CHUWA
+Bsc.Urban and REGISTERED
+Dar es Salaam
+Regional
+TOWN
+Planning
+PLANNER
+248. MDOE ELIAS MJEMA P. O. Box 74, 0276-T1115
+FULLY
+Bsc.Urban and REGISTERED
+Songea
+Regional
+TOWN
+Planning
+PLANNER
+249. DENIS
+P. O. Box 9273, 0277-T1115
+FULLY
+Bsc.Housing
+DEUSY
+REGISTERED
+Dar es Salaam
+and
+KYAMUHANGILE
+infrastructure TOWN
+Planning PLANNER
+GN. No. 178 (contd.)
+1. ARDHI PLAN
+P.O.Box 5706
+0115 – T0810 FULLY REGISTERED
+LIMITED
+Dar es Salaam
+TOWN PLANNER
+2. LAND SCAPE
+P.O.Box 3118
+0116 – T0810 FULLY REGISTERED
+SPECIALIST
+Dar es Salaam
+TOWN PLANNER
+COMPANY
+3. PROPERTY
+P.O.Box 24038 0117 – T0810 FULLY REGISTERED
+MANAGEMENT
+TOWN PLANNER
+CONSULTANTS Dar es Salaam
+4. MBOKA CONSULT P.O.Box 75556 0118 – T0810 FULLY REGISTERED
+LIMITED
+Dar es Salaam
+TOWN PLANNER
+5. URBAN
+P.O.Box 76353 0183 – T0810 FULLY REGISTERED
+SOLUTIONS
+Dar es Salaam
+TOWN PLANNER
+LIMITED
+ARDHI
+P.O.Box 35176 0199-T1011 FULLY REGISTERED
+UNIVERSITY-
+Dar es salaam
+TOWN PLANNER
+DEPARTMENT OF
+URBAN AND
+REGIONAL
+PLANNING
+7. WISE PLAN
+P.O.Box 457
+0203 – T0811 FULLY REGISTERED
+LIMITED
+Dar es Salaam
+TOWN PLANNER
+8. DWELLING
+P.O.Box 32108 0204 – T0811 FULLY REGISTERED
+CONSULTING
+TOWN PLANNER
+LIMITED
+Dar es Salaam
+9. DECOLAND
+P.O.Box 63303 0224 – T0713 FULLY REGISTERED
+COMPANY
+TOWN PLANNER
+LIMITED
+Dar es Salaam
+10. CITY PLAN
+P.O.Box 72235 0225 – T0713 FULLY REGISTERED
+CONSULTANTS (T) Dar es Salaam
+TOWN PLANNER
+LIMITED
+11. PHILS
+P.O.Box 12072 0226 – T0113 FULLY REGISTERED
+INTERNATIONAL Dar es Salaam
+TOWN PLANNER
+COMPANY
+LIMITED
+12. NATIONAL
+P.O.Box 2977
+0227 – T0113 FULLY REGISTERED
+HOUSING
+Dar es Salaam
+TOWN PLANNER
+CORPORATION
+GN. No. 178 (contd.)
+13. JAGIBENIS
+P.O.Box 106152 0230 – T0113 FULLY REGISTERED
+PLANNERS
+Dar es Salaam
+TOWN PLANNER
+COMPANY
+LIMITED
+14. DVM GEOSPATIAL P.O.Box 174
+0232 – T0113 FULLY REGISTERED
+PLANNING
+Tabora
+TOWN PLANNER
+LIMITED
+15. GEIPAM GROUP P.O.Box 90240 0233 – T0113 FULLY REGISTERED
+LIMITED
+Dar es Salaam
+TOWN PLANNER
+16. SPACE AND
+P.O.Box 32095 0234 – T0113 FULLY REGISTERED
+DEVELOPMENT Dar es Salaam
+TOWN PLANNER
+COMPANY
+LIMITED
+17. CRM LAND
+P. O. Box 35774 0252 – T0314 FULLY REGISTERED
+CONSULT LTD Dar es Salaam
+TOWN PLANNER
+18. MAKAZI CONSULT P. O. Box 72287 0253 – T0314 FULLY REGISTERED
+LTD
+Dar es Salaam
+TOWN PLANNER
+19. HAST LAND
+P. O. Box 714
+0254 – T0314 FULLY REGISTERED
+RESOLUTION
+Singida
+TOWN PLANNER
+COMPANY LTD
+20. PERFECT LAND P. O. Box 71281 0255-T0614 FULLY REGISTERED
+CONSULTANTS Dar es salaam
+TOWN PLANNER
+COMPANY
+LIMITED
+21. VISSIBLE
+P. O. Box 11970 0258-T1014 FULLY REGISTERED
+PLANNERS
+Dar es salaam
+TOWN PLANNER
+COMPANY
+LIMITED
+22. AURECON AMEI P. O. BOX 106222, 0259-T0115 TEMPORARY
+Dar es Salaam
+REGISTERED TOWN
+PLANNER
+23. CITY PLAN AFRICA P. O. BOX 36043 0260-T0115 FULLY REGISTERED
+Dar es Salaam
+TOWN PLANNER
+24. CONREEB CO.LTD P. O. BOX 50025 0261-T0115 FULLY REGISTERED
+Dar es Salaam
+TOWN PLANNER
+GN. No. 178 (contd.)
+25. SURBANA
+168JALAN BUKIT 0272-T0715 TEMPORARY
+INTERNATIONAL MERAH,
+REGISTERED TOWN
+SURBANA ONE
+CONSULTANTS
+PLANNER
+NO. 01 01,
+SINGAPORE
+26. INDEPENDENT P. O. BOX 13075, 0278 -T1115 FULLY REGISTERED
+PLANNERS
+Dar es Salaam
+TOWN PLANNER
+27. DEVELOPMENT P. O. BOX 2818, 0279-T1115 FULLY REGISTERED
+PLANNERS AND DODOMA
+TOWN PLANNER
+CONSULTANTS
+28. CS LAND MASTERS P. O. BOX 1961 0280-T1115 FULLY REGISTERED
+CO. LTD
+Bukoba
+TOWN PLANNER
+29. AMKA CONSULT P. O. BOX 73936, 0281 – T1115 FULLY REGISTERED
+CONSORTIUM LTD Dar es Salaam
+TOWN PLANNER
+Dar es Salaam
+HELENA S. MTUTWA,
+31st March, 2016
+Registrar
