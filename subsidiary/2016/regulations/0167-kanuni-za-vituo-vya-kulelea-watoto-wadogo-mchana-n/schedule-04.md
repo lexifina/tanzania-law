@@ -1,0 +1,3 @@
+# JEDWALI LA NNE
+______ (Limetengenezwa chini ya Kanuni ya 12(4)) _______ IDADI YA CHINI YA WATUMISHI WAANGALIZI WA ZAMU/UWIANO WA MTOTO Idadi ya chini ya waangalizi wa mtoto/uwiano wa mtoto Bila kujali uwiano ulioainishwa hapo juu, si chini ya mwangalizi mmoja anapaswa kuwa zamum kwa muda wote wakati wa masaa ya kazi ya kituo cha kulelea watoto wadogo mchana na watoto Bila kujali uwiano ulioainishwa kwenye Jedwali hili, mmiliki au meneja ni lazima ahakikishe kwamba watumishi waangalizi wa kutosha wapo zamu wakati wa masaa ya kazi ya kituo cha kulelea watoto wadogo mchana au watoto wachanga ili kuhakikisha kwamba hakuna mtumishi mwangalizi anawajibika peke yake kwa watoto zaidi ya 15.
+Wachanga _______
