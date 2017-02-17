@@ -1,0 +1,13 @@
+# JEDWALI LA PILI
+FOMU YA MAOMBI YA KIBALI (Chini ya kifungu cha 5(1) SEHEMU YA KWANZA (Taarifa za Mwombaji)
+2. Anwani ya Mwombaji; ……………..………………………………. ………………….……………………
+3. Aina ya tangazo ya:……………….…… ..... 4. Eneo analokusudia kuweka Bango/Tangazo …………………………………………….
+6. Ukubwa wa Tangazo: :…………………………………………….. ………………………………………… …
+7. Ada ya kibali Sh. …………………............ 8. Stakabadhi ya malipo: ………………………
+10. Muonekano wa tangazo ……………………………………………… Lenye mng’aro/ lisilo na mng’aa (weka alama ya tiki kwa inayohusika)
+11. Sahihi:……………………………………….
+12. Tarehe: ……………………………………..
+SEHEMU YA PILI (Kwa Matumizi ya Ofisi)
+1. Maombi Na.……………..…….……… 2. Ada ya kibali Sh:. …………............
+3. Namba ya Stakabadhi ya malipo: ……. 4. Tarehe:…………………………………..
+Maoni ya Afisa Mwidhiniwa: - *Nakubali/Sikubali (weka alama ya tiki kwa inayohusika) Sababu:…………………………………………………………………………………………… Jina: ………………………… Saini: ………………………………… Halmashauri ya Wilaya ya Malinyi Tangazo la Serikali Na.20 (Linaendelea)
