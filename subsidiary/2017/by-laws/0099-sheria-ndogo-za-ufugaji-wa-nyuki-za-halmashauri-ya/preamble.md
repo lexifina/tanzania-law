@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA 287)
+______
+SHERIA NDOGO
+______
+(Zimetungwa chini ya kifungu cha 153(1)
+SHERIA NDOGO ZA (UFUGAJI WA NYUKI) ZA HALMASHAURI YA WILAYA YA
+KIGOMA ZA MWAKA 2017
