@@ -1,0 +1,8 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+_____
+SHERIA NDOGO
+_____
+Zimetungwa chini ya vifungu vya 7(1) na 16(1)
+SHERIA NDOGO ZA (ADA NA USHURU) ZA HALMASHAURI YA WILAYA MUSOMA ZA
+MWAKA, 2017
