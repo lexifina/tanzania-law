@@ -1,0 +1,3 @@
+# JEDWALI LA PILI
+____________
+MIRADI ITAKAYOTOKELEZWA Tarehe ya Shilingi Mwisho ya 2018/19 2019/20 Utekelezaji Ukarabati na Matengenezo 27,928,906 72,071,094 30 Juni 2020 56,000,000 30 Juni 2020 Jumla Ndogo ya Mabadilisho 27,928,906 128,071,094 30 Juni 2020 Miradi Mipya 45,000,000 30 Juni 2020 Amri ya Mamlaka ya Maji Safi Na Usafi wa Mazingira Misungwi (“Misungwi Wssa”) (ya Kurekebisha Bei Za Huduma Za Maji Safi Na Usafi wa Mazingira Tangazo la Serikali Na. 6 (linaendelea) Tarehe ya Shilingi Mwisho ya 2018/19 2019/20 Utekelezaji 27,520,705 30 Juni 2020 20,000,000 30 Juni 2020 jipya la kuhifadhia maji la - 78,000,000 30 Juni 2020 170,520,705 27,928,906 298,591,799 __________
