@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA MAJISAFI NA USAFI WA MAZINGIRA
+(SURA. NA 272)
+_______
+AMRI
+_______
+(Imetolewa kwa mujibu wa kifungu Na.28 (d))
+_______
+AMRI YA MAMLAKA YA MAJISAFI NA USAFI WA MAZINGIRA BUKOBA (“BUKOBA
+WSSA”) (YA KUREKEBISHA BEI ZA HUDUMA ZA MAJISAFI NA USAFI WA
+MAZINGIRA), 2019
+Kichwa cha

@@ -1,0 +1,2 @@
+# JEDWALI LA TATU
+_____________ VIASHIRIA VYA UTENDAJI (2018/19 – 2020/21) Lengo la Utendaji Maelezo Uniti 2018/19 2019/20 2020/21 Idadi ya wateja wapya wa maji safi Na 775 1,451 1,240 Kiwango cha upotevu wa maji % Wateja wenye Dira % 100 100 100 Wastani wa Masaa ya Upatikanaji wa Huduma Masaa 24 ya Maji kwa Mteja Kiwango cha ufanisi katika ukusanyaji wa % mapato Dodoma, NZINYANGWA E. MCHANY ........................, 2018 Mkurugenzi Mkuu
