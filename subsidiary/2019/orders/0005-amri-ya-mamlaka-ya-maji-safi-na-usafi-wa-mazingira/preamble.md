@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA MAJISAFI NA USAFI WA MAZINGIRA
+(SURA. NA 272)
+_______
+AMRI
+________
+(Imetolewa kwa mujibu wa kifungu Na.28 (d))
+________
+AMRI YA MAMLAKA YA MAJI SAFI NA USAFI WA MAZINGIRA MTWARA
+(“MTWARA WSSA”) (YA KUREKEBISHA BEI ZA HUDUMA ZA MAJI SAFI NA USAFI
+WA MAZINGIRA), 2018
+Kichwa cha Amri
