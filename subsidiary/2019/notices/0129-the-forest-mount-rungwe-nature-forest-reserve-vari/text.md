@@ -1,0 +1,1056 @@
+# Text
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+GOVERNMENT NOTICE NO. 129 published on 01/2/2019
+THE FOREST ACT
+(CAP 323)
+_________
+NOTICE
+_________
+(Made under section 29(1)
+_________
+THE FOREST (MOUNT RUNGWE NATURE FOREST RESERVE)
+VARIATION NOTICE, 2019
+Citation
+1. This Notice may be cited as The Forest (Mount
+Rungwe Nature Forest Reserve) Variation Notice, 2019.
+Variation
+2. The area of reserved land within the limits and
+boundaries of Mount Rungwe Nature Forest Reserve defined in
+the Schedule contained in the Map with Jb No. 2876 annexed in
+the Schedule to this Notice is hereby proposed to be varied to
+include Poroto Ridge Forest Reserve and Sawago Forest
+Reserve as Nature Forest Reserve Ranges to Mount Rungwe
+Nature Forest Reserve.
+Purpose
+3. The Purposes for which Mount Rungwe Nature
+Forest Reserve is proposed to be varied are:
+(a) to include Poroto Ridge Forest Reserve and Sawago
+Forest Reserve as Nature Forest Reserve Ranges to
+Mount Rungwe Nature Forest Reserve in order to
+protect the threatened area of forest land thereof
+which is recognized for its high biodiversity value,
+with unique flora and fauna, including endangered
+species of plants and animals, some of which are
+threatened with extinction; and
+(b) to attain the intended management purposes,
+conservation of the forest land and wise use of
+forest resources in the forest area.
+Period of time
+4. This Notice will be valid for ninety (90) days from
+the date of publication within which any person or group of
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+persons or a representative thereof may in writing:
+(a) object to,
+(b) make representations; or
+(c) claim any rights based on and or arising out of
+customary law in relation to land or forest produce
+or any rights based on any other law within the area
+the subject of the proposed declaration of a nature
+forest reserve.
+Revocation of
+5. The Forest (Poroto Ridge Territorial Forest Reserve)
+G.N. No.
+and The Forest (Sawago Territorial Forest Reserve) Orders are
+68of 1937
+hereby revoked.
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+_______
+SCHEDULE
+________
+RUNGWE DISTRICT
+__________
+MOUNT RUNGWE NATURE FOREST RESERVE
+Approximate area: 24680.5 Hectares or 246.805 Square Km Situation and Boundaries
+All that area of reserved land within the limits and boundaries of Mount Rungwe Nature Forest
+Reserve defined in the Schedule contained in the Map with Jb No. 2876 hereunder depicted with
+approximate area of 13652 Hectares or 136.52 Square Kilometres, Poroto Ridge Territorial Forest
+Reserve with approximate area of 9332 Hectares or 93.32 Square Kilometres and Sawago
+Territorial Forest Reserve with approximate area of 1696.5 Hectares or 16.965 Square Kilometres
+situated in Rungwe district, Mbeya region as delineated on survey division plans No. Jb No 2876 of
+2013 (Scale 1:25000) , Jb No 40 of 1959 (Scale 1:25,000) and Jb 2205 of 1991 (1:10,000)
+respectively deposited with the Director of Surveys and Mapping Division of the Ministry of
+Lands, Human Settlement Development, Dar es Salaam as ascribed and depicted as hereunder
+follows:
+Sawago Nature Forest Reserve
+FID
+SHAPE *
+LATITUDE LONGITUDE NAME
+FID
+Point
+570803.9
+BCN 1
+FID
+Point
+571287.6
+BCN 2
+FID
+Point
+571311.3
+BCN 3
+FID
+Point
+571387.1
+BCN 4
+Point
+571689.3
+BCN 5
+Point
+571766.7
+BCN 6
+Point
+571945.7
+BCN 7
+Point
+BCN 8
+Point
+572070.1
+BCN 9
+Point
+572126.4
+BCN 10
+Point
+572303.5
+BCN 11
+Point
+572430.6
+BCN 12
+Point
+572590.7
+BCN 13
+Point
+572625.4
+BCN 14
+Point
+572655.2
+BCN 15
+Point
+572609.3
+BCN 16
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+Point
+572559.5
+BCN 17
+Point
+BCN 18
+Point
+572670.3
+BCN 19
+Point
+572291.1
+BCN 20
+Point
+BCN 21
+Point
+571784.4
+BCN 22
+Point
+571610.7
+BCN 23
+Point
+571522.2
+BCN 24
+Point
+571444.4
+BCN 25
+Point
+571509.4
+BCN 26
+Point
+571467.9
+BCN 27
+Point
+571125.3
+BCN 28
+Point
+571002.8
+BCN 29
+Point
+BCN 30
+Point
+570859.1
+BCN 31
+Point
+570787.9
+BCN 32
+Point
+570739.6
+BCN 33
+Point
+570324.4
+BCN 34
+Point
+570024.9
+BCN 35
+Point
+569759.7
+BCN 36
+Point
+569739.3
+BCN 37
+Point
+569711.2
+BCN 38
+Point
+569770.7
+BCN 39
+Point
+569840.2
+BCN 40
+Point
+569878.5
+BCN 41
+Point
+BCN 42
+Point
+570060.6
+BCN 43
+Point
+BCN 44
+Point
+BCN 45
+Point
+BCN 46
+Point
+BCN 47
+Point
+BCN 48
+Point
+BCN 49
+Point
+BCN 50
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+Point
+BCN 51
+Point
+BCN 52
+Point
+BCN 53
+Point
+BCN 54
+Point
+BCN 55
+Point
+BCN 56
+Point
+BCN 57
+Point
+BCN 58
+Point
+570780.3
+BCN 59
+FID
+Point
+570803.9
+BCN 1
+Poroto Ridge Nature Forest Reserve
+FID Shape *
+LATITUDE
+LONGITUDE
+NAME
+Point
+9001358.507
+565150.5266
+PRTB 110
+Point
+9003946.359
+565689.4707
+PRTB 100
+Point
+9001133.138
+564834.9413
+PRTB 108A
+Point
+9001653.449
+564146.8643
+INT
+Point
+9001817.517
+563596.1442
+INT
+Point
+9001596.921
+563540.7296
+INT
+Point
+9000603.722
+562916.8606
+INT
+Point
+9000270.015
+561941.5784
+PRTB 120
+Point
+9000069.117
+561801.9075
+INT
+Point
+9000020.986
+561753.8046
+INT
+Point
+9000179.423
+559339.3123
+INT
+Point
+9001536.743
+558549.0972
+PRTB 130
+Point
+9002159.148
+557674.2374
+INT
+Point
+9000951.251
+554599.2809
+PRTB 140
+Point
+8999747.694
+554016.0317
+INT
+Point
+9000088.402
+552637.1935
+INT
+Point
+8999681.433
+552123.8514
+INT
+Point
+8996266.888
+551843.7854
+PRTB 154
+Point
+8996339.157
+552042.7869
+PRTB 153
+Point
+8997337.759
+547880.4533
+PRTB 8
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+Point
+8997551.903
+548166.221
+PRTB 10
+Point
+8997815.066
+548234.4548
+PRTB 14
+Point
+8998281.211
+548309.4186
+INT
+Point
+8998556.897
+548169.7401
+PRTB 15
+Point
+8998959.182
+548664.5565
+PRTB 17
+Point
+8998853.526
+548993.7987
+PRTB 18
+Point
+8998974.925
+549171.9863
+PRTB 20
+Point
+8999250.625
+549203.3173
+INT
+Point
+8999468.358
+549172.0431
+INT
+Point
+8999681.217
+549148.126
+INT
+Point
+8999980.317
+549121.0173
+INT
+Point
+9000349.647
+548803.8469
+PRTB 22
+Point
+9001846.716
+548922.7217
+PRTB 29
+Point
+9001935.466
+549037.7944
+INT
+Point
+9001955.747
+549088.597
+INT
+Point
+9002134.589
+549216.5302
+INT
+Point
+9002751.256
+550142.9563
+PRTB 33
+Point
+9002874.954
+550511.5338
+INT
+Point
+9002869.67
+550669.25
+PRTB 36
+Point
+9002205.917
+550625.2179
+PRTB 37
+Point
+9002364.521
+551706.6038
+INT
+Point
+9002332.914
+552377.8943
+PRTB 40
+Point
+9002890.156
+552621.5262
+PRTB 41
+Point
+9003179.614
+552276.1205
+INT
+Point
+9003465.564
+551905.0956
+PRTB 42
+Point
+9003451.85
+551478.285
+INT
+Point
+9003521.6
+550968.9262
+PRTB 44
+Point
+9003718.314
+550510.3957
+PRTB 46
+Point
+9004055.688
+550732.0777
+INT
+Point
+9004100.343
+550828.6393
+PRTB 50
+Point
+9004265.586
+551386.3385
+PRTB 52
+Point
+9004423.972
+552025.5915
+PRTB 55
+Point
+9004441.391
+552234.6741
+PRTB 56
+Point
+9004410.865
+552413.6875
+INT
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+Point
+9004470.326
+552513.8985
+PRTB 57
+Point
+9004572.751
+552479.6284
+PRTB 58
+Point
+9005142.434
+552846.3979
+PRTB 59
+Point
+9005501.134
+552816.5311
+INT
+Point
+9005512.637
+552813.1387
+INT
+Point
+9005707.636
+553256.0404
+PRTB 63
+Point
+9005495.651
+553950.1186
+INT
+Point
+9005024.305
+555109.5606
+INT
+Point
+9005001.406
+555119.3119
+PRTB 67
+Point
+9005002.286
+555122.2809
+INT
+Point
+9005740.481
+555862.3935
+INT
+Point
+9005741.585
+555863.1645
+PRTB 70
+Point
+9006517.946
+556262.379
+PRTB 73
+Point
+9006975.191
+556289.6184
+PRTB 75
+Point
+9006840.104
+557296.3265
+PRTB
+Point
+9006833.609
+557276.3113
+INT
+Point
+9006833.609
+557276.3113
+INT
+Point
+9007332.386
+560289.4009
+PRTB 79
+Point
+9007430.524
+561706.4876
+PRTB 82
+Point
+9007495.709
+561953.3708
+PRTB 83
+Point
+9007163.437
+562117.7481
+PRTB 84
+Point
+9007267.95
+562953.4516
+INT
+Point
+9005806.15
+564660.9996
+PRTB 94
+Point
+9005106.781
+564490.0505
+PRTB 100
+Point
+9007099.047
+563983.9554
+PRTB 90
+Point
+9006937.056
+564133.9655
+PRTB 91
+Point
+9006825.062
+564129.9401
+INT
+Point
+8996675.516
+549988.549
+INT
+Point
+8996781.349
+549332.381
+INT
+Point
+9007449.371
+556656.062
+PRTB 76
+Point
+9007534.037
+559280.734
+PRTB 78
+Point
+8996230.86
+550165.11
+PRTB 1
+Point
+8997097.74
+548974.27
+PRTB 2
+Point
+8996805.64
+548717.09
+PRTB 3
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+Point
+8997618.12
+548584.62
+PRTB 13
+Point
+9000144.74
+549106.8
+PRTB 21
+Point
+9000533.38
+548484.56
+PRTB 25
+Point
+9001612.89
+PRTB 26
+Point
+9001700.2
+548476.63
+PRTB 27
+Point
+9001681.68
+548599.66
+PRTB 28
+Point
+9002547.64
+550773.97
+PRTB 36
+Point
+9002130.12
+550793.02
+PRTB 38
+Point
+9002354.78
+551307.9
+PRTB 39
+Point
+9005595.64
+552816.3
+PRTB 60
+Point
+9004451.47
+551927.7
+INT
+Point
+9004445.12
+551893.8
+INT
+100 Point
+9004384.8
+551831.4
+INT
+101 Point
+9004410.19
+551774.23
+PRTB 54
+102 Point
+9004211.22
+551671.57
+PRTB 53
+103 Point
+9003595.28
+550958.44
+PRTB 45
+104 Point
+9003364.47
+551104.14
+PRTB 43
+105 Point
+9003363.67
+INT
+106 Point
+9003473.22
+551271.6
+INT
+107 Point
+9003466.1
+INT
+108 Point
+9003515.29
+551347.03
+INT
+109 Point
+9006043.4
+555810.74
+PRTB 71
+110 Point
+9006205.23
+555979.1
+PRTB 72
+111 Point
+9007472.13
+556998.1
+INT
+112 Point
+9007316.69
+561219.23
+PRTB 80
+113 Point
+9007225.8
+562239.33
+PRTB 85
+114 Point
+9007292.7
+562417.4
+INT
+115 Point
+9007317.3
+562616.6
+INT
+116 Point
+9007362.6
+562744.42
+PRTB 86
+117 Point
+9007146.2
+563598.4
+PRTB 89
+118 Point
+9004929.02
+564772.26
+INT
+119 Point
+9001928.4
+548974.2
+PRTB 30
+120 Point
+9002001.7
+549112.8
+INT
+121 Point
+9002111.5
+549159.8
+INT
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+122 Point
+9002898.1
+550583.3
+PRTB 35
+123 Point
+9002870.5
+550210.5
+PRTB 34
+124 Point
+9002295.74
+549396.53
+PRTB 31
+125 Point
+9002322.73
+549627.24
+PRTB 32
+126 Point
+9002734.42
+550039.2
+INT
+127 Point
+9002535.98
+549790.49
+INT
+128 Point
+9002435.44
+549779.91
+INT
+129 Point
+9003903.48
+550550.2
+PRTB 49
+130 Point
+9003893.96
+550351.76
+PRTB 48
+131 Point
+9003720.92
+550364.46
+PRTB 47
+132 Point
+9004146.12
+551142.74
+PRTB 51
+133 Point
+9005704.23
+553033.13
+PRTB 61
+134 Point
+9005675.65
+553152.7
+PRTB 62
+135 Point
+9005363.18
+554218.07
+PRTB 65
+136 Point
+9005409.5
+554426.4
+PRTB 66
+137 Point
+9005674.06
+553457.4
+PRTB 64
+138 Point
+9005104.3
+555247.7
+PRTB 68
+139 Point
+9005741.9
+555836.1
+PRTB 69
+140 Point
+9006719.2
+556243.1
+PRTB 74
+141 Point
+9007217.5
+PRTB 77
+142 Point
+9007167.1
+563316.7
+PRTB 88
+143 Point
+PRTB 87
+144 Point
+9007349.4
+PRTB 81
+145 Point
+9006829.2
+564130.8
+PRTB 92
+146 Point
+9006514.3
+564255.2
+PRTB 93
+147 Point
+9004879.7
+564430.3
+PRTB 95
+148 Point
+9004788.7
+564694.6
+PRTB 96
+149 Point
+9004932.6
+564668.9
+PRTB 97
+150 Point
+9004953.8
+565177.5
+PRTB 98
+151 Point
+9004670.2
+565435.7
+PRTB 99
+152 Point
+9003435.1
+565834.2
+PRTB 101
+153 Point
+9002911.2
+565924.2
+PRTB 102
+154 Point
+9002757.7
+565955.9
+PRTB 103
+155 Point
+9002255.1
+565992.9
+PRTB 104
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+156 Point
+9001900.5
+565881.8
+PRTB 105
+157 Point
+9001921.7
+565781.3
+PRTB 106
+158 Point
+9002186.3
+565167.5
+PRTB 107
+159 Point
+9001741.8
+565204.5
+PRTB 108
+160 Point
+9001630.6
+565056.3
+PRTB 109
+161 Point
+9001011.5
+565188.6
+PRTB 111
+162 Point
+9001143.8
+564818.2
+PRTB 112
+163 Point
+9001625.3
+564394.9
+PRTB 113
+164 Point
+9001657.1
+564310.9
+PRTB 114
+165 Point
+9001725.9
+564209.7
+PRTB 115
+166 Point
+9001678.3
+564230.3
+PRTB 116
+167 Point
+563648.7
+PRTB 117
+168 Point
+563257.2
+PRTB 118
+169 Point
+562675.1
+PRTB 119
+170 Point
+PRTB 121
+171 Point
+PRTB 122
+172 Point
+8999938.6
+561510.9
+PRTB 123
+173 Point
+8999684.6
+560824.3
+PRTB 124
+174 Point
+8999740.2
+560804.5
+PRTB 125
+175 Point
+PRTB 126
+176 Point
+8999724.3
+560078.2
+PRTB 127
+177 Point
+8999779.9
+559935.3
+PRTB 128
+178 Point
+559677.3
+PRTB 129
+179 Point
+9001544.6
+557760.8
+PRTB 131
+180 Point
+9001954.7
+557707.5
+PRTB 132
+181 Point
+9002457.5
+557555.4
+PRTB 133
+182 Point
+9002695.6
+557345.7
+PRTB 134
+183 Point
+9002391.3
+556545.3
+PRTB 135
+184 Point
+9002146.6
+556358.1
+PRTB 136
+185 Point
+9001359.4
+555564.4
+PRTB 137
+186 Point
+9001306.5
+554856.6
+PRTB 138
+187 Point
+9000956.6
+554606.1
+PRTB 139
+188 Point
+9000145.2
+553854.4
+PRTB 141
+189 Point
+553843.9
+PRTB 142
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+190 Point
+553907.4
+PRTB 143
+191 Point
+PRTB 145
+192 Point
+552637.3
+PRTB 146
+193 Point
+552346.3
+PRTB 147
+194 Point
+PRTB 148
+195 Point
+8998721.7
+551420.3
+PRTB 149
+196 Point
+8997255.9
+552311.9
+PRTB 151
+197 Point
+8996971.5
+552232.5
+PRTB 152
+198 Point
+8997474.2
+552166.4
+PRTB 150
+199 Point
+8995573.671
+551154.66
+PRTB 156
+200 Point
+8995768.14
+551368.977
+PRTB 155
+Point
+9001358.507
+565150.5266
+PRTB 110
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
+Dodoma
+HAMISI A. KIGWANGALLA,
+19th January, 2019 Minister for Natural Resources and Tourism
+Forest (Mount Rungwe Nature Forest Reserve ) Variation
+GN. NO. 129 (Contd)
