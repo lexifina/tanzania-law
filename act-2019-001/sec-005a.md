@@ -1,0 +1,7 @@
+# 5A. "Regulation of civic education capacity training
+(1) A person or institution within or outside the United Republic wishing or requested to conduct civic education or any kind of capacity building training or initiative to a political party, shall prior to conducting such training, inform the Registrar by issuing a thirty days notice stating the objective and kind of training, training programme, persons involved in such training, teaching aid and expected results.
+(2) Upon receipt of information under subsection (1), the Registrar may disapprove the training or capacity building programme and give reasons for such disapproval.
+(3) Any person who contravenes this section, commits an offence and is liable, on conviction to a fine of not less than five hundred thousand shillings but not exceeding five million shillings or to imprisonment for a term of not less than three months but not exceeding twelve months or to both.
+(4) Any institution which contravenes this section, commits an offence and is liable, on conviction to a fine of not less than five million shillings but not exceeding thirty million shillings.
+(5) Any person or institution which contravenes this section shall, in addition to penalties under this section be ordered by the Registrar to submit the information on the training or training programme within such period as prescribed by the Registrar.
+(6) A person or institution which fails to comply with an order under subsection (5) commits an offence.
