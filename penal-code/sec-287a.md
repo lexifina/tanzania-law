@@ -1,0 +1,2 @@
+# 287A. Armed robbery
+A person who steals anything, and at or immediately before or after stealing is armed with any dangerous or offensive weapon or instrument and at or immediately before or after stealing uses or threatens to use violence to any person in order to obtain or retain the stolen property, commits an offence of armed robbery and shall, on conviction be liable to imprisonment for a term of not less than thirty years with or without corporal punishment.

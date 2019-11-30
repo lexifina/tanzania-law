@@ -1,0 +1,7 @@
+# 332B. Kite-flying
+(1) Subject to subsection (3), any person who fraudulently obtains credit or money of any amount from a banker by means of kite-flying is guilty of an offence and liable on conviction to imprisonment for a term not exceeding ten years.
+(2) Any person employed by a bank who, by virtue of his office fraudulently assists another person to obtain credit or money of any amount from a bank by means of kite-flying is guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding ten years.
+(3) A person shall be presumed fraudulent and guilty of an offence under this section if the cheque drawn by him is not honoured for reason of lack or insufficiency of funds in the account and within eight days after he is informed of the dishonoured cheque he fails or refuses to make good on the account.
+(4) Where any person is convicted of an offence under this section the court shall order the forfeiture to the United Republic of any money, goods or property obtained in the course of or after the commission of the offence, as well as full compensation to the bank in respect of the money involved in the kite-flying.
+(5) For the purposes of this section the expression "kite-flying" means obtaining money or credit by cheque on an account which has insufficient or no funds at all, thereby causing an unauthorised overdraft to a banker.
+Division VII — Forgery, coining, counterfeiting and similar offences
