@@ -1,0 +1,4 @@
+# 7C. Powers of Minister generally
+(1) The Minister shall, through the official Gazette, newspaper of wide circulation or public media, notify the general public of all approved projects under this Act.
+(2) The Minister shall monitor and manage fiscal risks and other financial matters relating to the implementation of PPP projects in accordance with the respective agreement.
+(3) Subject to the provisions of this Act, the Minister shall issue directives to accounting officers of contracting authorities on the analysis and approval or disapproval of small scale PPP projects.
