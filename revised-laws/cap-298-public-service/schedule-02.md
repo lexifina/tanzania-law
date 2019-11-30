@@ -1,0 +1,8 @@
+# SECOND SCHEDULE
+___________ (Made under section 26) Public servants specified under section 26 shall be granted the following
+(a) a diplomatic passport for him and his spouse;
+(b) one motor vehicle given once, of a value not exceeding such amount as the President may from time to time determine;
+(c) total sum of money granted once as a lump sum which shall be sufficient to remunerate one driver for a period of four years;
+(d) total sum of money sufficient to purchase fifty litres of fuel per week granted once as a lump sum which shall cover a period of four years;
+(e) total sum of money being maintenance allowance for a motor vehicle to be granted once as a lump sum at a rate equal to forty percent of fuel allowance; and
+(f) use of VIP lounge. ___________________________________
