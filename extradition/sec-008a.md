@@ -1,0 +1,3 @@
+# 8A. Surrender of fugitive criminal
+(1) Upon receipt of the certificate of the committal and any other report on the case from the magistrate, the Minister may, by warrant under his hand, order the fugitive criminal to be surrendered to any person who is, in his opinion, duly authorized to receive the fugitive criminal by the country from which the requisition for the surrender proceeded, and the fugitive criminal shall be surrendered accordingly.
+(2) Any person to whom a warrant under this section is directed and the person so authorized under subsection (1), may receive, hold in custody and convey into the jurisdiction of that country the fugitive criminal mentioned in the warrant.
