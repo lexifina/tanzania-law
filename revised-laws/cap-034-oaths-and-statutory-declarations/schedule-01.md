@@ -1,0 +1,3 @@
+# SCHEDULE
+_________ (Made under section 10) I, A. B. do solemnly and sincerely declare as follows: ……………………………………………………………………………………………… I, the said A. B., make this declaration conscientiously believing the same to be true and in accordance with the provisions of the Oaths and Statutory Declarations Act.
+This, Declaration is made and subscribed by the said A. B. who is known to me personally (or who has been identified to me by .......................; (Signature of the person taking the declaration) the latter being known to me personally) this ................... day of (Signature, qualification and address of the person taking the declaration) _________________________
