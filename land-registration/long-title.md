@@ -1,2 +1,2 @@
 # Long title
-An Act to provide for the registration of land and for related matters.
+An Act to provide for title registration on land and for related matters.
