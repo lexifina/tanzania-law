@@ -1,0 +1,2 @@
+# 176A. Harbouring common prostitutes
+Any person who, being the keeper of any bar, hotel, house, shop, room or other place of public resort for the sale or consumption of refreshments of any kind, knowingly permits or suffers common prostitutes to assemble at and remain on his premises for the purpose of prostitution, shall be guilty of an offence and liable on conviction to a fine not exceeding five hundred shillings or, in the case of a second or subsequent offence, to a fine not exceeding fifty thousand shillings.

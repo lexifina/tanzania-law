@@ -1,0 +1,2 @@
+# 305A. Where goods or credit obtained for someone else
+In any proceeding for an offence under section 302 or section 305 of this Code, the accused shall not be entitled to acquittal by reason only of the fact that the evidence adduced discloses that the person for whose benefit the accused obtained or attempted to obtain, the goods or, as the case may be, the credit, was a person other than the accused or the person mentioned in the charge.

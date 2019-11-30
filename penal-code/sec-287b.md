@@ -1,0 +1,2 @@
+# 287B. Attempt armed robbery
+Any person who with intent to steal anything from another person, is armed with any dangerous or offensive weapon or instrument, or is in company of one or more persons, and in the course thereof threatens, or attempt to threaten to use actual violence to any person, commits an offence termed "attempted armed robbery" and on conviction is liable to imprisonment for a minimum period of fifteen years with or without corporal punishment.

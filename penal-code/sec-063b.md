@@ -1,0 +1,9 @@
+# 63B. Raising discontent and ill-will for unlawful purposes
+(1) Any person who, to any assembly, makes any statement likely to raise discontent amongst any of the inhabitants of the United Republic or to promote feelings of ill-will between different classes or communities of persons of the United Republic, is guilty of an offence and is liable to a fine not less than five hundred thousand shillings or to imprisonment for a term of not less than one year:
+Provided that, no person shall be guilty of an offence under the provisions of this section if the statement was made solely for any one or more of the following purposes, the proof whereof shall lie upon him, that is to say—
+(a) to show that the Government has been misled or mistaken in any of its measures;
+(b) to point out errors or defects in the Government or its policies or the Constitution of the United Republic as by law established, or in any legislation or in the administration of justice with a view to the remedying of those errors or defects;
+(c) to persuade any inhabitants of the United Republic to attempt to procure by lawful means the alteration of any matter in the United Republic; or
+(d) to point out, with a view to their removal, any matters which are producing or have a tendency to produce discontent amongst any of the inhabitants of the United Republic or feelings of ill-will and enmity between different classes or communities of persons of the United Republic.
+(2) For the purposes of this section "an assembly" means a gathering of seven or more persons.
+(3) A person shall not be prosecuted for an offence under this section without the written consent of the Director of Public Prosecutions.
