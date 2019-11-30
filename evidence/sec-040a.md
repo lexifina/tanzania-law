@@ -1,0 +1,6 @@
+# 40A. Evidence obtained undercover operations
+In any criminal proceedings—
+(a) an information retrieved from computer systems, networks or servers;
+(b) the records obtained through surveillance of means of preservation of information including facsimile machines, electronic transmission and communication facilities; or
+(c) the audio or video recording of acts or behaviours or conversation of persons charged,
+shall be admissible in evidence.
