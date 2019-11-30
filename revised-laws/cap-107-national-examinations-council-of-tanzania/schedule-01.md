@@ -1,0 +1,32 @@
+# SCHEDULE
+__________ (Made under section 3(3)) ___________ 1.-(1) The Council shall consist of-
+(a) a Chairman who shall be appointed by the President from amongst the Vice Chancellors of the accredited Public Universities established in the United Republic;
+(b) one member appointed by the Minister responsible for education in consultation with the Minister responsible for local government from among head teachers of secondary schools;
+(c) one member appointed by the Minister responsible for education in consultation with the Minister responsible for local government from among head teachers of primary schools;
+(d) one member appointed by the Minister responsible for education representing private institutions, who has experience and qualifications in education matters;
+(e) one member from the Ministry responsible for regional administration and local government who has experience and qualifications in education matters;
+(f) three members from Tanzania Mainland appointed by the Minister responsible for education from amongst people who have experience in education assessment matters, finance, planning, community development, gender, children and social welfare;
+(g) three members from Tanzania Zanzibar appointed by the Minister responsible for education in consultation with the Minister responsible for education in the Revolutionary Government of Zanzibar, from among people vested with qualifications relevant for education and assessment.
+(2) In appointing members of the Council under subparagraph (1)(f) and (g), the Minister shall have due regard to representation of special groups.
+(3) The Council may co-opt not more than four persons to attend and provide expertise during the deliberation of the Council on such matters as the Council may determine but such persons shall not have the right to participate in the decision making of the Council.
+2. The Chairman and members of the Council shall, unless the appointment is terminated by the Minister, or ceases in any other way to be a member, hold office for a period of four years and shall be eligible for reappointment for one further term. 3.-(1) A member appointed by virtue of his office shall cease to be a member upon ceasing to hold the post that entitled his appointment to the Council.
+(2) A member of the Council shall cease to be a member upon advice by the Council to the Minister of the fact, and the appointing authority may terminate the appointment of the member and appoint another member in his place if he:
+(a) has been absent for three consecutive meetings of the Council without reasonable cause;
+(b) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding five hundred thousand Tanzanian shillings;
+(c) is convicted of an offence involving dishonesty or fraud;
+(d) is adjudged bankrupt or enters into a composition scheme or arrangement with his creditors;
+(e) is incapacitated by physical or mental illness or is deemed otherwise unfit to discharge his duties as a member of the Council; or
+(f) fails to comply with the provisions of this Act relating to disclosure.
+4. Where any member is by reason of illness, infirmity or absence from the United Republic, unable to attend any meeting of the Council, the appointing authority may appoint a temporary member in his place and the temporary member shall cease to hold office on the resumption of office of the substantive member.
+5. The Council shall elect one of its members to be the Vice-Chairman and any member elected as Vice-Chairman shall, subject to his continuing to be a member, hold office of Vice-Chairman for a term of one year from the date of his election and shall be eligible for 6.-(1) The Chairman shall preside at all meetings of the
+(2) Where at any meeting of the Council the Chairman is absent, the Vice-Chairman shall preside.
+(3) In the absence of both the Chairman and the Vice-Chairman at any meeting of the Council, the members present may, from amongst their number elect a temporary Chairman who shall preside at that meeting.
+(4) The Chairman, Vice-Chairman or a temporary Chairman presiding at any meeting of the Council, shall have a vote and in the event of an equality of votes, shall have a casting vote in addition to his deliberative vote. 7.-(1) The Council shall ordinarily meet at least once in every three months every year and at any additional times which may be fixed by the Chairman or, if he is absent from the United Republic or unable for any reason to act, the Vice-Chairman.
+(2) The Chairman or, in his absence from the United Republic, the Vice-Chairman, may, and upon application in writing by at least five members, convene a special meeting of the Council at
+(3) The Executive Secretary of the Council shall give to each member adequate notice of the time and place of each meeting.
+8. At any meeting of the Council not less than one half of the members in office for the time being shall constitute a quorum.
+9. Subject to the provisions relating to a casting vote, all questions at a meeting of the Council shall be determined by a majority of the votes of the members present and if any member refuses or fails to vote on any question n he shall be deemed to have cast a negative vote. 10.-(1) The seal of the Council shall be of the shape, size and form as the Council may determine.
+(2) The seal shall not be used except in pursuance of a resolution of the Council and shall be authenticated by the signature of the Chairman or the Executive Secretary or any member of the Council authorised to act in that behalf by the Council.
+(3) All documents, other than those required by law to be under seal, made by, and all decisions of the Council may be signified under the hand of the Chairman or the Executive Secretary or any member of officer of the Council authorised in that behalf by the 11.-(1) The Council shall cause minutes of all proceedings of meetings of the Council to be entered in a book kept for that
+(2) Any minutes if purporting to be approved by, and signed by the Chairman of, the next succeeding meeting of the Council shall be evidence of the proceedings and, until the contrary is proved, the meeting to which the minutes relate shall be deemed to have been duly convened and all proceedings at that meeting to have been duly
+12. Subject to the provisions of this Schedule the Council may regulate its own proceedings. ______________________________
