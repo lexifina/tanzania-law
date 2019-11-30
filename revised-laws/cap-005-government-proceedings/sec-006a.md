@@ -1,0 +1,5 @@
+# 6A. Power of Attorney General to intervene suits
+(1) The Attorney General shall, through the Solicitor General, have the right to intervene in any suit or matter instituted by or against the ministries, local government authorities, independent departments and other government institutions.
+(2) Where the Attorney General intervenes in any matter in pursuance of subsection (1), the provisions of this Act, shall apply in relation to the proceedings of that suit or matter as if it had been instituted by or against the ministries, local government authorities, independent departments and other government institutions:
+Provided that, the requirement of ninety days notice of intention to sue the Government as stipulated under this Act shall not apply where the Attorney General intervenes under this section.
+(3) Notwithstanding the provisions of any written law, a ministry, local government authority, independent department or other government institution shall have a duty to notify the Attorney General of any impending suit or intention to institute a suit or matter against the Authority.
