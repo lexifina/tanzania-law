@@ -1,0 +1,27 @@
+# SCHEDULE
+__________ (Made under section 3) PART I SUITS
+COLUMN TWO Period of Limitation For compensation for doing or for omitting to one year do an act alleged to be in pursuance of any Suit to recover any penalty or forfeiture or two years sum by way of penalty or forfeiture recoverable by virtue of a written law Suit to recover contribution from a joint two years Suit to set aside a sale in execution of a decree two years of a court exercising civil jurisdiction Suit referred to in paragraph (b) of section 6 two years Suit founded on tort three years Suit founded on contract not otherwise six years specifically provided for Suit to enforce a recognisance six years Suit to enforce an award six years
+10. Suit to recover any sum recoverable by virtue six years of a written law, other than a penalty or forfeiture or sum by way of penalty or
+11. Suit including suit claiming equitable relief, six years for which no period of limitation is prescribed by this Act or any other written law
+12. Suit for an account six years
+13. Suit to recover arrears of rent six years
+14. Suit by beneficiary to recover trust property, six years or in respect of any breach of trust (not being an action to which section 18 or section 36 applies or an action for which a period of limitation is prescribed by any other provisions of this Schedule)
+15. Suit to recover arrears of interest in respect of a six years legacy, or damages in respect of such arrears
+16. Suit founded on ajudgment twelve years
+17. Suit to redeem land in possession of a twelve years
+18. Suit to recover principal sum of money twelve years
+COLUMN TWO acquired by mortgage on land or movable property or to recover proceeds of the sale of
+19. Suit for the forfeiture of mortgaged property twelve years
+20. Suit to recover arrears of interest payable in twelve years respect of any sum of money secured by a mortgage or payable in respect of the proceeds of the sale of land or to recover damages in respect of such arrears
+21. A suit in respect of a claim to movable twelve years property of a deceased person whether under a will or intestacy
+22. Suit to recover land twelve years
+23. Suit by or on behalf of the Government sixty years
+24. Any suit not otherwise provided for six years
+PART II
+APPEALS An appeal under the Civil Procedure Code ninety days where the period of limitation is not otherwise provided for by any written law An appeal for which no period of limitation is forty-five days prescribed by this Act or any other written law.
+PART III
+APPLICATIONS For leave to appear and defend a suit under the twenty-one days summary procedure under Order XXXV of the Civil Procedure Code Under the Civil Procedure Code to set aside an thirty days For an application under the Civil Procedure thirty days Code for a review of a decree, judgment or For an order under the Civil Procedure Code or thirty days the Magistrates’ Court Act, to set aside a dismissal of a suit For an order under the Civil Procedure Code set thirty days aside a decree ex parte Under the Civil Procedure Code by a person thirty days dispossessed of immovable property and disputing the right of the decree holder or purchaser at a sale in execution of the decree to be put in possession Under the Civil Procedure Code to set aside a thirty days sale in execution of a decree For relief against resistance or obstruction to thirty days delivery of possession of immovable property decreed or sold in execution of a decree
+COLUMN TWO For the readmission of an appeal dismissed for thirty days want of prosecution.
+For the rehearing of an appeal heard ex parte. thirty days Under the Magistrates’ Courts Act to restore forty-five days proceeding dismissed for non-appearance or to set aside decision or order made ex parte Under the Civil Procedure Code for an order to sixty days set aside an abatement Under the Civil Procedure Code by the assignee sixty days or the receiver of an insolvent plaintiff or appellant for an order to set aside the dismissal of a suit or an appeal For an order under the Civil Procedure Code to ninety days restore to the list an application for review rejected in consequence of the failure of the applicant to appear when the application was called for hearing For the issue of a notice under the Civil ninety days Procedure Code to show cause why any payment made out of court or any money payable under a decree or any adjustment of the decree should not be recorded as certified Under the Civil Procedure Code to have a legal ninety days representative of a deceased party, whether in a suit or on an appeal, to be made a party.
+For the payment of the amount of a decree by six months instalments.
+Under the Civil Procedure Code for the filing in six months court of an award in a suit made in any matter referred to arbitration by order of the court, or of an award made in any matter referred to arbitration without the intervention of a court Under the Civil Procedure Code by a purchaser three years of immovable property at a sale in execution of a decree for delivery of possession To enforce a judgment, decree or order of any twelve years court where the period of limitation is not provided for in this Act or any other written law Application under the Civil Procedure Code, the sixty days Magistrates’ Courts Act or other written law for which no period of limitation is provided in this Act or any other written law __________________________________
