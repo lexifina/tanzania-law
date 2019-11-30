@@ -1,0 +1,2 @@
+# 3. Cessation of membership
+Where any member of the Board ceases to be a member by resignation or death or is unable to perform his functions as such member by reason of absence from the United Republic or by reason of any infirmity of body or mind or where the appointing authority terminates his appointment under paragraph 2, the appointing authority may appoint another member in his place and the member so appointed shall, subject to the provisions of this Schedule, hold office for the remaining term of his predecessor.
