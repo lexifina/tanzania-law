@@ -1,0 +1,2 @@
+# 94. Delivery of property in occupancy of tenant
+Where the property sold is in the occupancy of a tenant or other person entitled to occupy the same and a certificate in respect thereof has been granted under rule 94, the court shall, on the application of the purchaser, order delivery to be made by affixing a copy of the certificate of sale in some conspicuous place on the property, and proclaiming to the occupant by such means as are used locally to make public pronouncements that the interest of the judgment debtor has been transferred to the purchaser.

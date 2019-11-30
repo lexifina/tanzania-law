@@ -1,0 +1,2 @@
+# 31. Confidentiality
+All communications at a mediation session and the mediation notes and records of the mediator shall be confidential and a party to a mediation may not rely on the record of statement made at or any information obtained during the mediation as evidence in court proceedings or any other subsequent settlement initiatives, except in relation to proceedings brought by either party to vitiate the settlement agreement on the grounds of fraud.

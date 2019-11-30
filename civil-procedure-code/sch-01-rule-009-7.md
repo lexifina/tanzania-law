@@ -1,0 +1,3 @@
+# 9. Order to answer or answer further
+Where any person interrogated omits to answer, or answers insufficiently, the party interrogating may apply to the court for an order requiring him to answer, or to answer further, as the case may be and an order may be made requiring him to answer or answer further, either by affidavit or by viva voce examination, as the court may direct:
+Provided that, no order shall be made requiring a person to answer or answer further where any enactment or rule of law authorises or requires the refusal to answer any question on the ground that the answering of the question would be injurious to the public interest.

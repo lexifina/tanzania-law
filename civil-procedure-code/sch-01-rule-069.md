@@ -1,0 +1,2 @@
+# 69. Defaulting purchaser answerable for loss on resale
+Any deficiency of price which may happen on a re-sale by reason of the purchaser's default, and all expenses attending such re-sale, shall be certified to the court by the officer or other person holding the sale and shall, at the instance of either the decree-holder or the judgment debtor, be recoverable from the defaulting purchaser under the provisions relating to the execution of a decree for the payment of money.

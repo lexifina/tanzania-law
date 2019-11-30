@@ -1,0 +1,6 @@
+# 15. Procedure on receiving application for execution of decree
+(1) On receiving an application for the execution of a decree as provided by rule 10, sub-rule (2), the court shall ascertain whether such of the requirements or rules 10 to 12 as may be applicable to the case have been complied with; and, if they have not been complied with, the court may reject the application, or may allow the defect to be remedied then and there or within a time to be fixed by it.
+(2) Where an application is amended under the provisions of sub-rule (1), it shall be deemed to have been an application in accordance with law and presented on the date when it was first presented.
+(3) Every amendment made under this rule shall be signed or initialed by the judge or magistrate.
+(4) Where the application is admitted, the court shall enter in the proper register a note of the application and the date on which it was made and shall, subject to the provisions hereinafter contained, order execution of the decree according to the nature of the application:
+Provided that, in the case of a decree for the payment of money, the value of the property attached shall, as nearly as may be, correspond with the amount due under the decree.

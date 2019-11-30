@@ -1,0 +1,2 @@
+# 17. Suits of compensation for wrongs to person or movables
+Where a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the jurisdiction of one court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of another court, the suit may be instituted at the option of the plaintiff in either of the said courts.

@@ -1,0 +1,3 @@
+# 5. Delivery or transmission of summons for service
+(1) Where the defendant resides within the jurisdiction of the court in which the suit is instituted or has an agent resident within that jurisdiction who is empowered to accept service of the summons, the summons shall, unless the court otherwise directs, be delivered or sent to the proper officer to be served by him or one of his subordinates.
+(2) The proper officer may be an officer of a court other than that in which the suit is instituted and, where he is such an officer, the summons may be sent to him by post or in such other manner as the court may direct.

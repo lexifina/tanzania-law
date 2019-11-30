@@ -1,0 +1,3 @@
+# 51. Attachment of property in custody of court or public officer
+Where the property to be attached is in the custody of any court or public officer, the attachment shall be made by a notice to such court or officer, requesting that such property and any interest or dividend becoming payable thereon may be held subject to the further orders of the court from which the notice is issued:
+Provided that, where such property is in the custody of a court, any question of title or priority arising between the decree-holder and any other person, not being the judgment debtor, claiming to be interested in such property by virtue of any assignment, attachment or otherwise, shall be determined by such court.

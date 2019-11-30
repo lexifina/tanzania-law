@@ -1,0 +1,2 @@
+# 11. Where service may be made on any adult member of defendant's family
+Where in any suit the defendant is absent from his residence at the time when the service of the summons is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time and he has no agent empowered to accept service of the summons on his behalf, service may be made on any adult member of the family who is of sound mind, whether male or female, who, is residing with him.

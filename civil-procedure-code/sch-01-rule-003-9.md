@@ -1,0 +1,2 @@
+# 3. Plaintiff may bring a fresh suit or a court may restore the suit
+Where a suit is dismissed under rule 2, the plaintiff may (subject to the law of limitation) bring a fresh suit, or he may apply to set aside the dismissal order, and if he satisfies the court that there was good cause for his non-appearance, the court shall set aside the dismissal order and shall appoint a day for proceeding with the suit.

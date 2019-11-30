@@ -1,0 +1,5 @@
+# 17. Atendance for orders
+(1) The court shall, within fourteen days from the date of completion of the pleadings, on its own motion direct any party or parties to the proceedings to appear before it, for orders or directions in relation to any interim applications or other preliminary matters which the parties have raised or intend to raise as it deems fit, for the just, expeditious and economical disposal of the suit.
+(2) Upon hearing the parties on an interim application, the court shall deliver its ruling within a period of fourteen days and make such order as to costs as it considers just.
+(3) Where any party fails to appear under sub rule (1), the court may dismiss the suit, strike out the defence or counterclaim as the case may be or make such other order as it considers just.
+(4) Any order or direction given or made against any party who does not appear before the court when directed to do so under sub-rule (1), may be set aside or varied by the court on such terms as it considers just upon an application within thirty days.

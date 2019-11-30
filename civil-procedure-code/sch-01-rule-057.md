@@ -1,0 +1,4 @@
+# 57. Investigation of claims to, and objections to attachment of, attached property and postponement of sale
+(1) Where any claim is preferred to, or any objection is made to the attachment of, any property attached in execution of a decree on the ground that such property is not liable to such attachment, the court shall proceed to investigate the claim or objection with the like power as regards the examination of the claimant or objector and in all other respects, as if he was a party to the suit:
+Provided that, no such investigation shall be made where the court considers that the claim or objection was designedly or unnecessarily delayed.
+(2) Where the property to which the claim or objection applies has been advertised for sale, the court ordering the sale may postpone it pending the investigation of the claim or objection.

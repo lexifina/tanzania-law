@@ -1,0 +1,3 @@
+# 1. Summons to file a written statement of defence
+(1) Where a suit has been duly instituted, a summons may be issued to the defendant at the time when the suit is assigned to a specific Judge or Magistrate pursuant to the provisions of rule 3 of Order IV, to file in accordance with sub rule (1) of rule 1 of Order VIII, a written statement of defence to the claim.
+(2) Where a summons to file a written statement of defence has not been effected in consequence of the plaintiff s failure to pay service fees or to effect service within the time provided under rule 10 of this Order, the court shall strike out the suit.

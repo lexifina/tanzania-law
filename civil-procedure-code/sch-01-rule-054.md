@@ -1,0 +1,6 @@
+# 54. Removal of attachment after satisfaction of decree
+Where—
+(a) the amount decreed with costs and all charges and expenses resulting from the attachment of any property are paid into court;
+(b) satisfaction of the decree is otherwise made through the court or certified to the court; or
+(c) the decree is set aside or reversed,
+the attachment shall be deemed to be withdrawn, and, in the case of immovable property, the withdrawal shall, if the judgment debtor so desires, be proclaimed at his expense, and a copy of the proclamation shall be affixed in the manner prescribed by rule 53.

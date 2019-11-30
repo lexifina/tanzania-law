@@ -1,0 +1,2 @@
+# 3. Pleading to state material facts and not evidence
+Every pleading shall contain, and contain only, a statement in a concise form of the material facts on which the party pleading relies for his claim or defence, as the case may be, but not the evidence by which they are to be proved, and shall, when necessary, be divided into paragraphs, numbered consecutively; and dates, sums and numbers may be expressed in figures.

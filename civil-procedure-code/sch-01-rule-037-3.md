@@ -1,0 +1,2 @@
+# 37. Certified copy of decree to be sent to court whose decree appealed from
+A copy of the judgment and of the decree, certified by the Court or such officer as it appoints in this behalf, shall be sent to the court which passed the decree appealed from and shall be filed with the original proceedings in the suit, and an entry of the judgment of the Court shall be made in the register of civil suits

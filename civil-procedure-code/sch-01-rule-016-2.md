@@ -1,0 +1,4 @@
+# 16. Substituted service
+(1) Where the court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service or that, for any other reason, the summons cannot be served in the ordinary way, the court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the court-house and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain or in such other manner as the court thinks fit.
+(2) Service substituted by order of the court shall be as effectual as if it had been made on the defendant personally.
+(3) Where service is substituted by order of the court, the court shall fix such time for the appearance of the defendant as the case may require.

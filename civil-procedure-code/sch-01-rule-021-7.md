@@ -1,0 +1,2 @@
+# 21. Re-hearing on application of respondent against whom ex parte decree made
+Where an appeal is heard ex parte and judgment is pronounced against the respondent, he may apply to the Court to re-hear the appeal; and, if he satisfies the Court that the notice was not duly served or that he was prevented by sufficient cause from appearing when the appeal was called on for hearing, the Court shall re-hear the appeal on such terms as to costs or otherwise as it thinks fit to impose upon him.

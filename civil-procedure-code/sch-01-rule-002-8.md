@@ -1,0 +1,2 @@
+# 2. New facts and preliminary Objections must be specifically pleaded
+The defendant must raise by his pleading all matters which show the suit not be maintainable, or that the transaction is either void or voidable in point of law, and all such grounds of defence as, if not raised, would be likely to take the opposite party by surprise, or would raise issues of fact not arising out of the plaint, as, for instance, fraud, limitation, release, payment, performance, or facts showing illegality.

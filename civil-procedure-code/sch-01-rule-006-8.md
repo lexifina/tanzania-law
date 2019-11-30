@@ -1,0 +1,3 @@
+# 6. Decree against plaintiff by default bars fresh suit
+(1) Where a suit is wholly or partly dismissed under rule 8, the plaintiff shall be precluded from bringing a fresh suit in respect of the same cause of action, but he may apply for an order to set the dismissal aside and, if he satisfies the court that there was sufficient cause for his nonappearance when the suit was called on for hearing, the court shall make an order setting aside the dismissal upon such terms as to costs or otherwise as it thinks fit and shall appoint a day for proceeding with the suit.
+(2) No order shall be made under this rule unless notice of the application has been served on the opposite party.

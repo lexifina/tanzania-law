@@ -1,0 +1,2 @@
+# 18. Failure to amend after order
+Where a party who has obtained an order for leave to amend does not amend accordingly within the time limited for that purpose by the order, or if no time is thereby limited then within fourteen days from the date of the order, he shall not be permitted to amend after the expiration of such limited time as aforesaid or of such fourteen days, as the case may be, unless the time is extended by the court.

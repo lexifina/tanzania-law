@@ -1,0 +1,3 @@
+# 88. Application to set aside sale on ground of irregularity or fraud
+(1) Where any immovable property has been sold in execution of a decree, the decree-holder, or any person entitled to share in rateable distribution of assets, or whose interests are affected by the sale, may apply to the court to set aside the sale on the ground of a material irregularity or fraud in publishing or conducting it:
+Provided that, no sale shall be set aside on the ground of irregularity or fraud unless upon the facts proved the court is satisfied that the applicant has sustained substantial injury by reason of such irregularity or fraud.

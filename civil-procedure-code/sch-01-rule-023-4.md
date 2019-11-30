@@ -1,0 +1,3 @@
+# 23. Endorsement on process
+(1) The officer entrusted with the execution of the process shall endorse thereon the day on, and the manner in, which it was executed, and, if the latest day specified in the process for the return thereof has been exceeded, the reason of the delay, or, if it was not executed, the reason why it was not executed, and shall return the process with such endorsement to the court.
+(2) Where the endorsement is to the effect that such officer is unable to execute the process, the court shall examine him touching his alleged inability, and may, if it thinks fit, summon and examine witnesses as to such inability, and shall record the result.

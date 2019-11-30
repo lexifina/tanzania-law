@@ -1,0 +1,2 @@
+# 12. Implied contract or relation
+Wherever any contract or any relation between any person is to be implied from a series of letters or conversations or otherwise from a number of circumstances, it shall be sufficient to allege such contract or relation as a fact, and to refer generally to such letters, conversation or circumstances without setting them out in detail. And if in such case the person so pleading desires to rely in the alternative upon more contracts or relations than one as to be implied from such circumstance, he may state the same in the alternative.

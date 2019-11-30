@@ -1,0 +1,2 @@
+# 8. Extension of time for making award
+Where the arbitrators or the umpire cannot complete the award within the period specified in the order, the court may, if it thinks fit, either allow further time, and from time to time, either before or after the expiration of the period fixed for the making of the award, enlarge such period or may make an order superseding the arbitration, and in such case shall proceed with the suit.

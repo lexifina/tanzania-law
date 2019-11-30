@@ -1,0 +1,2 @@
+# 67. Time of sale
+Save in the case of property of the kind described in the proviso to rule 44, no sale hereunder shall, without the consent in writing of the judgment debtor, take place until after the expiration of at least thirty days in the case of immovable property, and of at least fifteen days in the case of movable property, calculated from the date on which the copy of the proclamation has been affixed on the courthouse of the judge or magistrate ordering the sale.

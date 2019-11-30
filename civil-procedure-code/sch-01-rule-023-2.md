@@ -1,0 +1,3 @@
+# 23. Duty of person to whom summons is delivered or sent for service
+(1) Where the original and a copy of a summons are delivered or sent to any person for service under rule 20, rule 21 or rule 22, such person shall be bound to serve the summons, if possible and within fourteen days after service to return it under his signature, with a written acknowledgement of the defendant or, if there is no such acknowledgement, with a certificate of service, and such signature or certificate shall be deemed to be evidence of service.
+(2) Where from any cause service is impossible, the summons shall be returned to the court with a full statement of such cause and of the steps taken to procure service, and such statement shall be deemed to be evidence of non-service.

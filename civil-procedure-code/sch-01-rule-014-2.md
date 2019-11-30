@@ -1,0 +1,2 @@
+# 14. Endorsement of time and manner of service
+The serving officer shall, within fourteen days of service in all cases in which the summons has been served under rule 12, endorse or annex, or cause to be endorsed or annexed, on or to the original summons, a return stating the time when and the manner in which the summons was served, and the name and address of the person (if any) identifying the person served and witnessing the delivery or tender of the summons.

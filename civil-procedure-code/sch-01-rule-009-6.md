@@ -1,0 +1,3 @@
+# 9. Setting aside decree or judgment ex parte against defendant
+In any case in which a decree is passed ex parte against a defendant, he may apply to the court by which the decree was passed for an order to set it aside; and if he satisfies the court that he was prevented by any sufficient cause from appearing when the suit was called on for hearing, the court shall make an order setting aside the decree as against him upon such terms as to costs, payment into court or otherwise as it thinks fit, and shall appoint a day for proceeding with the suit:
+Provided that, where the decree is of such a nature that it cannot be set aside as against such defendant only it may be set aside as against all or any of the other defendants also.

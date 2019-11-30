@@ -1,0 +1,2 @@
+# 33. Power of High Court
+The Court shall have power to pass any decree and make any order which ought to have been passed or made and to pass or make such further or other decree or order as the case may require, and this power may be exercised by the Court notwithstanding that the appeal is as to part only of the decree and may be exercised in favour of all or any of the respondents or parties, although such respondents or parties may not have filed any appeal or objection.

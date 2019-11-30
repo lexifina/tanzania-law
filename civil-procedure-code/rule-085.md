@@ -1,0 +1,4 @@
+# 85. Exemption from arrest under civil process
+(1) No judge, magistrate or other judicial officer shall be liable to arrest under civil process while going to, presiding in, or returning from, his court.
+(2) Where any matter is pending before a tribunal having jurisdiction therein, or believing in good faith that it has such jurisdiction, the parties thereto, their advocates and recognised agents, and their witnesses, acting in obedience to a summons, shall be exempt from arrest under civil process other than process issued by such tribunal for contempt of court while going to or attending such tribunal for the purpose of such matter, and while returning from such tribunal.
+(3) Nothing in subsection (2) shall enable a judgment debtor to claim exemption from arrest under an order for immediate execution or where such judgment debtor attends to show cause why he should not be committed to prison in execution of a decree.

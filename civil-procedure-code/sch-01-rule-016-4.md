@@ -1,0 +1,2 @@
+# 16. Suits on lost negotiable instruments
+Where the suit is founded upon a negotiable instrument and it is proved that the instrument is lost and an indemnity is given by the plaintiff, to the satisfaction of the court, against the claims of any other person upon such instrument, the court may pass such decree as it would have passed if the plaintiff had produced the instrument in court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.

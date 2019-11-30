@@ -1,0 +1,4 @@
+# 14. Failure to present written statement of defence
+(1) Where any party required to file a written statement of defence fails to do so within the specified period or where such period has been extended in accordance with sub rule 3 of rule 1, within the period of such extension, the court shall, upon proof of service and on oral application by the plaintiff to proceed ex parte, fix the date for hearing the plaintiff s evidence on the claim.
+(2) Where before ex-parte judgment has been entered pursuant to sub-rule (1) the court may, if the defendant assigns good cause, set aside the order to proceed ex parte, upon such terms as the court may direct as to costs or otherwise.
+(3) The decree obtained under this rule shall not be executed until after the expiry of the period of sixty days from the date of judgment.

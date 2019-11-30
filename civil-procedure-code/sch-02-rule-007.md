@@ -1,0 +1,3 @@
+# 7. Summoning witnesses and default
+(1) The court shall issue the same processes to the parties and witnesses whom the arbitrator or umpire desires to examine, as the court may issue in suits tried before it.
+(2) Persons not attending in accordance with such process, or making any other default, or refusing to give their evidence, or guilty of any contempt to the arbitrator or umpire during the investigation of the matters referred, shall be subject to the like disadvantages, penalties and punishments, by order of the court on the representation of the arbitrator or umpire, as they would incur for the like offences in suits tried before the court.

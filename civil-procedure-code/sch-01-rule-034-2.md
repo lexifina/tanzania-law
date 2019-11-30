@@ -1,0 +1,2 @@
+# 34. Decree for delivery of immovable property when in occupancy of tenant
+Where a decree is for the delivery of any immovable property in the occupancy of a tenant or other person entitled to occupy the same and not bound by the decree to relinquish such occupancy, the court shall order delivery to be made by affixing a copy of the warrant in some conspicuous place on the property and proclaiming to the occupant the substance of the decree by such means as are used locally to make public pronouncements.

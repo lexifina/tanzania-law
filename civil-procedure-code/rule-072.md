@@ -1,0 +1,4 @@
+# 72. Decision where appeal heard by two or more judges
+(1) Where an appeal is heard by a Bench of two or more judges, the appeal shall be decided in accordance with the opinion of such judges or of the majority (if any) of such judges.
+(2) Where there is no such majority which concurs in a judgment varying or reversing the decree appealed from, such decree shall be confirmed:
+Provided that, where the bench hearing the appeal is composed of two judges and the judges composing the bench differ in opinion on a point of law, they may state the point of law upon which they differ, and the appeal shall then be heard upon that point only by one or more of the other judges, and such point shall be decided according to the opinion of the majority (if any) of the judges who have heard the appeal including those who first heard it.

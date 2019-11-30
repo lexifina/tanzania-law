@@ -1,0 +1,4 @@
+# 14. Application for execution by transferee of decree
+Where a decree or, if a decree has been passed jointly in favour of two or more persons, the interest of any decree-holder in the decree, is transferred by assignment in writing or by operation of law, the transferee may apply for execution of the decree to the court which passed it, and the decree may be executed in the same manner and subject to the same conditions as if the application were made by such decree-holder:
+Provided that, where the decree or such interest as aforesaid has been transferred by assignment, notice of such application shall be given to the transferor and the judgment debtor, and the decree shall not be executed until the court has heard their objections (if any) to its execution:
+Provided also that, where a decree for the payment of money against two or more persons has been transferred to one of them, it shall not be executed against the others.

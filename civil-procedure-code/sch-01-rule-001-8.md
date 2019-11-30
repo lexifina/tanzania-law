@@ -1,0 +1,5 @@
+# 1. Written statement of defence
+(1) Where a summons to file a defence has been served in accordance with Order V and the defendant wishes to defend the suit, he shall within twenty-one days from the date of service of the summons, file to the court a written statement of defence and enter appearance on the date specified in the summons.
+(2) The provisions of rule 1 of Order VII shall apply mutatis mutandis in respect to filing a written statement of defence.
+(3) The court may, on application by the defendant before the expiry of the period provided for filing a written statement of defence or within seven (7) days after expiry of that period and upon the defendant showing good cause for failure to file such written statement of defence, extend time within which the defence has to be filed for another ten days and the ruling to that effect shall be delivered within 21 days.
+(4) The extended ten days under sub-rule (3) shall be counted from the date of the order of the court for extension of time.

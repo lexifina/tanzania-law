@@ -1,0 +1,2 @@
+# 63. Power to order property attached to be sold and proceeds to be paid to person entitled
+Any court executing a decree may order that any property attached by it and liable to sale, or such portion thereof as may seem necessary to satisfy the decree, shall be sold, and that the proceeds of such sale, or a sufficient portion thereof, shall be paid to the party entitled under the decree to receive the same.

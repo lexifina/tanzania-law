@@ -1,0 +1,2 @@
+# 17. Defence by third party
+Where a third party notice has been served on the third party, the third party shall, if he wishes to dispute the plaintiff's claim in the suit against the defendant presenting the third party notice or his own liability to the defendant, within twenty-one days of the service of the third party notice upon him or such longer period as the court may have directed or as the court may, on the application of the third party, direct, present to the court a written statement of his defence.

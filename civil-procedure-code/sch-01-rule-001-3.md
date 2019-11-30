@@ -1,0 +1,3 @@
+# 1. Appearances, etc., may be in person, by recognised agent or by advocate
+Any appearance, application or act in or to any court, required or authorised by law to be made or done by a party in such court may, except where otherwise expressly provided by any law for the time being in force, be made or done by the party in person or by his recognised agent or by an advocate duly appointed to act on his behalf or, where the Attorney-General is a party, by a public officer duly authorised by him in that behalf:
+Provided that, any such appearance shall, if the court so directs, be made by the party in person.

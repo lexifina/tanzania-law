@@ -1,0 +1,3 @@
+# 17. Production of shop book and original entry to be marked and returned
+(1) Save in so far as is otherwise provided by the Evidence Act, where the document on which the plaintiff sues is an entry in a shop book or other account in his possession or power, the plaintiff shall produce the book or account at the time of filing the plaint, together with a copy of the entry on which he relies.
+(2) The court or such officer as it appoints in this behalf, shall forthwith mark the document for the purpose of identification; and, after examining and comparing the copy with the original shall, if it is found correct, certify it to be so and return the book to the plaintiff and cause the copy to be filed.

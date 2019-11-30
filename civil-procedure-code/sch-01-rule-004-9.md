@@ -1,0 +1,3 @@
+# 4. Consequence of refusal or inability of advocate to answer
+(1) Where the advocate of any party who appears by an advocate or any such person accompanying an advocate as is referred to in rule 2 refuses or is unable to answer any material question relating to the suit which the court is of opinion that the party whom he represents ought to answer, and is likely to be able to answer if interrogated in person, the court may postpone the hearing of the suit to a future day and direct that such party shall appear in person on such day.
+(2) If such party fails without lawful excuse to appear in person on the day so appointed, the court may pronounce judgment against him or make such order in relation to the suit as it thinks fit.

@@ -1,0 +1,2 @@
+# 5. Procedure where defendant only appears
+Where the defendant appears and the plaintiff does not appear when the suit is called on for hearing, the court shall make an order that the suit be dismissed unless the defendant admits the claim, or part thereof, in which case the court shall pass a decree against the defendant upon such admission and, where part only of the claim has been admitted, shall dismiss the suit so far as it relates to the remainder.

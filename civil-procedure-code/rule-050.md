@@ -1,0 +1,3 @@
+# 50. Property attached in execution of decrees of several courts
+(1) Where property not in the custody of any court is under attachment in execution of decrees of more courts than one, the court which shall receive or realise such property and shall determine any claim thereto and any objection to the attachment thereof shall be the court of the highest grade, or, where there is no difference in grade between such courts, the court under whose decree the property was first attached.
+(2) Nothing in this section shall be deemed to invalidate any proceeding taken by a court executing one of such decrees.

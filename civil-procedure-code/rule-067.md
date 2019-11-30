@@ -1,0 +1,10 @@
+# 67. Public charities
+In the case of any alleged breach of any express or constructive trust created for public purposes of a charitable or religious nature, or where the direction of the court is deemed necessary for the administration of any such trust, the Attorney-General, or two or more persons having an interest in the trust and having obtained the consent in writing of the Attorney-General, may institute a suit, whether contentious or not, in the High Court to obtain a decree—
+(a) removing any trustee;
+(b) appointing a new trustee;
+(c) vesting any property in a trustee;
+(d) directing accounts and inquiries;
+(e) declaring what proportion of the trust property or of the interest therein shall be allocated to any particular object of the trust;
+(f) authorising the whole or any part of the trust property to be let, sold, mortgaged or exchanged;
+(g) settling a scheme; or
+(h) granting such further or other relief as the nature of the case may require

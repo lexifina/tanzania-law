@@ -1,0 +1,2 @@
+# 4. Evasive denial
+Where a defendant denies an allegation of fact in the plaint, he must not do so evasively, but answer the point of substance. thus, if it is alleged that he received a certain sum of money, it shall not be sufficient to deny that he received that particular amount, but he must deny that he received that sum or any part thereof or else set out how much he received. And if an allegation is made with diverse circumstances, it shall not be sufficient to deny it along with those circumstances.

@@ -1,0 +1,2 @@
+# 5. Claims by or against executor, administrator or heir
+A claim by or against an executor, administrator or heir, as such shall not be joined with claims by or against him personally, unless the last-mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or such as he was entitled to, or liable for, jointly with the deceased person whom he represents.

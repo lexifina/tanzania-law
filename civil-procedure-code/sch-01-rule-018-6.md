@@ -1,0 +1,2 @@
+# 18. Noncompliance with order for discovery
+Where any party fails to comply with any order to answer interrogatories or for discovery or inspection of documents, he shall, if a plaintiff, be liable to have his suit dismissed for want of prosecution and if a defendant, to have his defence, if any, struck out, and to be placed in the same position as if he had not defended, and the party interrogating or seeking discovery or inspection may apply to the court for an order to that effect and an order may be made accordingly.

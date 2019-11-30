@@ -1,0 +1,3 @@
+# 12. Procedure if witness fails to appear
+The court may, where such person does not appear, or appears but fails so to satisfy the court, impose upon him, such fine not exceeding one thousand shillings as it thinks fit, having regard to his condition in life and all the circumstance of the case, and may order his property, or any part thereof, to be attached and sold or, if already attached under rule 10, to be sold for the purpose of satisfying all costs of such attachment, together with the amount of the said fine if any—
+Provided that, if the person whose attendance is required pays into court the costs and fine aforesaid, the court shall order the property to be released from attachment.

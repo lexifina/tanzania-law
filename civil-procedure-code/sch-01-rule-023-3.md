@@ -1,0 +1,2 @@
+# 23. Prohibition of amendment to scheduling order
+Where a scheduling conference order is made, no departure from or amendment of such order shall be allowed unless the court is satisfied that such departure or amendment is necessary in the interests of justice and the party in favour of whom such departure or amendment is made shall bear the costs of such departure or amendment, unless the court directs otherwise.

@@ -1,0 +1,2 @@
+# 76. Irregularity not to vitiate sale, but any person injured may sue
+No irregularity in publishing or conducting the sale of movable property shall vitiate the sale; but any person sustaining any injury by reason of such irregularity at the hand of any other person may institute a suit against him for compensation or (if such other person is the purchaser) for the recovery of the specific property and for compensation in default of such recovery.

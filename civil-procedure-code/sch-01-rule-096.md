@@ -1,0 +1,2 @@
+# 96. Resistance or obstruction by judgment debtor
+Where the court is satisfied that the resistance or obstruction was occasioned without any just cause by the judgment debtor or by some other person at his instigation, it shall direct that the applicant be put into possession of the property, and where the applicant is still resisted or obstructed in obtaining possession, the court may also, at the instance of the applicant, order the judgment debtor, or any person acting at his instigation, to be detained as a civil prisoner for a term which may extend to thirty days.

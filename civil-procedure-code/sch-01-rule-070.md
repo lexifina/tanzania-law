@@ -1,0 +1,4 @@
+# 70. Decree-holder not to bid for or buy property without permission
+(1) No holder of a decree in execution of which property is sold shall, without the express permission of the court, bid for or purchase the property.
+(2) Where a decree-holder purchases with such permission, the purchase money and the amount due on the decree may, subject to the provisions of section 54, be set off against one another, and the court executing the decree shall enter up satisfaction of the decree in whole or in part accordingly.
+(3) Where a decree-holder purchases, by himself or through another person, without such permission, the court may, if it thinks fit, on the application of the judgment debtor or any other person whose interests are affected by the sale, by order set aside the sale; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.

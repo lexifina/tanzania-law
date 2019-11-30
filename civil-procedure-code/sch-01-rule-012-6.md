@@ -1,0 +1,3 @@
+# 12. Production of documents
+It shall be lawful for the court, at any time during the pendency of any suit to order the production, by any party thereto upon oath, of such of the documents in his possession or power, relating to any matter in question in such suit, as the court shall think right; and the court may deal with such documents when produced, in such manner as shall appear just:
+Provided that, production shall not be ordered of a document where any enactment or rule of law authorises or requires the withholding of the document on the ground that the disclosure of the document would be injurious to the public interest.

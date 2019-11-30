@@ -1,0 +1,3 @@
+# 35. Discretionary power to permit judgment debtor to show cause against detention in prison
+(1) Notwithstanding anything in these rules, where an application is for the execution of a decree for the payment of money by the arrest and detention as a civil prisoner of a judgment debtor who is liable to be arrested in pursuance of the application, the court may, instead of issuing a warrant for his arrest, issue a notice calling upon him to appear before the court on a day to be specified in the notice and show cause why he should not be committed to prison.
+(2) Where appearance is not made in obedience to the notice, the court shall, if the decree-holder so requires, issue a warrant for the arrest of the judgment debtor.

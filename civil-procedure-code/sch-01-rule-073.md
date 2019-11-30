@@ -1,0 +1,3 @@
+# 73. Special provisions relating to growing crops
+(1) Where the property to be sold is a growing crop and the crop from its nature admits of being stored but has not yet been stored, the day of the sale shall be so fixed as to admit of its being made ready for storing before the arrival of such day, and the sale shall not be held until the crop has been cut or gathered and is ready for storing.
+(2) Where the crop from its nature does not admit of being stored, it may be sold before it is cut and gathered and the purchaser shall be entitled to enter on the land and to do all that is necessary for the purpose of tending and cutting or gathering it.

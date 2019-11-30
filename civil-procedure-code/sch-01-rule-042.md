@@ -1,0 +1,3 @@
+# 42. Attachment of movable property, other than agricultural produce, in possession of judgment debtor
+Where the property to be attached is movable property, other than agricultural produce, in the possession of the judgment debtor, the attachment shall be made by actual seizure and the attaching officer shall keep the property in his own custody or in the custody of one of his subordinates, and shall be responsible for the due custody thereof:
+Provided that, when the property seized is subject to speedy and natural decay, or when the expense of keeping it in custody is likely to exceed its value, the attaching officer may sell it at once.

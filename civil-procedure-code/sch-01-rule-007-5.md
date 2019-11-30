@@ -1,0 +1,2 @@
+# 7. Relief to be specifically stated
+Every plaint shall state specifically the relief which the plaintiff claims either simply or in the alternative, and it shall not be necessary to ask for general or other relief which may always be given as the court may think just to the same extent as if it had been asked for; and this rule shall apply to any relief claimed by the defendant in his written statement.

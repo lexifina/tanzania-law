@@ -1,0 +1,4 @@
+# 10. Court may send for papers from its own records or from other courts
+(1) The court may of its own motion, and may in its discretion upon the application of any of the parties to a suit, send for, either from its own records or from any other court, the record of any other suit or proceeding, and inspect the same.
+(2) Every application made under this rule shall (unless the court otherwise directs) be supported by an affidavit showing how the record is material to the suit in which the application is made, and that the applicant cannot without unreasonable delay or expense obtain a duly authenticated copy of the record or of such portion thereof as the applicant requires, or that the production of the original is necessary for the purposes of justice.
+(3) Nothing contained in this rule shall be deemed to enable the court to use in evidence any document which under the law of evidence would be inadmissible in the suit.

@@ -1,0 +1,2 @@
+# 20. Power to adjourn hearing and direct persons appearing interested to be made respondents
+Where it appears to the Court at the hearing that any person who was a party to the suit in the court from whose decree the appeal is preferred, but who has not been made a party to the appeal, is interested in the result of the appeal, the Court may adjourn the hearing to a future day to be fixed by the Court and direct that such person be made a respondent.

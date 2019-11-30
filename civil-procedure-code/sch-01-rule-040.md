@@ -1,0 +1,4 @@
+# 40. Final pre-trial conference
+(1) Where a suit is not resolved by negotiation, conciliation, mediation or arbitration or other similar alternative procedure it shall revert to the trial judge or magistrate for a final pre-trial settlement and scheduling conference, to enable the court to schedule the future events and steps which are bound or likely to arise in the conduct of the case, including framing of issues and the date or dates for trial.
+(2) In making a final pre-trial conference order, the court shall be guided by the speed track to which the specific case is allocated.
+(3) The final pre-trial settlement and scheduling conference shall be held within a period of fourteen days from the date when negotiation, conciliation, mediation or arbitration or other similar procedures failed.

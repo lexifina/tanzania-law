@@ -1,0 +1,4 @@
+# 30. Costs
+(1) Subject to such conditions and limitations as may be prescribed and to the provisions of any law from the time being in force, the costs of, and incidental to, all suits shall be in the discretion of the court and the court shall have full power to determine by whom or out of what property and to what extent such costs are to be paid, and to give all necessary directions for the purposes aforesaid; and the fact that the court has no jurisdiction to try the suit shall be no bar to the exercise of such powers.
+(2) Where the court directs that any costs shall not follow the event, the court shall state its reasons in writing.
+(3) The court may give interest on costs at any rate not exceeding seven percent per annum and such interest shall be added to the costs and shall be recoverable as such.

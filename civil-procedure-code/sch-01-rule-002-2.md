@@ -1,0 +1,4 @@
+# 2. Suit to include whole claim, relinquishment of part of claim and omission to sue for one of several reliefs
+(1) Every suit shall include the whole of the claim which the plaintiff is entitled to make in respect of the cause of action; but a plaintiff may relinquish any portion of his claim in order to bring the suit within the jurisdiction of any court.
+(2) Where a plaintiff omits to sue in respect of, or intentionally relinquishes, any portion of his claim, he shall not afterwards sue in respect of the portion so omitted or relinquished.
+(3) A person entitled to more than one relief in respect of the same cause of action may sue for all or any of such reliefs; but if he omits, except with the leave of the court, to sue for all such reliefs, he shall not afterward sue for any relief so omitted.

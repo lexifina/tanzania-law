@@ -1,0 +1,2 @@
+# 36. Powers of court in executing transferred decree
+The court executing a decree sent to it shall have the same powers in executing such decree as if it had been passed by itself; and all persons disobeying or obstructing the execution of the decree shall be punishable by such court in the same manner as if it had passed the decree and its order in executing such decree shall be subject to the same rules in respect of appeal as if the decree had been passed by itself.

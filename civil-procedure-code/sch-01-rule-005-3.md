@@ -1,0 +1,2 @@
+# 5. Service of process on advocate
+Any process served on the advocate of any party or left at the office or ordinary residence of such advocate, and whether the same is for the personal appearance of the party or not, shall be presumed to be duly communicated and made known to the party whom the advocate represents and, unless the court otherwise directs, shall be as effectual for all purposes as if the same had been given to or served on the party in person.

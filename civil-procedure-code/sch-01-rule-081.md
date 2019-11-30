@@ -1,0 +1,6 @@
+# 81. Postponement of sale to enable judgment debtor to raise amount of decree
+(1) Where an order for the sale of immovable property has been made, if the judgment debtor can satisfy the court that there is reason to believe that the amount of the decree may be raised by the mortgage or lease or private sale of such property, or some part thereof, or of any other immovable property of the judgment debtor, the court may, on his application, postpone the sale of the property comprised in the order for sale on such terms and for such period as it thinks proper, to enable him to raise the amount.
+(2) In such case the court shall grant a certificate to the judgment debtor authorising him within a period to be mentioned therein, and notwithstanding anything contained in section 51, to make the proposed mortgage, lease or sale:
+Provided that, all moneys payable under such mortgage, lease or sale shall be paid not to the judgment debtor, but, save in so far as a decree-holder is entitled to set off such money under the provisions of rule 70, into court:
+Provided also that, no mortgage, lease or sale under this rule shall become absolute until it has been confirmed by the court.
+(3) Nothing in this rule shall be deemed to apply to a sale of property directed to be sold in execution of a decree for sale in enforcement of a mortgage of, or charge on, such property.

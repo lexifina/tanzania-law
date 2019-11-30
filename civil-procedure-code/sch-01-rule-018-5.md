@@ -1,0 +1,4 @@
+# 18. Pre-trial conference to be held when directed by the court
+(1) Without prejudice to rule 17 of Order VIII, at any time before any case is tried, the court may direct parties to attend a pre-trial conference relating to the matters arising in the suit or proceedings.
+(2) The court may, at the pre-trial conference, consider any matter including the possibility of settlement of all or any of the issues in the suit or proceedings and require the parties to furnish the court with any such information as it considers fit, and may give all such directions as it appears necessary or desirable for securing a just, expeditious and economical disposal of the suit or proceedings.
+(3) The court may, at any time during the pre-trial conference where the parties are agreeable to a settlement of some or all of the matters in dispute in the suit or proceedings, enter judgment in the suit or proceedings or make such order to give effect to the settlement.

@@ -1,0 +1,3 @@
+# 57. Commission to another court
+(1) A commission for the examination of any person may be issued to any court (other than the High Court) in Tanzania having jurisdiction in the place in which the person to be examined resides.
+(2) Every court receiving a commission for the examination of any person under subsection (1) shall examine him or cause him to be examined pursuant thereto, and the commission, when it has been duly executed, shall be returned together with the evidence taken under it to the court from which it was issued, unless the order for issuing the commission has otherwise directed, in which case the commission shall be returned in terms of such order.

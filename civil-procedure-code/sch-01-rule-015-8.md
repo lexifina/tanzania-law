@@ -1,0 +1,2 @@
+# 15. Decree in suit for dissolution of partnership
+Where a suit is for the dissolution of a partnership, or the taking of partnership accounts, the court, before passing a final decree, may pass a preliminary decree declaring the proportionate shares of the parties, fixing the day on which the partnership shall stand dissolved or be deemed to have been dissolved and directing such accounts to be taken and other acts to be done as it thinks fit.

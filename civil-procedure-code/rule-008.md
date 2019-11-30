@@ -1,0 +1,2 @@
+# 8. Stay of suit
+No court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, or between parties under whom they or any of them claim litigating under the same title where such suit is pending in the same or any other court in Tanzania having jurisdiction to grant the relief claimed.

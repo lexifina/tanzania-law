@@ -1,0 +1,6 @@
+# 90. Enforcement of liability of surety
+Where any person has become liable as surety—
+(a) for the performance of any decree or any part thereof;
+(b) for the restitution of any property taken in execution of a decree; or
+(c) for the payment of any money or for the fulfilment of any condition imposed on any person, under an order of the court in any suit or in any proceeding consequent thereon,
+the decree or order may be executed against him to the extent to which he has rendered himself personally liable, in the manner herein provided for the execution of decrees, and such person shall, for the purposes of appeal, be deemed a party within the meaning of section 38, provided that such notices as the court in each case thinks sufficient has been given to the surety.

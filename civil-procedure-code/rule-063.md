@@ -1,0 +1,3 @@
+# 63. Where interpleader suit may be instituted
+Where two or more persons claim adversely to one another the same debt, sum of money or other property, movable or immovable, from another person who claims no interest therein other than for charges or costs and who is ready to pay or deliver it to the rightful claimant, such other person may institute a suit of interpleader against all the claimants for the purpose of obtaining a decision as to the person to whom the payment or delivery shall be made and of obtaining indemnity for himself:
+Provided that, where any suit is pending in which the rights of parties can properly be decided, no such suit of interpleader shall be instituted.

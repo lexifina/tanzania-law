@@ -1,0 +1,2 @@
+# 4. Procedure where defendant appears on day of adjourned hearing and assigns good cause for previous non-appearance
+Where the court has adjourned the hearing of the suit exparte and the defendant at or before such hearing, appears and assigns good cause for his previous nonappearance, he may, upon such terms as the court may direct as to cost or otherwise, be heard in answer to the suit as if he had appeared on the date fixed for his appearance.

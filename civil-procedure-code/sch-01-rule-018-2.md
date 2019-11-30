@@ -1,0 +1,3 @@
+# 18. Service of summons where defendant resides within jurisdiction of another court
+(1) The original and a copy of a summons may be sent by the court by which it is issued either by one of its officers or by post to any court (not being the High Court) having jurisdiction in the place where the defendant resides.
+(2) Where the defendant resides within the jurisdiction of the High Court of Zanzibar the original and a copy of the summons may be sent by the court by which it is issued either by one of its officers or by post to the High Court of Zanzibar or to any court subordinate thereto within whose jurisdiction the defendant resides for service on the defendant.

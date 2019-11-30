@@ -1,0 +1,2 @@
+# 29. Interest on judgment debts
+The Chief Justice may make rules prescribing the rate of interest which shall be carried by judgment debts and, without prejudice to the power of the court to order interest to be paid upon to date of judgment at such rates as it may deem reasonable, every judgment debt shall carry interest at the rate prescribed from the date of the delivery of the judgment until the same shall be satisfied.

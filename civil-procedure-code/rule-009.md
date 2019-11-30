@@ -1,0 +1,2 @@
+# 9. Res judicata
+No court shall try any suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties or between parties under whom they or any of them claim litigating under the same title in a court competent to try such subsequent suit or the suit in which such issue has been subsequently raised and has been heard and finally decided by such court.

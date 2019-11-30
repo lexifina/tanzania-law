@@ -1,0 +1,2 @@
+# 24. Where evidence on record sufficient, High Court may determine case finally
+Where the evidence upon the record is sufficient to enable the Court to pronounce judgment, the Court may, after re-settling the issues, if necessary, finally determine the suit, notwithstanding that the judgment of the court from whose decree the appeal is preferred has proceeded wholly upon some ground other than that on which the Court proceeds.

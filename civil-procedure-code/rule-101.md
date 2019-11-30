@@ -1,0 +1,4 @@
+# 101. Forms
+(1) Subject to any prescribed forms, the Chief Justice may approve for use forms for applications, proceedings, processes, notices, orders, decrees, precepts, memoranda, bonds, commissions, letters of request or other documents required to be prepared, executed, filed, issued or otherwise used in connection with proceedings under this Code.
+(2) Where any form is prescribed or approved for use by the Chief Justice it shall be followed in all such cases to which it applies with such variations as the circumstances of the case require.
+(3) All forms heretofore in use in connection with proceedings under the Indian Code of Civil Procedure, 1908, as in force in Tanzania shall, where applicable and subject to such variations as may be necessary, be deemed to be forms approved by the Chief Justice for use in connection with proceedings under this Code until replaced by forms prescribed or approved by the Chief Justice under subsection (1).
