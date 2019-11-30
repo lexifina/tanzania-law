@@ -1,0 +1,3 @@
+# 21D. Offences and penalties
+(1) Any person who contravenes any provision of this Act to which no specific penalty is prescribed, shall be liable on conviction to a fine of not less than three million shillings but not exceeding ten million shillings or to imprisonment for a term of not less than six months but not exceeding one year or to both.
+(2) Any political party which contravenes any provision of this Act to which no specific penalty is prescribed, shall be liable to a fine of not less than ten million shillings and not exceeding fifty million shillings or to suspension or to deregistration.

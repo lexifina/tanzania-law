@@ -1,0 +1,4 @@
+# 8B. Registration of national
+(1) The national leaders of political parties registered under the provisions of section 7 or 9 shall be required to fill and submit a special form for national leaders to the Registrar for registration in the register of political parties kept and maintained by the Registrar.
+(2) A person who is not a national leader registered pursuant to subsection (1), a leader registered under subsection (1) or a member of a political party shall not engage in any political activities in the name of a political party for which that person purports to be a leader or a member.
+(3) A person who contravenes subsection (2), commits an offence and shall be liable on conviction to a fine of not less than five hundred thousand shillings but not exceeding two million shillings or to imprisonment for a term of not less than three months but not exceeding twelve months or to both.

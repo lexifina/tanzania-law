@@ -1,0 +1,5 @@
+# 18A. Submission of financial reports
+(1) A financial year of a fully registered political party shall conform to that of the Government;
+(2) Notwithstanding any provisions of this Act, every political party shall-
+(a) submit to the Controller and Auditor general financial statements of its accounts not later than thirtieth September of each calendar year;
+(b) submit audited reports to the Registrar within one month after it has received the report from the Controller and Auditor General.

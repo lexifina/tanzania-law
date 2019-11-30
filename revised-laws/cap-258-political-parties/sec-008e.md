@@ -1,0 +1,4 @@
+# 8E. Political parties not to form security
+(1) A political party, a leader or a member shall not recruit, deploy or form a militia, paramilitary or security group of any kind or maintain an organisation intending to usurp the functions of the police force or any government security organ.
+(2) A political party shall not conduct, finance, coordinate or order to be conducted or coordinated, military style training or any kind of training on the use of force or the use of any kind of weapon to its members or any other person.
+(3) A political party which contravenes the requirement of this section, shall be deregistered and every leader or member of the party concerned shall be liable on conviction to imprisonment for a term of not less than five years but not exceeding twenty years or to both.
