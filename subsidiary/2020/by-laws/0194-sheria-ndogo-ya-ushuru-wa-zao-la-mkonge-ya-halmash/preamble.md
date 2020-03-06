@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA
+(SURA YA 290)
+________
+SHERIA NDOGO
+________
+Imetungwa chini ya Kifungu cha 7(1) na 16(1)
+________
+SHERIA NDOGO YA USHURU WA ZAO LA MKONGE) YA HALMASHAURI YA WILAYA
+HANDENI YA MWAKA, 2020
