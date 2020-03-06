@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA 287)
+______
+SHERIA NDOGO
+_______
+(Zimetungwa chini ya kifungu cha 153)
+_________
+SHERIA NDOGO YA AFYA NA USAFI WA MAZINGIRA YA HALMASHAURI YA WILAYA
+YA MPIMBWE YA MWAKA, 2020.
