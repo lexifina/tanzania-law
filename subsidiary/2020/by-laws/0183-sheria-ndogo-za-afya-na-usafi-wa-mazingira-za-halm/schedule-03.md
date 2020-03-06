@@ -1,0 +1,16 @@
+# JEDWALI LA TATU
+__________ (Limetengenezwa chini ya kifungu cha 41) __________
+ILANI YA KUJENGA CHOO Ilani hii imetolewa kwa mujibu wa kifungu cha (41) cha Sheria Ndogo za (Afya na Usafi wa Mazingira) za Halmashauri ya Manispaa ya Kinondoni ya mwaka, 2020.
+Ndugu…………………...............wa Mtaa/……………Kata ya………………… Unaarifiwa kwamba katika ukaguzi uliofanyika Tarehe……mwezi………..mwaka….
+Katika nyumba yako ya Biashara/kuishi/kutolea Huduma*/ Namba………… iliyopo eneo la ………………katika Kitongoji/Mtaa*……….Kijiji cha……………Kata ya………….
+Imekuwa haina choo/ choo kimejaa/kimeharibika* hivyo unaamriwa kutekeleza mambo yafuatayo;
+(1) …………………………………………………………………………………
+(2) …………………………………………………………………………………
+(3) …………………………………………………………………………………
+(4) ………………………………………………………………………………… Unapewa muda wa siku thelathini (30) tu tangu siku ya kupokea ilani hii kutekeleza maelekezo yote yaliyoelezwa katika sehemu ‘A’ ya Ilani hii, Ukaguzi wa kuthibitisha utekelezaji wa maelekezo uliyopewa utafanyika tarehe……………….endepo utashindwa kutekeleza maelekezo ndani ya muda uliopewa Halmashauri itakuchukulia hatua kali za ………………………………..
+AFISA MWIDHINIWA IMETOLEWA NA; IMEPOKELEWA NA;
+Jina;……………………………….…. Jina;………………………………….
+Saini………………………………… saini………………………………....
+Wadhifa……………………...……... wadhifa……………………………..
+Tarehe………………………..…….. Tarehe……………………………...
+Kinondoni Tangazo la Serikali Na. 183 (linaendelea) __________

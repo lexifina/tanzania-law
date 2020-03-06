@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+________
+(SURA 288)
+________
+SHERIA NDOGO
+________
+(Zimetungwa chini ya kifungu cha 89)
+________
+SHERIA NDOGO ZA (AFYA NA USAFI WA MAZINGIRA) ZA HALMASHAURI YA
+MANISPAA YA KINONDONI, 2020
+SEHEMU YA KWANZA
