@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA 287)
+______
+SHERIA NDOGO
+______
+Zimetungwa chini ya kifungu cha 153(1)
+______
+SHERIA NDOGO ZA (HIFADHI YA MAZINGIRA) ZA HALMASHAURI YA WILAYA YA
+MOSHI, 2020
