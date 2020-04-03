@@ -1,0 +1,4 @@
+# JEDWALI LA NNE
+_________ (Limetengenezwa chini ya aya ya 4(g)) __________
+MAHITAJI YA FEDHA 2019/20 2020/21 2020/22 Maelezo
+TZS TZS TZS Milioni Milioni Milioni Gharama za Uzalishaji 654.3 808.3 847.1 Usambazaji wa Maji 76.9 79.2 79.6 Gharama za Usafi wa Mazingira 8.0 29.0 30.0 Matengenezo na Utunzaji 57.9 84.4 99.3 Watumishi 1,410.6 1,427.3 1,446.8 Utawala 336.2 499.2 549.1 Uhamasishaji wa Biashara 11.0 19.8 21.0 Matukio na Michango (Donation) 15.3 32.3 33.3 Gharama za Fedha 36.4 77.9 83.3 Tozo za Kisheria 83.9 86.0 88.2 Jumla "OM without D" 2,690.4 3,143.4 3,277.6 Uchakavu na "Amortization" (TZS Millioni) 1,300 1,248 1,068 Mapato yatokanayo na uwekezaji (TZS Million) Jumla ya Mahitaji ya Fedha (Million TZS) 3,990 4,391 4,346 Pungufu: Mapato mengine 53 58 67 Mahitaji ya fedha kutoka katika Mauzo ya Maji (TZS Million) 3,937 4,333 4,278 Dodoma, NZINYANGWA E. MCHANY .................., 2020 Kaimu Mkurugenzi Mkuu

@@ -1,0 +1,2 @@
+# JEDWALI LA TATU
+___________ (Limetengenezwa chini ya aya ya 4(f)) ___________ VIASHIRIA VYA UTENDAJI (2019/20 – 2021/22) Lengo la Utendaji Maelezo Uniti 2019/20 2020/21 2021/22 Idadi ya wateja wapya wa majisafi Na 551 Masaa ya huduma saa Kiwango cha upotevu wa maji % Kiwango cha ufanisi katika ukusanyaji wa % mapato Mamlaka ya Majisafi na Usafi wa Mazingira Sumbawanga (“Sumbawanga Wssa”) (Marekebisho ya Bei za Huduma za Majisafi na Usafi wa Mazingira), TANGAZO LA SERIKALI NA. 264 (linaendelea) __________
