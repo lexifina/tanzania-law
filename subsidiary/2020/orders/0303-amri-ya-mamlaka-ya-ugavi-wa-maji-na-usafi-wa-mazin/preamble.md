@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA MAJISAFI NA USAFI WA MAZINGIRA,
+(SURA NA. 272)
+________
+AMRI
+________
+(Imetolewa kwa mujibu wa Kifungu Na.28 (d))
+________
+AMRI YA MAMLAKA YA UGAVI WA MAJI NA USAFI WA MAZINGIRA
+NAMTUMBO (“NAMTUMBO WSSA”) (MAREKEBISHO YA BEI ZA HUDUMA
+ZA MAJISAFI NA USAFI WA MAZINGIRA), 2020
+Kichwa cha Jina
