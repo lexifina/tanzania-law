@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA. 287)
+_______
+KANUNI ZA KUDUMU
+_______
+(Zimetungwa chini ya kifungu cha 70(1))
+KANUNI ZA KUDUMU (MAREKEBISHO) ZA HALMASHAURI YA WILAYA SAME, ZA
+MWAKA 2020
