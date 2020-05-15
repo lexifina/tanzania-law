@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+SURA. 287
+_______
+SHERIA NDOGO
+_______
+(Zimetungwa chini ya kifungu cha 153(1))
+_______
+SHERIA NDOGO YA UVUNAJI WA MAJI YA MVUA YA HALMASHAURI YA WILAYA
+YA SAME ZA MWAKA 2020
