@@ -1,0 +1,6 @@
+# FIRST SCHEDULE
+_________ (Made under section 13(2)) ____________
+CONSTITUENCY PROJECTS SUBMISSIONS LIST Name of Constituency ….....………………………….… Financial year…………… Region………………………………………………… District…………………………... Ward ………………………
+SERIAL NUMBER NAME OF PROJECT COST ESTIMATES IN TSHS.
+Total amount for year ...................... Tshs ...............................
+Name of Member of Parliament (Chairperson)…………………………………………… Name of the District Planning Officer ……………………………….………..………….. _________
