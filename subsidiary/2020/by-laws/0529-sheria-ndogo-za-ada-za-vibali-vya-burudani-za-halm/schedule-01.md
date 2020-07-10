@@ -1,0 +1,15 @@
+# JEDWALI LA KWANZA
+(Limetungwa chini ya kifungu cha 4 (1)) SEHEMU “A” Ada ya kusajili kikundi cha sanaa na muziki Tsh 30,000/= kwa mwaka SEHEMU “B”
+KIBALI CHA DISKO KWA SIKU MOJA i. kikundi cha ndani ya Halmashauri ya Wilaya Tsh 30,000/= ii. kikundi cha nje ya Halmashauri ya Wilaya lakini ndani ya Mkoa Tsh 50,000/= iii. kikundi cha nje ya Mkoa Tsh 80,000/= SEHEMU ‘C”
+KIBALI CHA KUPIGA DANSI SIKU MOJA i. kikundi cha ndani ya Halmashauri ya Wilaya Tsh 30,000/= ii. kikundi cha nje ya Halmashauri ya Wilaya lakini ndani ya Mkoa Tsh 50,000/= iii. kikundi cha nje ya Mkoa Tsh 80,000/= SEHEMU “D”
+KIBALI CHA KUONESHA SANAA ZA MAONYESHO (semina, video, maigizo,sarakasi, ngumi, ngoma , kunyanyua vyuma, n.k) i. ada ya video au sinema kwa mwaka
+(a) ukumbi usiozidi watu 350 ada ni Tshs 300,000/=
+(b) ukumbi unaochukua watu 351-550 ada ni Tshs 500,000/=
+(c) ukumbi unaochukua watu 551-750 ada ni Tshs 700,000/=
+(d) ukumbi unaochukua watu 751 na kuendelea ada ni Tshs 1,000,000/= ii. kikundi cha ndani ya wilaya Tshs 50,000/= kwa siku iii. kikundi toka nje ya Halmashauri ya Halmashauri ya Wilaya lakini ndani ya Mkoa Tsh 60,000/= kwa siku.
+SEHEMU “E” kibali cha kuuza dawa za asili Tsh 50,000/= kwa mwaka SEHEMU “F”
+KIBALI CHA KUENDESHA TIBA ZA ASILI NDANI YA ENEO LA HALMASHAURI YA WILAYA i. Toka nje ya Halmashauri ya wilaya Tsh 50,000/= kwa mwaka ii. Waganga maarufu ndani ya Halmashauri ya Wilaya Tsh 100,000/= kwa iii. Waganga wadogo ndani ya Halmashauri ya Wilaya Tsh 50,000/= Tangazo la Serikali Na. 529 (Linaendelea.) SEHEMU “G”
+ADA KWA AJILI YA KUZURU SEHEMU ZA KIHISTORIA KWA MTU MMOJA Raia TSh Asiye raia USD 2,000/= USD 5 Bure USD 2 25,000/= USD 10 SEHEMU “H” Ada kwaajili ya kumbi za starehe katika maeneo ya mjini kwaajili ya shughuli za maonyesho,starehe,(social clubs and halls), viwanja vya michezo,(stadium)ambavyo hutumika kwa kutoza viingilio kila mwaka itazingatia SEHEMU “D” kipengere cha (i) SEHEMU “I”
+KIBALI CHA KUNASA NYIMBO ZA ASILI, UPIGAJI PICHA VITU NA VIKUNDI
+VINAVYO JISHUGHULISHA NA FANI ZA KITAMADUNI KWA MARA MOJA Asiye raia USD USD 200 SEHEMU “J” Kibali cha kuendesha mashine za michezo ya kubahatisha kwa mwaka Tsh 120,000/= kwa mashine moja iliyosajiliwa na Bodi ya Michezo ya Bahati Nasibu ya Taifa na kupewa kibali.
+SEHEMU “K” Kibali cha kuchezesha michezo ya mipira ya miguu kwa kutoza viingilio kwenye viwanja vya michezo (stadium) kokote kule ndani ya eneo la Halmashauri ya Wilaya itakuwa Tsh 50,000/= kwa timu za ndani ya Halmashauri ya Wilaya na Tsh 100,000/= kwa timu zitakazo toka nje ya SEHEMU “L” Kibali cha kuendesha shughuli zozote za mikutano ya kidini nje ya maeneo ya makanisa au misikiti bure (lakini lazima kibali kitolewe) SEHEMU “M” Tangazo la Serikali Na. 529 (Linaendelea.) Kibali cha kuendesha shughuli zozote za kiutamaduni ambazo hazikutajwa hapo juu ni Tsh SEHEMU “N” Kibali cha kuendesha michezo ya mashindano ya magari, pikipiki ndani ya Halmashauri ya Wilaya itakuwa ,kila gari litalipiwa shilingi 20,000/= na kila pikipiki italipiwa shilingi 15,000/= Tangazo la Serikali Na. 529 (Linaendelea.)
