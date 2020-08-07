@@ -1,0 +1,9 @@
+# JEDWALI LA PILI
+(Limetengenezwa chini ya kifungu cha 14)
+HATI YA KUKIRI NA KUFIFILISHA KOSA Mimi …………………………………… wa S.L.P. ………………………… nakiri kutenda kosa la ……………………………………………………ikiwa ni kinyume na kifungu cha ……………… cha Sheria ya Ndogo ya Uanzishaji na Uendeshaji wa Masoko ya Halmashauri ya Mji Kasulu ya Mwaka 2020.
+Kwa hiari yangu mwenyewe pasipo kushawishiwa na mtu yeyote nakubali kulipa kiasi cha shilingi laki mbili badala ya kushtakiwa Mahakamani iwapo Mkurugenzi atatekeleza madaraka aliyopewa chini ya kifungu cha………………………………………………………. cha Sheria Ndogo hii.
+Saini: ………………………………………………………………………....
+Tarehe: ……………………………………………………………………… Mbele yangu: - Jina: …………………………………………………………………….….
+Saini: …………………………………………………………………....….
+Wadhifa: ……………………………………………………...………………...
+Tarehe ……………………………………………………………………......…
