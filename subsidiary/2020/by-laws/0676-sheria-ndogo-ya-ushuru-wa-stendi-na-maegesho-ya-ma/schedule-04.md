@@ -1,0 +1,2 @@
+# JEDWALI LA NNE
+(Limetengenezwa chini ya kifungu cha 7(1)) Ushuru wa kituo cha mabasi Na Aina ya chombo cha usafirishaji Kiasi cha ada Muda 1 Basi dogo chini ya abiria 20 Tshs. 1,000/= Kwa siku 2 Mabasi ya kati chini ya abiria 40 Tshs. 2,000/= Kwa siku 3 Mabasi makubwa ya abiria zaidi ya 40 Tshs. 4,000/= Kwa siku Tshs. 2,000/= Kwa siku Tshs. 3,000/= Kwa siku 6 Pick up kuanzia tani moja Tshs. 1,000/= Kwa siku 7 Salon, tax na aina nyingine ya ma gari Tshs. 1,000/= Kwa siku
