@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+(SURA 287)
+_____
+SHERIA NDOGO
+_____
+(Imetungwa chini ya Kifungu cha 153)
+SHERIA NDOGO ZA UFUGAJI ZA HALMASHAURI YA WILAYA YA RUNGWE ZA
+MWAKA 2020
+Jina
