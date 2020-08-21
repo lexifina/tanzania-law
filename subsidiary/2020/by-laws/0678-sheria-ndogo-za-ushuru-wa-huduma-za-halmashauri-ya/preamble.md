@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+SURA YA 290
+_______
+SHERIA NDOGO
+_______
+Zimetungwa chini ya vifungu vya 6(1) (u) na 16 (1)
+SHERIA NDOGO ZA (USHURU WA HUDUMA) ZA HALMASHAURI YA MANISPAA
+YA MPANDA ZA MWAKA, 2020
