@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZAWILAYA)
+(SURA 287)
+____________
+SHERIA NDOGO
+________________
+(Imetungwa chini ya Kifungu cha 153)
+SHERIA NDOGO YA HIFADHI YA MAZINGIRA YA HALMASHAURI YA WILAYA YA
+MONDULI YA MWAKA 2020
