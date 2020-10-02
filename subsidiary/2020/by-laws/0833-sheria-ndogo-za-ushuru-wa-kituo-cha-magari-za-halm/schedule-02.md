@@ -1,0 +1,6 @@
+# JEDWALI LA PILI
+(Limetungwa chini ya Kifungu cha 8(2)
+ADA YA USAJILI WA MAGARI NA. AINA YA GARI KIWANGO CHA MUDA ADA 1 BAJAJI 32,000/= Mwaka mmoja
+2. PIKIPIKI 22,000/= Mwaka mmoja
+3. TEKSI 50,000/= Mwaka mmoja
+4. MAGARI YA 60,000/= Mwaka mmoja MIZIGO
