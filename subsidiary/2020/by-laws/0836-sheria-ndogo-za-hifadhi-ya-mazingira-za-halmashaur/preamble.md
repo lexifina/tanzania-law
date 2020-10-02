@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+SURA YA 288
+___________________
+SHERIA NDOGO
+___________________
+Zimetungwa chini ya kifungu cha 89
+SHERIA NDOGO ZA HIFADHI YA MAZINGIRA ZA HALMASHAURI YA JIJI LA
+MBEYA ZA MWAKA 2020
+SEHEMU YA KWANZA:
+UTANGULIZI
