@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+(SURA 288)
+____________
+SHERIA NDOGO
+Zimetungwa chini ya kifungu cha 89
+_________________
+SHERIA NDOGO ZA AFYA NA USAFI WA MAZINGIRA ZA HALMASHAURI YA JIJI LA
+MBEYA, 2020
+SEHEMU YA KWANZA
+UTANGULIZI
