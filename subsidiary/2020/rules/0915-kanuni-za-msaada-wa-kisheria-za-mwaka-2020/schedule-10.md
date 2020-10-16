@@ -1,0 +1,5 @@
+# JEDWALI LA NANE
+(Limetengenezwa chini ya kanuni ya 18(2))
+FOMU YA MAOMBI YA HUDUMA YA KISHERIA KWA WATU MASIKINI NA
+WALIOSHIKILIWA VIZUIZINI Kwa: Msajili/Msajili Msaidizi/Mtoa huduma wa msaada wa kisheria Na. Taarifa binafsi 1 Jina na anuani ya mtu asiye na uwezo au ----------------------------------------------------alishikiliwa kizuizini ----------------------------------------------------2 Masuala ya kisheria yalioombewa msaada ----------------------------------------------------wa kisheria ----------------------------------------------------3 Huduma za kisheria zilizoombwa ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------4 Taarifa nyingine ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------5 Saini Tarehe ……/………………………. / 20…. ………………………………………..
+Tangazo la Serikali Na.915 (Linaendelea.) LA Fomu Na.009

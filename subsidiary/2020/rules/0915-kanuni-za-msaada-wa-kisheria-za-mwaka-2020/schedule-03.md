@@ -1,0 +1,3 @@
+# JEDWALI LA KWANZA
+(Limetungwa chini ya kanuni 4(1)) HATI YA UTEUZI WA MSAJILI/MSAJILI MSAIDIZI Mimi………………………… [jina la mamlaka ya uteuzi], Katibu Mkuu wa Wizara yenye dhamana na masuala ya Sheria, kwa mamlaka niliyopewa chini ya kifungu 8(1) cha Sheria ya Msaada wa Kisheria, ninakuteua wewe……………………….[jina la mtu aliyeteuliwa] kama Msajili/Msajili Msaidizi wa …………………[ainisha Utaifa, mkoa au wilaya ya utendaji] na kwa mujibu wa uteuzi huu utafanya kwa bidii kazi za Msajili/Msajili Msaidizi.
+Uteuzi huu utakuwa halali kwa kipindi cha miaka ................. na utaanza tarehe….ya …….., 20…….. na kukoma tarehe……ya………………., 20…… [Saini] [Jina na cheo cha mamlaka iliyofanya uteuzi] Tangazo la Serikali Na.915 (Linaendelea.) LA Fomu Na.002
