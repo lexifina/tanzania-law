@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA MAWASILIANO YA KIELEKTRONIKI NA POSTA,
+(SURA YA 306)
+_________
+KANUNI
+__________
+(Zimetengenezwa chini ya kifungu cha 103)
+KANUNI ZA MAWASILIANO YA KIELEKTRONIKI NA POSTA
+(MAUDHUI MTANDAONI) ZA MWAKA 2020
+MPANGILIO WA KANUNI
+Kanuni Jina
