@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+(SURA YA 288)
+_______
+SHERIA NDOGO
+_______
+(Zimetungwa chini ya kifungu cha 89)
+SHERIA NDOGO ZA HIFADHI YA MAZINGIRA ZA HALMASHAURI YA MJI WA
+KOROGWE ZA MWAKA 2020
