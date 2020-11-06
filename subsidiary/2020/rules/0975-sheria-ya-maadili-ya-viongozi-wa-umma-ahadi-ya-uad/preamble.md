@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA MAADILI YA VIONGOZI WA UMMA,
+[SURA YA 398]
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 31(1) na (2)(f))
+__________
+SHERIA YA MAADILI YA VIONGOZI WA UMMA (AHADI YA UADILIFU)
+KANUNI, 2020
+MPANGILIO WA VIFUNGU
+SEHEMU YA KWANZA
+VIFUNGU VYA AWALI
+Kifungu Jina
