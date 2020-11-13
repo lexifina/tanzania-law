@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA HUDUMA NDOGO ZA FEDHA
+(SURA YA 407)
+________
+KANUNI
+________
+(Zimetungwa chini ya kifungu cha 60(1) na (2))
+__________
+KANUNI ZA HUDUMA NDOGO ZA FEDHA (VIKUNDI VYA
+HUDUMA NDOGO ZA FEDHA VYA KIJAMII), 2019
+Kanuni Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
