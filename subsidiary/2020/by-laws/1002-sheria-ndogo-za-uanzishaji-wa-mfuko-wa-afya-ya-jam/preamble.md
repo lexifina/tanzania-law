@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA,
+(SURA 287)
+-----------------------
+SHERIA NDOGO
+-----------------------
+(Imetungwa chini ya Kifungu cha 153)
+SHERIA NDOGO ZA UANZISHAJI WA MFUKO WA AFYA YA JAMII (TIBA
+KWA KADI) ZA HALMASHAURI YA WILAYA YA ITILIMA ZA MWAKA 2020
