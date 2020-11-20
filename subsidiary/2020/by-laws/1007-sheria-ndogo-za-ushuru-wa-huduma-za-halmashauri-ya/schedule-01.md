@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA
+________________ (Limetengenezwa chini ya Kifungu cha 4(2)) Na. Kiasi cha Mapato halisi kwa Mwaka Kiasi(Tshs) cha malipo kwa mwaka (Tshs) 1 500,000/= hadi 1,999,999/= 6,000/= 2 2,000,000/= hadi 3,999,999/= 12,000/= 3 4,000,000/= hadi 5,999,999/= 18,000/= 4 6,000,000/= hadi 10,999,999/= 33,000/= 5 11,000,000/= hadi 20,999,999/= 63,000/= 6 21,000,000/= hadi 30,000,000/= 90,000/= _____________
