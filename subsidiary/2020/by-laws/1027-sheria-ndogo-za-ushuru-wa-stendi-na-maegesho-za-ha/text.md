@@ -1,0 +1,3 @@
+# Text
+Dodoma, SELEMANI S. JAFO (MB.)
+28 Septemba, 2020 WN-OR-TAMISEMI
