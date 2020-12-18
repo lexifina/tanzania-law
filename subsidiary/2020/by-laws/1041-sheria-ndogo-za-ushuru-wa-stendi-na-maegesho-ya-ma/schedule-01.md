@@ -1,0 +1,6 @@
+# JEDWALI LA KWANZA
+________ (Limetengenezwa chini ya kifungu cha 4(1)) ________
+SEHEMU YA KWANZA USHURU WA STENDI (VYOMBO VYA KUSAFIRISHA ABIRIA) Ushuru Tshs Idadi Muda wa kawaida 1 Basi lenye uwezo abiria 5-15 500/= Kila inapotoka 2 Basi lenye uwezo wa abiria 16-25 1000/= Kila inapotoka 3 Basi kubwa zaidi ya abiria 26-35 1000/= Kila inapotoka 4 Basi kubwa lenye uwezo wa abiria zaidi ya 35 2000/= Kila linapotoka 500/= Kila inapotoka 6 Pikipiki ya magurudumu mawili 200/= Kila inapotoka 7 Pikipiki ya magurudumu matatu 300/= Kila inapotoka 500/= Kila inapotoka 9 Gari lo lote dogo lisilotajwa hapo juu 700/= Kwa inapotoka
+SEHEMU YA PILI USHURU WA STENDI (KUEGESHA AU KULAZA CHOMBO CHA USAFIRI) Ushuru Tshs Muda wa kawaida 1 Basi lenye uwezo abiria 5-15 1,000/= 2 Basi lenye uwezo wa abiria 16-25 1,500/= Tangazo la Serikali Na. 1041 (linaendelea) 3 Basi kubwa zaidi ya abiria 26-35 2,000/= 1,000/= 5 Pikipiki ya magurudumu mawili 300/= 6 Pikipiki ya magurudumu matatu 500/= 800/= 8 Gari lolote dogo lisilotajwa hapo juu 700/=
+SEHEMU YA TATU USHURU WA STENDI (VYOMBO VYA KUSAFIRISHA MIZIGO) Ushuru Tshs Ushuru Tshs Idadi Muda wa Kawaida Usiku 500/= 1,000/= kwa siku 1,000/= 2,000/= kwa siku 2,000/= 3,000/= kwa siku 300/=
+- kwa siku 5 Ushuru wa mitambo ya ujenzi 5000/= 10,000/= Kwa siku Tangazo la Serikali Na. 1041 (linaendelea) _________
