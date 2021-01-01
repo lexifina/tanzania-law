@@ -1,0 +1,7 @@
+# JEDWALI
+_________ (Limetengenezwa chini ya kifungu cha 9)
+HATI YA KUFILILISHA KOSA Mimi ……………………………………. mwenye Simu Na.…………………….. wa S.L.P……………..ninayefanya biashara……………………………….. katika eneo la ……………………….. lililopo katika eneo la Mamlaka ya Halmashauri ya Wilaya ya Siha, kwa hiari yangu mwenyewe nakiri kuwa Tarehe………Mwezi………… Mwaka…………. nilikiuka Kifungu cha………… cha Sheria Ndogo za Ushuru wa Huduma za Halmashauri ya Wilaya ya Siha Kwa hiyo, kwa hiari yangu mwenyewe na bila kushurutishwa na mtu yeyote nakubali kulipa kiasi cha shilingi laki mbili badala ya kushtakiwa Mahakamani na nipo tayari kutimiza wajibu wangu kwa mujibu wa Sheria Ndogo hizi iwapo Mkurugenzi ataamua kutekeleza madaraka yake aliyopewa kwa mujibu wa Sheria Ndogo hizi.
+Jina…………………………………………………………………….
+Saini:…………………………Tarehe: …………………………… Jina:…………………………………………………………………… Saini:………………………………………………………………….
+Wadhifa:……………………………………………………………… Tarehe:………………………………………………………………… Nembo ya Halmashauri ya Wilaya ya Siha imebandikwa kwenye Sheria Ndogo hizi kwa kufuata azimio lililopitishwa na Mkutano wa Halmashauri ulioitishwa na kufayika tarehe 06 Mwezi 03, mwaka 2019 na imebandikwa mbele ya:-…………………………………… NDAKI S. MHULI, Mkurugenzi Mtendaji Halmashauri ya Wilaya ya Siha …………………………………… Godson J. Ngomuo, Mwenyekiti Halmashauri ya Wilaya ya Siha
+NAKUBALI, Dodoma, SELEMANI S. JAFO (MB.), 02 Novemba, 2020 Waziri wa Nchi, Ofisi ya Rais Tawala za Mikoa na Serikali za Mitaa
