@@ -1,0 +1,2 @@
+# 22C. Restraint of proceedings
+No suit shall, except with leave of the High Court be instituted by or on behalf of a vexatious litigant in any court, and any suit instituted by him in any court before the making of an order under this Part shall not be continued by him without the leave, and such leave shall not be given unless the High Court is satisfied that the suit is not an abuse of the process of the court and that there is a prima facie ground for the suit.
