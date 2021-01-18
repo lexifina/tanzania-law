@@ -13,6 +13,7 @@ In this Code, unless the context otherwise requires—
 "judgment debtor" means any person against whom a decree has been passed or an order capable of execution has been made;
 "legal representative" means a person who in law represents the estate of a deceased person, and includes any person who intermeddles with the estate of the deceased and where a party sue or is sued in a representative character, the person on whom the estate devolves on the death of the party so suing or sued;
 "mesne profits" of property means those profits which the person in wrongful possession of such property actually received or might, with ordinary diligence, have received therefrom together with interest on such profits, but shall not include profits due to improvements made by the person in wrongful possession;
+"Minister" means the Minister responsible for legal affairs;
 "movable property" includes growing crops;
 "order" means the formal expression of any decision of a civil court which is not a decree;
 "rules" means the rules contained in the First and Second Schedules or made under section 29, 45 or 82;
