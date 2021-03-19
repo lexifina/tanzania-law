@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA MAMLAKA ZA WILAYA.
+[SURA YA 287]
+________
+SHERIA NDOGO
+________
+(Imetungwa chini ya kifungu cha 153).
+SHERIA NDOGO YA UDHIBITI WA MIFUGO YA HALMASHAURI YA WILAYA YA
+CHUNYA MWAKA, 2021
