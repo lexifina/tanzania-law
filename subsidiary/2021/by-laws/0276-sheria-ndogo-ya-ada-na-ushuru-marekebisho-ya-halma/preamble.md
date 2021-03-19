@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+(SURA 290)
+_______
+SHERIA NDOGO
+_______
+(Imetungwa chini ya kifungu cha 6(1) na 16 (1))
+SHERIA NDOGO YA ADA NA USHURU (MAREKEBISHO) YA HALMASHAURI YA
+WILAYA YA NKASI YA MWAKA 2021
+Jina
