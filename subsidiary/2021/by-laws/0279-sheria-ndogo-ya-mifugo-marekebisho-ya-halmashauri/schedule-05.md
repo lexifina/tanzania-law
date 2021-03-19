@@ -1,0 +1,3 @@
+# JEDWALI III
+ADA YA MIFUGO KWA WAHAMIAJI KUTOKA NJE Limetengenezwa chini ya kifungu cha 5 (2)
+KIASI KWA MWAKA 10,000/= 5,000/= 5,000/= 5,000/= 5,000/=

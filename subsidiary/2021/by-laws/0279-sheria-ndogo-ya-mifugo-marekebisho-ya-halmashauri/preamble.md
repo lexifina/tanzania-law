@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+_____
+(SURA YA 287)
+_______
+SHERIA NDOGO
+_______
+(Imetungwa chini ya Kifungu cha 153)
+SHERIA NDOGO YA MIFUGO (MAREKEBISHO) YA HALMASHAURI YA WILAYA YA
+NKASI YA MWAKA 2021
