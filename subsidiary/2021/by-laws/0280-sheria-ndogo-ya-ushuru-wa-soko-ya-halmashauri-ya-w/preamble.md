@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA (MAMLAKA ZA
+WILAYA)
+_______
+(SURA 290)
+_______
+SHERIA NDOGO
+_______
+(Imetungwa chini ya Vifungu vya 7(1) na 16(1)
+SHERIA NDOGO YA USHURU WA SOKO YA HALMASHAURI YA WILAYA YA
+CHUNYA, 2021
