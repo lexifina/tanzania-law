@@ -1,0 +1,13 @@
+# JEDWALI LA KUMI NA MOJA
+________ (Limetengenezwa chini ya kifungu cha 18) _________
+HATI YA KUFILILISHA KOSA Mimi...............................................................................nakiri KWA HIARI YANGU MWENYEWE mbele ya ............................................................. ambaye ni Mkurugenzi Mtendaji wa Halmashauri ya Wilaya ya Bumbuli kwamba tarehe ..................... ya mwezi ....................... mwaka ........................... nilitenda kosa la kukiuka masharti ya kifungu cha .............................. cha Sheria Ndogo ya Ada na Ushuru ya Halmashauri ya Wilaya ya Bumbuli ya mwaka 2021.
+Kwa mamlaka aliyopewa Mkurugenzi Mtendaji wa Halmashauri, nipo tayari kulipa kiasi cha shilingi laki mbili na kutimiza wajibu wangu chini ya Sheria Ndogo hiyo badala ya kushtakiwa
+NATHIBITISHA KWAMBA MAELEZO HAPO JUU NI YA KWELI NA NIMEYATOA KWA HIARI YANGU KADRI YA UFAHAMU WANGU.
+Leo tarehe.....................ya mwezi.........................mwaka......................................
+Jina.................................................... Saini...........................................................
+Jina:................................................Cheo:............................................
+Saini.....................................................................................................
+Nembo ya Halmashauri imegongwa katika Sheria Ndogo hizo kufuatia azimio lililopitishwa katika Mkutano wa baraza la Madiwani la Halmashari ya Wilaya ya Bumbuli uliyofanyika mnamo tarehe 19/2/2020 na Nembo iliyogongwa mbele ya:-GEORGE D. HAULE, Mkurugenzi Mtendaji, Halmashauri ya Wilaya,
+BUMBULI Amiri A. Sheiza, Mwenyekiti, Halmashauri ya Wilaya,
+BUMBULI L.S
+NAKUBALI, Dodoma, SELEMANI SAID JAFO (MB.), 2 Novemba, 2021 Waziri wa Nchi -OR- Tamisemi

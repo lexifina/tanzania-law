@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+(SURA YA 290)
+_______
+SHERIA NDOGO
+_____
+(Zimetungwa chini ya kifungu cha 7 (1) na 16(1))
+SURA YA KWANZA
+UTANGULIZI
+SHERIA NDOGO YA ADA NA USHURU YA HALMASHAURI YA WILAYA YA BUMBULI,
