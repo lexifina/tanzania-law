@@ -1,2 +1,2 @@
-# 16. Decree in suit for account between principal and agent
-In a suit for an account of pecuniary transactions between a principal and an agent and in any other suit not hereinbefore provided for where it is necessary, in order to ascertain the amount of money due to or from any party, that an account should be taken, the court shall, before passing its final decree, pass a preliminary decree directing such accounts to be taken as it thinks fit.
+# 16. Court may recall and examine witness
+The court may, at any stage of a suit recall any witness who has been examined and may, subject to the law of evidence, put such questions to him as it thinks fit.

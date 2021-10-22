@@ -1,3 +1,2 @@
-# 11. Power to examine witness immediately
-(1) Where a witness is about to leave the jurisdiction of the court or other sufficient cause is shown to the satisfaction of the court why his evidence should be taken immediately the court may, upon the application of any party or of the witness, at any time after the institution of the suit, take the evidence of such witness.
-(2) Where such evidence is not taken forthwith and in the presence of the parties, such notice as the court thinks sufficient, of the day fixed for the examination, shall be given to the parties.
+# 11. Questions objected to and allowed by court
+Where any question put to a witness is objected to by a party or his advocate, and the court allows the same to be put, the presiding judge or magistrate shall take down the question, the answer, the objection and the name of the person making it, together with the decision of the court thereon.

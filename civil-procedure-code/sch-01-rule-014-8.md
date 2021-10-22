@@ -1,7 +1,3 @@
-# 14. Decree in pre-emption suit
-(1) Where the court decrees a claim to pre-emption in respect of a particular sale of property and the purchase money has not been paid into court, the decree shall—
-(a) specify a day on or before which the purchase money shall be so paid; and
-(b) direct that on payment into court of such purchase money, together with the costs (if any) decreed against the plaintiff, on or before the day referred to in clause (a), the defendant shall deliver possession of the property to the plaintiff, whose title thereto shall be deemed to have accrued from the date of such payment, but that, if the purchase money and the costs (if any) are not so paid, the suit shall be dismissed with costs.
-(2) Where the court has adjudicated upon rival claims to pre-emption, the decree shall direct—
-(a) if and in so far as the claims decreed are equal in degree, that the claim of each pre-emptor complying with the provisions of sub-rule (1) shall take effect in respect of a proportionate share of the property including any proportionate share in respect of which the claim of any pre-emptor failing to comply with the said provisions would, but for such default, have taken effect; and
-(b) if and so far as the claims decreed are different in degree, that the claim of the inferior preemptor shall not take effect unless and until the superior pre-emptor has failed to comply with the said provisions.
+# 14. Power to examine witness immediately
+(1) Where a witness is about to leave the jurisdiction of the court or other sufficient cause is shown to the satisfaction of the court why his evidence should be taken immediately the court may, upon the application of any party or of the witness, at any time after the institution of the suit, take the evidence of such witness.
+(2) Where such evidence is not taken forthwith and in the presence of the parties, such notice as the court thinks sufficient, of the day fixed for the examination, shall be given to the parties.

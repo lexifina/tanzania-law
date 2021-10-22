@@ -1,2 +1,2 @@
-# 18. Cross-decrees and cross-claims in mortgage suits
-The provisions contained in rules 16 and 17 shall apply to decrees for sale in enforcement of a mortgage or charge.
+# 18. Decree in suit for partition of property or separate possession of a share therein
+Where the court passes a decree for the partition of property or for the separate possession of a share therein the court may, if the partition or separation cannot be conveniently made without further inquiry, pass a preliminary decree declaring the rights of the several parties interested in the property and giving such further directions as may be required.

@@ -1,0 +1,2 @@
+# 19. Re-admission of appeal dismissed for default
+Where an appeal is dismissed under sub-rule (2), of rule 11 or rule 17 or rule 18, the appellant may apply to the Court for the re-admission of the appeal; and, where it is proved that he was prevented by any sufficient cause from appearing when the appeal was called on for hearing or from depositing the sum so required, the Court shall re-admit the appeal on such terms as to costs or otherwise as it thinks fit.

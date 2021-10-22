@@ -1,2 +1,5 @@
-# 18. Decree in suit for partition of property or separate possession of a share therein
-Where the court passes a decree for the partition of property or for the separate possession of a share therein the court may, if the partition or separation cannot be conveniently made without further inquiry, pass a preliminary decree declaring the rights of the several parties interested in the property and giving such further directions as may be required.
+# 18. Hearing of appeals and applications
+Hearing of any matter or proceeding other than a suit, may be conducted—
+(a) orally by parties or their representatives being physically present in the courtroom;
+(b) by way of written submissions; or
+(c) remotely in accordance with the Judicature and Application of Laws (Remote Proceedings and Electronic Recording) Rules, 2021.

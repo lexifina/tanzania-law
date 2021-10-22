@@ -1,4 +1,7 @@
-# 14. Application for execution by transferee of decree
-Where a decree or, if a decree has been passed jointly in favour of two or more persons, the interest of any decree-holder in the decree, is transferred by assignment in writing or by operation of law, the transferee may apply for execution of the decree to the court which passed it, and the decree may be executed in the same manner and subject to the same conditions as if the application were made by such decree-holder:
-Provided that, where the decree or such interest as aforesaid has been transferred by assignment, notice of such application shall be given to the transferor and the judgment debtor, and the decree shall not be executed until the court has heard their objections (if any) to its execution:
-Provided also that, where a decree for the payment of money against two or more persons has been transferred to one of them, it shall not be executed against the others.
+# 14. Decree in pre-emption suit
+(1) Where the court decrees a claim to pre-emption in respect of a particular sale of property and the purchase money has not been paid into court, the decree shall—
+(a) specify a day on or before which the purchase money shall be so paid; and
+(b) direct that on payment into court of such purchase money, together with the costs (if any) decreed against the plaintiff, on or before the day referred to in clause (a), the defendant shall deliver possession of the property to the plaintiff, whose title thereto shall be deemed to have accrued from the date of such payment, but that, if the purchase money and the costs (if any) are not so paid, the suit shall be dismissed with costs.
+(2) Where the court has adjudicated upon rival claims to pre-emption, the decree shall direct—
+(a) if and in so far as the claims decreed are equal in degree, that the claim of each pre-emptor complying with the provisions of sub-rule (1) shall take effect in respect of a proportionate share of the property including any proportionate share in respect of which the claim of any pre-emptor failing to comply with the said provisions would, but for such default, have taken effect; and
+(b) if and so far as the claims decreed are different in degree, that the claim of the inferior preemptor shall not take effect unless and until the superior pre-emptor has failed to comply with the said provisions.

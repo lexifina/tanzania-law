@@ -1,2 +1,4 @@
-# 15. Decree in suit for dissolution of partnership
-Where a suit is for the dissolution of a partnership, or the taking of partnership accounts, the court, before passing a final decree, may pass a preliminary decree declaring the proportionate shares of the parties, fixing the day on which the partnership shall stand dissolved or be deemed to have been dissolved and directing such accounts to be taken and other acts to be done as it thinks fit.
+# 15. Power to deal with evidence taken before another judge or magistrate
+(1) Where a judge or magistrate is prevented by death, transfer or other cause from concluding the trial of a suit, his successor may deal with any evidence or memorandum taken down or made under the foregoing rules as if such evidence or memorandum has been taken down or made by him or under his direction under the said rules and may proceed with the suit from the stage at which his predecessor left it:
+Provided that the reasons for taking over are recorded in the proceedings by the successor judge or magistrate at the time of taking over and communicated to the parties.
+(2) The provisions of sub-rule (1) shall, so far as they are applicable, be deemed to apply to evidence taken in a suit transferred under section 21 of this Code.

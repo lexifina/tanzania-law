@@ -1,2 +1,2 @@
-# 17. Special directions as to accounts
-The court may, either by the decree directing an account to be taken or by any subsequent order, give special directions with regard to the mode in which the account is to be taken or vouched and in particular may direct that in taking the account the books of account, in which the accounts in question have been kept, shall be taken as prima facie evidence of the truth of the matters therein contained with liberty to the parties interested to take such objection thereto as they may be advised.
+# 17. Power of court to inspect
+The court may at any stage of a suit inspect any property or thing concerning which any question may arise.
