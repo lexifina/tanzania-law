@@ -1,0 +1,9 @@
+# The Land Transport Regulatory Authority (Certification of Train Drivers and Registration of Train Crew) (Amendment) Regulation, 2021 (G.N. No. 790 of 2021)
+
+Government Notice No. 790 of 2021, published 2021-12-03; made under the The Land Transport Regulatory Authority Act, 2019. Text of the copy in the Office of the Attorney General's legislation portal (OAG MIS, oagmis.oag.go.tz): <https://oagmis.oag.go.tz/portal/legislation/314/download>.
+
+Language: English. Text layer: typeset. Sections not split (read as one text).
+
+| Provision | File |
+| --- | --- |
+| Text | [text.md](text.md) |
