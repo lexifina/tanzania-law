@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA: TOZO ZILIZOIDHINISHWA
+Jedwali Namba 1(a): Bei Zilizoidhinishwa za Uondoaji wa Majitaka Tozo Zilizoidhinishwa 2021/22 Shilingi kwa Mita ya Ujazo Shilingi kwa Tripu (Gari la unit 5) 30,000 150,000 30,000 150,000 30,000 150,000 32,000 160,000 Jedwali Namba 1.2: Bei Zilizoidhinishwa za Kumwaga Majitaka Kwenye Mabwawa ya Lindi Tozo Iliyoidhinishwa (Shilingi kwa Gari) 2021/22 9,000 Dodoma, GODFREY H. CHIBULUNJE 19 Januari, 2022 Mkurugenzi Mkuu
