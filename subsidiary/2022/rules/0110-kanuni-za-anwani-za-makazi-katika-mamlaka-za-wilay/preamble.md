@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA MAMLAKA ZA WILAYA
+(SURA YA 287)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 116)
+_______
+KANUNI ZA ANWANI ZA MAKAZI KATIKA MAMLAKA ZA WILAYA ZA MWAKA 2021
+_______
+MPANGILIO WA VIFUNGU
+Kifungu Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
