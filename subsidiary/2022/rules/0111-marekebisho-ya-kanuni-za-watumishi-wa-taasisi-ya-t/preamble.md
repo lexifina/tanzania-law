@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA TAASISI YA TIBA YA MIFUPA MUHIMBILI,
+(SURA YA 94)
+______
+KANUNI
+_____
+(Zimetengenezwa chini ya kifungu cha 19(1)(c) na (d))
+MAREKEBISHO YA KANUNI ZA WATUMISHI WA TAASISI YA TIBA YA MIFUPA
+MUHIMBILI ZA MWAKA, 2022
