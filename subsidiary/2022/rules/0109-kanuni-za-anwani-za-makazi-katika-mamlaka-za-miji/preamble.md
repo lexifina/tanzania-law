@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA MAMLAKA ZA MIJI
+(SURA YA 288)
+______
+KANUNI
+______
+(Zimetengenezwa chini ya kifungu cha 63)
+_______
+KANUNI ZA ANWANI ZA MAKAZI KATIKA MAMLAKA ZA MIJI ZA MWAKA 2022
+_______
+MPANGILIO WA VIFUNGU
+Kifungu Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
