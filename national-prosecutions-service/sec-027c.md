@@ -9,6 +9,7 @@
 (f) the District Coordinator of Community Service;
 (g) the Social Welfare Officer; and
 (h) the Officer Commanding of Criminal Investigation Department of the respective District who shall be the Secretary.
-(3) The District Criminal Justice Forum may, in the discharge of its duties, co-opt any person as it deems fit.
-(4) The District Criminal Justice Forum shall meet at least twice annually.
-(5) The District Criminal Justice Forum shall prepare a report on criminal justice within the District for submission to the Regional Criminal Justice Forum.
+(3) Subject to subsection (2), in Districts where there is no District Prosecutions Officer, the members of the District Criminal Justice Forum shall elect one amongst their number to be the Chairman, who shall, subject to his continuing to be a member, hold the position until when the District Prosecutions Officer is appointed.
+(4) The District Criminal Justice Forum may, in the discharge of its duties, co-opt any person as it deems fit.
+(5) The District Criminal Justice Forum shall meet at least twice annually.
+(6) The District Criminal Justice Forum shall prepare a report on criminal justice within the District for submission to the Regional Criminal Justice Forum.
