@@ -1,0 +1,9 @@
+# The Petroleum (Imposition of Petroleum Fees) (Amendment) Regulations,2022 (G.N. No. 178 of 2023)
+
+Government Notice No. 178 of 2023, published 2023-04-01, in force from 2022-04-01. Text of the copy in the Office of the Attorney General's legislation portal (OAG MIS, oagmis.oag.go.tz): <https://oagmis.oag.go.tz/portal/legislation/979/download>.
+
+Language: English. Text layer: typeset. Sections not split (read as one text).
+
+| Provision | File |
+| --- | --- |
+| Text | [text.md](text.md) |
