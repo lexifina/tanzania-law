@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZAWILAYA),
+(SURA YA 287)
+________
+SHERIA NDOGO
+_________
+(Imetungwa chini ya kifungu cha 153)
+________
+SHERIA NDOGO YA HIFADHI YA MAZINGIRA YA HALMASHAURI YA WILAYA YA
+IKUNGI YA MWAKA 2022
+Jina
