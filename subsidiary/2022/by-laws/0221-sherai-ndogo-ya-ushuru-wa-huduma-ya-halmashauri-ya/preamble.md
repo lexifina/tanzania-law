@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+______
+SURA YA 290
+______
+SHERIA NDOGO
+______
+(Imetungwa chini ya kifungu cha 7(1)(y) na 16 (1))
+SHERIA NDOGO YA USHURU WA HUDUMA YA HALMASHAURI YA WILAYA YA
+BAGAMOYO YA MWAKA 2022
