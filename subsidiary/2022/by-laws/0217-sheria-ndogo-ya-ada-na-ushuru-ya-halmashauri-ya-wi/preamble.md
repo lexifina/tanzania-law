@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+_______
+SHERIA NDOGO
+________
+Zimetungwa chini ya Kifungu cha 7 (1) na 16(1)
+________
+SHERIA NDOGO YA ADA NA USHURU YA HALMASHAURI YA WILAYA YA IKUNGI,
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
