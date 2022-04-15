@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(Sura Ya 287)
+_____
+KANUNI ZA KUDUMU
+______
+Zimetungwa chini ya kifungu cha 70(1).
+______
+KANUNI ZA KUDUMU (MAREKEBISHO) ZA HALMASHAURI YA WILAYA YA KILOLO
+ZA MWAKA, 2022
