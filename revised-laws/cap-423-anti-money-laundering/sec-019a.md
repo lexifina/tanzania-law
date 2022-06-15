@@ -1,0 +1,8 @@
+# 19A. Administrative sanctions
+Where any reporting person fails to comply with the provisions of section 15, 16, 17 or 18 of this Act, the FIU or regulator shall impose any of the following administrative sanctions:
+(a) warning or caution not to repeat the conduct which led to non-compliance;
+(b) reprimand;
+(c) directives to take remedial action or to make specific arrangement to remedy the default;
+(d) restriction or suspension of certain business activities;
+(e) suspending a business licence; or
+(f) suspension or removal from office any member of staff who caused or failed to comply.
