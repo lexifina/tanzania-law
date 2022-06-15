@@ -1,0 +1,7 @@
+# 4A. General principles and standards of
+(1) All public procurement and disposal by tender shall be conducted in accordance with the basic principles set out in this Act.
+(2) Subject to this Act, all procurement and disposal shall be conducted in a manner that maximizes integrity, competition, accountability, economy, efficiency, transparency and achieves value for money.
+(3) Procuring entities shall, in the execution of their duties, undertake to achieve the highest standards of equity, taking into account-
+(a) equality of opportunity to all tenderers;
+(b) fairness of treatment to all parties; and
+(c) the need to obtain the best value for money in terms of price, quality and delivery, having regards to prescribed specifications and criteria.
