@@ -1,0 +1,3 @@
+# 348A. Compensation in case of sexual offences
+(1) Notwithstanding the provisions of section 348 of this Act, when a court convicts an accused person of a sexual offence, it shall in addition to any penalty which it imposes make an order requiring the convict to pay such effective compensation as the court may determine to be commensurate to possible damages obtainable by a civil suit by the victim of the sexual offence for injuries sustained by the victim in the course of the offence being perpetrated against him or her.
+(2) For the purposes of this section “sexual offence” means any of the offences created in Chapter XV of the Penal Code.

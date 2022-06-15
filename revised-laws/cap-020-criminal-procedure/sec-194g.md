@@ -1,0 +1,3 @@
+# 194G. Application to set aside conviction and sentence
+(1) The Director of Public Prosecutions may, in matters relating to plea bargaining and in the public interest and the orderly administration of justice, apply to the court which passed the sentence to have the conviction and sentence procured on the grounds of fraud or misrepresentation pursuant to a plea agreement be set aside.
+(2) An accused person who is a party to a plea agreement may apply to the court which passed the sentence to have the conviction and sentence procured involuntarily or by misrepresentation pursuant to a plea agreement be set aside.

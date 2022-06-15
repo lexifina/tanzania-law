@@ -1,0 +1,2 @@
+# 395A. Sexual offender’s indices
+For the purpose of enforcement of sexual offences prescribed under the Penal Code, the Minister may make rules for keeping computerised DNA database system containing indices of DNA profiles for a crime scene index, missing or unidentified sexual offenders’ index, sexual offenders’ index, suspects’ index, unidentified deceased persons’ index and any other statistical indices which may be necessary within the circumstances.
