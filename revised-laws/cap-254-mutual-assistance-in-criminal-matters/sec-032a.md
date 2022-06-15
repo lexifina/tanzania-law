@@ -1,0 +1,3 @@
+# 32A. Sharing of proceeds
+(1) The Government may dispose of property confiscated within the United Republic upon a request by a foreign authority where there is an agreement concluded between the Government of the United Republic and the Government of the requesting foreign territory.
+(2) The Director of Public Prosecutions may, where he considers it appropriate either for purposes of compliance with an international arrangement to which the United Republic is committed or for the interest of courtesy among states, order the property or any part of the property forfeited or the value of that property to be given out or remitted to the requesting Government.
