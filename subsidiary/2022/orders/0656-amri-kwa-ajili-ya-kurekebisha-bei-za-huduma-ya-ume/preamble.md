@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA UMEME,
+(SURA YA 131)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha. 23 na 24)
+AMRI KWA AJILI YA KUREKEBISHA BEI ZA HUDUMA YA UMEME KWA KAMPUNI YA
+WATU NA UMEME TANZANIA LIMITED YA MWAKA 2022
