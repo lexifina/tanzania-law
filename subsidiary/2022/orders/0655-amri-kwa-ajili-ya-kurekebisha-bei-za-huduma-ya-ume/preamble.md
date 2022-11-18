@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA UMEME,
+(SURA YA 131)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 23 and 24)
+AMRI KWA AJILI YA KUREKEBISHA BEI ZA HUDUMA YA UMEME KWA KAMPUNI YA
+HUSK POWER SYSTEM LIMITED YA MWAKA 2022
