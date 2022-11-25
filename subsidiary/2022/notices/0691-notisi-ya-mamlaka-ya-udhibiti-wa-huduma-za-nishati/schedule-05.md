@@ -1,0 +1,2 @@
+# JEDWALI LA TANO
+________ (Limetengenezwa chini ya aya ya 4) Bei za Sasa na Zinazopendekezwa za Majitaka kwaWateja Wasio na Maunganisho ya Majisafi ya Mamlaka (Shilingi/Mwezi) Kundi la Wateja Bei za Sasa Bei Zinazopendekezwa 2021/22 2022/23 2023/24 2024/25 Majumbani 20,000 22,000 22,500 23,000 Tangazo La Serikali Na. 691 (Linaendelea.) Kundi la Wateja Bei za Sasa Bei Zinazopendekezwa 2021/22 2022/23 2023/24 2024/25 Taasisi 24,000 25,000 30,000 50,000 Biashara 36,000 45,000 50,000 55,000 Viwanda 36,000 40,000 43,000 45,000 _________

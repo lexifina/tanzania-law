@@ -1,0 +1,2 @@
+# JEDWALI LA TATU
+_________ (Limetengenezwa chini ya aya ya 4) Ada za Sasa na Zinazopendekezwa za Maunganisho Mapya (Shilingi kwa maunganisho mapya) Ada zinazopendekezwa Kundi la Ada ya Sasa 2021/22 Wateja 2022/23 2023/24 2024/25 Majumbani Asilimia 20 ya Gharama za Taasisi Vifaa na Nguvu kazi kama Asilimia 20 ya Gharama za Vifaa na Nguvu kazi kama ilivyoainiswa katika ilivyoainishwa katika Sehemu ya 26 ya Kanuni za Biashara Sehemuya 24 ya Kanuni za Maji 2019 Viwanda Maji 2013 _______

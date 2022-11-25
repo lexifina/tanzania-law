@@ -1,0 +1,2 @@
+# JEDWALI LA SITA
+___________ (Limetengenezwa chini ya aya ya 4) Bei za Sasa na Zinazopendekezwa za Kunyonya Majitaka (Shilingi kwa Safari Moja) Kundi la Bei ya Sasa Bei Zinazopendekezwa Wateja 2021/22 2022/23 2023/24 2024/25 Majumbani 50,000 50,000 50,000 50,000 Taasisi 50,000 75,000 75,000 100,000 Biashara 50,000 75,000 75,000 100,000 Viwanda 50,000 75,000 75,000 100,000 Dodoma, MODESTUS M. LUMATO, 24 Novemba, 2022 Director General

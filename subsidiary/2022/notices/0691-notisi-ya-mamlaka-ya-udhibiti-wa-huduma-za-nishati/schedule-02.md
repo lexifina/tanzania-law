@@ -1,0 +1,2 @@
+# JEDWALI LA PILI
+__________ (Limetengenezwa chini ya aya ya 4) Ada za Sasa na Zinazopendekezwa za Kurejeshewa Hudumaya Maji Baada ya Kusitishwa (Shilingi kwarejesho) Kundi la Bei za Sasa Bei Zinazopendekezwa Wateja 2021/22 2022/23 2023/24 2024/25 Majumbani 20,000 20,000 20,000 20,000 Taasisi 30,000 30,000 30,000 30,000 Biashara 30,000 35,000 35,000 45,000 Viwanda 40,000 45,000 50,000 50,000 Tangazo La Serikali Na. 691 (Linaendelea.) _______
