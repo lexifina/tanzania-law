@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+______
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu cha 23(1))
+NOTISI YA KUSUDIO LA KUTANGAZA MABADILIKO YA ENEO LA MSITU WA
+HIFADHI WA CHENENE MAGHARIBI YA MWAKA 2022
