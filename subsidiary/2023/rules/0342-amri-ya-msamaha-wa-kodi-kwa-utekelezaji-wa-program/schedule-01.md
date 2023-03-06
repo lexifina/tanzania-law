@@ -1,0 +1,14 @@
+# SCHEDULE
+_______ (Made under paragraph 2) ____________ S Description Engine Chassis N
+1. Toyota,Hiace,KDH222R-LEMDY,16 2KDB122 JTFSS22P6001984 Seater, 2.5L Diesel RHD
+2. Toyota, Land Cruiser Prado, GDJ150R- 1GD9001 JTEBR9FJ10K279 GKFEY,2.8 Diesel, 7 Seater
+3. Toyota, Land Cruiser Prado, GDJ150R- 1GD9000 JTEBR9FJXOK27 GKFEYY,2.8 Diesel, 7 Seater
+4. Toyota, Land Cruiser 1GD9000 JTEBR9FJXOK27 Prado,GDJ150RGKFEY,2.8 Diesel ,7 829 Seater
+5. Toyota, Land Cruiser Prado,GDJ150R- 1GD9000 JTERB9FJ40K279 GKFEY,2.8,Diesel,7 Seater
+6. Toyota, Camry, ASV70L- 2AR2366 JTNBF4HKX0305 AETNKW,Petrol,2.5l,RHD
+7. Toyota,Hiace,KDH222R-LEMOY,16 2KDB123 JTFSS22P4001984 Seater,2.5L Diesel RHD
+8. Toyota , Land Cruiser Prado, GDJ15R- 1GD8999 JTEBR9FJ70K279 GKFEY,2.8 Diesel, 7 Seater
+9. Toyota, Land Cruiser Prado GDJ150R- 1GD8999 JTEBR9FJ70K279 GKFEY, 2.8 Diesel,7 sealer 10 Toyota, Land Cruiser Prado, GDJ150R. 1GD9000 JTERB9FJ40K279 GKFEY,2.8 Diesel, 7 seater 11 Toyota Land Cruiser Prado, GDJ150R- 1GD9000 JTEBR9FJ90K279 GKFEY,2.8 Diesel,7 Seat 12 Toyota, LC Pick –up, HZJ79R-TJMRS, 1HZ0938 JTELB71J00B0095 Diesel,3 Seat, RHD 13 Toyota, LC Pick –Up, HZJ79R- 1HZ0938 JTELB71J00B0095 TJMRS, Diesel, 3 Seater, RHD 14 Toyota, Land Cruiser Prado, GDJ150R- 1GD9001 JTEBR9FJ70K280 GKFEY, 2.8 Diesel, 7 Seater Wakimbizi Tanzania Tangazo la Serikali Na. 342 (linaendelea) 15 Toyota, Land Cruiser Prado, GDJ150R 1GD9001 JTEBR9FJ40K280
+– GKFEY, 2.8 Diesel, 7 Seater 16 Toyota, Land Cruiser Prado, GDJ150R- 1GD9001 JTEBR9FJX0K281 GKFEY, 2.8 Diesel, 7 Seater 17 Toyota, LC,HZJ76R – RKMRS,10 1HZ0946 JTEEB71J70F0074 Seater RHD 18 Toyota, LC, HZJ76R-RKMRS, 10 1HZ0946 JTEEB71J90F0074 Seater RHD 19 Toyota, LC,HZJ76R –RKMRS, 10 1HZ0946 JTEEB71J20F0074 Seater RHD 20 Toyota, LC, HZJ76R-RKMRS,10 1HZ0946 JTEEB71J40F0074 Seater RHD 21 Toyota, LC, HZJ76R-RKMRS, 10 Seat IHZ0946 JTEEB71JX0F007 RHD Dodoma,
+MWIGULU LAMECK NCHEMBA MADELU 20 April, 2023.
+Waziri wa Fedha na Mipango

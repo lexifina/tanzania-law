@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA USIMAMIZI WA TOZO NA USHURU,
+(SURA YA 147)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifgungu cha 128)
+_________
+AMRI YA MSAMAHA WA KODI KWA UTEKELEZAJI WA PROGRAMU YA OPERESHENI YA
+WAKIMBIZI TANZANIA
+Jina
