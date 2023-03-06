@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA USIMAMIZI WA USHURU WA BIDHAA,
+(SURA YA 147)
+_______
+AMRI
+_______
+(Imetengenezwa chini ya kifungu cha 128)
+_________
+AMRI YA MSAMAHA WA USHURU WA BIDHAA KWA GARI MOJA LA MIRADI YA
+UTEKELEZAJI MPANGO KAZI WA AFYA YA MWAKA 2023
