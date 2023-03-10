@@ -1,0 +1,11 @@
+# JEDWALI
+______ (Limetengenezwa chini ya kanuni ya 5(3) na (4)) FOMU A Katika Mahakama ya Mwanzo ya Wilaya ya……………………………….………… Kituo cha ……………………………………….………… *Shauri la jinai/madai/ ndoa/ mirathi/maombi Na. …………………………..……. ………………………………………… (mlalamikaji/mdai/mwombaji/mrufani) Dhidi ya …………………………………………………. (mshtakiwa/mdaiwa/mjibu maombi/mrufaniwa) Au Shauri la Rufaa Na. ……………………………..…. (Kutoka Baraza la Kata la……………..katika shauri la madai/jinai Na…la 20…) …………………………………………. mrufani Dhidi ya …………………………………………………. Mrufaniwa
+NOTISI YA UWAKILISHI NA AHADI YA KUHUDHURIA MAHAKAMANI Mimi…………………, wakili wa mahakama kuu na mahakama zilizo chini yake, mwenye namba ya usajili …….. na mwenye leseni hai ya uwakili iliyotolewa tarehe……mwezi ….. mwaka 20……, ninaijulisha mahakama hii kwamba, nimeajiriwa kama wakili katika shauri hili na nina maelekezo kamili ya (jina)……...mlalamikaji/mshtakiwa/mwombaji/mrufani/mjibu maombi/ katika shauri/ shauri tarajiwa la jinai/madai/mirathi/ndoa .
+Pia, ninaiahidi Mahakama kwamba nitahudhuria mahakamani kumuwakilisha ………………… Saini…………………………...
+Tarehe............mwezi ………………mwaka 20…….
+Tangazo La Serikali 168 (Linaendelea) FOMU B Katika Mahakama ya Mwanzo ya Wilaya ya…………………………………….………… Kituo cha ………………………………………….……………….
+Shuri la jinai/rufaa/maombi Na. ………………………………..…. ……………….………………………….……………. (mlalamikaji/mrufani) Dhidi ya …………………………………….………. (mshtakiwa/mjibu maombi/mrufaniwa) Au Shauri la Rufaa Na. …………………………………..……. (Kutoka Baraza la Kata la………katika shauri la Madai/Jinai Na…la 20…) ……………………………………..……………………. Mrufani Dhidi ya …………………………………….……………………. Mrufaniwa
+NOTISI YA KUENDESHA SHAURI NA AHADI YA KUHUDHURIA MAHAKAMANI Mimi …………………………. Mkurugenzi wa Mashtaka/Mkuu wa Mashtaka wa mkoa/wilaya …………… ninaiarifu mahakama hii kwamba, shauri la jinai/maombi/rufaa Na. ……………. la/ya mwaka ……… litaendeshwa na mwendesha mashtaka.
+Pia, ninaiahidi mahakama kwamba nitahakikisha kwamba mwendesha mashtaka anahudhuria mahakamani kumwakilisha mlalamikaji/mwombaji/mjibu maombi/mrufani/mrufaniwa katika tarehe itakayopangwa.
+Mkurugenzi wa Mashtaka/Wakili wa Serikali/Mwendesha Mashtaka wa Serikali Mfawidhi …………………………………………………………wilaya/mkoa Tarehe...........mwezi ..………………mwaka 20…… Dar es Salaam,
+IBRAHIM HAMIS JUMA, 27 Februari, 2023 Jaji Mkuu
