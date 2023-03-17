@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA MADINI,
+(SURA YA 123)
+______
+AMRI
+______
+(Imetengenezwa chini ya kifungu cha 16)
+______
+AMRI YA KUTENGUA SEHEMU YA ENEO LILILOTENGWA KWA AJILI YA
+LESENI ZA UCHIMBAJI MDOGO WA MADINI YA MWAKA 2023
