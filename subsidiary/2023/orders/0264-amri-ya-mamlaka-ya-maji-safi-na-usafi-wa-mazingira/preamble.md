@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA MAJI SAFI NA USAFI WA MAZINGIRA,
+(SURA NA 272)
+______
+AMRI
+______
+(Imetengenezwa kwa mujibu wa kifungu cha 29 (d))
+AMRI YA MAMLAKA YA MAJI SAFI NA USAFI WA MAZINGIRA MOSHI (MOSHI WSSA)
+(YA KUREKEBISHA BEI ZA HUDUMA ZA MAJI SAFI NA USAFI WA MAZINGIRA) YA
+MWAKA, 2023
+Kichwa cha Agizo
