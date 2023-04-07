@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA UPANGAJI WA MATUMIZI YA ARDHI,
+(SURA YA 116)
+_____
+NOTISI
+______
+(Imetolewa chini ya kifungu cha 36)
+_____
+NOTISI YA UPANGAJI WA MATUMIZI YA ARDHI (MIPANGO YA MATUMIZI YA ARDHI YA
+VIJIJI) YA MWAKA, 2023
