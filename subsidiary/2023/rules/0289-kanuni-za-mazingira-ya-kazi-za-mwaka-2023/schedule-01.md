@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA
+__________ (Limetengenezwa chini ya kanuni ya 5(1)) Wastani wa Viwango vya Mwanga Vinavyotakiwa Katika Eneo la Kazi (Imepimwa Kwenye Eneo la Kazi) Eneo la kazi Kiwango Kiwango Eneo la kazi Kiwango Kiwango cha chini cha juu cha chini cha juu (lux) (lux) (lux) Maabara Chumba cha 200 mkutano Ukumbi wa 150 mikutano Kazi za kuchora Chumba cha 200 kusanifu Kazi inayohitaji umakini mkubwa Uchimbaji wa 100 Chini ya ardhi Tangazo la Serikali Na.289 (Linaendelea.) __________
