@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA UWAKALA WA MELI TANZANIA
+(SURA YA 415)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 28(3))
+______
+AMRI YA TOZO ZA WAKUSANYAJI NA WATAWANYAJI WA MIZIGO YA MWAKA 2023
+SEHEMU YA KWANZA
+MASHARTI YA AWALI
