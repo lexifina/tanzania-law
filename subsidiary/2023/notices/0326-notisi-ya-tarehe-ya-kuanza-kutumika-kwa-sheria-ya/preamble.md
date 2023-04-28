@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA ULINZI WA TAARIFA BINAFSI
+(NA. 11 YA MWAKA 2022)
+_______
+NOTISI
+______
+(Imetengenezwa chini ya kifungu cha 1)
+________
+NOTISI YA TAREHE YA KUANZA KUTUMIKA KWA SHERIA YA ULINZI WA TAARIFA
+BINAFSI YA MWAKA 2023
