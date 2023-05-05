@@ -1,0 +1,16 @@
+# JEDWALI LA TATU
+________________ (Limetengenezwa chini ya kanuni ya 21(1))
+FOMU YA MAOMBI YA MAPITIO YA UCHUNGUZI WA AFYA KWA BAHARIA A. TAARIFA ZA MUOMBAJI Namba ya Hati ya Kusafiria Na. / CDC Na. (Kitabu cha Kushuka Melini) Tarehe ya kuzaliwa ......................................................................................................................
+TR...........MZ...........MK.................
+Jina kamili Bw./ Bibi./Bi.: .............................................................................................. .............................
+Wilaya:..........................................Mkoa:............................Uraia:...........................
+Anuani ya kudumu (kwa mawasiliano) Mtaa:........................................ Na. Ya Mkazi:........................... S.L.P………………… Mji/Jiji………………………..
+Tangazo la Serikali Na.336 (linaendelea) Anuani ya kupokelea (kama ni tofauti) …………………………………………………………………………………………… ……………………………….. …………………………………………………….
+Barua pepe: …………………………………………………….
+B. UCHUNGUZI WA KAZI ATAKAYOFANYA: (weka tiki inapostahili) Sitaha Injini Upishi …………………………………………………………………………………………… Tarehe ulipofanyika uchunguzi wa afya unaombewa marejeo: …………………………………………………………………………………………… ………………………………..
+SAHIHI YA MWOMBAJI NA PICHA Tafadhali tumia kalamu ya wino mweusi Sahihi Picha C. SABABU ZA UCHUNGUZI MWINGINE Tafadhali onesha hapa chini sababu za marejeo ya uchunguzi, ambatisha nyaraka Sababu:…………………………………………………………………………………… …………………………………………………………………………………………… …………………………………………………………………………………………… ……………………………………………………………………………… Nathibitisha kwamba taarifa nilizozitoa katika ombi hili la uchunguzi mwingine ni za kweli na zimekamilika. Nathibitisha kuwa nyaraka nilizowasilisha ni halisi, na Ninaelewa kuwa ombi langu la kufanyiwa uchunguzi mwingine halihitaji malipo kwa kila matokeo au uamuzi unaopitiwa.
+Sahihi ya mwombaji: ……………………………………………… Tarehe: ………………………………….............................................
+Kumb.: Majibu ya uchunguzi mwingine yatatolewa na mamlaka ndani ya siku kumi na nne tangu kutumwa kwa maombi.
+E. MAONI YA DAKTARI MWAMUZI ………………………………………………………………………………… ………………………………………………………………………………… ………………………………………………………………………………… Tangazo la Serikali Na.336 (linaendelea) ………………………………………………….. …………………………………….
+Jina Wadhifa …………..……………………… …………………… Sahihi Tarehe F. KWA MATUMIZI YA OFISI SEHEMU A: UTHIBITISHO WA AFISA ……………………………………………………………………………………… ………………………………………………………………………………………………… ……………………… ………………………… Sahihi Tarehe SEHEMU B: MAPENDEKEZO YA MENEJA WA MABAHARIA Maombi haya yamepitishwa hayajapitishwa …………………………………………………………………………………… …………………………………………………………………………………… ……………………… ………………………… Sahihi Tarehe SEHEMU C: KIBALI CHA MSAJILI Maombi haya yameidhinishwa hayajaidhinishwa ………………….............................……………………………………................. ……………………………………………………………………………………..
+Dodoma MAKAME M. MBARAWA 20 April, 2023 Waziri wa Ujenzi na Uchukuzi
