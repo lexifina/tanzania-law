@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA PETROLI,
+(SURA YA 328)
+______
+NOTISI
+______
+(Imetengenezwa chini ya kifungu cha 50(1))
+______
+NOTISI KWA AJILI YA UGAWAJI WA MOJA KWA MOJA WA VITALU 4/1B NA 4/1C
+KWA SHIRIKA LA MAENDELEO YA PETROLI TANZANIA YA MWAKA 2023
+Jina
