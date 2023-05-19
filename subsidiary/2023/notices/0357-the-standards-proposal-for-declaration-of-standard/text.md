@@ -1,0 +1,795 @@
+# Text
+/GOVERNMENT NOTICE No. 357 published on 19/5/2023
+THE STANDARD ACT,
+(CAP. 130)
+_______
+NOTICE
+______
+(Made under section 20 (2))
+______
+THE STANDARDS (PROPOSAL FOR DECLARATION OF STANDARDS) NOTICE, 2023
+Citation
+1. This Notice may be cited as the Standards (Proposal
+for Declaration of Standards) Notice, 2023.
+Notification 2. The general public is hereby notified that the Bureau
+intends to recommend to the Minister declaration of the
+standards as specified in the Schedule.
+Objection
+3. A person who has any objection in relation to
+standards specified in the Schedule may lodge such
+objection in writing to the Bureau within sixty days from the
+date of publication of this Notice.
+______
+SCHEDULE
+________
+(Made under paragraph 2)
+_________
+S/N Standard Number
+Tittle
+Category
+1. TZS 3335
+Packaging materials and
+Compulsory
+articles in Contact with Food
+– General Requirements.
+2. TZS 3383/ISO 11163:1995 Dried basil (Ocimum
+Compulsory
+basilicum L.) —
+Specification.
+3. TZS 3393
+Cassava sorghum composite Compulsory
+flour — Specification.
+4. TZS 3394
+Orange fleshed sweet potato Compulsory
+flour — Specification.
+5. TZS 3395
+Orange fleshed sweet potato, Compulsory
+sorghum and soya composite
+flour— Specification.
+6. TZS 3391
+Ginger garlic Paste –
+Compulsory
+Specification.
+7. TZS 3392
+Chili Oil –Specification.
+Compulsory
+8. TZS 2786
+Ginger Paste – Specification. Compulsory
+9. TZS 2685
+Garlic paste – Specification. Compulsory
+10. TZS 3390
+Spice paste –– Specification. Compulsory
+11. TZS 831
+Brown Sugar- Specification. Compulsory
+12. TZS 2083
+Icing Sugar – Specification. Compulsory
+13. TZS 3471
+Spiced Honey-Specification. Compulsory
+14. TZS 1578
+Sunflower seeds for oil
+Compulsory
+extraction – Specification.
+15. TZS 3419
+Pumpkin seeds Flour –
+Compulsory
+Specification.
+16. TZS 3421
+Mustard seeds for oil
+Compulsory
+extraction – Specification.
+17. TZS 3422
+Raw Walnut kernels –
+Compulsory
+Specification.
+18. TZS 3409
+Coffee drinks – Specification. Compulsory
+19. TZS 3608
+Creamer – Specification. Compulsory
+20. TZS 3518
+Asparagus - Specification and Compulsory
+test methods.
+21. TZS 312
+Instant tea – Specification. Compulsory
+22. TZS 3498
+Flavoured black tea –
+Compulsory
+Specification.
+23. TZS 839
+Green tea – Specification. Compulsory
+24. TZS 3500
+Tea trade – glossary of terms. Compulsory
+25. TZS 352
+Black tea – Specification. Compulsory
+S/N Standard Number
+Tittle
+Category
+26. TZS 3504
+Green tea – Vocabulary.
+Compulsory
+27. TZS 3478
+Crystalized ginger –
+Compulsory
+Specification.
+28. TZS 3361-4/ISO 24516- Guidelines for the
+Compulsory
+4:2019
+management of assets of
+water supply and wastewater
+systems - Part 4: Wastewater
+treatment plants, sludge
+treatment facilities, pumping
+stations, retention and
+detention facilities.
+29. TZS 3362-1
+On-site non-potable water Compulsory
+systems. Part 1: Systems for
+the use of rainwater.
+30. TZS 3363-2
+On-site non-potable water Compulsory
+systems. Part 2: Systems for
+the use of treated greywater.
+31. TZS 3364-2
+Products used for the
+Compulsory
+treatment of water intended
+for human consumption -
+Granular activated carbon -
+Part 2: Reactivated granular
+activated carbon.
+32. TZS 3364-1
+Products used for the
+Compulsory
+treatment of water intended
+for human consumption -
+Granular activated carbon -
+Part 1: Virgin granular
+activated carbon.
+33. TZS 3476-1
+Plastic sanitary appliances – Compulsory
+Specification-Part 1:
+Squatting pan.
+34. TZS 3476-2
+Plastic sanitary appliances – Compulsory
+Specification-Part 2: Sitting
+pan.
+35. TZS 3477
+Hand wash Kit –
+Compulsory
+Specification.
+36. TZS 11
+Cold drawn mild steel wire for Compulsory
+general engineering purposes
+– Specification.
+37. TZS 948
+Metal roofing tiles —
+Compulsory
+Specification.
+38. TZS 955/ISO 4990:2015 Steel castings — General Compulsory
+technical delivery
+requirements.
+39. TZS 2891
+Stainless Steel Cookware — Compulsory
+Specification.
+40. TZS 3332/EAS 196:2021 High-Strength Low-Alloy Compulsory
+S/N Standard Number
+Tittle
+Category
+(HSLA) steel for hot rolled
+sheet and cold rolled sheet —
+Specification.
+41. TZS 3331/ISO 404:2013 Steel and steel products - Compulsory
+General technical delivery
+requirements.
+42. TZS 3330-2/ISO 3834- Quality requirements for
+Compulsory
+2:2021
+fusion welding of metallic
+materials - Part 2:
+Comprehensive quality
+requirements.
+43. TZS 3330-3/ISO 3834- Quality requirements for
+Compulsory
+3:2021
+fusion welding of metallic
+materials - Part 3: Standard
+quality requirements.
+44. TZS 3330-4/ISO 3834- Quality requirements for
+Compulsory
+4:2021
+fusion welding of metallic
+materials - Part 4: Elementary
+quality requirements.
+45. TZS 3339/ISO 9905:1994 Technical specifications for Compulsory
+centrifugal - Pumps Class I.
+46. TZS 3340/ISO 5199:2002 Technical specifications for Compulsory
+centrifugal - Pumps Class II.
+47. TZS 3341/ISO 9908:1993 Technical specifications for Compulsory
+centrifugal - Pumps Class III.
+48. TZS 3338/ISO 14847:1999 Rotary positive displacement Compulsory
+pumps — Technical
+requirements.
+49. TZS 3337/ISO16330:2003 Reciprocating positive
+Compulsory
+displacement pumps and
+pump units — Technical
+requirements.
+50. TZS 3336/ISO 15873:2002 Irrigation equipment —
+Compulsory
+Differential pressure Venturi-
+type liquid additive injectors.
+51. TZS 1307/ISO 11439:2013 Gas cylinders — High
+Compulsory
+pressure cylinders for the on-
+board storage of natural gas as
+a fuel for automotive vehicles.
+52. TZS 1187-1/ISO 15500- Road vehicles — Compressed Compulsory
+1:2015
+natural gas (CNG) fuel system
+components — Part 1:
+General requirements and
+definitions.
+53. TZS 1187-3/ISO 15500- Road vehicles — Compressed Compulsory
+3:2020
+natural gas (CNG) fuel system
+components — Part 3: Check
+valve.
+54. TZS 1187-4/ISO 15500- Road vehicles — Compressed Compulsory
+4:2020
+natural gas (CNG) fuel system
+components — Part 4: Manual
+S/N Standard Number
+Tittle
+Category
+valve.
+55. TZS 1187-5/ISO 15500- Road vehicles — Compressed Compulsory
+5:2020
+natural gas (CNG) fuel system
+components — Part 5: Manual
+cylinder valve.
+56. TZS 1187-6/ISO 15500- Road vehicles — Compressed Compulsory
+6:2020
+natural gas (CNG) fuel system
+components — Part 6:
+Automatic valve.
+57. TZS 1187-7/ISO 15500- Road vehicles — Compressed Compulsory
+7:2015
+natural gas (CNG) fuel system
+components — Part 7: Gas
+injector.
+58. TZS 1187-8/ISO 15500- Road vehicles — Compressed Compulsory
+8:2015
+natural gas (CNG) fuel system
+components — Part 8:
+Pressure indicator.
+59. TZS 1187-9/ISO 15500- Road vehicles — Compressed Compulsory
+9:2020
+natural gas (CNG) fuel system
+components — Part 9:
+Pressure regulator.
+60. TZS 1187-10/ISO 15500- Road vehicles — Compressed Compulsory
+10:2015
+natural gas (CNG) fuel system
+components — Part 10: Gas-
+flow adjuster.
+61. TZS 1187-11/ISO 15500- Road vehicles — Compressed Compulsory
+11:2015
+natural gas (CNG) fuel system
+components — Part 11:
+Gas/air mixer.
+62. TZS 1187-12/ISO 15500- Road vehicles — Compressed Compulsory
+12:2015
+natural gas (CNG) fuel system
+components — Part 12:
+Pressure relief valve (PRV).
+63. TZS 1187-13/ISO 15500- Road vehicles — Compressed Compulsory
+13:2012
+natural gas (CNG) fuel system
+components — Part 13:
+Pressure relief device (PRD).
+64. TZS 1187-14/ISO 15500- Road vehicles — Compressed Compulsory
+14:2020
+natural gas (CNG) fuel system
+components — Part 14:
+Excess flow valve.
+65. TZS 1187-15/ISO 15500- Road vehicles — Compressed Compulsory
+15:2015
+natural gas (CNG) fuel
+system components — Part
+15: Gas-tight housing and
+ventilation hose.
+66. TZS 1187-16/ISO 15500- Road vehicles — Compressed Compulsory
+16:2020
+natural gas (CNG) fuel system
+components — Part 16: Rigid
+fuel line in stainless steel.
+67. TZS 1187-17/ISO 15500- Road vehicles — Compressed Compulsory
+S/N Standard Number
+Tittle
+Category
+17:2021
+natural gas (CNG) fuel system
+components — Part 17:
+Flexible fuel line.
+68. TZS 1187-18/ISO 15500- Road vehicles — Compressed Compulsory
+18:2020
+natural gas (CNG) fuel system
+components — Part 18: Filter.
+69. TZS 1187-19/ISO 15500- Road vehicles — Compressed Compulsory
+19:2020
+natural gas (CNG) fuel system
+components — Part 19:
+Fittings.
+70. TZS 3591
+Transportation of dangerous Compulsory
+goods by road.
+/ARS 1370:2021
+71. TZS 3594/ARS 1595:2021 Vehicle homologation.
+Compulsory
+72. TZS 3491-1/ISO 10721- Steel structures - Part 1:
+Compulsory
+1:1997
+Materials and design.
+73. TZS 3491-2/ISO 10721- Steel structures - Part 2:
+Compulsory
+2:1999
+Fabrication and erection.
+74. TZS 3489
+Specification for Steel wires Compulsory
+for staples, pins and clips.
+75. TZS 3488
+Welded steel wire fabric for Compulsory
+general use — Specification.
+76. TZS 254
+Carbon steel cast billet ingots, Compulsory
+billets, blooms and slabs for
+re-rolling into steel for general
+structural purposes —
+Specification.
+77. TZS 3490
+Scissors for general purposes Compulsory
+— Specification.
+78. TZS 3487
+Steel framing members for Compulsory
+gypsum board systems —
+Specification.
+79. TZS 1791-2/ISO 23551- Safety and control devices for Compulsory
+2:2018
+gas burners and gas-burning
+appliances – Particular
+requirements - Part 2:
+Pressure regulators.
+80. TZS 1791-4/ISO 23551- Safety and control devices for Compulsory
+4:2018
+gas burners and gas-burning
+appliances - Particular
+requirements - Part 4: Valve-
+proving systems for automatic
+shut-off valves.
+81. TZS 1791-5/ISO 23551- Safety and control devices for Compulsory
+5:2014
+gas burners and gas-burning
+appliances - Particular
+requirements - Part 5: Manual
+gas valves.
+82. TZS 1791-6/ISO 23551- Safety and control devices for Compulsory
+6:2021
+gas burners and gas-burning
+S/N Standard Number
+Tittle
+Category
+appliances - Particular
+requirements - Part 6:
+Thermoelectric flame
+supervision controls.
+83. TZS 1791-8/ISO 23551- Safety and control devices for Compulsory
+8:2016
+gas burners and gas-burning
+appliances - Particular
+requirements - Part 8:
+Multifunctional controls.
+84. TZS 1791-10/ISO 23551- Safety and control devices for Compulsory
+10:2016
+gas burners and gas-burning
+appliances - Particular
+requirements - Part 10: Vent
+valves.
+85. TZS 1791-9/ISO 23551- Safety and control devices for Compulsory
+9:2022
+gas burners and gas-burning
+appliances - Particular
+requirements - Part 9:
+Mechanical gas thermostats.
+86. TZS 3551/ISO 17885:2021 Plastics piping systems — Compulsory
+Mechanical fittings for
+pressure piping systems —
+Specifications.
+87. TZS 3552-5/ISO 16486- Plastics piping systems for the Compulsory
+5:2021
+supply of gaseous fuels —
+Unplasticized polyamide (PA-
+U) piping systems with fusion
+jointing and mechanical
+jointing —Part 5: Fitness for
+purpose of the system.
+88. TZS 3552-3/ISO 16486- Plastics piping systems for the Compulsory
+3:2020
+supply of gaseous fuels —
+Unplasticized polyamide (PA-
+U) piping systems with fusion
+jointing and mechanical
+jointing —Part 3: Fittings.
+89. TZS 3552-2/ISO 16486- Plastics piping systems for the Compulsory
+2:2020
+supply of gaseous fuels —
+Unplasticized polyamide (PA-
+U) piping systems with fusion
+jointing and mechanical
+jointing —Part 2: Pipes.
+90. TZS 2345-3/ISO 21138- Plastics piping systems for Compulsory
+3:2020
+non-pressure underground
+drainage and sewerage —
+Structured-wall piping
+systems of unplasticized
+poly(vinyl chloride) (PVC-U),
+polypropylene (PP) and
+polyethylene (PE) — Part 3:
+Pipes and fittings with non-
+S/N Standard Number
+Tittle
+Category
+smooth external surface, Type
+B.
+91. TZS 2345-2/ISO 21138- Plastics piping systems for Compulsory
+2:2020
+non-pressure underground
+drainage and sewerage —
+Structured-wall piping
+systems of unplasticized
+poly(vinyl chloride) (PVC-U),
+polypropylene (PP) and
+polyethylene (PE) — Part 2:
+Pipes and fittings with smooth
+external surface, Type A.
+92. TZS 2345-1/ISO 21138- Plastics piping systems for Compulsory
+1:2020
+non-pressure underground
+drainage and sewerage —
+Structured-wall piping
+systems of unplasticized
+poly(vinyl chloride) (PVC-U),
+polypropylene (PP) and
+polyethylene (PE) — Part 1:
+Material specification and
+performance criteria for pipes,
+fittings and systems.
+93. TZS 3546-21/ISO/TS
+Domestic gas cooking
+Compulsory
+21364-21:2021
+appliances - Safety - Part 21:
+Particular requirements for
+gas hobs, gas grills and gas
+griddles.
+94. TZS 3546-22/ISO/TS
+Domestic gas cooking
+Compulsory
+21364-22:2021
+appliances - Safety - Part 22:
+Particular requirements for
+ovens and compartment grills.
+95. TZS 3545
+Solid biofuel — Sustainable Compulsory
+charcoal and carbonized
+briquettes for household and
+commercial use —
+Specification.
+96. TZS 3343/ISO 24016:2020 Jewellery and precious metals Compulsory
+- Grading polished diamonds -
+Terminology, classification
+and test methods.
+97. TZS 3446
+Standard Specification for Compulsory
+Activated carbon used for
+precious metal recovery .
+98. TZS 3447–1
+Detonators for use in blasting Compulsory
+operations - Part 1:
+Requirements for electronic
+initiation systems.
+99. TZS 3447–2
+Detonators for use in blasting Compulsory
+operations - Part 2:
+Requirements for electric
+S/N Standard Number
+Tittle
+Category
+initiation systems – Shot
+exploder based.
+100. TZS 3377
+Textiles – Specification for Compulsory
+Spun Hemp Yarn.
+101. TZS 3379
+Textiles – Polyester straps – Compulsory
+Specification.
+102. TZS 3382
+Textiles – Specification for Compulsory
+high tenacity polyester
+multifilament yarns – Yarns
+for fishing twines.
+103. TZS 3560
+Textiles — Woven High- Compulsory
+Density
+Polyethylene/Polypropylene
+(HDPE/PP) Shopping bags —
+Specification.
+104. TZS 3563
+Textiles — Non-woven
+Compulsory
+fabrics — Specification.
+105. TZS 3522/ISO 13998:2003 Protective clothing - Aprons, Compulsory
+trousers and vests protecting
+against cuts and stabs by hand
+knives.
+106. TZS 3559-1
+Agro textiles — Shade nets Compulsory
+for agriculture and
+horticulture purposes —
+specification - Part 1: Shade
+Nets made from Tape Yarns.
+107. TZS 3559-2
+Agro textiles - Shade nets for Compulsory
+agriculture and horticulture
+purposes - Specification - Part
+2: Shade Nets made from
+Mono filament yarns.
+108. TZS 868
+Sodium dichloroisocyanurate Compulsory
+– Specification.
+109. TZS 3448
+Chemicals used for treatment Compulsory
+of water intended for human
+consumption - Aluminium
+Sulfate.
+110. TZS 3449
+Black lead pencil –
+Compulsory
+Specification.
+111. TZS 3450
+Bamboo drinking straw — Compulsory
+Specification.
+112. TZS 3451/ISO 22843:2020 Rubber bands - General
+Compulsory
+requirements and test
+methods.
+113. TZS 3452
+Molded rubber heels and soles Compulsory
+– Specification.
+114. TZS 3398
+Face packs – Specification. Compulsory
+115. TZS 1080/ISO 7202:2018 Fire extinguishing media – Compulsory
+Powder (2nd Edition) .
+116. TZS 1081/ISO 3941:2007 Classification of fire (2nd Compulsory
+Edition).
+S/N Standard Number
+Tittle
+Category
+117. TZS 1075-1/ISO 7203- Fire extinguishing media - Compulsory
+1:2019
+foam concentrate - Part 1:
+Specification for low
+expansion concentrates for top
+application to water-
+immiscible liquids (2nd
+Edition).
+118. TZS 1075-2/ISO 7203- Fire extinguishing media - Compulsory
+2:2019
+Foam concentrates - Part 2:
+Specification for medium- and
+high-expansion foam
+concentrates for top
+application to water-
+immiscible liquids (1st
+Edition).
+119. TZS 1075-3/ISO 7203- Fire extinguishing media - Compulsory
+3:2019
+Foam concentrates - Part 3:
+Specification for low-
+expansion foam concentrates
+for top application to water-
+miscible liquids (1st Edition).
+120. TZS 3400
+Shoe cream – Specification. Compulsory
+121. TZS 3401
+Surface polish – Specification. Compulsory
+122. TZS 3523
+Plastic films for laminations. Compulsory
+123. TZS 3525
+Plastics- Thermoplastic silage Compulsory
+films and tubes-Specification.
+124. TZS 3526
+Polyethylene terephthalate Compulsory
+(PET) bottles for packaging
+liquids products –
+Specification.
+125. TZS 3527-3
+Packaging - Steel drums -Part Compulsory
+3: Inserted flange-type closure
+systems.
+126. TZS 3527-2
+Packaging — Steel drums — Compulsory
+Part 2: Non-removable head
+drums-Specification.
+127. TZS 3527-1
+Packaging -Steel drums -Part Compulsory
+1: Removable head (open
+head) drums.
+128. TZS 3547-1
+Transport packaging -
+Compulsory
+reusable, rigid plastic
+distribution boxes - part 1:
+general purpose application.
+129. TZS 3550-1
+Series 1 freight containers - Compulsory
+Specification and testing -Part
+1: General cargo containers
+for general purposes.
+130. TZS 3550-3
+Series 1 freight containers - Compulsory
+Specification and testing -Part
+3: Tank containers for liquids,
+S/N Standard Number
+Tittle
+Category
+gases and pressurized dry
+bulk.
+131. TZS 3556
+Series 1 freight containers- Compulsory
+Classification, dimensions and
+ratings.
+132. TZS 1298
+Sharp containers-
+Compulsory
+specification.
+133. TZS 3429/ISO/IEC
+Information technology - Compulsory
+24745:2011
+Security techniques -
+Biometric information
+protection.
+134. TZS 3432-1/ISO/IEC
+Cards and security devices for Compulsory
+14443-1:2018
+personal identification -
+Contactless proximity objects
+- Part 1: Physical
+characteristics.
+135. TZS 3577-1
+Hybrid telecommunication Compulsory
+cables - Part 1: Generic
+specification.
+136. TZS 3578-6
+Connectors for electrical and Compulsory
+electronic equipment - Part 6:
+Detail specification for 2-way
+and 4-way (data/power),
+shielded, free and fixed
+connectors for power and data
+transmission with frequencies
+up to 600 MHz.
+137. TZS 3579
+DC Power supply for
+Compulsory
+notebook computers.
+138. TZS 3581
+Set Top Box specifications for Compulsory
+digital terrestrial television
+(DVB - T2).
+139. TZS 3582-1
+Mobile Handsets - Part 1: Compulsory
+Safety Requirements.
+140. TZS 1953-23
+Information technology
+Compulsory
+equipment - Safety - Part 23:
+Large data storage equipment.
+141. TZS 3588-1
+Fixed capacitors for use in Compulsory
+electronic equipment - Part 1:
+Generic specification.
+142. TZS 3595-1/IEC 62670- Photovoltaic concentrators Compulsory
+1:2013
+(CPV) - Performance Testing-
+Part 1: Standard conditions.
+143. TZS 1952-7-4/IEC 62257- Recommendations for
+Compulsory
+7-4:2019
+renewable energy and hybrid
+systems for rural
+electrification- Part 7-4:
+Generators- Integration of
+solar with other forms of
+power generation within
+hybrid power systems.
+S/N Standard Number
+Tittle
+Category
+144. TZS 3598-1/IEC 61400- Wind energy generation
+Compulsory
+1:2019
+systems- Part 1: Design
+requirements.
+145. TZS 3598-2/IEC 61400- Wind turbines - Part 2: Small Compulsory
+2:2013
+wind turbines.
+146. TZS3598-4/IEC61400- Wind turbines -Part 4: Design Compulsory
+4:2012
+requirements for wind
+turbines gearboxes.
+147. TZS 3598-5/IEC 61400- Wind energy generation
+Compulsory
+5:2020
+systems- Part 5: Wind
+turbines blades.
+148. TZS 3598-6/IEC 61400- Wind energy generation
+Compulsory
+6:2019
+systems- Part 6: Tower and
+foundation design
+requirements.
+149. TZS 3595-2/IEC 62670- Photovoltaic concentrators Compulsory
+2:2015
+(CPV) -Performance Testing-
+Part 2: Energy measurement.
+150. TZS 3599-1/IEC 60745- Hand-held motor-operated Compulsory
+1:2006
+electric tools - Safety - Part 1:
+General requirements.
+151. TZS 3599-2-1/IEC 60745- Hand-held motor-operated Compulsory
+2-1:2003+AMD1:2008 electric tools - Safety - Part 2-
+1: Particular requirements for
+drills and impact drills.
+152. TZS 3599-2-3/IEC 60745- Hand-held motor-operated Compulsory
+electric tools - Safety - Part 2-
+3:2006+AMD1:2010+AM 3: Particular requirements for
+D2:2012
+grinders, polishers and disk-
+type sanders.
+153. TZS 1223-4-1/IEC 60947- Low-voltage switchgear and Compulsory
+4-1:2018
+control gear - Part 4-
+1: Contactors and motor-
+starters -
+Electromechanical contactors
+and motor-starters.
+154. TZS 448-2-100/IEC
+Household and similar
+Compulsory
+60335-2-100:2002
+electrical appliances – Safety
+– Part 2-100: Particular
+requirements for hand-held
+mains operated garden
+blower, vacuums and blower
+vacuums.
+155. TZS 448-2-31/IEC 60335- Household and similar
+Compulsory
+electrical appliances - Safety -
+31:2012+AMD1:2016+AM Part 2-31: Particular
+D2:2018
+requirements for range hoods
+and other cooking fume
+extractors.
+156. TZS 3599-2-2/IEC 60745- Hand-held motor-operated Compulsory
+2-2:2003+AMD1:2008 electric tools - Safety - Part 2-
+S/N Standard Number
+Tittle
+Category
+2: Particular requirements for
+screwdrivers and impact
+wrenches.
+Dar es Salaam,
+ATHUMAN Y. NGENYA,
+11th May, 2023
+Director General
