@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA HAKIMILIKI NA HAKISHIRIKI,
+(SURA YA 218)
+__________
+KANUNI
+__________
+(Zimetengenezwa chini ya kifungu cha 48A)
+KANUNI ZA ADA YA HAKIMILIKI KWA VIBEBEO VYA KAZI ZA UBUNIFU VILIVYO TUPU
+ZA MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni Maelezo
