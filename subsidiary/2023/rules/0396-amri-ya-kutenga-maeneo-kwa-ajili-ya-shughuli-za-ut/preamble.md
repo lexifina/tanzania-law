@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA MADINI,
+(SURA YA 123)
+______
+AMRI
+______
+(Imetengenezwa chini ya kifungu cha 16)
+__________
+AMRI YA KUTENGA MAENEO KWA AJILI YA SHUGHULI ZA UTAFUTAJI NA UCHIMBAJI
+WA MADINI KWA WAMILIKI WA LESENI NDOGO ZA UCHIMBAJI MADINI YA MWAKA
+Jina
