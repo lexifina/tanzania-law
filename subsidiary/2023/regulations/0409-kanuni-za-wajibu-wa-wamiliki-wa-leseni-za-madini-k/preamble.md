@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA MADINI,
+(SURA YA 123)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 129)
+KANUNI ZA WAJIBU WA WAMILIKI WA LESENI ZA MADINI KWA
+JAMII ZA MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni
+Maelezo
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
