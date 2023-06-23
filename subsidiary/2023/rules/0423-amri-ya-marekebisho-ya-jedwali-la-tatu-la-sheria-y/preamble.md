@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA KINGA NA HAKI ZA KIDIPLOMASIA NA KIBALOZI,
+(SURA YA 356)
+________
+AMRI
+________
+(Imetengenezwa chini ya kifungu cha 13(2))
+________
+AMRI YA MAREKEBISHO YA JEDWALI LA TATU LA SHERIA YA KINGA NA HAKI ZA
+KIDIPLOMASIA NA KIBALOZI, 2023
