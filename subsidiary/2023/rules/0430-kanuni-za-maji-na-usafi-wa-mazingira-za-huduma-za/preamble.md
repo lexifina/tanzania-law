@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA MAJI NA USAFI WA MAZINGIRA,
+(SURA YA 272)
+________
+KANUNI
+_______
+(Zimetayarishwa chini ya kifungu cha 29(1)(m))
+KANUNI ZA MAJI NA USAFI WA MAZINGIRA ZA HUDUMA ZA GARI LA MAJI ZA
+MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni
+Maelezo
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
