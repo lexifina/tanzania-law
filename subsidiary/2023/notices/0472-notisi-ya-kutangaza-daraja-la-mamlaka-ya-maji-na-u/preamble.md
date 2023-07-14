@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA HUDUMA ZA MAJI NA USAFI WA MAZINGIRA,
+(SURA YA 272)
+_______
+NOTISI
+_______
+(Imetolewa chini ya kifungu cha 9)
+NOTISI YA KUTANGAZA DARAJA LA MAMLAKA YA MAJI NA USAFI WA MAZINGIRA YA
+MWAKA 2023
