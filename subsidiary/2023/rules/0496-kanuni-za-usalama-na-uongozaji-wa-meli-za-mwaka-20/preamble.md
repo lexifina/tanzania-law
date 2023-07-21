@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA USAFIRI MAJINI,
+(SURA YA 165)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 222)
+KANUNI ZA USALAMA NA UONGOZAJI MELI ZA MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
