@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU
+(SURA YA 323)
+_______
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu 23)
+NOTISI YA KUSUDIO LA KUTANGAZA MSITU WA HIFADHI MUMANGA WA HALMASHAURI YA
+WILAYA YA LIWALE YA MWAKA 2023
