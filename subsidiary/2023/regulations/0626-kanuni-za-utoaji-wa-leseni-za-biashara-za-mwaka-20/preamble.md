@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA UTOAJI WA LESENI ZA BIASHARA,
+(SHERIA NA. 25 YA MWAKA 1972)
+_________
+KANUNI
+_________
+(Zimetengenezwa chini ya kifungu cha 29(1))
+_________
+KANUNI ZA UTOAJI WA LESENI ZA BIASHARA ZA MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni
+Maelezo
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
