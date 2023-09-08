@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA MASOKO YA MITAJI NA DHAMANA,
+(SURA YA 79)
+________
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 136J)
+KANUNI ZA BARAZA LA MASOKO YA MITAJI NA DHAMANA, 2023
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
