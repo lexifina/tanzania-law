@@ -1,0 +1,2 @@
+# JEDWALI LA TATU
+_______________ (Limetengenezwa chini ya aya ya 4) Bei za Sasa na Zinazopendekezwa za Kurejeshewa Huduma (Shilingi kwa Rejesho) Maelezo ya Aina ya Ada za Sasa Ada Zinazopendekezwa 2021/2023 2023/24 2024/25 2025/26 15.000 18,00 20,00 20,00 15,000 22,00 25,00 30,00 wa Mazingira Biharamulo Tangazo La Serikali Na. 701 (Contd) 15,000 22,00 25,00 30,00 15,000 22,00 30,00 30,00 15,000 22,00 30,00 30,00 15,000 22,00 25,00 25,00 JAMES A. MWAINYEKULE .........................., 2023 Mkurugenzi Mkuu
