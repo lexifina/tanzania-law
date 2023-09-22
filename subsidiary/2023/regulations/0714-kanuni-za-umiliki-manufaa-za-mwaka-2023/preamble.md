@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA MAJINA YA BIASHARA,
+(SURA 213)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 22)
+KANUNI ZA UMILIKI MANUFAA ZA MWAKA 2023
+MPANGILIO WA KANUNI
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
+Kanuni Jina
