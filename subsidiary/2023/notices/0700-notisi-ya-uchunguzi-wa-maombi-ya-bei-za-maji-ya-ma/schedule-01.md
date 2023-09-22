@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA
+__________________ (Limetengenezwa chini ya aya ya 4) Bei za Maji za Sasa na Zinazopendekezwa (Shilingi kwa Mita ya Ujazo) Bei za Sasa Bei Zinazopendekezwa 2022/23 2023/24 2024/25 2025/26 1,666 1,786 1,886 1,986 1,850 2,000 2,150 2,250 2,900 3,100 3,200 3,300 2,330 2,450 2,450 2,650 1,500 1,500 1,500 1,500 wa Mazingira Igunga Tangazo La Serikali Na. 700 (Linaendelea 2,900 3,150 3,150 3,250 ______________
