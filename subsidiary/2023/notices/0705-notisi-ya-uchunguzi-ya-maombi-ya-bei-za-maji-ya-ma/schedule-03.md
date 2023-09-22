@@ -1,0 +1,2 @@
+# JEDWALI LA TATU
+________________ (Limetengenezwa chini ya aya ya 4) Bei ya Sasa na Inayopendekezwa ya Kuunganishiwa Huduma (Shilingi kwa Maunganisho) Ada ya Sasa Ada Zinazopendekezwa 2022/23 2023/24 2024/25 2025/26 Asilimia 20 ya gharama za Asilimia 20 ya gharama za maunganisho kama maunganisho kama ilivyoelekezwa ilivyoelekezwa katika Kanuni ya katika Kanuni ya 26 ya Kanuni za Maji 26 ya Kanuni za Maji za Mwaka za Mwaka 2019 Usafi wa Mazingira Nzega Tangazo La Serikali Na. 705 (Linaendelea) ________________
