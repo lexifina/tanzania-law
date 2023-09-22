@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA
+__________________ (Limetengenezwa chini ya aya ya 4) Bei za Maji za Sasa na Zinazopendekezwa (Shilingi kwa Mita ya Ujazo) Bei za Sasa Bei Zinazopendekezwa (TZS/M3) 2022/23 2023/24 2024/25 1,300 2,500 2,600 2,800 wa Mazingira Kigoma Tangazo La Serikali Na. 699 (Linaendelea) 1,400 2,700 2,800 3,100 Kundi 3 (Above 10) 1,500 2,900 3,000 3,300 1,700 3,300 3,400 3,700 1,800 3,500 3,600 3,900 1,800 3,500 3,600 3,900 1,900 2,000 2,200 1,000 1,900 2,000 2,200 1,477 2,880 2,955 3,229 _______________

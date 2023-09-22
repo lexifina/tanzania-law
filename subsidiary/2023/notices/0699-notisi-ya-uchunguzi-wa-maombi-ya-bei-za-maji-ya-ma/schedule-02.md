@@ -1,0 +1,2 @@
+# JEDWALI LA PILI
+_______________ (Limetengenezwa chini ya aya ya 4) Ada za Sasa na Zinazopendekezwa za Maunganisho ya Huduma (Shilingi kwa Unganisho) Ada za sasa Ada zinaopendekezwa 2023/24 2024/25 2025/26 Asilimia 20 ya gharama za Asilimia 20 ya gharama za maunganisho kama maunganisho kama ilivyoelezwa ilivyoelezwa katika kifungu katika kifungu cha 26 cha Kanuni za cha 26 cha Kanuni za Ugavi Ugavi wa maji,2019. wa maji, 2019. ______________
