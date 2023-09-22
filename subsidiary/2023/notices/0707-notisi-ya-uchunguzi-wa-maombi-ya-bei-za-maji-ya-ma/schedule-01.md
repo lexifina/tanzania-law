@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA
+__________________ (Limetengenezwa chini ya aya ya 4) Bei za Maji za Sasa na Zinazopendekezwa (Shilingi kwa Mita ya Ujazo) Kundi la Wateja Bei ya Sasa Bei Zinazopendekezwa 2022/23 2023/24 2024/2025 2025/26 1,250 2,876 2,821 2,614 1,250 3,106 3,047 2,823 1,500 2,876 3,385 3,136 1,500 3,157 3,147 3,132 wa Mazingira Busega Tangazo la serikali na. 707 (linaendelelea) 1,250 3,451 2,821 2,614 1,400 3,093.2 3,044.2 2,863.8 ____________
