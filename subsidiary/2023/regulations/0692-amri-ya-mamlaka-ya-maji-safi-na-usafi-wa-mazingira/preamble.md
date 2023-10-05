@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA MAJISAFI NA USAFI WA MAZINGIRA,
+(SURA NA 272)
+_______
+AMRI
+______
+(Imetolewa chini ya kifungu Na.29 (1) (d))
+AMRI YA MAMLAKA YA MAJISAFI NA USAFI WA MAZINGIRA MOMBO (“MOMBO WSSA”),
+KUREKEBISHA BEI ZA HUDUMA ZA MAJI SAFI ), 2023
+Jina
