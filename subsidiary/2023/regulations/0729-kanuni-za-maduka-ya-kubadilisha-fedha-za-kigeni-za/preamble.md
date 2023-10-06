@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA KIGENI
+(SURA YA 271)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 5(a) na 7)
+KANUNI ZA MADUKA YA KUBADILISHA FEDHA ZA KIGENI ZA MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
