@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA TAFSIRI YA SHERIA,
+(SURA YA 1)
+______
+AMRI
+______
+(Imetolewa chini ya kifungu cha 26(3))
+AMRI YA KUREKEBISHA MAKOSA YA KIUCHAPAJI KATIKA SHERIA YA UNUNUZI WA
+UMMA YA MWAKA 2023
