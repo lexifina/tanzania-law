@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA TAFSIRI YA SHERIA,
+(SURA YA 1)
+_______
+NOTISI
+_______
+(Imetolewa chini ya kifungu cha 84(4))
+NOTISI YA KUTANGAZA TOLEO RASMI LA TAFSIRI YA KIINGEREZA YA SHERIA YA
+TUME YA MIPANGO YA MWAKA 2023
