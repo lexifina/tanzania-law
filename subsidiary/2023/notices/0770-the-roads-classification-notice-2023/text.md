@@ -1,0 +1,144 @@
+# Text
+GN. NO. 770 (Contd)
+GOVERNMENT NOTICE NO. 770 published on 3/11/2023
+THE ROADS ACT,
+(CAP. 167)
+________
+NOTICE
+________
+(Made under section 11)
+THE ROADS (CLASSIFICATION) NOTICE, 2023
+Citation
+1. This Notice may be referred to as the Roads
+(Classification) Notice, 2023.
+Classification
+2. The roads specified in the First Schedule are
+of roads
+hereby classified as Trunk and Regional Roads respectively.
+Roads
+3. The roads specified in the Second Schedule which
+designation
+are under the jurisdiction of the Tanzania Rural and Urban
+Roads Agency are hereby designated to be under the
+jurisdiction of the Tanzania National Roads Agency.
+_____________
+FIRST SCHEDULE
+____________
+(Made under paragraph 2)
+Roads classified as Trunk Roads
+LENGTH
+REGION
+ROAD NAME
+(Km)
+KATAVI
+KAGWIRA-KAREMA
+112.00
+TOTAL
+112.00
+Roads Classified as Regional Roads
+LENGTH
+REGION
+NAME OF ROAD
+(Km)
+GN. NO. 770 (Contd)
+NJOMBE
+MAKOGA-KINENULO-IMALINYI-MDANDU
+34.40
+MBEYA
+IRAMBO-NSONYANGA
+22.00
+56.40
+TOTAL
+_________________
+SECOND SCHEDULE
+_________________
+(Made under paragraph 3)
+District Roads Designated to TANROADS
+COUNCIL COUNCIL ROAD
+ROAD NAME
+LENGTH
+NAME
+CODE
+CODE
+NJOMBE REGION
+Makete DC
+223 223002 and BULONGWA-IYOKA-
+22.15
+223094 KIDOPE-MADIHANI
+Makete DC
+223164 MADIHANI-LUFILYO
+15.10
+Makete DC
+223 223017 and NKENJA-IKUWO-
+42.70
+223018 USALIMWANI
+Makete DC
+223019 MATAMBA-CHIMALA
+22.16
+ROAD
+Wanging’ombe
+222 222054 and KIPENGERE-WANGAMA- 54.80
+DC
+222059 KIDUGALA-MAMBEGU
+TOTAL
+156.91
+MBEYA REGION
+Busokelo DC
+7.30
+GN. NO. 770 (Contd)
+ITETE-HOSPITAL-
+LUFILIO SEKONDARI-
+KIPAPA
+Rungwe DC and 124 and 1210 124001 and NAMBA ONE-
+33.60
+Busokelo DC
+1210013 NGUMBULU-LUGOMBO
+Chunya DC and 121 and 122 121001 and KIWANJA-IFUMBO-
+57.88
+Mbeya DC
+122039 IKUKWA-MJELE
+Mbarali DC and
+127024 CHIMALA-IHAHI-
+9.70
+Chunya DC
+MNGOLONGOLO
+Mbeya DC and 122 and 123 122002, KAWETERE-IWANZA-
+25.50
+Mbeya CC
+122003, MAFIAT
+128109 and
+TOTAL
+133.98
+MWANZA REGION
+Sengerema DC
+195 195223, SENGEREMA-
+35.50
+195437 and KAFUNDIKIRE-
+195495 MBALAGANE-
+NYAKAHAKO-
+KIJIWENI/CHIFUMFU
+34.40
+Sengerema DC
+195 195002, NYITUNDU-KAHUMULO-
+195428, IRUNDA-NYAMATONGO-
+195429 and KUBUSULI-KARUMO
+45.10
+Buchosa DC and 198 and 195 198003, KALEBEZO-
+Sengerema DC
+198021, MAGURUKENDA-
+198032 and NYASHANA-USWELU-
+195114 MIGUKULAMA-
+NYANZENDA-
+NYAMABANO-
+MIGUKULAMA-
+NYANZENDA-
+NYAMABANO-
+KASHINDAGA-
+BUTONGA-SENGEREMA
+GN. NO. 770 (Contd)
+TOTAL
+115.00
+Dodoma,
+INNOCENT L. BASHUNGWA
+27th September, 2023
+Minister for Works
