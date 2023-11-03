@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USHURU WA BIDHAA,
+(SURA YA 147)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 128 (2))
+AMRI YA MSAMAHA WA USHURU WA BIDHAA KWENYE GARI MOJA
+LINALOINGIZWA NCHINI NA WIZARA YA AFYA, 2023.
