@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA USHURU WA BIDHAA,
+(SURA YA 147)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 128)
+AMRI YA MSAMAHA WA USHURU WA BIDHAA MAGARI 20 YA MRADI WA
+MABORESHO YA MAHAKAMA YA TANZANIA YA MWAKA 2023
+Jina na kuanza
