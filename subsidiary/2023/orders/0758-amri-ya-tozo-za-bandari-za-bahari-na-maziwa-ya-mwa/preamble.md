@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA UWAKALA WA MELI TANZANIA,
+(SURA YA 415)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 28(3))
+AMRI YA TOZO ZA BANDARI ZA BAHARI NA MAZIWA YA MWAKA 2023
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
+Jina na
