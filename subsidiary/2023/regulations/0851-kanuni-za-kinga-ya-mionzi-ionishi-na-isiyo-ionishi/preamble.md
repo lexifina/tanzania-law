@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA NGUVU ZA ATOMU,
+(SURA YA 188)
+_________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 70)
+KANUNI ZA KINGA YA MIONZI IONISHI NA ISIYO IONISHI ZA
+MWAKA 2023
+MPANGILIO WA KANUNI
+Kanuni Jina
+SEHEMU YA KWANZA
+MASHARTI YA AWALI
