@@ -1,0 +1,4 @@
+# JEDWALI LA NNE
+_______________ (Limetengenezwa chini ya aya ya 3(f))
+MAHITAJI YA FEDHA YALIYOIDHINISHWA
+MAELEZO KIASI (SHILINGI MILIONI) 2023/24 2024/25 2025/26 Gharama za Uzalishaji wa Maji 321.01 374.95 448.92 Gharama za Usambazaji 3.50 3.68 3.86 Gharama za Matengenezo na Matunzo 54.70 52.19 61.79 Gharama za Wafanyakazi 314.77 381.32 443,20 Gharama za Utawala 135.45 153.67 161.36 Gharama za Matangazo ya Biashara 7.21 5.47 7.84 Kugharamia Matukio na Misaada 18.62 20.55 21.58 Tozo za Benki 1.15 1.20 1.25 Jumla ya Gharama za Uendeshaji na Matengenezo 855.42 993.02 1,149.81 Uchakavu wa Miundombinu 103.92 181.86 255.63 Uwekezaji 40.5 246.05 266.60 Jumla ya Mahitaji ya Fedha 1,000.84 1,420.93 1,672.04 Ada za Maunganisho Mapya 5.20 7.80 10.40 Ada za Kurejesha Huduma kwa Waliokatiwa 1.50 1.35 1.20 Mahitaji ya Fedha Kutoka Kwenye Mauzo ya Maji 994.14 1,411.78 1,660.44 Dodoma, JAMES A. MWAINYEKULE ……………….,2023 Mkurugenzi Mkuu
