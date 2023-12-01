@@ -1,3 +1,0 @@
-# 7. Decision of Board
-(1) Matters proposed at a meeting of the Board shall be decided by a majority of the votes of the members present and voting and in the event of any equality of votes the person presiding shall have a second casting vote in addition to his original or deliberative vote.
-(2) A decision may be made by the Board without a meeting by a circulation of the relevant papers amongst the members and the expression of the views of the majority of the members in writing shall be honoured but any member may require that the decision be deferred and the subject matter be considered at a meeting of the Board.
