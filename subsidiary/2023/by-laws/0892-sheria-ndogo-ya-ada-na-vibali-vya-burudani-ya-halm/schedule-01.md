@@ -1,0 +1,3 @@
+# JEDWALI LA KWANZA
+__________________ (Limetengenezwa chini ya aya ya 4(2))
+ADA YA KUENDESHA SHUGHULI ZA BURUDANI Aina ya Shughuli Kiwango cha Ada kwa Shilingi Muziki wa Dansi, disko, taarabu na aina 50,000/= kwa siku nyingineyo yoyote ya muziki Shindano la kutafuta msanii 30,000/= kwa shindano Shindano la kutafuta warembo 50,000/= kwa shindano 50,000/= kwa onesho Maombi ya kibali cha sherehe za unyago, 30,000/= kwa sherehe ngoma, harusi na sherehe nyingine yoyote Kupiga picha mjongeo 10,000/= kwa kila tukio 10,000/= kwa mechi Matangazo ya Biashara 30,000/= kwa siku Tangazo La Serikali Na. 892 (Linaendelea) ______________
