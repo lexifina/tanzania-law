@@ -1,0 +1,3 @@
+# JEDWALI LA KWANZA
+_________________
+ADA YA UPIMAJI WA AFYA (Limetengenezwa chini ya aya ya 7) Kiwango cha Ada kwa Shilingi Nyumba ya starehe (baa, vilabu vya 5,000/= kwa kila mfanyakazi/Mhudumu pombe za kienyeji na nyumba ya 3,000/= kwa kila mfanyakazi/Mhudumu Nyumba ya kutengeneza na kuuzia 5,000/= kila mfanyakazi/Mhudumu vyakula na au nyama choma. 5,000/= kwa kila mfanyakazi/Mhudumu 3,000/=Kwa kila mfanyakazi/Mhudumu Viwanda vidogo vya vyakula 5,000/= kwa kila mfanyakazi/Mhudumu Mhudumu wa chakula 5,000/= kila mfanyakazi/Mhudumu Musoma Tangazo La Serikali Na. 895 (Linaendelea) ____________
