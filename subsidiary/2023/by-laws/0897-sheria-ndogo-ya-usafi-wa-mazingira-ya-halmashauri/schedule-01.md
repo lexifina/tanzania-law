@@ -1,0 +1,12 @@
+# JEDWALI LA KWANZA
+______________ (Limetengenezwa chini ya aya ya 10)
+ADA YA KUZOA TAKA NA AINA YA BIASHARA/MAENEO MIJI YA MAKAO MAKAO
+YA UZALISHAJI TAKA KIBIASHARA MAKUU YA MAKUU (NKWENDA, KATA YA VIJIJI
+MABIRA, TOFAUTI TOFAUTI
+ISINGIRO, NA MIJI YA NA
+MURONGO, KIBIASHAR MAKAO
+RUBWERA- A ADA MAKUU
+RWENKORO KWA YA KATA,
+NGOADA MWEZI ADA KWA KWA MWEZI (SHILINGI) MWEZI (SHILINGI) (SHILINGI) 1,000 2 Nyumba ya kulala wageni 10,000 8,000 5,000 3 Ofisi (Ya Umma na Binafsi) 2,000 1,000 5,00 10,000 5,000 10,000 5,000 Duka la kubadilishia pesa 10,000 5 VYAKULA NA VINYWAJI 10,000 5,000 2,000 5,000 1,000 Café (vitafunwa na vinywaji baridi) 8,000 3,000 1,500 Duka la vyakula na vinywaji 8,000 3,000 1,500 8,000 3,000 1,500 Bar (Pombe, vinywaji baridi na 10,000 4,000 2,000 10,000 5,000 2,000 Bar na Nyumba ya Kulala Wageni 10,000 5,000 2,000 Tangazo La Serikali Na. 897 (Linaendelea) Bar Nyumba ya Kulala wageni na 10,000 5,000 1,500 Bar na ukumbi wa Starehe 5,000 3,000 2,000 10,000 5,000 1,000
+6. Bucha ya Nyama na Samaki 10,000/= 5,000/= 3,000 7 DUKA JUMLA NA REJA REJA Vyakula na bidhaa Mchanganyiko 8000 3,000 1,000 3,000 1,000 5,000 2,000 8,000 3,000 1,000 Vitabu, shajara na zawadi 3,000 1,000 8,000 3,000 1,000 8,000 3,000 1,000 8,000 3,000 1,000 8,000 3,000 1,000
+8. KARAKANA NA VIWANDA Fundi selemala na mashine ya mbao 10,000 5,000 2,000 Karakana ya chuma (fitting and 10,000 5,000 2,000 10,000 5,000 2,000 10,000 5,000 2,000 10,000 5,000 2,000 10,000 5,000 2,000 Viwanda vikubwa kwa tani moja ya 20,000 10,000 5,000 Viwanda vidogo kwa tani moja ya 10,000 5,000 3,000 9 BIASHARA NDOGO NDOGO 10,000 5,000 2,000 Saluni ya nywele (kike na kiume) 2,000 1,000 2,000 1,000 Watengeneza juice/barafu na bisi 1,000 Wachoma chipsi na nyama choma 5,000 3,000 2,000 Waosha magari, pikipiki na bajaji 2,000 1,000 Mashine ya kusaga na/au kukoboa 5,000 3,000 2,000 1,000 Wauza mitumba ndani ya soko 500 Wauza mitumba nje ya soko 2,000 1,000 1,000 Duka la dawa baridi za binadamu 10,000 5,000 3,000 Maabara binafsi ya vipimo 10,000 5,000 3,000 Tangazo La Serikali Na. 897 (Linaendelea) 10,000 5,000 3,000 20,000 10,000 5,000 15,000 8,000 5,000 10,000 5,000 3,000 11 TAASISI ZA MAFUNZO 20,000 10,000 5,000 30,000 15,000 8,000 50,000 30,000 15,000 30,000 15,000 8,000 10,000 5,000 3,000 10,000 5,000 3,000 Kibanda cha kuuzia mkaa 10,000 5,000 3,000 13 Duka la simu, kampuni ya simu na 10,000 5,000 3,000 14 Taka za uvunjaji nyumba kwa tani 20,000 10,000 5,000 ___________
