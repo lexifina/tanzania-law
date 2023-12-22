@@ -1,0 +1,2 @@
+# JEDWALI LA KWANZA
+________________ (Limetengenezwa chini ya aya ya 10) A: USHURU WA KUSHUSHA NA KUPAKIA MIZIGO SOKONI Aina ya chombo cha usafiri Ada kwa siku (Shilingi) 1 Chombo cha usafiri chenye uwezo wa kubeba Tangazo La Serikali Na. 908 (Linaendelea) B: USHURU WA MAEGESHO SOKONI Aina ya Chombo cha Usafiri Kiwango cha Ushuru kwa siku (shilingi) Lori kubwa lenye uwezo wa kubeba tani 5 na 1,000/= Lori la kati lenye uwezo wa kubeba tani 5 600/= 500/= 500/= __________
