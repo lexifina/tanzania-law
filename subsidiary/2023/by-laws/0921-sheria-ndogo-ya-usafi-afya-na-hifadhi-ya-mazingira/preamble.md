@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+_____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya kifungu cha 153(1))
+SHERIA NDOGO YA USAFI, AFYA NA HIFADHI YA MAZINGIRA YA HALMASHAURI YA
+WILAYA YA ARUSHA YA MWAKA 2023
