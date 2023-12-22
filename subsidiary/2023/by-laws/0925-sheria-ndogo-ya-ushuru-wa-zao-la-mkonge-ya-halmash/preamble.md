@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA,
+(SURA YA 290)
+_____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya Kifungu cha 7(1) na 16(1))
+MAREKEBISHO YA SHERIA NDOGO YA USHURU WA ZAO LA MKONGE YA
+HALMASHAURI YA WILAYA YA KOROGWE YA MWAKA 2023
