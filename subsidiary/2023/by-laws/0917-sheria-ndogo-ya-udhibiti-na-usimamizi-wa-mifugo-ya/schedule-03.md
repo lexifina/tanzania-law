@@ -1,0 +1,4 @@
+# JEDWALI LA TATU
+_____________ (Limetengenezwa chini ya aya ya 9)
+VIWANGO VYA MALIPO YA KUHIFADHI MIFUGO ILIYOKAMATWA NA HALMASHAURI
+KWA KILA MFUGO Kiasi Siku ____________
