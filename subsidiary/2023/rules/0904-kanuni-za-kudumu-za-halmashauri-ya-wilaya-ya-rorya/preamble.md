@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+____________
+KANUNI ZA KUDUMU
+______________
+(Zimetengenezwa chini ya kifungu cha 70(1))
+KANUNI ZA KUDUMU ZA HALMASHAURI YA WILAYA YA RORYA ZA MWAKA 2023
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGLIZI
