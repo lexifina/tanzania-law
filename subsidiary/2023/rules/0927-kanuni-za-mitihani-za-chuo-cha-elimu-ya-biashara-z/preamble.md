@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA CHUO CHA ELIMU YA BIASHARA
+(SURA YA 315)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 14(1))
+KANUNI ZA MITIHANI ZA CHUO CHA ELIMU YA BIASHARA ZA MWAKA 2023
+MPANGILIO WA KANUNI
