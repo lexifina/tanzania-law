@@ -1,6 +1,6 @@
-# Schedule (Section 4)
+# Schedule (Made under section 4)
 Commonwealth countries
-Antigua and Bermuda | Namibia
+Antiqua and Bermuda | Namibia
 Australia | Nauru
 The Bahamas | New Zealand
 Bangladesh | Nigeria
@@ -16,7 +16,7 @@ The Gambia | St. Lucia
 Ghana | St. Vincent and the Grenadines
 Grenada | Swaziland
 Pakistan | Tanzania
-Guyan | Tonga
+Guyana | Tonga
 India | Trinidad and Tobago
 Jamaica | Tuvalu
 Kenya | Uganda
