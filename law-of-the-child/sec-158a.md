@@ -1,3 +1,0 @@
-# 158A. Prohibition of female genital mutilation on child
-(1) A person shall not perform female genital mutilation on a child.
-(2) A person who contravenes this section, commits an offence and is liable on conviction, to a fine of not less than two million shillings or to imprisonment for a term of not less than five years but not exceeding fifteen years or both.
