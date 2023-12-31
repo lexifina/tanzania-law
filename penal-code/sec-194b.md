@@ -1,2 +1,2 @@
 # 194B. ***
-Division IV — Offences against the person
+[Repealed by Act No. 13 of 1984 Third Sch.]
