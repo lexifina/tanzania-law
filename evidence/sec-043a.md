@@ -1,2 +1,0 @@
-# 43A. Relevancy of judgements in criminal proceedings
-A final judgement of a court in any criminal proceedings shall, after the expiry of the time limit for an appeal against that judgement or after the date of the decision of an appeal in those proceedings, whichever is the later, be taken as conclusive evidence that the person convicted or acquitted was guilty or innocent of the offence to which the judgement relates.

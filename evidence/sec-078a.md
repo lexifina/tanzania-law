@@ -1,3 +1,0 @@
-# 78A. Electronic records
-(1) A print out of any entry in the books of a bank on micro-film, computer, information system, magnetic tape or any other form of mechanical or electronic data retrieval mechanism obtained by a mechanical or other process which in itself ensures the accuracy of such print out, and when such print out is supported by a proof stipulated under subsection (2) of section 78 that it was made in the usual and ordinary course of business, and that the book is in the custody of the bank, it shall be received in evidence under this Act.
-(2) Any entry in any banker's book shall be deemed to be primary evidence of such entry and any such banker's book shall be deemed to be a "document" for the purpose of subsection (1) of section 64.
