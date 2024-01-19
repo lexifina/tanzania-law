@@ -1,0 +1,9 @@
+# JEDWALI LA TANO
+_______ (Limetungwa chini ya kifungu cha 25(1)) _______
+VIWANGO VYA USHURU WA MNADA A. VIWANGO VYA USHURU MNADA WA AWALI (PRIMARY MARKETS) Kiwango cha Kiwango cha Ushuru wa Ushuru wa Wizara ya Mifugo (Shilingi) Halmashauri (Shilingi) 4,000/= 2,500/= 4,000/= 2,500/= 4,000/= 2,500/= 4,000/= 2,500/= 1,000/= 1,500/= 1,000/= 1,500/= 1,000/= 1,500/= B. VIWANGO VYA USHURU MNADA WA UPILI (SECONDARY MARKETS) Kiwango cha Kiwango cha Ushuru wa Ushuru wa Wizara ya Mifugo (Shilingi) Halmashauri (Shilingi) 1,000/= 2,500/= 1,000/= 2,500/= 1,000/= 2,500/= 1,000/= 2,500/= 500/= 1,500/= 500/= 1,500/= 500/= 1,500/= C: USHURU WA KUSAFIRISHA MIFUGO NJE YA WILAYA Aina ya mfugo Kiwango cha malipo (Shilingi) Moshi Tangazo La Serikali Na. 38 (Linaendelea) 4,000/= kwa kila mmoja 1,500/= kwa kila mmoja 1,500/= kwa kila mmoja 4 Kuku au kanga au bata 2,000/= kuanzia 10 hadi 50 na kuanzia 51 na kuendelea 5,000/= 2,000/= kwa kila mmoja
+6. Ushuru wa kupakia Ng’ombe 500/= kwa kila moja
+7. Ada ya kuogesha mifugo 150/= kwa kila mmoja D: USHURU WA KUSAFIRISHA MAZAO YA MIFUGO Aina ya mfugo Kiwango cha malipo (Shilingi) Ngozi ya Ng’ombe 100/= kwa kila ngozi Ngozi ya Mbuzi au Kondoo 50/= kwa kila ngozi 500/= kwa trei 300/= kwa kilo 50/= kwa lita moja 300/= kwa kilo 300/= kwa kilo E: USHURU WA MALISHO YA MIFUGO KWA MAENEO YALIYOTENGWA NA
+HALMASHAURI KAMA VITALU VYA MALISHO Aina ya mfugo Kiwango cha malipo (Shilingi) 2,500/= kila mmoja kwa mwaka. 2,500/= kwa kila mmoja kwa mwaka 1,500/= kwa kila mmoja kwa mwaka 1,500/= kwa kila mmoja kwa mwaka Moshi Tangazo La Serikali Na. 38 (Linaendelea) 2,000/= kwa kila mmoja kwa mwaka.
+F: SIKU NA MUDA WA KUFUNGA NA KUFUNGUA MNADA Namba Jina la Mnada Siku ya Mnada Muda wa Muda wa Kufunguliwa Kufunga
+NJIAPANDA JUMANNE Saa 2:00 12:00 Jioni asubuhi
+MIKOCHENI ALHAMISI Saa 2:00 12:00 Jioni asubuhi ________

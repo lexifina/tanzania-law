@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+SURA YA 287
+___________
+SHERIA NDOGO
+___________
+(Imetengenezwa chini ya kifungu cha 153(1))
+SHERIA NDOGO YA (UDHIBITI NA USIMAMIZI WA MIFUGO) YA HALMASHAURI YA
+WILAYA YA MOSHI YA MWAKA 2024
