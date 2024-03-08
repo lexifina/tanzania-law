@@ -1,0 +1,4 @@
+# JEDWALI
+___________ (Limetengenezwa chini ya aya ya 2) Eneo la upangaji lipo ndani ya mipaka ifuatayo: “Unaanzia kwenye alama ya mpaka ya upimaji namba P1 yenye majira-nukta 436086, 9375309; baada ya hapo mpaka unaendelea Magharibi kwa umbali wa kilomita 4.945 hadi kwenye alama ya mpaka ya upimaji namba P2 yenye majira-nukta 431322, 9376633; baada ya hapo mpaka unaelekea Kaskazini kwa umbali wa kilomita 6.831 hadi kwenye alama ya mpaka ya upimaji namba P3 yenye majira-nukta 433354,9382907; baada ya hapo mpaka unaelekea Mashariki kwa umbali wa kilomita 4.794 hadi kwenye alama ya mpaka ya upimaji namba P4 Tangazo La Serikali Na. 146 (Linaendelea) yenye majira-nukta 437673,9380825; baada ya hapo mpaka unaelekea Kusini kwa umbali wa kilomita 1.353 hadi kwenye alama ya mpaka wa upimaji namba P5 yenye majira-nukta 437847,9379483 hadi ulipoanzia”.
+Dodoma,
+JERRY WILLIAM SILAA 29 Februari, 2024 Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi
