@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+_____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya vifungu vya 8(1) na 16 (1))
+SHERIA NDOGO YA USIMAMIZI WA MAEGESHO NA VITUO VYA VYOMBO
+VYA USAFIRI YA HALMASHAURI YA MJI MAFINGA YA MWAKA 2024
