@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA 287)
+_________
+SHERIA NDOGO
+_________
+(Zimetengenezwa chini ya kifungu cha 153)
+SHERIA NDOGO ZA VIBALI VYA UJENZI ZA HALMASHAURI YA WILAYA YA MWANGA
+ZA MWAKA 2024
+Jina
