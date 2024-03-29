@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA
+(SURA YA 290)
+____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya Kifungu cha 89)
+SHERIA NDOGO YA USIMAMIZI WA MASOKO YA HALMASHAURI YA MANISPAA YA
+MTWARA MIKINDANI ZA MWAKA 2024
