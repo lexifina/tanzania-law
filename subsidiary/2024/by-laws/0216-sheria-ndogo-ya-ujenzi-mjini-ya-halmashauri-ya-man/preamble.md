@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+(SURA 288)
+_________
+SHERIA NDOGO
+_________
+(Imetengenezwa chini ya Kifungu cha 89)
+_________
+SHERIA NDOGO YA UJENZI MJINI YA HALMASHAURI YA MANISPAA YA MTWARA-
+MIKINDANI YA MWAKA 2024
