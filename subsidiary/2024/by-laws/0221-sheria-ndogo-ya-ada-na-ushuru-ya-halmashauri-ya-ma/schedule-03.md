@@ -1,0 +1,17 @@
+# JEDWALI LA ISHIRINI NA MOJA
+USHURU WA STENDI NDOGO ZA MANISPAA Namba Aina ya gari Kiwango cha Ushuru kwa siku Mabasi Makubwa 5000.00/= Costa 3000.00/= Mabasi madogo/hiace 2000.00/= Bajaji 500.00/= Pikipiki 300.00/= Pick ups 1000.00/= Malori makubwa yanaoegesha 5000.00/= Malori madogo yanayoegesha 3000.00/=
+SEHEMU YA ISHIRINI NA MBILI KODI YA KUPANGISHA NYUMBA/MAJENGO YA MANISPAA Aina ya Nyumba/Jengo Kiwango cha Kodi kwa Mwezi Chumba Nyumba nzima Kwa mujibu wa mkataba Ukumbi wa Mikutano Kwa mujibu wa mkataba Hostel Kwa mujibu wa mkataba Vibanda vya biashara Kwa mujibu wa mkataba
+SEHEMU YA ISHIRINI NA TATU
+ADA YA KUPANGISHA VYUMBA, VIBANDA, MEZA NA VIZIMBA VYA BIASHARA Namba Soko Matumizi Kiasi cha Kodi Vyumba vya biashara (stendi Biashara/ofisi 150,000 kwa Misuna) vinavyotazama ndani Mwezi.
+Vyumba vya biashara(stendi Biashara/Ofisi 50,000/= kwa Misuna)vinavyotazama nje Mwezi Machinga wa Stendi (Misuna) Kuuza bidhaa 1000.00/= kwa siku Chumba cha biashara Biashara 30000.00/= kwa (Ukombozi)/Stendi ya Vumbi Mwezi Meza za Biashara-Sokoni Biashara 1000.00/= kwa siku Vizimba –Soko Kuu vya nje Biashara 200,000.00/= kwa Mwezi Vibanda-Soko Kuu vya Ndani Biashara 150,000.00/= kwa Mwezi Kiosk-Sokoni Biashara 30000.00/= kwa mwezi Meza-Sokoni Biashara 20000.00/= -Malapa -Mbogamboga 10000.00/= -Samaki 15,000.00/= -Tumbaku/Ugolo 6000.00/= Meza-Buchani Mbogamboga na Matunda 10,000.00/= Mabanda ya Kuku-Soko Kuu Biashara(Mabanda ya 30,000/= kuuzia Kuu)
+SEHEMU YA ISHIRINI NA NNE
+ADA NA USHURU UTOKANAO NA SHUGHULI ZA BURUDANI NA MICHEZO Namba Tukio la burudani Ada/ushuru Muda 1.
+Kibali cha Tamasha lisilo na Kiingilio 50000/= Kwa siku Kibali cha Tamasha lenye Kiingilio 150,000/= Kwa siku Usajili wa Vikundi vya Sanaa. 50000/= Kwa usajili Kibali cha Uandaaji Kongamano 100,000/= Kwa siku Usajili wa vibanda vya filamu 50000/= Kwa mwaka Kibali cha kuchezesha Michezo ya 100000/= Kwa kila mashine Kubahatisha kwa kutumia mashine kwa mwaka Kibali cha mchezo wa Pooltable 100,000/= Kwa kila meza/mashine kwa mwaka Kibali cha Tamasha la 100,00/= Kwa siku Maonesho(biashara) Bahati nasibu ndogo ndogo(fete) 10,000/= Kwa siku katika eneo moja.
+Mshereheshaji (MC) 50,000/= Kwa tukio Mpambaji wa ukumbi wa burudani 50,000/= Kwa tukio (harusi, sherehe za jikoni, nk) Mtoa burudani (Disco Joker-DJ) 20,000/= Kwa tukio Mmiliki wa kumbi mbalimbali 30,000/= Kwa tukio moja kwa siku Mpishi wa vyakula 20,000/= Kwa tukio/zabuni Picha jongevu na mnato 20,000/= Kwa tukio moja kwa siku Mnada wa hadhara 10% ya mauzo ya Kwa tukio moja jumla ya mnada kwa siku Harusi za sherehe za Kijamii za 30,000/= Kwa tukio moja Ukumbini kwa siku
+SEHEMU YA ISHIRINI NA TANO
+USHURU WA HUDUMA YA KUTENGENEZA SAMANI Namba Mtu/Kiwanda cha Kutengeneza Samani Kiwango kwa Mwaka Kituo cha kutengeneza Samani(Katikati ya 200,000/= Mji) Kituo cha Kutengeneza Samani(pembezoni 50,000/= Kwa Mwaka mwa Mji)
+SEHEMU YA ISHIRINI NA SITA USHURU WA GEREJI ZA VYOMBO VYA MOTO.
+Namba Ushuru wa Gereji Kiwango kwa Mwezi Gereji za Magari 60000/= kwa mwezi Gereji za Bajaji na pikipiki 15,000/= kwa mwezi
+SEHEMU YA ISHIRINI NA SABA ADA ZA USAJILI WA VIKUNDI VYA KIJAMII (CBOS & NGOS) Namba Usajili wa Kikundi Kiwango kwa Mwezi Ada ya Utambuzi wa 20,000/= Kikundi SEHEMU YA ISHIRINI NA NANE.
+USHURU WA SAMAKI NA MAZAO YA ZIWANI.
+Namba Samaki Kiwango kwa kilo Samaki wabichi 200 kwa kilo Samaki wakavu 500 kwa kilo Dagaa wakavu 2000 kwa gunia Dagaa wabichi 500 kwa kilo Mazao mengineyo 300 kwa kilo Uduvi 100 kwa kilo
