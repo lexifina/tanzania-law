@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA
+(SURA 290)
+_____________
+SHERIA NDOGO
+______________
+(Imetengenezwa chini ya Kifungu cha 6(1) na 16 (1))
+MAREKEBISHO YA SHERIA NDOGO YA ADA NA USHURUYA HALMASHAURI YA
+MANISPAA YA MTWARA - MIKINDANI YA MWAKA 2024
+Jina
