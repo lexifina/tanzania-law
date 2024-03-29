@@ -1,0 +1,4 @@
+# JEDWALI LA KWANZA
+________________ (Limetengenezwa chini ya Aya ya 7(1)
+ADA YA UZOAJI TAKA Eneo Kiwango cha Ada kwa mwezi (Shilingi) 2,000.00 5,000.00
+3. Mashine ya kukamua mafuta ya alizeti 5,000.00 10,000.00 5,000.00 6 Mashine za kukoboa/kusaga 10,000.00 7 Vilabu vya pombe za kienyeji, baa, grocery, 4,000.00 Sheria Ndogo ya Afya Na Usafi wa Mazingira ya Halmashauri ya Manispaa ya Mtwara- Mikindani Tangazo La Serikali Na. 215 (Linaendelea) 8 Mama lishe/Baba lishe, Nyama choma/chipsi 2000.00 9 Viwanda vya uselemala na mashine za mbao 10,000.00 10 Bucha (Maduka ya Nyama na samaki) 5,000.00 4,000.00 3,000.00 10,000.00 7,000.00 15 Kituo cha kuuza mafuta(Filling station) 10,000.00 16 Ofisi za Taasisi mbalimbali 5,000.00 10,000.00 5,000.00 3,000.00 20 Mafundi vyuma (wahunzi) 5,000.00 5,000.00 22 Majengo ya kuoshea magari/pikipiki 5,000.00 23 Zahanati/kituo cha afya au hospitali 20,000.00 24 Majengo mengine yasiyotajwa 20,000.00 _____________
