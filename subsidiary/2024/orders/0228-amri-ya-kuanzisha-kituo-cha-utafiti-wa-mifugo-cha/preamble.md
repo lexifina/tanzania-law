@@ -1,0 +1,8 @@
+# Long title and enacting words
+SHERIA YA TAASISI YA UTAFITI WA MIFUGO TANZANIA
+SURA YA 434
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 6(4))
+AMRI YA KUANZISHA KITUO CHA UTAFITI WA MIFUGO CHA NSIMBO YA MWAKA
