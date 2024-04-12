@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA 287)
+____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya kifungu cha 153)
+SHERIA NDOGO YA AFYA, USAFI NA USIMAMIZI WA MAZINGIRA YA HALMASHAURI YA
+WILAYA YA SONGWE YA MWAKA 2024
