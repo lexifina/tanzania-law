@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+(SURA YA 288)
+______________
+SHERIA NDOGO
+______________
+(Imetengenezwa chini ya kifungu cha 89)
+SHERIA NDOGO YA AFYA, USAFI NA USIMAMIZI WA MAZINGIRA HALMASHAURI YA
+MANISPAA YA MOROGORO, YA MWAKA 2024
