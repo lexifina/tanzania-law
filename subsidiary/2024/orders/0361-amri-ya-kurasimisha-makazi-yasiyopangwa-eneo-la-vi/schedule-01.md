@@ -1,0 +1,4 @@
+# JEDWALI
+_________ (Limetengenezwa chini ya aya ya 2) Eneo la urasimishaji lipo ndani ya mipaka ifuatayo:
+Tangazo la Serikali Na. 361 (Linaendelea) “Unaanzia kwenye alama ya mpaka ya upimaji namba YE609 yenye majira - nukta 522190.376MS, 9258040.787KZ; baada ya hapo mpaka unaelekea Kaskazini - Mashariki kwa umbali wa kilomita 0.25 hadi kwenye alama ya mpaka ya upimaji namba YE534 yenye majira - nukta 522430.494MS, 9258120.619KZ; baada ya hapo mpaka unaelekea Kusini - Mashariki kwa umbali wa kilomita 0.09 hadi kwenye alama ya mpaka ya upimaji namba YE535 yenye majira - nukta 522458.634MS, 9258035.403KZ; baada ya hapo mpaka unaelekea Kusini - Magharibi kwa umbali wa kilomita 0.25 hadi kwenye alama ya mpaka ya upimaji namba YE602 yenye majira - nukta 522217.851MS, 9257955.189KZ; baada ya hapo mpaka unaelekea Kaskazini-Magharibi kwa umbali wa kilomita 0.09 hadi ulipoanzia” Dodoma
+JERRY WILLIAM SILAA 25 April, 2024 Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi
