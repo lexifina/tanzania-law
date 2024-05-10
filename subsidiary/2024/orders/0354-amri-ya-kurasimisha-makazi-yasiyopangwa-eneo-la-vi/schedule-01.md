@@ -1,0 +1,4 @@
+# JEDWALI
+_________ (Limetengenezwa chini ya aya ya 2) Eneo la urasimishaji lipo ndani ya mipaka ifuatayo: “Unaanzia kwenye alama ya mpaka ya upimaji namba DC914 yenye majira – nukta 521647.23MS, 9258849.936KZ; baada ya hapo mpaka unaelekea Kaskazini - Mashariki kwa umbali wa kilomita 0.16 hadi kwenye alama ya mpaka ya upimaji namba IPC N2 yenye majira - nukta 521774.984MS, Tangazo La Serikali Na. 354 (Linaendelea) 9258943.528KZ; baada ya hapo mpaka unaelekea Kusini - Mashariki kwa umbali wa kilomita 0.14 hadi kwenye alama ya mpaka ya upimaji namba SF973 yenye majira - nukta 521856.138MS, 9258832.864KZ; baada ya hapo mpaka unaelekea Kusini - Magharibi kwa umbali wa kilomita 0.16 hadi kwenye alama ya mpaka ya upimaji namba SF791 yenye majira - nukta 521731.030MS,9258738.52KZ; baada ya hapo mpaka unaelekea Kaskazini - Magharibi kwa umbali wa kilomita 0.14 hadi ulipoanzia”.
+Dodoma
+JERRY WILLIAM SILAA 25 April, 2024 Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi
