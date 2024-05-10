@@ -1,0 +1,4 @@
+# JEDWALI
+__________ (Limetengenezwa chini ya aya ya 2) Eneo la urasimishaji lipo ndani ya mipaka ifuatayo: “Unaanzia kwenye alama ya mpaka ya upimaji namba YF389 yenye majira - nukta 522289.927MS, 9259720.807KZ; baada ya hapo mpaka unaelekea Kaskazini - Mashariki kwa umbali wa kilomita 0.15 hadi kwenye alama ya mpaka ya upimaji namba YE388 yenye majira - nukta 522409.99MS, Tangazo la Serikali Na. 352 (Linaendelea) 9259810.533KZ; baada ya hapo mpaka unaelekea Kusini - Mashariki kwa umbali wa kilomita 0.1 hadi kwenye alama ya mpaka ya upimaji namba YE302 yenye majira - nukta 522469.541MS, 9259730.667KZ; baada ya hapo mpaka unaelekea Kusini - Magharibi kwa umbali wa kilomita 0.15 hadi kwenye alama ya mpaka ya upimaji namba YF303 yenye majira - nukta 522349.628MS, 9259640.775KZ; baada ya hapo mpaka unaelekea Kaskazini - Magharibi kwa umbali wa kilomita 0.1 hadi ulipoanzia”.
+Dodoma
+JERRY WILLIAM SILAA 25 April 2024 Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi
