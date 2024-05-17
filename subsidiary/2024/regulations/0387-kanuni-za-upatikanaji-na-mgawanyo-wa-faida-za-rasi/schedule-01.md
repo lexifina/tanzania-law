@@ -1,0 +1,13 @@
+# JEDWALI LA KWANZA
+________________ (Limetengenzwa chini ya kanuni ya 12(a)) _____________
+FOMU YA RIDHAA YA AWALI KWA AJILI YA UPATIKANAJI WA RASILIMALI ZA
+KIJENETIKI AU MAARIFA YAKE YA KIASILI _ Mimi/sisi ........................................................................................................................ ................................ nikiwa/tukiwa msimamizi/wasimamizi/muangalizi/waangalizi wa rasilimali za kijenetiki au maarifa yake ya kiasili ambazo ni: ........................................................................................................................ ................................ ........................................................................................................................ ................................ (Taja aina za rasilimali za kijenetiki au maarifa yake ya kiasili) Toa taarifa za eneo-Kijiji/mtaa: ……………………………………………………………….
+Kata: ………………………………………………………………………… Wilaya/Mji/Manispaa/Jiji: ……………………………………………..
+Mkoa: ……………………………………………………………………… Naridhia/tunaridhia kwamba ..................................................................................................... (Jina na anuani ya mwombaji kwa ajili ya ridhaa ya awali) anaweza kuomba kwa Mamlaka ya Usimamizi kwa ajili ya kufikiriwa kupata rasilimali za kijenetiki au maarifa yake ya kiasili yaliyotajwa hapo juu yanayopatikana katika usimamizi/uangalizi wangu/wetu.
+Tangazo la Serikali Na. 387 (Linaendelea) Ridhaa hii imetolewa kwa masharti yafuatayo-
+(1) .....................................................................................
+(2) .....................................................................................
+(3) .....................................................................................
+(4) .....................................................................................
+Ridhaa hii imetolewa leo tarehe ............................. mwezi wa .................................... 20….... ………………………………………..
+Saini /Lakiri ya Mamlaka ya Usimamizi _______________
