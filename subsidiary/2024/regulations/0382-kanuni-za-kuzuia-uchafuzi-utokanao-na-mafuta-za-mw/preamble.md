@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA USAFIRISHAJI MAJINI
+(SURA YA 165)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 376)
+KANUNI ZA KUZUIA UCHAFUZI UTOKANAO NA MAFUTA, 2024
+MPANGILIO WA KANUNI
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
