@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA USIMAMIZI WA MAZINGIRA,
+(SURA YA 191)
+_________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 59 na 230(2)(m))
+KANUNI ZA USIMAMIZI JUMUISHI WA UKANDA WA PWANI ZA MWAKA 2024
+MPANGILIO WA KANUNI
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
