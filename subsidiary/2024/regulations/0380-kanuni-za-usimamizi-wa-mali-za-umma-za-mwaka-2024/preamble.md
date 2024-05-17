@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA UMMA,
+(SURA YA 348)
+________
+KANUNI
+_________
+(Zimetengenezwa chini ya kifungu cha 10)
+KANUNI ZA USIMAMIZI WA MALI ZA UMMA ZA MWAKA 2024
+MPANGILIO WA KANUNI
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI

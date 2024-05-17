@@ -1,0 +1,8 @@
+# JEDWALI LA NNE
+____________ (Limetengenezwa chini ya kanuni ya 12(1)) ____________
+MPANGO WA MATENGENEZO YA MALI HAT KIA BAJET UA MAE
+THA MATENG SI
+ILIY TA LEZO
+MANI ENEZO MU KILI ILIYO OC RE YA
+YA YALIYOP DA CHO TENG HU HE ZIAD
+MALI ANGWA TUM WA KUL A IKA IWA Tangazo La Serikali Na. 380 (Linaendelea) ____________
