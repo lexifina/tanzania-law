@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USAFIRI MAJINI,
+(SURA YA 165)
+_____
+KANUNI
+_____
+(Zimetengenezwa chini ya vifungu vya 217 na 222)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA UANZISHAJI NA UENDESHAJI WA VIFAA
+VYA KUONGOZEA MELI ZA MWAKA 2024
