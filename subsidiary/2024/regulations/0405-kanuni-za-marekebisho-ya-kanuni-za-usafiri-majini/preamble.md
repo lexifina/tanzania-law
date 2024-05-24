@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USAFIRI MAJINI,
+(SURA YA 165)
+______
+KANUNI
+______
+(Zimetengenezwa chini ya kifungu cha 157)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA USAFIRI MAJINI ZA UCHUNGUZI WA
+AFYA ZA MWAKA 2024
