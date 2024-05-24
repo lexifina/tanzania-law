@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA YA WILAYA)
+(SURA YA 287)
+____________
+SHERIA NDOGO
+____________
+(Imetengenezwa chini ya kifungu cha 153(1)(b))
+SHERIA NDOGO YA KUZUIA NA KUDHIBITI SUMUKUVU YA HALMASHAURI YA
+WILAYA YA KILOSA YA MWAKA 2024
+MPANGILIO WA VIFUNGU
+Kifungu
+Jina
