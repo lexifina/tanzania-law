@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA UWAKALA WA MELI TANZANIA
+SURA YA 415
+_______
+KANUNI
+________
+(Imetengenezwa chini ya kifungu cha 61(1))
+KANUNI ZA UWEZESHAJI WA USAFIRI MAJINI, 2024
+MPANGILIO WA KANUNI
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
