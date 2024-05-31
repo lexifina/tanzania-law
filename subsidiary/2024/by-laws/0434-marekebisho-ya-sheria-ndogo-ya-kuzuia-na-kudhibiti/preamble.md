@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+_______________
+SHERIA NDOGO
+________________
+(Imetengenezwa chini ya kifungu cha 153(1))
+MAREKEBISHO YA SHERIA NDOGO YA KUZUIA NA KUDHIBITI SUMUKUVU YA
+HALMASHAURI YA WILAYA YA KIBONDO YA MWAKA 2024
