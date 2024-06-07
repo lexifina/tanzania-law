@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA
+(SURA YA 290)
+______________
+SHERIA NDOGO
+______________
+(Imetengenezwa chini ya vifungu vya 7 na 13)
+SHERIA NDOGO YA USHURU WA LANGO LA LODUARE YA HALMASHAURI YA WILAYA
+YA NGORONGORO YA MWAKA 2024
