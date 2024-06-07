@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+_________
+SHERIA NDOGO
+_________
+(Zimetungwa chini ya kifungu cha 153(1))
+_____
+SHERIA NDOGO ZA (AFYA NA USAFI WA MAZINGIRA) HALMASHAURI YA WILAYA YA
+MAFIA YA MWAKA, 2024
