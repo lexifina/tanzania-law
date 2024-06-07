@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA ZA MITAA (MAMLAKA ZA
+WILAYA)
+(SURA YA 287)
+____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya Kifungu cha 153)
+SHERIA NDOGO YA UHIFADHI WA MISITU YA HALMASHAURI YA WILAYA YA HAI YA
+MWAKA 2023
+Jina
