@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+_____
+SHERIA NDOGO
+______
+(Imetengenezwa chini ya kifungu cha 153)
+SHERIA NDOGO YA ULINZI WA UMMA YA HALMASHAURI YA WILAYA YA KONDOA
+YA MWAKA 2024
