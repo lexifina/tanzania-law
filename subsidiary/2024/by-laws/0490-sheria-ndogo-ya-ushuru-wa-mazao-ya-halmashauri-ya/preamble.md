@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+_____
+SHERIA NDOGO
+_____
+(Imetengenezwa chini ya kifungu cha 7(1) na 16(1))
+SHERIA NDOGO YA USHURU WA MAZAO YA HALMASHAURI YA WILAYA YA KONDOA
+YA MWAKA 2024
