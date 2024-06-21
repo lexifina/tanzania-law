@@ -1,0 +1,6 @@
+# JEDWALI LA PILI
+________ (Limetengenezwa chini ya kanuni ya 12)
+FOMU YA KUFIFILISHA MAKOSA Mimi ……………………………………………………… nakiri kwa hiari yangu mwenyewe mbele ya ………………………………………….ambaye ni Mkurugenzi Mtendaji wa Halmashauri ya Wilaya ya Nyasa, kwamba mnamo tarehe …… ya mwezi ……. mwaka …… nilitenda kosa la kukiuka masharti ya kanuni ya …… ya Sheria Ndogo ya Ushuru wa Huduma ya Halmashauri ya Na kwamba nipo tayari kulipa kiasi cha ushuru ninaodaiwa pamoja na faini badala ya kushtakiwa Nathibitisha kwamba maelezo niliyotoa hapo juu ni ya kweli na nimeyatoa mimi mwenyewe kwa ya mwezi…………..… mwaka …………….
+Jina……………………………….. Saini……………………… Jina:……………………………………..…………………….....
+Saini………………………….…………………………..……… Wadhifa: ………………………………………………………… Tarehe…………………………………………………………… Sheria Ndogo ya Ushuru wa Huduma ya Halmashauri ya Wilaya ya Nyasa Tangazo la Serikali Na.504 (Linaendelea.) Lakiri ya Halmashauri ya Wilaya ya Nyasa imegongwa kwenye Sheria Ndogo hii kufuatia Azimio lililopitishwa katika Mkutano wa Baraza la Madiwani la Halmashauri ya Nyasa uliofanyika tarehe 15/5/2023 na kushuhudiwa Lakiri imebandikwa mbele ya:-KHALID A. KHALIF, Mkurungenzi mtendaji, Halmashauri ya Wilaya, Nyasa MHE. STEWART J NOMBO, Mwenyekiti, Halmashauri ya wilaya, Lushoto
+NAKUBALI, L.S Dodoma, MOHAMED OMARY MCHENGERWA (MB.), 30 Januari, 2024 Waziri wa Nchi -OR-Tamisemi,
