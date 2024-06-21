@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA,
+(SURA YA 290)
+______________
+SHERIA NDOGO
+_______________
+(Imetengenezwa chini ya kifungu cha 16 (1))
+SHERIA NDOGO YA MAREKEBISHO YA SHERIA NDOGO YA (ADA NA USHURU) YA
+HALMASHAURI YA MANISPAA YA KINONDONI YA MWAKA 2024
+Jina
