@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI),
+(SURA YA 288)
+_____________
+SHERIA NDOGO
+____________
+(Imetengenezwa chini ya kifungu cha 89(1))
+SHERIA NDOGO YA UDHIBITI NA USIMAMIZI WA MIFUGO YA HALMASHAURI YA
+MANISPAA YA KINONDONI YA MWAKA 2024
