@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+____________
+SHERIA NDOGO
+___________
+(Imetengenezwa chini ya Kifungu cha 153)
+SHERIA NDOGO YA KUZUIA NA KUDHIBITI SUMUKUVU YA HALMASHAURI YA
+WILAYA YA GAIRO YA MWAKA 2024
