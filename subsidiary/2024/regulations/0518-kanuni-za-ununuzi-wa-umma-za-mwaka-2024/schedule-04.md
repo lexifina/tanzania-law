@@ -1,0 +1,8 @@
+# JEDWALI LA NNE
+__________ (Limetengenezwa chini ya kanuni za 27(1), 30(1), 38(3), 43(1), 44, 45(1), 46 na 144)
+MPANGO WA UPENDELEO KWA WAUZAJI WA BIDHAA, WAKANDARASI NA WATOA
+HUDUMA WA NDANI A. Ukomo wa upendeleo kwa wakandarasi au watoa huduma wa ndani, au ushirika kati ya wakandarasi au watoa huduma wa ndani na wa kigeni chini ya ushindani wa zabuni kitaifa na
+(a) Ukomo wa upendeleo chini ya Ukomo wa upendeleo utakuwa asilimia 10 ushindani wa zabuni kitaifa na kimataifa kwa wakandarasi au watoa
+(b) Ukomo wa upendeleo chini ya ushindani wa zabuni kitaifa na kimataifa au ushirika wa wakandarasi au watoa huduma wa ndani na wa kigeni. 26 - 49% Ukomo wa upendeleo utakuwa asilimia 8 Ukomo wa upendeleo utakuwa asilimia 10 0 - 25% B. Ukomo wa upendeleo kwa bidhaa zilizochimbwa au kuzalishwa ndani ya Tanzania utakuwa C. Upendeleo wa kipekee kwa wauzaji wa bidhaa, wakandarasi au watoa huduma wa ndani utatumika kwa zabuni ambazo thamani yake imeoneshwa hapa chini:
+Thamani (Tshs) Hadi 50,000,000,000.00 Hadi 50,000,000,000.00 Huduma zisizo za ushauri elekezi Hadi 50,000,000,000.00 D. Upendeleo katika ngazi ya mkoa kwa wauzaji wa bidhaa, wakandarasi au watoa huduma wa ndani utatumika kwa zabuni ambazo thamani zake zimeoneshwa hapa chini.
+Thamani (Tshs) Hadi 1,000,000,000.00 Tangazo la Serikali Na.518 (Linaendelea.) Hadi 200,000,000.00 Huduma zisizo za ushauri elekezi Hadi 200,000,000.00 Zingatio: Upendeleo wa kipekee unatumika kwa wauzaji wa bidhaa, wakandarasi au watoa huduma wa ndani na ushirika wa wauzaji wa bidhaa, wakandarasi, au watoa huduma wa ndani na wa kigeni ikiwa mchango wa wauzaji wa bidhaa, wakandarasi, au watoa huduma wa ndani katika Tangazo la Serikali Na.518 (Linaendelea.) ____________
