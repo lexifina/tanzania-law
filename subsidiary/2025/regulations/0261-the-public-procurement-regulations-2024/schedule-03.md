@@ -1,0 +1,4 @@
+# SIXTH SCHEDULE
+____________ (Made under regulations 35(3), 125(6), 150(2), 165 and 166(1))
+PROCUREMENT METHODS AND EXPENDITURE LIMITS FOR GOODS, WORKS,
+SERVICES NON-CONSULTANCY SERVICES AND DISPOSAL OF PUBLIC ASSETS Works Non-consultancy Disposal of (Tshs) services Public Assets (Tshs) (Tshs) No limit No limit No limit Up to Up to Up to competitive tender 50,000,000,00 50,000,000,0 50,000,000,000 50,000,000,000 No limit No limit No limit Up to Up to Not applicable 500,000,000 500,000,000 500,000,000 No limit No limit Not applicable Up to Up to Not applicable 50,000,000 100,000,000 50,000,000 Up to Up to Not applicable 10,000,000 20,000,000 10,000,000 Not Not applicable Not applicable procurement for 30,000,000 applicable Not Not applicable Not applicable procurement for 30,000,000 applicable _____________
