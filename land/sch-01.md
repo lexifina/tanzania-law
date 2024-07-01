@@ -1,2 +1,2 @@
 # Schedule
-Omitted: Repeal of laws
+[Omitted]

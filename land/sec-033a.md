@@ -1,8 +1,0 @@
-# 33A. Exemption from land rent on Government
-(1) Notwithstanding any provisions under this Act, the payment of rent for a right of occupancy shall not be paid exclusively for—
-(a) central or local government use;
-(b) government institution or organisation use;
-(c) non profit organizations including religious institutions which provide health, education or other social services which are not profit oriented.
-(2) The Minister may, by regulations set criteria for determining activities which are exempted from the payment of rent for right of occupancy under subsection (1)(c).
-(3) Where the Commissioner is satisfied that part of the land granted to Government, public institution or organisation is used for purposes other than those specified under subsection (1) that part shall be apportioned and subjected to rent.
-(4) The Commissioner shall, where the land ceases to be used exclusively for the purposes specified under subsection (1), charge any rent or make any adjustment to the rent as may be appropriate.
