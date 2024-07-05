@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU
+(SURA YA 323)
+______
+NOTISI
+______
+(Imetengenezwa chini ya kifungu cha 107)
+NOTISI YA MSAMAHA WA KUSAFIRISHA NGUZO NA MAGOGO YA MKARATUSI
+MWEKUNDU NJE YA NCHI YA MWAKA 2024
