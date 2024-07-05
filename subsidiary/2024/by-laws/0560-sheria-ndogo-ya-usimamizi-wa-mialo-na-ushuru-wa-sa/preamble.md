@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA,
+(SURA YA 290)
+_____________
+SHERIA NDOGO
+_____________
+(Imetengenezwa chini ya kifungu cha 16(1))
+SHERIA NDOGO YA USIMAMIZI WA MIALO NA USHURU WA SAMAKI YA HALMASHAURI
+YA WILAYA YA IGUNGA ZA MWAKA, 2024.
