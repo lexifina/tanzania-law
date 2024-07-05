@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA BENKI KUU YA TANZANIA,
+(SURA YA 197)
+________
+KANUNI
+_________
+(Zimetengenezwa chini ya kifungu cha 70(1))
+KANUNI ZA UDHIBITI WA MAZINGIRA YA MAJARIBIO YA TEKNOLOJIA YA FEDHA ZA
+MWAKA 2024
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
