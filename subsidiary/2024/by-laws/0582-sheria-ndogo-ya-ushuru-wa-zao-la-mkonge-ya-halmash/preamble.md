@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA
+(SURA YA 290)
+________
+SHERIA NDOGO
+________
+(Imetengenezwa chini ya Kifungu cha 7(1) na 16 (1))
+SHERIA NDOGO YA USHURU WA ZAO LA MKONGE YA HALMASHAURI YA WILAYA
+YA MWANGA YA MWAKA 2024
