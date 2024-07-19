@@ -1,0 +1,6 @@
+# JEDWALI LA TATU
+_________________ (Limetengenezwa chini ya kanuni ya 92)
+DUA AU SALA YA KUIOMBEA HALMASHAURI Ewe MWENYEZI MUNGU Mtukufu, Muumba wa Mbingu na Dunia umeweka katika Dunia Serikali za Wanadamu ili haki yako itendeke. Twakuomba, uibariki Halmashauri yetu ya Wilaya ya Hai idumishe Uhuru, Umoja, Haki na Amani. Uwajalie viongozi wetu wa Halmashauri hekima, afya njema na maisha marefu ili pamoja na wanaowashauri wadumishe utawala bora. Utuongezee hekima na busara sisi Madiwani wa Halmashauri ya Wilaya ya Hai na utupe uwezo wa kujadili kwa dhati, mambo yatakayoletwa mbele yetu leo, ili tufanye maamuzi sahihi yenye manufaa kwa watu wote na ustawi wa Halmashauri yetu. Mungu Ibariki Tanzania AMINA.
+Kanuni za Kudumu ya Halmashauri ya Wilaya ya Hai Tangazo la Serikali Na. 612 (Linaendelea) Lakari ya Halmashauri ya Wilaya ya Hai iligongwa katika sheria ndogo kufutia Azimio la Mkutano wa Baraza la Madiwani wa Halmashauri ya Wilaya Hai uliofanyika katika ukumbi wa Halmashauri tarehe 12 Mwezi, Mei, 2022. Lakari hii iligongwa mbele ya:-DIONIS M. MYINGA, Mkurugenzi mtendaji, Halmashauri ya Wilaya, Hai
+EDMUND RUTARAKA Mwenyekiti, Halmashauri ya Wilaya,Hai
+NAKUBALI, L.S Dodoma, MOHAMED OMARY MCHENGERWA, 30 Januari, 2024 Waziri wa Nchi Or-Tamisemi,
