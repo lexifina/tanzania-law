@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA YA WILAYA),
+(SURA YA 287)
+__________
+SHERIA NDOGO
+_________
+(Zimetengenezwa chini ya kifungu cha 153(1)(b))
+SHERIA NDOGO YA KUZUIA NA KUDHIBITI SUMUKUVU YA HALMASHAURI YA
+WILAYA YA BUKOMBE YA MWAKA 2024
