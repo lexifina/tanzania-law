@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA YA SERIKALI ZA MITAA
+(SURA 290)
+__________
+SHERIA NDOGO
+__________
+(Zimetengenezwa chini ya kifungu cha 7(1) na 16 (1))
+SHERIA NDOGO ZA ADA NA USHURU WA MADINI YA UJENZI ZA HALMASHAURI YA
+WILAYA YA PANGANI ZA MWAKA 2024
