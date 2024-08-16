@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA TAFSIRI YA SHERIA,
+(SURA YA 1)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 26(3))
+AMRI YA KUREKEBISHA MAKOSA YA UCHAPAJI KATIKA KANUNI ZA NIDHAMU
+KWA WANAFUNZI ZA MWAKA 2024
