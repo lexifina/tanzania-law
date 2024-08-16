@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+_______
+SHERIA NDOGO
+_______
+(Imetengenezwa chini ya kifungu cha 153(1)(a))
+SHERIA NDOGO YA KILIMO CHA MCHIKICHI YA HALMASHAURI YA WILAYA YA
+KASULU YA MWAKA 2024
