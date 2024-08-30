@@ -1,0 +1,12 @@
+# Long title and enacting words
+SHERIA YA UHIFADHI WA WANYAMAPORI,
+(SURA YA 283)
+_________
+KANUNI
+_________
+(Zimetengenezwa chini ya kanuni ya 121(a) na (f))
+KANUNI ZA UWINDAJI WA KITALII ZA MWAKA 2024
+MPANGILIO WA KANUNI
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
+Kanuni Jina

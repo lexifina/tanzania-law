@@ -1,0 +1,6 @@
+# JEDWALI LA NNE
+__________ (Limetengenezwa chini ya kuanuni za 10(2)(e), 15, 16(3)(a)(b)(iii), 23(3)(a), 23(7)(a) na 27(3)(c)) _______ ADA (TZS) A: ADA YA KITALU ADA (TZS) 1 Maombi ya kitalu cha uwindaji Daraja la I kwa kila daraja 14,000,000 Maombi ya kitalu cha uwindaji Daraja la II kwa kila 5,300,000 Maombi ya kitalu cha uwindaji Daraja la III kwa kila 2,700,000 5 Ada ya maombi ya kuhamisha kitalu cha uwindaji 2,700,000 20% ya ada ya kitalu 6 Ada ya kuhamisha kitalu cha uwindaji ya mwaka B: ADA YA KIBALI
+NA KIFURUSHI CHA SAFARI IDADI YA SIKU ADA (TZS) 4,000,000 8,000,000 11,930,000 Uwindaji wa ndege katika kitalu cha uwindaji 270,000 kwa mwindaji kwa siku Uwindaji wa ndege katika ardhi binafsi 140,000 kwa mwindaji kwa siku 270,000 kwa mvuvi mmoja, kwa siku moja kwa samaki kumi.
+C: ADA YA MWINDAJI BINGWA TZS RAIA
+ASIYE RAIA 1,590,000 5,300,000 270,000 1,330,000 140,000 140,000 Tangazo la Serikali Na. 780 (Linaendelea) D: ADA YA KIBALI BAINA YA MAKAMPUNI
+NA KIFURUSHI CHA SAFARI KIASI (TZS) Kwa mtu mwenye kifurushi cha regular 1,500,000 Kwa mtu mwenye kifurushi cha major 1,500,000 Kwa mtu mwenye kifurushi cha premium 1,500,000 E: Ada ya uhifadhi kwa mwindaji kwa siku: TZS 270,000 F: Ada ya mtazamaji kwa mtamazaji kwa siku: TZS 140,000 Tangazo la Serikali Na. 780 (Linaendelea) __________
