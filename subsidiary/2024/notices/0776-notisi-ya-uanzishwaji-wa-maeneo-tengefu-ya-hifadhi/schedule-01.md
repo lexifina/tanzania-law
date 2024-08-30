@@ -1,0 +1,28 @@
+# JEDWALI
+__________ (Limetengenezwa chini ya aya ya 2)
+1. Eneo Tengefu la Hifadhi ya Chanzo cha Maji Chemchem ya Mawala Mamuna Tangazo la Serikali Na. 776 (Linaendelea) Chanzo Tengefu cha Maji ya chemchem ya Mawala inapatikana kwenye kijiji cha Mawala, kata ya Kawe Magharibi wilaya ya Moshi Mkoani Kilimanjaro na ina ukubwa wa Mita za Mraba 26281.304. Jumla ya nguzo saba
+(7) zimesimkwa kuonesha mipaka ya eneo tengefu la hifadhi ya chanzo cha maji Chemchem ya Mawala, umbali wa kilomita sitini (60) umepimwa kutoka kwenye kingo za chanzo cha maji Chemchem ya Mawala pamoja na umbali wa mita hamsini (50) kutoka nguzo moja kwenda nyingine. Mashimo yenye kina cha mita sifuri nukta tano (0.5), urefu wa sifuri nukta nne (0.4) upana wa sifuri nukta nne (0.4) yamechimbwa na kuwekwa nguzo za moja nukta tano (1.5) zenye kina cha (1.5) urefu wa mita 0.15 (sentimita 15) width were excavated following placement of 1.5 beacons with height of 1.5, length of 0.15 meters (15 centimeters) na upana wa 0.15 sawa na kina width (equal height and width).
+Nguzo yenye urefu wa mita moja (1) moja juu ya ardhi na urefu wa mita 05 wa nguzo uliochimbiwa ardhini.
+(a) Orodha ya Alama za Mipaka ya Eneo la Hifadhi ya Chanzo cha Maji Chemchem ya Mawala Na.
+Longitudo Latitudo 1. 37.42873 -3.55909 2. 37.42813 -3.55881 3. 37.42798 -3.5581 4. 37.42812 -3.55314 5. 37.4292 -3.55707 6. 37.42978 -3.55773 37.42946 -3.55853
+(b) Ramani ya Eneo la Hifadhi ya Chanzo cha Maji Chemchem ya Mawala Mamuna Tangazo la Serikali Na. 776 (Linaendelea) Mamuna Tangazo la Serikali Na. 776 (Linaendelea)
+2. Eneo Tengefu la Hifadhi ya Chanzo cha Maji Chemchem ya Chemka.
+Chanzo tengefu cha Maji ya chemchem ya Chemka inapatikana kwenye Kijiji cha Chemka, kata ya Masama Rundugai wilaya ya Hai Mkoani Kilimanjaro na ina ukubwa wa Mita za Mraba 203,55.401.304. Jumla ya nguzo hamsini na saba (57) zimesimikwa kuonesha mipaka ya eneo tengefu la hifadhi ya chanzo cha maji Chemchem ya Mamuna, umbali wa kilomita sitini (60) umepimwa kutoka kwenye kingo za chanzo cha maji Chemchem ya Mamuna pamoja na kupima umbali wa mita hamsini (50) kutoka nguzo moja kwenda nyingine. Mashimo yenye kina cha mita sifuri nukta tano (0.5), urefu wa sifuri nukta nne (0.4) upana wa sifuri nukta nne (0.4) umechimbwa na kuwekwa nguzo za ukubwa wa moja nukta tano (1.5) zenye kina cha (1.5), urefu wa mita 0.15 (sawa na 15 sm) na upana wa 0.15. Nguzo yenye urefu wa mita moja (1) juu ya ardhi na urefu wa mita 0.5 wa nguzo uliochimbiwa ardhini.
+(a) Alama za Mipaka ya Eneo la Hifadhi ya Chanzo cha Maji Chemchem ya Chemka Na longitudo latitudo Na longitudo latitudo 1. 37.19457 -3.44683 31. 37.19809 3.45226 2. 37.19471 -3.44736 32. 37.19398 3.44666 3. 37.19486 -3.44781 33. 37.19368 3.44638 4. 37.19486 -3.44781 34. 37.19347 3.44599 5. 37.19533 -3.4483 35. 37.19315 3.44564 6. 37.19571 -3.44874 36. 37.19267 3.44541 7.
+37. 196111 -3.44928 37. 37.19252 3.44499 8. 37.19642 -3.44975 38. 37.19776 3.45191 9. 37.197 -3.45001 39. 37.1975 3.45141 10. 37.19723 -3.45045 40. 37.19703 3.45083 11. 37.19776 -3.45112 41. 37.18657 3.45042 12. 37.19819 -3.45165 42. 37.19607 3.45006 13. 37.19855 -3.45211 43. 37.19564 3.44965 14. 37.19476 -3.44238 44. 37.19525 3.44918
+15. 37. 195125 -3.44241 45. 37.19518 3.44874 Mamuna Tangazo la Serikali Na. 776 (Linaendelea) 16. 37.19533 -3.44292 46. 37.19496 3.44844 17. 37.19503 -3.4433 47. 37.19455 -3.4481 18. 37.19463 -3.44367 48. 37.19431 3.44766 19. 37.19428 -3.44417 49. 37.19426 -3.4471 20. 37.19392 -3.44457 50. 37.19293 3.44477 21. 37.1935 -3.44489 51. 37.19281 3.44436 22. 37.19336 -3.44515 52. 37.19323 3.44405 23. 37.19364 -3.44552 53. 37.19346 3.44367 24. 37.19383 -3.44605 54. 37.19379 3.44334 25. 37.19417 -3.44643 55. 37.194 3.44308 26. 37.19894 -3.45242 56. 37.19434 3.44279 27. 37.19905 -3.45278 37.19456 3.44269 28. 37.19853 -3.45314 29. 37.19866 -3.45279 Mamuna Tangazo la Serikali Na. 776 (Linaendelea)
+(b) Ramani ya Eneo la Hifadhi ya Chanzo cha Maji Chemchem ya Chemka
+3. Eneo Tengefu la Hifadhi ya Chanzo Cha Maji Eneo Oevu la Mamuna Chanzo tengefu cha Maji eneo Oevu la Mamuna inapatikana kwenye Kijiji cha Ngongongare wilaya ya Arumeru Mkoani Arusha na ina ukubwa wa Mita za Mraba 66891.021. Jumla ya nguzo ishirini (20) zimesisimkwa kuonyesha mipaka ya eneo tengefu la hifadhi ya chanzo cha maji eneo Oevu la Mamuna, umbali wa kilomita sitini (60) umepimwa kutoka kwenye kingo za chanzo cha maji eneo Oevu la Mamuna pamoja na kupima umbali wa mita hamsini (50) kutoka nguzo moja kwenda nyingine. Mashimo yenye kina cha mita sifuri nukta tano (0.5), urefu wa sifuri nukta nne (0.4) upana wa sifuri nukta nne (0.4) umechimbwa na kuwekwa nguzo za moja nukta tano (1.5) zenye kina cha mita moja nukta tano (1.5) urefu wa mita sifuri nukta moja tano (0.15) sawa na sentimita 15 na upana wa sifuri nukta moja tano (0.15). Nguzo yenye urefu wa mita moja (1) juu ya ardhi na urefu wa mita 0.5 wa nguzo uliochimbiwa Mamuna Tangazo la Serikali Na. 776 (Linaendelea) ardhini.
+(a) Alama za Mpaka ya Eneo la Hifadhi ya Chanzo cha Maji Ardhi Oevu Ya Mamuna.
+Na Latitudo Longitudo Na Latitudo Longitudo
+1. -3.31998 36.87368 11 -3.31712 36.8734
+2. -3.31994 36.87468 12 -3.3172 36.87303
+3. -3.31919 36.87513 13 -3.31741 36.87277
+4. -3.31984 36.87527 14 -3.31799 36.87275
+5. -3.31883 36.8748 15 -3.31845 36.87287
+6. -3.31847 36.87474 16 -3.31767 36.87269
+7. -3.31777 36.87481 17 -3.31886 36.87289
+8. -3.31731 36.87462 18 -3.3192 36.87322
+9. -3.31713 36.8742 19 -3.31966 36.87352
+10. -3.31715 36.87384 20 -3.32027 36.87422
+(b) Ramani ya Eneo la Hifadhi ya Chanzo cha Maji Ardhi Oevu ya Mamuna Dodoma JUMAA H. AWESO 13 August, 2024 Waziri wa Maji
