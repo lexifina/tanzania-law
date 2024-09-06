@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA USIMAMIZI WA RASILIMALI ZA MAJI,
+(SURA YA 331)
+_______
+NOTISI
+______
+(Imetengenezwa chini ya kifungu cha 37(1))
+_______
+NOTISI YA KUANZISHWA KWA MAENEO YA HIFADHI YA CHANZO CHA MAJI BONDE
+LA WAMI RUVU YA MWAKA 2024
+Jina
