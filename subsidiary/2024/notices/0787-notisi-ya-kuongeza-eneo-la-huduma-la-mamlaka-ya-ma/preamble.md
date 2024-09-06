@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA HUDUMA ZA MAJI NA USAFI WA MAZINGIRA,
+(SURA YA 272)
+_______
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu cha 9(1) na (2))
+NOTISI YA KUONGEZA ENEO LA HUDUMA LA MAMLAKA YA MAJI SAFI NA USAFI WA
+MAZINGIRA BUSEGA YA MWAKA 2024
