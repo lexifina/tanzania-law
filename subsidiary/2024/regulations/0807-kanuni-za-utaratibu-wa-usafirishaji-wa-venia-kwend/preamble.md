@@ -1,0 +1,11 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+________
+KANUNI
+________
+(Imetengenezwa chini ya kifungu cha 106(1)(aa))
+KANUNI ZA UTARATIBU WA USAFIRISHAJI WA VENIA KWENDA NJE YA NCHI ZA
+MWAKA 2024
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
