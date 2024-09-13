@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA ULINZI WA TAARIFA BINAFSI,
+(SURA YA 44)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 64)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA UKUSANYAJI NA UCHAKATAJI WA
+TAARIFA BINAFSI ZA MWAKA 2024
