@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+SURA YA 288
+_____
+NOTISI
+_____
+(Imetolewa chini ya kifungu cha 7 (2))
+NOTISI YA KUSUDIO LA KUPANDISHA HADHI HALMASHAURI YA WILAYA YA
+RUFIJI YA MWAKA 2024
+Jina
