@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA TAFSIRI YA SHERIA,
+(SURA YA 1)
+______
+NOTISI
+______
+(Zimetengenezwa chini ya kifungu cha 84(4))
+NOTISI YA KUTANGAZA TOLEO RASMI LA TAFSIRI YA KIINGEREZA YA SHERIA YA
+UNUNUZI WA UMMA YA MWAKA 2024
