@@ -1,4 +1,4 @@
 # 15. Power to deal with evidence taken before another judge or magistrate
 (1) Where a judge or magistrate is prevented by death, transfer or other cause from concluding the trial of a suit, his successor may deal with any evidence or memorandum taken down or made under the foregoing rules as if such evidence or memorandum has been taken down or made by him or under his direction under the said rules and may proceed with the suit from the stage at which his predecessor left it:
-Provided that the reasons for taking over are recorded in the proceedings by the successor judge or magistrate at the time of taking over and communicated to the parties.
+Provided that the reasons for taking over are recorded in the proceedings by judge in charge or magistrate in charge or the successor judge or magistrate at the time of taking over and communicated to the parties.
 (2) The provisions of sub-rule (1) shall, so far as they are applicable, be deemed to apply to evidence taken in a suit transferred under section 21 of this Code.

@@ -1,9 +1,12 @@
 # 25. Mediation
-(1) The court shall require the parties to appoint and submit the name of a mediator of their choice within fourteen days after pleadings are complete.
+(1) The court shall require the parties to appoint and submit the name of a mediator of their choice on or before the date of the First Pre-Trial Conference.
 (2) Where the parties fail to select a mediator under sub rule (1), the court shall, manually or electronically, appoint a mediator and notify the parties accordingly.
-(3) Upon the appointment of the mediator, the court shall within seven days notify the parties of the commencement of the mediation session.
-(4) At least seven days before mediation, parties shall provide the mediator and the other parties to the suit with a statement of issues together with pleadings and any documents of importance which identify the issues in dispute and the parties' positions and interests thereon.
-(5) The mediator shall, within seven (7) days of his appointment, set a date for the first session of mediation which shall not be later than twenty one days from the date of his appointment
+(3) Upon the appointment of the mediator, the court shall, within two days notify the mediator of his appointment and require him to confirm the appointment within two days:
+Provided that, where the mediator does not confirm or refuse the appointment within the prescribed time, the court shall, within five days of the refusal or non-confirmation, appoint another mediator by the same method used to make the previous appointment.
+(4) The court shall, within three days of the confirmation of mediator's appointment, transmit copies of pleadings to the mediator.
+(5) The mediator shall—
+(a) within seven days of his confirmation, set a date for the first mediation session and communicate it to the parties in writing or any other available means; and
+(b) convene the first mediation session not later than fourteen days from the date of his confirmation.
 (6) The following shall qualify to be nominated under sub-rule (1) to act as mediators—
 (a) a Judge;
 (b) a registrar or deputy registrar;
