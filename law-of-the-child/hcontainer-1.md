@@ -1,2 +1,4 @@
-# Long title
+# hcontainer_1
+PREFACE
 An Act to provide for reform and consolidation of laws relating to children, to stipulate rights of the child and to promote, protect and maintain the welfare of a child with a view to giving effect to international and regional convention on the rights of the child; to provide for, affiliation, foster care, adoption and custody of the child; to further regulate employment, apprenticeship; to make provisions with respect to a child in conflict with law and to provide for related matters.
+BODY
