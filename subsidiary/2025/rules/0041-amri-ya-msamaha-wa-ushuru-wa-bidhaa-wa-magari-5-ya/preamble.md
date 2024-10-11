@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USHURU WA BIDHAA,
+(SURA YA 147)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 128)
+AMRI YA MSAMAHA WA USHURU WA BIDHAA WA MAGARI 5 YA MRADI WA USAID -
+AFYA ANGU WA M/S DELOITTE CONSULTING LIMITED.
