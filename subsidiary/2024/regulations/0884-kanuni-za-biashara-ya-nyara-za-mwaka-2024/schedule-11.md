@@ -1,0 +1,2 @@
+# JEDWALI LA KUMI
+____________ (Limetengenezwa chini ya kanuni 25) Wanyamapori wa mapambo Jina la kiswahili Na Jina la kiingereza Tortoises Kobe Terrapins Kobe maji Primates (Baboon, vervet monkey, blue monkey) Nyani, ngedere na kima Birds except Ostrich Ndege wote isipokuwa Mbuni African rock python Chatu Hare/rabbit Sungura Hedgehog Karunguyeye Non venomous snake Nyoka asiye na sumu ___________________
