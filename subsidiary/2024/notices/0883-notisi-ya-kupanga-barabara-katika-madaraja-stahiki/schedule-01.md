@@ -1,0 +1,6 @@
+# JEDWALI
+_______ (Limetengenezwa chini ya aya ya 2)
+BARABARA ZILIZOPANGWA KATIKA DARAJA LA BARABARA KUU MKOA
+JINA LA BARABARA UREFU(Km) Kigoma Kakonko – Gwarama-Kibare -Muhange 41.00 JUMLA 41.00
+BARABARA ZILIZOPANGWA KATIKA DARAJA LA BARABARA ZA MIKOA MKOA
+JINA LA BARABARA UREFU(Km) Mara Mugeta – Sirorisimba 22.20 Lindi Kipatimu-Nandete- Mabiga 16.00 JUMLA 38.20 Dodoma, INNOCENT L. BASHUNGWA, 1 Oktoba, 2024 Waziri wa Ujenzi
