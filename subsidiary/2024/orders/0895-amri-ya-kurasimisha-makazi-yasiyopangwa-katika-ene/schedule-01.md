@@ -1,0 +1,5 @@
+# JEDWALI
+_________ (Limetengenezwa chini ya aya ya 2)
+MIPAKA YA ENEO LA UPANGAJI Unaanzia kwenye alama ya mpaka ya upimaji namba KWW1 yenye majira - nukta 804069.48MS, 9297227.93KZ; baada ya hapo mpaka unaelekea Kusini - Mashariki katika uelekeo wa KS64MS kwa umbaliwa kilomita 0.770 hadi kwenye alama ya mpaka ya upimaji namba KWW2 yenye majira - nukta 804762.82MS, 9296891.42KZ; baada ya hapo mpaka unaelekea Kusini - Magharibi katika uelekeo wa KS35MG kwa umbali wa kilomita 1.054 hadi kwenye alama ya mpaka ya upimaji namba KWW3 yenye majira - nukta 804147.26MS, 9296035.38KZ; baada ya hapo mpaka unaelekea Kaskazini - Tangazo la Serikali Na. 895 (Linaendelea) Mashagharibi katika uelekeo wa KZ67MG kwa umbali wa kilomita 1.092 hadi kwenye alama ya mpaka ya upimaji namba KWW4 yenye majira – nukta 803137.16MS, 9296450.41KZ; baada ya hapo mpaka unaelekea Kaskazini – Mashariki katika uelekeo wa KZ50MS kwa umbali wa kilomita 1.213 hadi ulipoanzia.
+Dodoma,
+DEOGRATIUS JOHN NDEJEMBI 28 Oktoba, 2024 Waziri wa Ardhi, Nyumba na Maendeleo ya Makazi
