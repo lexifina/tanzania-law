@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+________
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu cha 23(1))
+NOTISI YA KUSUDIO LA KUTANGAZA ENEO LA MSITU WA MAGOTWE KUWA MSITU
+WA HIFADHI WA TAIFA MAGOTWE YA MWAKA 2024
