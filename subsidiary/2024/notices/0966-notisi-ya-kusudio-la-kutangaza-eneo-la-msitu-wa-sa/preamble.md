@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+_______
+NOTISI
+________
+(Imetengenezwa chini ya kifungu cha 23(1))
+NOTISI YA KUSUDIO LA KUTANGAZA ENEO LA MSITU WA SADANI KUWA MSITU
+WA HIFADHI WA TAIFA SADANI YA MWAKA 2024
