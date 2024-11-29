@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+_______
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu cha 23(1))
+NOTISI YA KUSUDIO LA KUTANGAZA ENEO LA MSITU WA OSOJO KUWA MSITU WA
+HIFADHI WA TAIFA OSOJO YA MWAKA 2024
