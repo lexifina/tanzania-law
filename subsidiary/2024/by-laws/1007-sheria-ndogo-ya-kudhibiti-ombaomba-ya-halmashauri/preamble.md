@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI),
+(SURA YA 288)
+_____________
+SHERIA NDOGO
+______________
+(Imetengenezwa chini ya kifungu cha 89(1))
+SHERIA NDOGO YA KUDHIBITI OMBAOMBA YA HALMASHAURI YA JIJI LA DAR ES
+SALAAM YA MWAKA 2024
