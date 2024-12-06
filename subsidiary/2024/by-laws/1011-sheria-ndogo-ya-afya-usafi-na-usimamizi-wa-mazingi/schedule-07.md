@@ -1,0 +1,5 @@
+# JEDWALI LA SABA
+____________ (Limetengenezwa chini ya kanuni ya 37(1))
+KIBALI CHA KUTUMIA ENEO LA UTALII Kibali hiki kimetolewa kwa Bw/Bi:…………………………….…………………………….……wa S.L.P………………,Dar es Salaam. Mkurugenzi wa Halmashauri ya Jiji la Dar es Salaam ameridhia Ndugu mtajwa hapo juu, kutumia eneo la utalii lililopo…………………Mtaa wa………………………Kata ya ………………… baada ya kulipia ada ya kibali.
+Mwombaji anaruhusiwa kufanya shughuli zifuatazo: …………………………………………………….………………………………………………… ….………………………………………………………….………………………………………… …………………………………………..katika eneo hilo kuanzia tarehe…………Mwezi……………..Mwaka…………….mpaka tarehe…….Mwezi……Mwaka…… MIMI…………………………………………………………nipo tayari kufuata masharti ya kibali hiki cha kutumia eneo la utalii na ninathibitisha kwa hiari yangu nimeelewa vema masharti ya kibali Jina: ………………………Saini …………………..Tarehe ………………… Mwombaji amelipia Shilingi…….tarehe………mwezi……..Mwaka…………. (Ambatanisha stakabadhi ya malipo na fomu hii) Jina la Afisa aliyetoa kibali……………… Saini …………… Tarehe ………….
+Muhuri:……………………………………………. _____________
