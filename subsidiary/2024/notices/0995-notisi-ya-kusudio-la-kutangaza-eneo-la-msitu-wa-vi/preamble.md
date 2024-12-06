@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+______
+NOTISI
+______
+(Imetengenezwa chini ya kifungu cha 23(1))
+NOTISI YA KUSUDIO LA KUTANGAZA ENEO LA MSITU WA MTANDE HILL KUWA
+MSITU WA HIFADHI WA TAIFA MTANDE HILL YA MWAKA 2024
