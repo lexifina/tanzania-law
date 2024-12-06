@@ -1,0 +1,13 @@
+# JEDWALI LA TATU
+________________ (Limetengenezwa chini ya kanuni ya 16)
+FOMU YA KUKIRI NA KUFIFILISHA KOSA Mimi ........................................................................nakiri KWA HIARI YANGU MIMI MWENYEWE mbele ya........................................................... ambaye ni Mkurugenzi wa Halmashauri ya Jiji la Dar es Salaam kwamba tarehe ..........ya mwezi .................. Mwaka................ nilitenda kosa kwa kukiuka masharti ya kanuni ya ……..ya Sheria Ndogo ya Vibali vya Shughuli za Kiutamaduni ya Halmashauri ya Jiji la Dar es Salaam ya Mwaka 2024.
+Kwa Mamlaka aliyopewa Mkurugenzi wa Halmashauri ya Jiji la Dar es Salaam, NAKUBALI kulipa kiasi cha shilingi ..................... ya ada ninayodaiwa pamoja na faini ya kufifilisha kosa ya shilingi
+NATHIBITISHA KWAMBA MAELEZO HAPO JUU NI YA KWELI NA NIMEYATOA MIMI
+MWENYEWE KWA HIARI YANGU KADRI YA UFAHAMU WANGU Leo hii tarehe ......................ya Mwezi ................................Mwaka ….....… Jina: ..................................................... Saini: .................................................
+Jina……...................................................
+Saini: ........................................................
+Tarehe: ....................................................
+Tangazo la Serikali Na.1006 (Linaendelea.) Lakiri ya Jiji la Dar es Salaam imegongwa kwenye Sheria Ndogo hizi kufuatia Azimio lililopitishwa katika Mkutao wa Baraza la Madiwani la Halmashauri ya Jiji la Dar es Salaam uliofanyika tarehe 6/3/2023 na kushuhudiwa Lakiri hiyo ikigongwa mbele ya:-
+JOMAARY MRISHO SATURA, Mkurugenzi wa Jiji, Halmashauri ya jiji, Dar es salaam MHE. OMARY KUMBILAMOTO, Msahiki meya, Halmashauri ya jiji, Dar es salaam L.S
+NAKUBALI, Dodoma,
+MOHAMED OMARY MCHENGERWA, 29 Agosti, 2024 Waziri wa Nchi OR-Tamisemi
