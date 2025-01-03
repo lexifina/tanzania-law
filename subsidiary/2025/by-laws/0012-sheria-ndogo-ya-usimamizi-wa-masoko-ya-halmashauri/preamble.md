@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+SURA YA 287
+__________
+SHERIA NDOGO
+__________
+(Imetengenezwa chini ya kifungu cha 153(1))
+SHERIA NDOGO YA USIMAMIZI WA MASOKO YA HALMASHAURI YA MJI NJOMBE YA
+MWAKA 2024
