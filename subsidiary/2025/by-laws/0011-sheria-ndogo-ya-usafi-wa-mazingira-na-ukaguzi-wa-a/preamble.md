@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA)
+(SURA YA 287)
+__________
+SHERIA NDOGO
+_________
+(Imetengenezwa chini ya kifungu cha 153(1))
+______
+SHERIA NDOGO YA USAFI WA MAZINGIRA NA UKAGUZI WA AFYA YA
+HALMASHAURI YA WILAYA YA MADABA YA MWAKA 2024
