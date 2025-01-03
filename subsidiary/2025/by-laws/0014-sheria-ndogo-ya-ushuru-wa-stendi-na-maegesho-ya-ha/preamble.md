@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+_________
+SHERIA NDOGO
+_________
+(Imetengenezwa chini ya kifungu cha 16(1))
+SHERIA NDOGO YA USHURU WA STENDI NA MAEGESHO YA HALMASHAURI YA
+WILAYA YA KILWA YA MWAKA 2024

@@ -1,0 +1,3 @@
+# JEDWALI LA PILI
+______________ (Limetenegezwa chini ya kanuuni ya 10(1) na 11(2))
+USHURU WA MAEGESHO Kiasi cha Kiasi cha Kiasi cha Egesho ushuru ushuru kwa ushuru kwa lililotengwa kwa saa siku mwezi kwa mwaka 200/= 1,000/= 20,000/= 200,000/= 200/= 1,000/= 20,000/= 200,000/= iii. Lori kuanzia chini ya tani 300/= 2,000/= 50,000/= 500,000/= iv. Lori kuanzia tani 5 hadi 400/= 4,000/= 100,000/= 1,000,000/= 500/= 5,000/= 130,000/= 1,300,000/= 200/= 1,000/= 20,000/= 200,000/= vii. Aina nyingine za magari 200/= 1,000/= 20,000/= 200,000/= viii. Pikipiki ya matairi mawili 100/= 100/= 3,000/= 36,000/= ix. Pikipiki ya matairi matatu 100/= 100/= 3,000/= 36,000/= x. Magari mengine ambayo 200/= 1,000/= 20,000/= 200,000/= _____________
