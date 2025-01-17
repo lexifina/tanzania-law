@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA RELI,
+(SURA YA 170)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 95(2)(n))
+KANUNI ZA MAREKEBISHO YA KANUNI ZA MATUMIZI YA MIUNDOMBINU YA RELI
+KWA WATOA HUDUMA BINAFSI ZA MWAKA 2025
