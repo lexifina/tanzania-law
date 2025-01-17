@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+_________
+SHERIA NDOGO
+__________
+(Imetengenezwa chini ya vifungu vya 7(1) na 16(1))
+MAREKEBISHO YA SHERIA NDOGO YA USHURU WA MASOKO NA MAGULIO YA
+HALMASHAURI YA WILAYA YA MLIMBA YA MWAKA 2025
