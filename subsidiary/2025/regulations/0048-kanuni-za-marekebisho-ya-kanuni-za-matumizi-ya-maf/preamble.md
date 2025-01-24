@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA HIFADHI ZA JAMII,
+(SURA YA 135)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 38)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA MATUMIZI YA MAFAO YA MWANACHAMA
+KAMA DHAMANA YA MKOPO WA NYUMBA ZA MWAKA 2025

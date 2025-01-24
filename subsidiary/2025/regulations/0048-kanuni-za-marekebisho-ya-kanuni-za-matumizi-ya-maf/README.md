@@ -1,0 +1,11 @@
+# Kanuni za Marekebisho ya Kanuni za Matumizi ya Mafao ya Mwanachama kama Dhamana ya Mkopo wa Nyumba za Mwaka 2025 (G.N. No. 48 of 2025)
+
+Government Notice No. 48 of 2025, published 2025-01-24. Text of the copy in the Office of the Attorney General's legislation portal (OAG MIS, oagmis.oag.go.tz): <https://oagmis.oag.go.tz/portal/legislation/3971/download>.
+
+Language: Kiswahili. Text layer: typeset.
+
+| Provision | File |
+| --- | --- |
+| Long title and enacting words | [preamble.md](preamble.md) |
+| 1. Jina | [sec-001.md](sec-001.md) |
+| 2. Marekebisho ya kanuni ya 13 | [sec-002.md](sec-002.md) |
