@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI),
+(SURA YA 288)
+___________
+SHERIA NDOGO
+___________
+(Imetengenezwa chini ya kifungu cha 89(1))
+SHERIA NDOGO YA UDHIBITI NA USIMAMIZI WA MIFUGO YA HALMASHAURI YA JIJI
+LA DAR ES SALAAM YA MWAKA 2025
