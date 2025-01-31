@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA MISITU,
+(SURA YA 323)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 106 (1) (bb))
+KANUNI ZA UDHIBITI WA MATUMIZI YA MSUMENO WA MOTO ZA MWAKA 2025
+MPANGILIO WA KANUNI
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
