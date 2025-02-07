@@ -1,0 +1,13 @@
+# Long title and enacting words
+SHERIA YA BODI YA UTALII TANZANIA,
+(SURA 364)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 14)
+KANUNI ZA MABALOZI WA HIARI WA UTALII, 2025
+MPANGILIO WA KANUNI
+Kanuni
+Jina
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
