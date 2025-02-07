@@ -1,0 +1,8 @@
+# Long title and enacting words
+SHERIA YA SHULE YA SHERIA TANZANIA,
+(SURA YA 425)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 20(1)(d))
+KANUNI ZA USTAWI, MWENENDO NA NIDHAMU YA WANAFUNZI ZA MWAKA 2025
