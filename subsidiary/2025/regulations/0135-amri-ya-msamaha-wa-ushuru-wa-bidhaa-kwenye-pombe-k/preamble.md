@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USHURU WA BIDHAA,
+(SURA YA 147)
+_____
+AMRI
+______
+(Imetengenezwa chini ya kifungu cha 128)
+AMRI YA MSAMAHA WA USHURU WA BIDHAA KWENYE POMBE KALI YA ETHILI
+KWA MACHUGU INVESTMENT YA MWAKA 2025
