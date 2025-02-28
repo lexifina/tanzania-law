@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA MIJI)
+SURA YA 288
+______
+NOTISI
+_____
+(Imetolewa chini ya kifungu cha 7 (2))
+NOTISI YA KUSUDIO LA KUPANDISHA HADHI HALMASHAURI YA MJI KIBAHA YA
+MWAKA 2025
+Jina
