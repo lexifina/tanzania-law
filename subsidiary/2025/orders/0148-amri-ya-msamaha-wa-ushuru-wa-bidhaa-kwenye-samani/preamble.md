@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA USIMAMIZI WA USHURU WA BIDHAA,
+(SURA YA 147)
+_____
+AMRI
+_____
+(Imetengenezwa chini ya kifungu cha 128)
+AMRI YA MSAMAHA WA USHURU WA BIDHAA KWENYE SAMANI ZA MAHAKAMA
+YA TANZANIA YA MWAKA, 2025
+Jina na
