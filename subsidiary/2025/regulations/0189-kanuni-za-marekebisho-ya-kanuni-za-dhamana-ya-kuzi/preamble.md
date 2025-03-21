@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USIMAMIZI WA MAZINGIRA,
+(SURA YA 191)
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 227(1))
+KANUNI ZA MAREKEBISHO YA KANUNI ZA DHAMANA YA KUZINGATIA MASHARTI
+YA MAZINGIRA ZA MWAKA 2025
