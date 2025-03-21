@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USAFIRI MAJINI,
+(SURA YA 165)
+______
+KANUNI
+______
+(Zimetengenezwa chini ya kifungu cha 376)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA KUZUIA UCHAFUZI
+UTOKANAO NA MAFUTA ZA MWAKA 2025
