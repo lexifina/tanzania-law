@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA USAFIRI MAJINI,
+(SURA YA 165)
+_______
+KANUNI
+_______
+(Zimetengenezwa chini ya kifungu cha 284)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA USAFIRI MAJINI ZA UBEBAJI
+WA SHEHENA NA MIZIGO YABISI NA FUELI ZA MWAKA 2025
