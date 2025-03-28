@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+_______________
+SHERIA NDOGO
+________________
+(Imetengenezwa chini ya kifungu cha 7(1) na 16(1))
+SHERIA YA NDOGO YA MAREKEBISHO YA SHERIA NDOGO YA ADA NA USHURU WA
+MADINI YA UJENZI YA HALMASHAURI YA WILAYA YA KASULU YA MWAKA 2025
