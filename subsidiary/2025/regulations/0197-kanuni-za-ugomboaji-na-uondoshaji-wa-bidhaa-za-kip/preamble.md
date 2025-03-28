@@ -1,0 +1,14 @@
+# Long title and enacting words
+SHERIA YA UWAKALA WA MELI TANZANIA,
+SURA YA 415
+________
+KANUNI
+________
+(Zimetengenezwa chini ya kifungu cha 61(1) na (2)(a) na (b))
+KANUNI ZA UGOMBOAJI NA UONDOSHAJI WA BIDHAA ZA
+KIPEKEE ZA MWAKA 2025
+MPANGILIO WA KANUNI
+SEHEMU YA KWANZA
+MASHARTI YA UTANGULIZI
+kanuni
+jina
