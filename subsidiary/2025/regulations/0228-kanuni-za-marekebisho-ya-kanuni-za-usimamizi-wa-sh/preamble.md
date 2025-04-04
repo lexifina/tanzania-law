@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA UHIFADHI WA WANYAMAPORI,
+(SURA YA 283)
+__________
+KANUNI
+__________
+(Zimetengenezwa chini ya kifungu cha 121)
+KANUNI ZA MAREKEBISHO YA KANUNI ZA USIMAMIZI WA SHUGHULI ZA UVUVI
+KATIKA MAENEO YA HIFADHI ZA MWAKA 2025
