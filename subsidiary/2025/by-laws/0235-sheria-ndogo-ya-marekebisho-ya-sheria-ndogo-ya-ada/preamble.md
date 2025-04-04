@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA FEDHA ZA SERIKALI ZA MITAA,
+(SURA YA 290)
+______________
+SHERIA NDOGO
+______________
+(Imetengenezwa chini ya kifungu cha 16(1))
+SHERIA NDOGO YA MAREKEBISHO YA SHERIA NDOGO YA ADA NA USHURU YA
+HALMASHAURI YA WILAYA YA LUDEWA YA MWAKA 2025
