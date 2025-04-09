@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA VIWANJA VYA NDEGE TANZANIA,
+(NAMBA 8 YA 2024)
+_______
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu cha 1)
+NOTISI YA TAREHE YA KUANZA KUTUMIKA KWA SHERIA YA VIWANJA VYA NDEGE
+TANZANIA YA MWAKA 2025
