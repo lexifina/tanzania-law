@@ -1,0 +1,10 @@
+# Long title and enacting words
+SHERIA YA TAFSIRI YA SHERIA
+(SURA YA 1)
+_________
+NOTISI
+_________
+(Imetengenezwa chini ya kifungu cha 85(4))
+NOTISI YA TOLEO RASMI LA TAFSIRI YA SHERIA KUU NANE (8) ZILIZOTAFSIRIWA
+KWA LUGHA YA KISWAHILI YA MWAKA 2025
+Jina
