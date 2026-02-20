@@ -1,0 +1,5 @@
+# JEDWALI LA PILI
+_______________ (Limetengenezwa chini ya aya 7(2)(c))
+TAMKO LA KUTOKUWA NA MGONGANO WA MASLAHI Mimi……………………………………………… natamka kwa dhati na kwa uaminifu kama ifuatavyo: (hapa bainisha mambo yanayotamkwa) ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… Mimi………………………………………………….. ninatoa tamko hili kwa dhamira njema nikiamini kuwa ni kweli na kwa mujibu wa masharti ya Sheria ya Viapo na Matamko Tamko hili limetolewa na kusainiwa na ………... ambaye ninamfahamu binafsi/ ametambulishwa kwangu na ................................................................... ..........……………………… Mtoa tarehe ................... mwezi………... mwaka 20…. …………………………………..
+Dodoma,
+HAMZA SAIDI JOHARI 12 Februari, 2026 Mwanasheria Mkuu wa Serikali
