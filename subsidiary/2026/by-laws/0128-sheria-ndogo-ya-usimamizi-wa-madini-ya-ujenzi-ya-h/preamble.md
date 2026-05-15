@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA SERIKALI ZA MITAA (MAMLAKA ZA WILAYA),
+(SURA YA 287)
+___________
+SHERIA NDOGO
+___________
+(Imetengenezwa chini ya kifungu cha 155(1))
+SHERIA NDOGO YA USIMAMIZI WA MADINI YA UJENZI YA HALMASHAURI YA
+WILAYA YA USHETU YA MWAKA 2026
