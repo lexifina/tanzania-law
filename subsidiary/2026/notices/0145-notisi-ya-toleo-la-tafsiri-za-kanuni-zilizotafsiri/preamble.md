@@ -1,0 +1,9 @@
+# Long title and enacting words
+SHERIA YA TAFSIRI YA SHERIA,
+(SURA YA 1)
+_______
+NOTISI
+_______
+(Imetengenezwa chini ya kifungu cha 85(4))
+NOTISI YA TOLEO LA TAFSIRI ZA KANUNI ZILIZOTAFSIRIWA KWA LUGHA YA
+KIINGEREZA ZA MWAKA 2026
