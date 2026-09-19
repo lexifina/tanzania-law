@@ -1,0 +1,2 @@
+# 81A. "Reintegration upon release or discharge of prisoner
+The Service shall, upon release or discharge of a prisoner, arrange for the transportation of a released prisoner to his place of residence or elsewhere and may, in so doing, connect the released prisoner to the responsible Government institution, community support services entity or social support networks to foster continuity of reintegration.".
