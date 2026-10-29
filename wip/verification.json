@@ -218,6 +218,16 @@
    "ours": "2023-12-31"
   }
  },
+ "check": {
+  "acts": 4,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 12
+ },
  "fidelity": {
   "basic-rights-duties-enforcement@2019-11-30": {
    "text_outside_units_chars": 0,
