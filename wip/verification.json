@@ -218,16 +218,6 @@
    "ours": "2023-12-31"
   }
  },
- "check": {
-  "acts": 7,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 20
- },
  "fidelity": {
   "basic-rights-duties-enforcement@2019-11-30": {
    "text_outside_units_chars": 0,
@@ -563,5 +553,12 @@
     "2024-10-04"
    ]
   }
+ },
+ "rebuild": {
+  "commits": 14,
+  "history_tip": "0624633d1ff3700c258787dab592fd848ca02709",
+  "identical": true,
+  "main_identical": true,
+  "tags": 20
  }
 }

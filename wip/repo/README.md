@@ -9,11 +9,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `penal-code/` | [Penal Code](https://tanzlii.org/akn/tz/act/ord/1930/11) | 2 | 2019-11-30 to 2023-12-31 |
-| `employment-labour-relations/` | [Employment and Labour Relations Act](https://tanzlii.org/akn/tz/act/2004/6) | 2 | 2006-12-20 to 2023-12-31 |
 | `law-of-marriage/` | [Law of Marriage Act](https://tanzlii.org/akn/tz/act/1971/5) | 2 | 2019-11-30 to 2023-12-31 |
 | `law-of-the-child/` | [Law of the Child Act](https://tanzlii.org/akn/tz/act/2009/21) | 3 | 2019-11-30 to 2024-10-11 |
-| `civil-procedure-code/` | [Civil Procedure Code](https://tanzlii.org/akn/tz/act/1966/49) | 4 | 2019-11-30 to 2024-10-04 |
-| `basic-rights-duties-enforcement/` | [Basic Rights and Duties Enforcement Act](https://tanzlii.org/akn/tz/act/1994/33) | 2 | 2019-11-30 to 2025-03-14 |
 | `judiciary-administration/` | [Judiciary Administration Act](https://tanzlii.org/akn/tz/act/2011/4) | 5 | 2012-03-01 to 2023-12-01 |
 
 **Penal Code**
@@ -22,13 +19,6 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- |
 | 2019-11-30 | publisher (TanzLII): oldest version available |
 | 2023-12-31 | Act 1 of 2022; publisher (TanzLII): 382 provision(s) unexplained |
-
-**Employment and Labour Relations Act**
-
-| In force | Author |
-| --- | --- |
-| 2006-12-20 | Act 6 of 2004 (as enacted) |
-| 2023-12-31 | Act 17 of 2010, Act 2 of 2010, Act 21 of 2009, Act 24 of 2015, Act 4 of 2016, Act 8 of 2006; publisher (TanzLII): 96 provision(s) unexplained |
 
 **Law of Marriage Act**
 
@@ -44,22 +34,6 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | 2019-11-30 | publisher (TanzLII): oldest version available |
 | 2023-12-31 | Act 1 of 2020; publisher (TanzLII): 166 provision(s) unexplained |
 | 2024-10-11 | Act 10 of 2024 |
-
-**Civil Procedure Code**
-
-| In force | Author |
-| --- | --- |
-| 2019-11-30 | publisher (TanzLII): oldest version available |
-| 2021-01-18 | Act 1 of 2020, Act 2 of 2020; publisher (TanzLII): 5 provision(s) unexplained |
-| 2021-10-22 | Gn 761 of 2021 |
-| 2024-10-04 | Gn 821 of 2024 |
-
-**Basic Rights and Duties Enforcement Act**
-
-| In force | Author |
-| --- | --- |
-| 2019-11-30 | publisher (TanzLII): oldest version available |
-| 2025-03-14 | Act 2 of 2025, Act 6 of 2020 |
 
 **Judiciary Administration Act**
 
@@ -117,6 +91,19 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Headings above the provision** (Part, Chapter, Division) are left out; each file starts with its own number and heading. Footnotes are kept at the end of the file.
 - **Amendments not yet applied.** Where the LII lists an amendment as not yet applied to its consolidated text, it is not in this history; REPRODUCE.md lists each one.
 - **No OCR.** Acts the LII shows only as scanned PDFs are not included.
+
+## Tanzania: what is missing
+
+- **Acts held back until verified.** Three acts were built but are not in this history, because their newest archived
+  version could not be matched to the expression TanzLII's own legislation listing names as current (28 October 2026):
+  the Employment and Labour Relations Act (TanzLII names 2025-03-14, which is not archived), the Civil Procedure Code
+  (TanzLII names 2021-10-22, older than the archived 2024-10-04 expression) and the Basic Rights and Duties Enforcement
+  Act (TanzLII names 2023-12-31, older than the archived 2025-03-14 expression, and 2023-12-31 is not archived).
+- **Expressions with no archived text.** The Law of Marriage Act's 2022-07-15 expression has no usable archived copy,
+  so its changes are part of the 2023-12-31 version, where most are committed as unexplained. The Penal Code's
+  2002-07-31 expression is not archived, so its history starts at the 2019-11-30 Revised Edition.
+- **The Constitution.** TanzLII publishes it in Kiswahili only; the official English revised text (Ministry of
+  Constitutional and Legal Affairs, up to the 14th Amendment of 2005) is not yet in this history.
 
 ## How it is built
 
