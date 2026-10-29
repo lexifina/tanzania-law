@@ -1,0 +1,567 @@
+{
+ "acts": {
+  "basic-rights-duties-enforcement": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2019-11-30",
+    "units": 16
+   },
+   {
+    "changed": 4,
+    "credited": 4,
+    "from": "2025-03-14",
+    "units": 16
+   }
+  ],
+  "basic-rights-duties-enforcement:archive": {
+   "captured": "20260316115657",
+   "history_after_last": [],
+   "last_version": "2025-03-14",
+   "via": "wayback"
+  },
+  "basic-rights-duties-enforcement:listing": {
+   "lii_current": "2023-12-31",
+   "ok": false,
+   "ours": "2025-03-14"
+  },
+  "civil-procedure-code": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2019-11-30",
+    "units": 700
+   },
+   {
+    "changed": 14,
+    "credited": 9,
+    "from": "2021-01-18",
+    "units": 708
+   },
+   {
+    "changed": 274,
+    "credited": 274,
+    "from": "2021-10-22",
+    "units": 712
+   },
+   {
+    "changed": 17,
+    "credited": 17,
+    "from": "2024-10-04",
+    "units": 712
+   }
+  ],
+  "civil-procedure-code:archive": {
+   "captured": "20260124091109",
+   "history_after_last": [
+    "2025-09-12"
+   ],
+   "last_version": "2024-10-04",
+   "via": "wayback"
+  },
+  "civil-procedure-code:listing": {
+   "lii_current": "2021-10-22",
+   "ok": false,
+   "ours": "2024-10-04"
+  },
+  "employment-labour-relations": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2004-06-11",
+    "units": 107
+   },
+   {
+    "changed": 108,
+    "credited": 12,
+    "from": "2023-12-31",
+    "units": 109
+   }
+  ],
+  "employment-labour-relations:archive": {
+   "captured": "20260213224154",
+   "history_after_last": [
+    "2025-03-14"
+   ],
+   "last_version": "2023-12-31",
+   "via": "wayback"
+  },
+  "employment-labour-relations:listing": {
+   "lii_current": "2025-03-14",
+   "ok": false,
+   "ours": "2023-12-31"
+  },
+  "judiciary-administration": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2011-06-10",
+    "units": 74
+   },
+   {
+    "changed": 1,
+    "credited": 1,
+    "from": "2015-07-01",
+    "units": 74
+   },
+   {
+    "changed": 1,
+    "credited": 1,
+    "from": "2016-07-01",
+    "units": 74
+   },
+   {
+    "changed": 1,
+    "credited": 1,
+    "from": "2020-06-19",
+    "units": 75
+   },
+   {
+    "changed": 4,
+    "credited": 4,
+    "from": "2023-12-01",
+    "units": 75
+   }
+  ],
+  "judiciary-administration:archive": {
+   "captured": "20251211152528",
+   "history_after_last": [
+    "2023-12-31"
+   ],
+   "last_version": "2023-12-01",
+   "via": "wayback"
+  },
+  "judiciary-administration:listing": {
+   "lii_current": "2023-12-01",
+   "ok": true,
+   "ours": "2023-12-01"
+  },
+  "law-of-marriage": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2019-11-30",
+    "units": 170
+   },
+   {
+    "changed": 158,
+    "credited": 0,
+    "from": "2023-12-31",
+    "units": 170
+   }
+  ],
+  "law-of-marriage:archive": {
+   "captured": "20260215180025",
+   "history_after_last": [],
+   "last_version": "2023-12-31",
+   "via": "wayback"
+  },
+  "law-of-marriage:listing": {
+   "lii_current": "2023-12-31",
+   "ok": true,
+   "ours": "2023-12-31"
+  },
+  "law-of-the-child": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2019-11-30",
+    "units": 198
+   },
+   {
+    "changed": 167,
+    "credited": 1,
+    "from": "2023-12-31",
+    "units": 196
+   },
+   {
+    "changed": 30,
+    "credited": 30,
+    "from": "2024-10-11",
+    "units": 199
+   }
+  ],
+  "law-of-the-child:archive": {
+   "captured": "20251207042956",
+   "history_after_last": [],
+   "last_version": "2024-10-11",
+   "via": "wayback"
+  },
+  "law-of-the-child:listing": {
+   "lii_current": "2024-10-11",
+   "ok": true,
+   "ours": "2024-10-11"
+  },
+  "penal-code": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2019-11-30",
+    "units": 435
+   },
+   {
+    "changed": 394,
+    "credited": 12,
+    "from": "2023-12-31",
+    "units": 435
+   }
+  ],
+  "penal-code:archive": {
+   "captured": "20260420085852",
+   "history_after_last": [],
+   "last_version": "2023-12-31",
+   "via": "wayback"
+  },
+  "penal-code:listing": {
+   "lii_current": "2023-12-31",
+   "ok": true,
+   "ours": "2023-12-31"
+  }
+ },
+ "check": {
+  "acts": 7,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 20
+ },
+ "fidelity": {
+  "basic-rights-duties-enforcement@2019-11-30": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 16,
+   "units_differing": []
+  },
+  "basic-rights-duties-enforcement@2025-03-14": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 16,
+   "units_differing": []
+  },
+  "civil-procedure-code@2019-11-30": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 700,
+   "units_differing": []
+  },
+  "civil-procedure-code@2021-01-18": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 708,
+   "units_differing": []
+  },
+  "civil-procedure-code@2021-10-22": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 712,
+   "units_differing": []
+  },
+  "civil-procedure-code@2024-10-04": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 712,
+   "units_differing": []
+  },
+  "employment-labour-relations@2004-06-11": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 107,
+   "units_differing": []
+  },
+  "employment-labour-relations@2023-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 109,
+   "units_differing": []
+  },
+  "judiciary-administration@2011-06-10": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 74,
+   "units_differing": []
+  },
+  "judiciary-administration@2015-07-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 74,
+   "units_differing": []
+  },
+  "judiciary-administration@2016-07-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 74,
+   "units_differing": []
+  },
+  "judiciary-administration@2020-06-19": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 75,
+   "units_differing": []
+  },
+  "judiciary-administration@2023-12-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 75,
+   "units_differing": []
+  },
+  "law-of-marriage@2019-11-30": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 170,
+   "units_differing": []
+  },
+  "law-of-marriage@2023-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 170,
+   "units_differing": []
+  },
+  "law-of-the-child@2019-11-30": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 198,
+   "units_differing": []
+  },
+  "law-of-the-child@2023-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 196,
+   "units_differing": []
+  },
+  "law-of-the-child@2024-10-11": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 199,
+   "units_differing": []
+  },
+  "penal-code@2019-11-30": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 435,
+   "units_differing": []
+  },
+  "penal-code@2023-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 435,
+   "units_differing": [
+    "sec-050",
+    "sec-051",
+    "sec-052",
+    "sec-053",
+    "sec-054",
+    "sec-367",
+    "sec-368"
+   ]
+  }
+ },
+ "law_dates": {
+  "act-2002-25": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2004-12": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2004-19": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2004-4": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2004-6": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2006-8": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2007-19": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2008-17": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2008-6": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2009-21": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2009-3": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2010-11": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2010-17": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2010-2": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2011-3": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2011-4": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2013-10": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2015-11": {
+   "commenced": null,
+   "dated": [
+    "2015-07-01"
+   ]
+  },
+  "act-2015-14": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2015-24": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2016-2": {
+   "commenced": null,
+   "dated": [
+    "2016-07-01"
+   ]
+  },
+  "act-2016-4": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2017-9": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2018-8": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2019-13": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2020-1": {
+   "commenced": null,
+   "dated": [
+    "2021-01-18",
+    "2023-12-31"
+   ]
+  },
+  "act-2020-2": {
+   "commenced": null,
+   "dated": [
+    "2021-01-18"
+   ]
+  },
+  "act-2020-6": {
+   "commenced": null,
+   "dated": [
+    "2020-06-19",
+    "2025-03-14"
+   ]
+  },
+  "act-2021-8": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2021-9": {
+   "commenced": null,
+   "dated": []
+  },
+  "act-2022-1": {
+   "commenced": null,
+   "dated": [
+    "2023-12-31"
+   ]
+  },
+  "act-2023-11": {
+   "commenced": null,
+   "dated": [
+    "2023-12-01"
+   ]
+  },
+  "act-2024-10": {
+   "commenced": null,
+   "dated": [
+    "2024-10-11"
+   ]
+  },
+  "act-2025-2": {
+   "commenced": null,
+   "dated": [
+    "2025-03-14"
+   ]
+  },
+  "gn-2005-256": {
+   "commenced": null,
+   "dated": []
+  },
+  "gn-2005-443": {
+   "commenced": null,
+   "dated": []
+  },
+  "gn-2011-136": {
+   "commenced": null,
+   "dated": []
+  },
+  "gn-2011-263": {
+   "commenced": null,
+   "dated": []
+  },
+  "gn-2019-381": {
+   "commenced": null,
+   "dated": []
+  },
+  "gn-2021-761": {
+   "commenced": null,
+   "dated": [
+    "2021-10-22"
+   ]
+  },
+  "gn-2022-487": {
+   "commenced": null,
+   "dated": []
+  },
+  "gn-2024-821": {
+   "commenced": null,
+   "dated": [
+    "2024-10-04"
+   ]
+  }
+ }
+}
