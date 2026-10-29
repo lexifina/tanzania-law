@@ -1,0 +1,63 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "TanzLII",
+  "hosts": [
+   "tanzlii.org"
+  ],
+  "cc": "tz",
+  "path_prefixes": [
+   "",
+   "/en"
+  ],
+  "listing_prefix": "/en"
+ },
+ "country": {
+  "code": "TZ",
+  "name": "Tanzania",
+  "slug": "tanzania",
+  "lang": "en",
+  "tz": "Africa/Dar_es_Salaam",
+  "future_branch": "future",
+  "publisher": {
+   "name": "TanzLII",
+   "email": "tanzlii@tanzlii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by TanzLII's own expression date, the day the amendment it incorporates took effect (or the date a Revised Edition is as at) as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://tanzlii.org/legislation/"
+  },
+  "licence_note": "Source: TanzLII (https://tanzlii.org), a project of the Judiciary of Tanzania, licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform)",
+   "url": "https://tanzlii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act, /akn/tz/act/<year>/<num>/eng@<date> (ordinances /akn/tz/act/ord/...). TanzLII's terms prohibit scraping, so no TanzLII document page was fetched: each expression page is read from an Internet Archive capture (raw id_ form) through the shared client gitlaw_common/wayback.py; the capture timestamps and sha256s are pinned in sources.json. TanzLII's open legislation listing (/en/legislation/?years=Y) was read once per act to name the current expression. Request count covers the Internet Archive and those listing pages."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of TanzLII pages; the content licence is TanzLII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes. Common Crawl was to be tried first (coordinator's fast-access rule), but index.commoncrawl.org refused connections from this machine on 2026-10-28."
+  }
+ ],
+ "acts": [
+  {"work": "ord/1930/11", "slug": "penal-code", "short": "Penal Code", "title": "Penal Code (Cap. 16)", "label": "Ordinance 11 of 1930"},
+  {"work": "2004/6", "slug": "employment-labour-relations", "short": "ELRA", "title": "Employment and Labour Relations Act (Cap. 366)", "label": "Act 6 of 2004"},
+  {"work": "1971/5", "slug": "law-of-marriage", "short": "Law of Marriage Act", "title": "Law of Marriage Act (Cap. 29)", "label": "Act 5 of 1971"},
+  {"work": "2009/21", "slug": "law-of-the-child", "short": "Law of the Child Act", "title": "Law of the Child Act (Cap. 13)", "label": "Act 21 of 2009"},
+  {"work": "1966/49", "slug": "civil-procedure-code", "short": "CPC", "title": "Civil Procedure Code (Cap. 33)", "label": "Act 49 of 1966"},
+  {"work": "1994/33", "slug": "basic-rights-duties-enforcement", "short": "BRADEA", "title": "Basic Rights and Duties Enforcement Act (Cap. 3)", "label": "Act 33 of 1994"},
+  {"work": "2011/4", "slug": "judiciary-administration", "short": "Judiciary Administration Act", "title": "Judiciary Administration Act (Cap. 237)", "label": "Act 4 of 2011"}
+ ],
+ "decisions": [],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: parse.py, constitution.py and the shared peachjam.py are deterministic code."
+ ]
+}

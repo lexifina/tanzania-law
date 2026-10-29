@@ -1,0 +1,164 @@
+{
+ "lii": "TanzLII",
+ "acts": {
+  "ord/1930/11": {
+   "expressions": {
+    "2019-11-30": {
+     "capture": "20251209021003",
+     "original": "https://tanzlii.org/en/akn/tz/act/ord/1930/11/eng@2019-11-30",
+     "url": "https://web.archive.org/web/20251209021003id_/https://tanzlii.org/en/akn/tz/act/ord/1930/11/eng@2019-11-30",
+     "sha256": "46dfa92ed4c624f94f4fea53ca8ac545b862dba68c2e496f7bc960b575947f17"
+    },
+    "2023-12-31": {
+     "capture": "20260420085852",
+     "original": "https://tanzlii.org/en/akn/tz/act/ord/1930/11/eng@2023-12-31",
+     "url": "https://web.archive.org/web/20260420085852id_/https://tanzlii.org/en/akn/tz/act/ord/1930/11/eng@2023-12-31",
+     "sha256": "a7a3f8072479c99c63df3d47f3afbb1a8585cdee33596ae4d0c5c97703305f91"
+    }
+   }
+  },
+  "2004/6": {
+   "expressions": {
+    "2004-06-11": {
+     "capture": "20250525021101",
+     "original": "https://tanzlii.org/akn/tz/act/2004/6/eng@2004-06-11",
+     "url": "https://web.archive.org/web/20250525021101id_/https://tanzlii.org/akn/tz/act/2004/6/eng@2004-06-11",
+     "sha256": "465cf3fd4cf5590f094b3502415ef92f850306a4560151b6fb66cbad2c46417c"
+    },
+    "2023-12-31": {
+     "capture": "20260213224154",
+     "original": "https://tanzlii.org/en/akn/tz/act/2004/6/eng@2023-12-31",
+     "url": "https://web.archive.org/web/20260213224154id_/https://tanzlii.org/en/akn/tz/act/2004/6/eng@2023-12-31",
+     "sha256": "7e7a05236aca9769e56f25aca527bb55ad14851f53b4bce884bee2c9ed828ad6"
+    }
+   }
+  },
+  "1971/5": {
+   "expressions": {
+    "2019-11-30": {
+     "capture": "20250907145422",
+     "original": "https://tanzlii.org/akn/tz/act/1971/5/eng@2019-11-30",
+     "url": "https://web.archive.org/web/20250907145422id_/https://tanzlii.org/akn/tz/act/1971/5/eng@2019-11-30",
+     "sha256": "d70923a15d7d030d9a197454b1aefb8effd925456e0a8c02c9d185b2d963dfe6"
+    },
+    "2023-12-31": {
+     "capture": "20260215180025",
+     "original": "https://tanzlii.org/en/akn/tz/act/1971/5/eng@2023-12-31",
+     "url": "https://web.archive.org/web/20260215180025id_/https://tanzlii.org/en/akn/tz/act/1971/5/eng@2023-12-31",
+     "sha256": "e6fd5bc05fd8a400dddde78f47f5abd88e6cb51da530c646df69c7e4720cf477"
+    }
+   }
+  },
+  "2009/21": {
+   "expressions": {
+    "2019-11-30": {
+     "capture": "20250805171423",
+     "original": "https://tanzlii.org/akn/tz/act/2009/21/eng@2019-11-30",
+     "url": "https://web.archive.org/web/20250805171423id_/https://tanzlii.org/akn/tz/act/2009/21/eng@2019-11-30",
+     "sha256": "a1d707a01ce770bb6d4ab03851320820f02f62ece307b2c12ca6d6ba9e3f4a76"
+    },
+    "2023-12-31": {
+     "capture": "20251107195442",
+     "original": "https://tanzlii.org/en/akn/tz/act/2009/21/eng@2023-12-31",
+     "url": "https://web.archive.org/web/20251107195442id_/https://tanzlii.org/en/akn/tz/act/2009/21/eng@2023-12-31",
+     "sha256": "6ade16f428b61265516c57ba5f7d3bc3867b8ab35c1e41bf57bd47ffc234c04c"
+    },
+    "2024-10-11": {
+     "capture": "20251207042956",
+     "original": "https://tanzlii.org/en/akn/tz/act/2009/21/eng@2024-10-11",
+     "url": "https://web.archive.org/web/20251207042956id_/https://tanzlii.org/en/akn/tz/act/2009/21/eng@2024-10-11",
+     "sha256": "f51856583ffdbc21e0f8471355a8322c16df5835c8b94a953279c5b9f89f3c90"
+    }
+   }
+  },
+  "1966/49": {
+   "expressions": {
+    "2019-11-30": {
+     "capture": "20250911032307",
+     "original": "https://tanzlii.org/akn/tz/act/1966/49/eng@2019-11-30",
+     "url": "https://web.archive.org/web/20250911032307id_/https://tanzlii.org/akn/tz/act/1966/49/eng@2019-11-30",
+     "sha256": "6125362e1486b275d848aa4b19fc2ddbbe0d22b0eb3c610d39f590f5dc88495b"
+    },
+    "2021-01-18": {
+     "capture": "20250324234224",
+     "original": "https://tanzlii.org/akn/tz/act/1966/49/eng@2021-01-18",
+     "url": "https://web.archive.org/web/20250324234224id_/https://tanzlii.org/akn/tz/act/1966/49/eng@2021-01-18",
+     "sha256": "19e11ad60300faff141b2cda5413d990743e05ee8bdaf48933a5ad07c719fd8c"
+    },
+    "2021-10-22": {
+     "capture": "20250912224230",
+     "original": "https://tanzlii.org/akn/tz/act/1966/49/eng@2021-10-22",
+     "url": "https://web.archive.org/web/20250912224230id_/https://tanzlii.org/akn/tz/act/1966/49/eng@2021-10-22",
+     "sha256": "cde26df89ad5ca01c33ff5e20efc5aafa54401091b35ec4481aef6d5b59d6c88"
+    },
+    "2024-10-04": {
+     "capture": "20260124091109",
+     "original": "https://tanzlii.org/en/akn/tz/act/1966/49/eng@2024-10-04",
+     "url": "https://web.archive.org/web/20260124091109id_/https://tanzlii.org/en/akn/tz/act/1966/49/eng@2024-10-04",
+     "sha256": "886f6b7506f623d6e725e2639df415b6fe0303f755b9399e1451321221c64a40"
+    }
+   }
+  },
+  "1994/33": {
+   "expressions": {
+    "2019-11-30": {
+     "capture": "20250804122057",
+     "original": "https://tanzlii.org/akn/tz/act/1994/33/eng@2019-11-30",
+     "url": "https://web.archive.org/web/20250804122057id_/https://tanzlii.org/akn/tz/act/1994/33/eng@2019-11-30",
+     "sha256": "5449cf5c21da7795fe7dc29c74559ba1bbefb73c7b07cd7d28d2bafbd85ffd88"
+    },
+    "2025-03-14": {
+     "capture": "20260316115657",
+     "original": "https://tanzlii.org/en/akn/tz/act/1994/33/eng@2025-03-14",
+     "url": "https://web.archive.org/web/20260316115657id_/https://tanzlii.org/en/akn/tz/act/1994/33/eng@2025-03-14",
+     "sha256": "f308811131239689464ab494478810a8c3dc81581dfe533dfe2856406f98222b"
+    }
+   }
+  },
+  "2011/4": {
+   "expressions": {
+    "2011-06-10": {
+     "capture": "20250423212904",
+     "original": "https://tanzlii.org/akn/tz/act/2011/4/eng@2011-06-10",
+     "url": "https://web.archive.org/web/20250423212904id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2011-06-10",
+     "sha256": "8e8a5910d5e0b55bd6b1c170846dfda17973725616ef39b647ccff8e9cc141da"
+    },
+    "2015-07-01": {
+     "capture": "20250318074827",
+     "original": "https://tanzlii.org/akn/tz/act/2011/4/eng@2015-07-01",
+     "url": "https://web.archive.org/web/20250318074827id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2015-07-01",
+     "sha256": "10a6e998d4b5039dd325fabb4ecc5dec6d27c55b144541d25188509f25ebfe0a"
+    },
+    "2016-07-01": {
+     "capture": "20250423203546",
+     "original": "https://tanzlii.org/akn/tz/act/2011/4/eng@2016-07-01",
+     "url": "https://web.archive.org/web/20250423203546id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2016-07-01",
+     "sha256": "2c33a25b75ff982d9a61d4f4ecfcf68a920ecb6a919ee67dc4f720d643170b2e"
+    },
+    "2020-06-19": {
+     "capture": "20250423203224",
+     "original": "https://tanzlii.org/akn/tz/act/2011/4/eng@2020-06-19",
+     "url": "https://web.archive.org/web/20250423203224id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2020-06-19",
+     "sha256": "1f651309397bc5adfd66fe50de710f7ed55d3e03bbdc5f706931c2048d92bf4f"
+    },
+    "2023-12-01": {
+     "capture": "20251211152528",
+     "original": "https://tanzlii.org/en/akn/tz/act/2011/4/eng@2023-12-01",
+     "url": "https://web.archive.org/web/20251211152528id_/https://tanzlii.org/en/akn/tz/act/2011/4/eng@2023-12-01",
+     "sha256": "0b2f8d119e11ab3d275a5705491230fdaf4abb74da66c8815fc417055f31ad44"
+    }
+   }
+  }
+ },
+ "laws": {},
+ "listings": {
+  "ord/1930/11": "https://tanzlii.org/en/legislation/?years=1930",
+  "2004/6": "https://tanzlii.org/en/legislation/?years=2004",
+  "1971/5": "https://tanzlii.org/en/legislation/?years=1971",
+  "2009/21": "https://tanzlii.org/en/legislation/?years=2009",
+  "1966/49": "https://tanzlii.org/en/legislation/?years=1966",
+  "1994/33": "https://tanzlii.org/en/legislation/?years=1994",
+  "2011/4": "https://tanzlii.org/en/legislation/?years=2011"
+ },
+ "retrieved": "2026-10-28"
+}
