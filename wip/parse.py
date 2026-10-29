@@ -7,9 +7,9 @@
   except the acts in UNVERIFIED below;
 - corpus.d/50-unverified.json: those acts, whose newest archived version is not TanzLII's current expression (no
   .PUBLISH, so they reach the preview branch only).
-- (planned, not written yet) corpus.d/10-constitution.json: the Constitution in English, from the official revised
-  English version published by the Ministry of Constitutional and Legal Affairs (constitution.py); TanzLII has only the
-  Kiswahili text.
+- corpus.d/10-constitution.json is written by constitution.py, not here: the Constitution in English, from the
+  official revised English version published by the Ministry of Constitutional and Legal Affairs (TanzLII has only the
+  Kiswahili text). It has no .PUBLISH (see PROGRESS.md), so it reaches the preview branch only.
 Also writes verification.json (the checks) and repo/README.md, repo/LICENSE. Deterministic: same cache, same bytes.
 """
 import json
