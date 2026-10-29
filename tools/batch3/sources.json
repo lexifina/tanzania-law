@@ -1,0 +1,190 @@
+{
+ "lii": "TanzLII",
+ "acts": {
+  "1977/13": {
+   "expressions": {
+    "2002-07-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-38",
+     "capture": "20250912090927",
+     "original": "https://tanzlii.org/akn/tz/act/1977/13/eng@2002-07-31",
+     "url": "cc:crawl-data/CC-MAIN-2025-38/segments/1757047533244.92/warc/CC-MAIN-20250912084616-20250912114616-00740.warc.gz:467246745:32548",
+     "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533244.92/warc/CC-MAIN-20250912084616-20250912114616-00740.warc.gz",
+     "offset": "467246745",
+     "length": "32548",
+     "sha256": "fc270008c849ec06804e81d27b247014cb3d2362dcddc5f7e85c8d4e4d0a4198"
+    },
+    "2023-12-31": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-08",
+     "capture": "20260210142705",
+     "original": "https://tanzlii.org/en/akn/tz/act/1977/13/eng@2023-12-31",
+     "url": "cc:crawl-data/CC-MAIN-2026-08/segments/1770395506102.2/warc/CC-MAIN-20260210135955-20260210165955-00055.warc.gz:409123141:193294",
+     "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506102.2/warc/CC-MAIN-20260210135955-20260210165955-00055.warc.gz",
+     "offset": "409123141",
+     "length": "193294",
+     "sha256": "5d282d30a65ea070ebabefcffa96c178f934344336a8934ba6fba5848badae4b"
+    }
+   }
+  },
+  "2001/2": {
+   "expressions": {
+    "2025-03-14": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-08",
+     "capture": "20260213221534",
+     "original": "https://tanzlii.org/en/akn/tz/act/2001/2/eng@2025-03-14",
+     "url": "cc:crawl-data/CC-MAIN-2026-08/segments/1770395506344.74/warc/CC-MAIN-20260213212539-20260214002539-00653.warc.gz:437780258:47015",
+     "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506344.74/warc/CC-MAIN-20260213212539-20260214002539-00653.warc.gz",
+     "offset": "437780258",
+     "length": "47015",
+     "sha256": "06709c5274105f27fcf0f9d37e7edf5ec5909404b4dd93851b803481c7b3cddf"
+    }
+   }
+  },
+  "2002/6": {
+   "expressions": {
+    "2025-03-14": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-04",
+     "capture": "20260120052629",
+     "original": "https://tanzlii.org/en/akn/tz/act/2002/6/eng@2025-03-14",
+     "url": "cc:crawl-data/CC-MAIN-2026-04/segments/1768220469520.62/warc/CC-MAIN-20260120045330-20260120075330-00888.warc.gz:435304215:23627",
+     "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469520.62/warc/CC-MAIN-20260120045330-20260120075330-00888.warc.gz",
+     "offset": "435304215",
+     "length": "23627",
+     "sha256": "a1a60c4080a6d0a2ba78933c584c544d15b120e1638abcceb7a4039182326a0f"
+    }
+   }
+  },
+  "2013/5": {
+   "expressions": {
+    "2025-03-14": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-51",
+     "capture": "20251209024306",
+     "original": "https://tanzlii.org/en/akn/tz/act/2013/5/eng@2025-03-14",
+     "url": "cc:crawl-data/CC-MAIN-2025-51/segments/1764871307350.17/warc/CC-MAIN-20251209004206-20251209034206-00841.warc.gz:438070695:68183",
+     "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307350.17/warc/CC-MAIN-20251209004206-20251209034206-00841.warc.gz",
+     "offset": "438070695",
+     "length": "68183",
+     "sha256": "91bd5f330cff0b073d9f3ed1358c33da9b6eae44b6a93ab2a6fa7fb246f5d8fd"
+    }
+   }
+  },
+  "1965/15": {
+   "expressions": {
+    "2019-11-30": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-38",
+     "capture": "20250911032338",
+     "original": "https://tanzlii.org/akn/tz/act/1965/15/eng@2019-11-30",
+     "url": "cc:crawl-data/CC-MAIN-2025-38/segments/1757047533123.89/warc/CC-MAIN-20250911014741-20250911044741-00637.warc.gz:484051418:29943",
+     "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533123.89/warc/CC-MAIN-20250911014741-20250911044741-00637.warc.gz",
+     "offset": "484051418",
+     "length": "29943",
+     "sha256": "0442796d4c6a6498e66a21b0d13eadca9da5a2639f9f8fcb658d9d0326f02b66"
+    }
+   }
+  },
+  "1967/47": {
+   "expressions": {
+    "2019-11-30": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-47",
+     "capture": "20251110015627",
+     "original": "https://tanzlii.org/en/akn/tz/act/1967/47/eng@2019-11-30",
+     "url": "cc:crawl-data/CC-MAIN-2025-47/segments/1762439342742.10/warc/CC-MAIN-20251110001742-20251110031742-00326.warc.gz:482094810:36929",
+     "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439342742.10/warc/CC-MAIN-20251110001742-20251110031742-00326.warc.gz",
+     "offset": "482094810",
+     "length": "36929",
+     "sha256": "77f27ea4f108e2868e5f3c87e43b7821e445cd531edfba0ff785410a6f44b5e9"
+    }
+   }
+  },
+  "1980/17": {
+   "expressions": {
+    "2019-11-30": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-51",
+     "capture": "20251206054015",
+     "original": "https://tanzlii.org/en/akn/tz/act/1980/17/eng@2019-11-30",
+     "url": "cc:crawl-data/CC-MAIN-2025-51/segments/1764871307164.43/warc/CC-MAIN-20251206050720-20251206080720-00234.warc.gz:466231120:38444",
+     "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307164.43/warc/CC-MAIN-20251206050720-20251206080720-00234.warc.gz",
+     "offset": "466231120",
+     "length": "38444",
+     "sha256": "884327c4d218b8c2ce99c02c7099c841db3799a765f7259201772613978d0d6d"
+    }
+   }
+  },
+  "2015/9": {
+   "expressions": {
+    "2019-11-30": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-38",
+     "capture": "20250911023443",
+     "original": "https://tanzlii.org/akn/tz/act/2015/9/eng@2019-11-30",
+     "url": "cc:crawl-data/CC-MAIN-2025-38/segments/1757047533123.89/warc/CC-MAIN-20250911014741-20250911044741-00843.warc.gz:475101630:37878",
+     "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533123.89/warc/CC-MAIN-20250911014741-20250911044741-00843.warc.gz",
+     "offset": "475101630",
+     "length": "37878",
+     "sha256": "f69f314accb1be218d19402615c3ca2d0b46e75aa9ce3e66a70e2e53d249bcac"
+    }
+   }
+  },
+  "2015/22": {
+   "expressions": {
+    "2019-11-30": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2026-04",
+     "capture": "20260120061011",
+     "original": "https://tanzlii.org/en/akn/tz/act/2015/22/eng@2019-11-30",
+     "url": "cc:crawl-data/CC-MAIN-2026-04/segments/1768220469520.62/warc/CC-MAIN-20260120045330-20260120075330-00178.warc.gz:444882268:25699",
+     "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469520.62/warc/CC-MAIN-20260120045330-20260120075330-00178.warc.gz",
+     "offset": "444882268",
+     "length": "25699",
+     "sha256": "15752646c018dec410e8cbfdbdfe9c1d515454d4d69a963dfc4bed06e192208a"
+    }
+   }
+  },
+  "ord/1930/14": {
+   "expressions": {
+    "2019-11-30": {
+     "via": "commoncrawl",
+     "crawl": "CC-MAIN-2025-51",
+     "capture": "20251217095144",
+     "original": "https://tanzlii.org/en/akn/tz/act/ord/1930/14/eng@2019-11-30",
+     "url": "cc:crawl-data/CC-MAIN-2025-51/segments/1764871658243.99/warc/CC-MAIN-20251217081859-20251217111859-00856.warc.gz:386170753:17911",
+     "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871658243.99/warc/CC-MAIN-20251217081859-20251217111859-00856.warc.gz",
+     "offset": "386170753",
+     "length": "17911",
+     "sha256": "df3fdf11bd860f1e81a79f49e1d47003157a3ccccde1954930e0b870630e960e"
+    }
+   }
+  }
+ },
+ "laws": {},
+ "listings": {},
+ "missing": {
+  "1977/13": [],
+  "2001/2": [
+   "2002-07-31",
+   "2009-12-25"
+  ],
+  "2002/6": [
+   "2002-07-31"
+  ],
+  "2013/5": [
+   "2013-12-31"
+  ],
+  "1965/15": [],
+  "1967/47": [],
+  "1980/17": [],
+  "2015/9": [],
+  "2015/22": [],
+  "ord/1930/14": [
+   "2002-07-31"
+  ]
+ },
+ "retrieved": "2026-10-29"
+}

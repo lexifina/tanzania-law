@@ -1,0 +1,132 @@
+{
+ "part": "60-batch2",
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "TanzLII",
+  "hosts": [
+   "tanzlii.org"
+  ],
+  "cc": "tz",
+  "path_prefixes": [
+   "",
+   "/en"
+  ],
+  "listing_prefix": "/en",
+  "listing": false
+ },
+ "cc_crawls": 16,
+ "common_crawl": true,
+ "wayback": true,
+ "country": {
+  "code": "TZ",
+  "name": "Tanzania",
+  "slug": "tanzania",
+  "lang": "en",
+  "tz": "Africa/Dar_es_Salaam",
+  "future_branch": "future",
+  "publisher": {
+   "name": "TanzLII",
+   "email": "tanzlii@tanzlii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by TanzLII's own expression date, the day the amendment it incorporates took effect (or the date a Revised Edition is as at) as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://tanzlii.org/legislation/"
+  },
+  "licence_note": "Source: TanzLII (https://tanzlii.org), a project of the Judiciary of Tanzania, licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform)",
+   "url": "https://tanzlii.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act in this part, /akn/tz/act/<year>/<num>/eng@<date> (ordinances /akn/tz/act/ord/...). Each version's source_url is the expression it was parsed from, and its sha256 is that of the page."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1967/6",
+   "slug": "evidence",
+   "short": "Evidence Act",
+   "title": "Evidence Act",
+   "label": "Act 6 of 1967"
+  },
+  {
+   "work": "ord/1961/1",
+   "slug": "law-of-contract",
+   "short": "Law of Contract Act",
+   "title": "Law of Contract Act",
+   "label": "Ordinance 1 of 1961"
+  },
+  {
+   "work": "1996/4",
+   "slug": "interpretation-of-laws",
+   "short": "Interpretation of Laws Act",
+   "title": "Interpretation of Laws Act",
+   "label": "Act 4 of 1996"
+  },
+  {
+   "work": "1999/4",
+   "slug": "land",
+   "short": "Land Act",
+   "title": "Land Act",
+   "label": "Act 4 of 1999"
+  },
+  {
+   "work": "1999/5",
+   "slug": "village-land",
+   "short": "Village Land Act",
+   "title": "Village Land Act",
+   "label": "Act 5 of 1999"
+  },
+  {
+   "work": "ord/1953/36",
+   "slug": "land-registration",
+   "short": "Land Registration Act",
+   "title": "Land Registration Act",
+   "label": "Ordinance 36 of 1953"
+  },
+  {
+   "work": "1963/9",
+   "slug": "probate-administration-estates",
+   "short": "Probate and Administration of Estates Act",
+   "title": "Probate and Administration of Estates Act",
+   "label": "Act 9 of 1963"
+  },
+  {
+   "work": "2017/1",
+   "slug": "legal-aid",
+   "short": "Legal Aid Act",
+   "title": "Legal Aid Act, 2017",
+   "label": "Act 1 of 2017"
+  },
+  {
+   "work": "2008/11",
+   "slug": "public-audit",
+   "short": "Public Audit Act",
+   "title": "Public Audit Act, 2008",
+   "label": "Act 11 of 2008"
+  },
+  {
+   "work": "2008/1",
+   "slug": "national-prosecutions-service",
+   "short": "National Prosecutions Service Act",
+   "title": "National Prosecutions Service Act, 2008",
+   "label": "Act 1 of 2008"
+  },
+  {
+   "work": "1985/7",
+   "slug": "ward-tribunals",
+   "short": "Ward Tribunals Act",
+   "title": "Ward Tribunals Act",
+   "label": "Act 7 of 1985"
+  }
+ ],
+ "decisions": [
+  "Part 60-batch2: acts chosen for their weight in everyday practice (evidence, contract, interpretation, land, land registration, succession, legal aid, public audit, prosecutions, ward tribunals) among the TanzLII acts whose current expression could be read with its text. An act whose newest page lists an amendment TanzLII has not yet applied was left out (for example the Criminal Procedure Act, the Magistrates' Courts Act and the Value Added Tax Act), because its last version would not be today's law; so were the Arbitration Act, 2020 and the Access to Information Act, 2016, whose History names the 2023 Revised Edition (31 December 2023) without a TanzLII version of it."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: parse.py, constitution.py and the shared peachjam.py are deterministic code."
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "part": "61-batch3",
+ "retrieved": "2026-10-29",
+ "lii": {
+  "name": "TanzLII",
+  "hosts": [
+   "tanzlii.org"
+  ],
+  "cc": "tz",
+  "path_prefixes": [
+   "",
+   "/en"
+  ],
+  "listing_prefix": "/en",
+  "listing": false
+ },
+ "cc_crawls": 16,
+ "common_crawl": true,
+ "wayback": true,
+ "country": {
+  "code": "TZ",
+  "name": "Tanzania",
+  "slug": "tanzania",
+  "lang": "en",
+  "tz": "Africa/Dar_es_Salaam",
+  "future_branch": "future",
+  "publisher": {
+   "name": "TanzLII",
+   "email": "tanzlii@tanzlii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by TanzLII's own expression date, the day the amendment it incorporates took effect (or the date a Revised Edition is as at) as Laws.Africa records it. No date is computed from a default rule.",
+   "source": "https://tanzlii.org/legislation/"
+  },
+  "licence_note": "Source: TanzLII (https://tanzlii.org), a project of the Judiciary of Tanzania, licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform)",
+   "url": "https://tanzlii.org",
+   "retrieved": "2026-10-29",
+   "requests": null,
+   "licence": "CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act in this part, /akn/tz/act/<year>/<num>/eng@<date> (ordinances /akn/tz/act/ord/...). Each version's source_url is the expression it was parsed from, and its sha256 is that of the page."
+  }
+ ],
+ "acts": [
+  {
+   "work": "1977/13",
+   "slug": "civil-aviation",
+   "short": "Civil Aviation Act",
+   "title": "Civil Aviation Act",
+   "label": "Act 13 of 1977"
+  },
+  {
+   "work": "2001/2",
+   "slug": "cotton-industry",
+   "short": "Cotton Industry Act",
+   "title": "Cotton Industry Act",
+   "label": "Act 2 of 2001"
+  },
+  {
+   "work": "2002/6",
+   "slug": "community-service",
+   "short": "Community Service Act",
+   "title": "Community Service Act, 2002",
+   "label": "Act 6 of 2002"
+  },
+  {
+   "work": "2013/5",
+   "slug": "national-irrigation",
+   "short": "National Irrigation Act",
+   "title": "National Irrigation Act, 2013",
+   "label": "Act 5 of 2013"
+  },
+  {
+   "work": "1965/15",
+   "slug": "extradition",
+   "short": "Extradition Act",
+   "title": "Extradition Act",
+   "label": "Act 15 of 1965"
+  },
+  {
+   "work": "2015/9",
+   "slug": "statistics",
+   "short": "Statistics Act",
+   "title": "Statistics Act",
+   "label": "Act 9 of 2015"
+  }
+ ],
+ "decisions": [
+  "Part 61-batch3: further TanzLII acts whose current expression, and every earlier expression TanzLII lists, could be read with its text, whose newest page lists no amendment TanzLII has not yet applied, and whose current expression is from the 2019 Revised Edition or later (acts known only at the 2002 Revised Edition were not taken, since a 2002 text cannot be taken as today's law without a check this part does not make).",
+  "Left out of part 61-batch3: the Land Acquisition Act, Inquests Act, Oil and Gas Revenues Management Act, Corporal Punishment Act, whose TanzLII History names the 2023 Revised Edition (31 December 2023) without a TanzLII version of it, so their newest TanzLII text (2019) is not today's."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: parse.py, constitution.py and the shared peachjam.py are deterministic code."
+ ]
+}

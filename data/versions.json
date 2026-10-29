@@ -1,0 +1,431 @@
+{
+ "country": "TZ",
+ "acts": [
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Penal Code",
+   "url": "https://tanzlii.org/akn/tz/act/ord/1930/11",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 435,
+     "source_url": "https://web.archive.org/web/20251209021003id_/https://tanzlii.org/en/akn/tz/act/ord/1930/11/eng@2019-11-30",
+     "sha256": "46dfa92ed4c624f94f4fea53ca8ac545b862dba68c2e496f7bc960b575947f17"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 435,
+     "source_url": "https://web.archive.org/web/20260420085852id_/https://tanzlii.org/en/akn/tz/act/ord/1930/11/eng@2023-12-31",
+     "sha256": "a7a3f8072479c99c63df3d47f3afbb1a8585cdee33596ae4d0c5c97703305f91"
+    }
+   ]
+  },
+  {
+   "slug": "law-of-marriage",
+   "short": "Law of Marriage Act",
+   "title": "Law of Marriage Act",
+   "url": "https://tanzlii.org/akn/tz/act/1971/5",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20250907145422id_/https://tanzlii.org/akn/tz/act/1971/5/eng@2019-11-30",
+     "sha256": "d70923a15d7d030d9a197454b1aefb8effd925456e0a8c02c9d185b2d963dfe6"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20260215180025id_/https://tanzlii.org/en/akn/tz/act/1971/5/eng@2023-12-31",
+     "sha256": "e6fd5bc05fd8a400dddde78f47f5abd88e6cb51da530c646df69c7e4720cf477"
+    }
+   ]
+  },
+  {
+   "slug": "law-of-the-child",
+   "short": "Law of the Child Act",
+   "title": "Law of the Child Act",
+   "url": "https://tanzlii.org/akn/tz/act/2009/21",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 198,
+     "source_url": "https://web.archive.org/web/20250805171423id_/https://tanzlii.org/akn/tz/act/2009/21/eng@2019-11-30",
+     "sha256": "a1d707a01ce770bb6d4ab03851320820f02f62ece307b2c12ca6d6ba9e3f4a76"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 196,
+     "source_url": "https://web.archive.org/web/20251107195442id_/https://tanzlii.org/en/akn/tz/act/2009/21/eng@2023-12-31",
+     "sha256": "6ade16f428b61265516c57ba5f7d3bc3867b8ab35c1e41bf57bd47ffc234c04c"
+    },
+    {
+     "from": "2024-10-11",
+     "units": 199,
+     "source_url": "https://web.archive.org/web/20251207042956id_/https://tanzlii.org/en/akn/tz/act/2009/21/eng@2024-10-11",
+     "sha256": "f51856583ffdbc21e0f8471355a8322c16df5835c8b94a953279c5b9f89f3c90"
+    }
+   ]
+  },
+  {
+   "slug": "judiciary-administration",
+   "short": "Judiciary Administration Act",
+   "title": "Judiciary Administration Act",
+   "url": "https://tanzlii.org/akn/tz/act/2011/4",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20250423212904id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2011-06-10",
+     "sha256": "8e8a5910d5e0b55bd6b1c170846dfda17973725616ef39b647ccff8e9cc141da"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20250318074827id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2015-07-01",
+     "sha256": "10a6e998d4b5039dd325fabb4ecc5dec6d27c55b144541d25188509f25ebfe0a"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20250423203546id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2016-07-01",
+     "sha256": "2c33a25b75ff982d9a61d4f4ecfcf68a920ecb6a919ee67dc4f720d643170b2e"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20250423203224id_/https://tanzlii.org/akn/tz/act/2011/4/eng@2020-06-19",
+     "sha256": "1f651309397bc5adfd66fe50de710f7ed55d3e03bbdc5f706931c2048d92bf4f"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20251211152528id_/https://tanzlii.org/en/akn/tz/act/2011/4/eng@2023-12-01",
+     "sha256": "0b2f8d119e11ab3d275a5705491230fdaf4abb74da66c8815fc417055f31ad44"
+    }
+   ]
+  },
+  {
+   "slug": "evidence",
+   "short": "Evidence Act",
+   "title": "Evidence Act",
+   "url": "https://tanzlii.org/akn/tz/act/1967/6",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 190,
+     "source_url": "https://tanzlii.org/akn/tz/act/1967/6/eng@2019-11-30",
+     "sha256": "104ccf0db724af9cdd5fb69f5c649dfcf7ee422bd0d595689530d010e799e387"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 190,
+     "source_url": "https://tanzlii.org/akn/tz/act/1967/6/eng@2023-12-31",
+     "sha256": "7c45f3384a6e1b65a2b3d54c4381efa1c753ba874622101decaadfa84a385e5b"
+    }
+   ]
+  },
+  {
+   "slug": "law-of-contract",
+   "short": "Law of Contract Act",
+   "title": "Law of Contract Act",
+   "url": "https://tanzlii.org/akn/tz/act/ord/1961/1",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 229,
+     "source_url": "https://tanzlii.org/akn/tz/act/ord/1961/1/eng@2019-11-30",
+     "sha256": "ffa9884c37eafffe59aab6eb24e6647f797f0f679190d98a3f0f37720406a468"
+    }
+   ]
+  },
+  {
+   "slug": "interpretation-of-laws",
+   "short": "Interpretation of Laws Act",
+   "title": "Interpretation of Laws Act",
+   "url": "https://tanzlii.org/akn/tz/act/1996/4",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 87,
+     "source_url": "https://tanzlii.org/akn/tz/act/1996/4/eng@2019-11-30",
+     "sha256": "0867319b18bded5af4b9009397976ae3d8b161ec1b481c081c62465d63c30f50"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 89,
+     "source_url": "https://tanzlii.org/akn/tz/act/1996/4/eng@2023-12-31",
+     "sha256": "0dafafe5712dc88ae8992fc3b09f34c3eb23c107998db7e81515059aa2e49d30"
+    }
+   ]
+  },
+  {
+   "slug": "land",
+   "short": "Land Act",
+   "title": "Land Act",
+   "url": "https://tanzlii.org/akn/tz/act/1999/4",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 196,
+     "source_url": "https://tanzlii.org/akn/tz/act/1999/4/eng@2019-11-30",
+     "sha256": "63d742c158d9e897f0c25df124f56c55566ddaaf088f1a1a15e5dad0ff74bf9c"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 198,
+     "source_url": "https://tanzlii.org/akn/tz/act/1999/4/eng@2024-07-01",
+     "sha256": "5f3072b178ba61107b42687a2396ec508f02b109de865c6ecf54cf038f425365"
+    },
+    {
+     "from": "2025-06-30",
+     "units": 198,
+     "source_url": "https://tanzlii.org/akn/tz/act/1999/4/eng@2025-06-30",
+     "sha256": "1d2b83245eb811c74a02761a53ceb8b01363ce359ad1d53420e929d9b1e02518"
+    }
+   ]
+  },
+  {
+   "slug": "village-land",
+   "short": "Village Land Act",
+   "title": "Village Land Act",
+   "url": "https://tanzlii.org/akn/tz/act/1999/5",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 67,
+     "source_url": "https://tanzlii.org/akn/tz/act/1999/5/eng@2019-11-30",
+     "sha256": "b3a55faefeb571521212b21666c905a2c9cf4f1ad3ff6a74d62be025ae8067bf"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 67,
+     "source_url": "https://tanzlii.org/akn/tz/act/1999/5/eng@2023-12-31",
+     "sha256": "d42acd464948faf37814cda6f61bf50a94f7e109de2c31e9f81bb7658596b0a2"
+    }
+   ]
+  },
+  {
+   "slug": "land-registration",
+   "short": "Land Registration Act",
+   "title": "Land Registration Act",
+   "url": "https://tanzlii.org/akn/tz/act/ord/1953/36",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 116,
+     "source_url": "https://tanzlii.org/akn/tz/act/ord/1953/36/eng@2002-07-31",
+     "sha256": "7cbad9985a9f23ffb8460f78c9d72fa47879debc831ccfb4113000416282e35f"
+    },
+    {
+     "from": "2019-11-30",
+     "units": 116,
+     "source_url": "https://tanzlii.org/akn/tz/act/ord/1953/36/eng@2019-11-30",
+     "sha256": "f2bdbaf4b91d921dfcb88ad95dce86f03a4d2003980efd12c2929d5c3fc793ae"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 117,
+     "source_url": "https://tanzlii.org/akn/tz/act/ord/1953/36/eng@2023-12-31",
+     "sha256": "5ce378ae44c2904d8e31273af514d01136f768fdc6ba6eb9b23148da4cfbe10e"
+    }
+   ]
+  },
+  {
+   "slug": "probate-administration-estates",
+   "short": "Probate and Administration of Estates Act",
+   "title": "Probate and Administration of Estates Act",
+   "url": "https://tanzlii.org/akn/tz/act/1963/9",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 174,
+     "source_url": "https://tanzlii.org/akn/tz/act/1963/9/eng@2002-07-31",
+     "sha256": "facb40426b7ecf448ebf040ef5ee869bc89d9b92e8e459f0b62d1cbb45841352"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 175,
+     "source_url": "https://tanzlii.org/akn/tz/act/1963/9/eng@2023-12-31",
+     "sha256": "2393d0787bdb7e55681e877918b4c39057109358b5c720fdf9a0effcd6341d44"
+    }
+   ]
+  },
+  {
+   "slug": "legal-aid",
+   "short": "Legal Aid Act",
+   "title": "Legal Aid Act, 2017",
+   "url": "https://tanzlii.org/akn/tz/act/2017/1",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 63,
+     "source_url": "https://tanzlii.org/akn/tz/act/2017/1/eng@2019-11-30",
+     "sha256": "5028f2c152bfdf83da7bdc4093a207d83d3a99e87f0a3c5eaa5a98037ffa0aa2"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 52,
+     "source_url": "https://tanzlii.org/akn/tz/act/2017/1/eng@2023-12-01",
+     "sha256": "b7cfd77a50b40ea5a2224c5b2ef0ba8bd9a97d7a2f5d9456d91880aa342767d2"
+    },
+    {
+     "from": "2024-10-11",
+     "units": 52,
+     "source_url": "https://tanzlii.org/akn/tz/act/2017/1/eng@2024-10-11",
+     "sha256": "000b4b59be3492a8cd9151e0ade99ee64fc21073108de4ea4f67a56829b67ebc"
+    }
+   ]
+  },
+  {
+   "slug": "public-audit",
+   "short": "Public Audit Act",
+   "title": "Public Audit Act, 2008",
+   "url": "https://tanzlii.org/akn/tz/act/2008/11",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 55,
+     "source_url": "https://tanzlii.org/akn/tz/act/2008/11/eng@2025-03-14",
+     "sha256": "99393fb192b90448cfe9b4f95ccc33ed168fba0500df76c002bfc43226607670"
+    }
+   ]
+  },
+  {
+   "slug": "national-prosecutions-service",
+   "short": "National Prosecutions Service Act",
+   "title": "National Prosecutions Service Act, 2008",
+   "url": "https://tanzlii.org/akn/tz/act/2008/1",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 37,
+     "source_url": "https://tanzlii.org/akn/tz/act/2008/1/eng@2019-11-30",
+     "sha256": "ec1ebfbc8da694a1d824d62e0c83187c3983779230c5ba70730212d608bd91c3"
+    },
+    {
+     "from": "2022-03-08",
+     "units": 37,
+     "source_url": "https://tanzlii.org/akn/tz/act/2008/1/eng@2022-03-08",
+     "sha256": "6d27eb5857e7b10e4dca97c8ed82e0597b00a5be58316f05e461046331413275"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 37,
+     "source_url": "https://tanzlii.org/akn/tz/act/2008/1/eng@2023-12-01",
+     "sha256": "41f98991fe7312166138352f57222266cd837ad02565eb7b080150d2902de1e0"
+    }
+   ]
+  },
+  {
+   "slug": "ward-tribunals",
+   "short": "Ward Tribunals Act",
+   "title": "Ward Tribunals Act",
+   "url": "https://tanzlii.org/akn/tz/act/1985/7",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 33,
+     "source_url": "https://tanzlii.org/akn/tz/act/1985/7/eng@2002-07-31",
+     "sha256": "f5574cf153ac78f888ead81b619bab9f4022d21a13288bed99bc64b457c9ad60"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 33,
+     "source_url": "https://tanzlii.org/akn/tz/act/1985/7/eng@2023-12-31",
+     "sha256": "14ea322a1abe79fab7cac6c0a927d1c4886496d8680e2541b3d36734d7e82a0d"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation",
+   "short": "Civil Aviation Act",
+   "title": "Civil Aviation Act",
+   "url": "https://tanzlii.org/akn/tz/act/1977/13",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 37,
+     "source_url": "https://tanzlii.org/akn/tz/act/1977/13/eng@2002-07-31",
+     "sha256": "fc270008c849ec06804e81d27b247014cb3d2362dcddc5f7e85c8d4e4d0a4198"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 87,
+     "source_url": "https://tanzlii.org/akn/tz/act/1977/13/eng@2023-12-31",
+     "sha256": "5d282d30a65ea070ebabefcffa96c178f934344336a8934ba6fba5848badae4b"
+    }
+   ]
+  },
+  {
+   "slug": "cotton-industry",
+   "short": "Cotton Industry Act",
+   "title": "Cotton Industry Act",
+   "url": "https://tanzlii.org/akn/tz/act/2001/2",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 63,
+     "source_url": "https://tanzlii.org/akn/tz/act/2001/2/eng@2025-03-14",
+     "sha256": "06709c5274105f27fcf0f9d37e7edf5ec5909404b4dd93851b803481c7b3cddf"
+    }
+   ]
+  },
+  {
+   "slug": "community-service",
+   "short": "Community Service Act",
+   "title": "Community Service Act, 2002",
+   "url": "https://tanzlii.org/akn/tz/act/2002/6",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 19,
+     "source_url": "https://tanzlii.org/akn/tz/act/2002/6/eng@2025-03-14",
+     "sha256": "a1a60c4080a6d0a2ba78933c584c544d15b120e1638abcceb7a4039182326a0f"
+    }
+   ]
+  },
+  {
+   "slug": "national-irrigation",
+   "short": "National Irrigation Act",
+   "title": "National Irrigation Act, 2013",
+   "url": "https://tanzlii.org/akn/tz/act/2013/5",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 77,
+     "source_url": "https://tanzlii.org/akn/tz/act/2013/5/eng@2025-03-14",
+     "sha256": "91bd5f330cff0b073d9f3ed1358c33da9b6eae44b6a93ab2a6fa7fb246f5d8fd"
+    }
+   ]
+  },
+  {
+   "slug": "extradition",
+   "short": "Extradition Act",
+   "title": "Extradition Act",
+   "url": "https://tanzlii.org/akn/tz/act/1965/15",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 35,
+     "source_url": "https://tanzlii.org/akn/tz/act/1965/15/eng@2019-11-30",
+     "sha256": "0442796d4c6a6498e66a21b0d13eadca9da5a2639f9f8fcb658d9d0326f02b66"
+    }
+   ]
+  },
+  {
+   "slug": "statistics",
+   "short": "Statistics Act",
+   "title": "Statistics Act",
+   "url": "https://tanzlii.org/akn/tz/act/2015/9",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 62,
+     "source_url": "https://tanzlii.org/akn/tz/act/2015/9/eng@2019-11-30",
+     "sha256": "f69f314accb1be218d19402615c3ca2d0b46e75aa9ce3e66a70e2e53d249bcac"
+    }
+   ]
+  }
+ ]
+}
