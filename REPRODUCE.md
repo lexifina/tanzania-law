@@ -9,6 +9,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-28 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 | Internet Archive Wayback Machine | <https://web.archive.org> | 2026-10-28 | Archived copies of TanzLII pages; the content licence is TanzLII's |
 | Parliament of Tanzania (Bunge la Tanzania): Acts list | <https://polis.bunge.go.tz/> | 2026-11-03 | Parliament of Tanzania website; no licence or terms of use stated. Copyright Act, 1999 (Cap. 218), section 7: no copyright in the text of laws. |
+| Parliament of Tanzania (Bunge la Tanzania): Acts list | <https://polis.bunge.go.tz/> | 2026-11-03 | Parliament of Tanzania website; no licence or terms of use stated. Copyright Act, 1999 (Cap. 218), section 7: no copyright in the text of laws. |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 
@@ -93,6 +94,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-2025-004` | The Labour Laws (Amendments) Act, 2025 (No. 4 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
 | `act-2025-005` | The Environmental Management (Amendment) Act, 2025 (No. 5 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
 | `act-2025-007` | The Supplementary Appropriation (For Finance Year 2024/2025) Act, 2025 (No. 7 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
+| `act-2021-008` | The Fire and Rescue Force (Amendment) Act, 2021 (No. 8 of 2021) | 1 | 2021-09-28 to 2021-09-28 |
+| `act-2022-001` | The Written laws (Miscellaneous Amendments) (no. 7) Act, 2022 (No. 1 of 2022) | 1 | 2022-02-23 to 2022-02-23 |
+| `act-2023-003` | Sheria ya Tume ya Mipango wa Mwaka, 2023 (No. 3 of 2023) | 1 | 2023-07-05 to 2023-07-05 |
+| `act-2026-003` | The Agricultural Laws (Amendments) Act, 2026 (No. 3 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
+| `act-2026-004` | Sheria ya Kufuta Sheria ya Tasnia ya Pareto ya Mwaka 2026 (No. 4 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
+| `act-2026-005` | Sheria ya Mikopo kwa Dhamana za Mali zinazohamishika ya Mwaka 2026 (No. 5 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
+| `act-2026-006` | The Written Laws (Miscellaneous Amendments) Act, 2026 (No. 6 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
+| `act-2026-007` | The Written Laws (Miscellaneous Amendments) (No. 2) Act, 2026 (No. 7 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
 | `evidence` | Evidence Act | 2 | 2019-11-30 to 2023-12-31 |
 | `law-of-contract` | Law of Contract Act | 1 | 2019-11-30 to 2019-11-30 |
 | `interpretation-of-laws` | Interpretation of Laws Act | 2 | 2019-11-30 to 2023-12-31 |
@@ -111,19 +120,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `extradition` | Extradition Act | 1 | 2019-11-30 to 2019-11-30 |
 | `statistics` | Statistics Act | 1 | 2019-11-30 to 2019-11-30 |
 
-The build made 123 commits:
+The build made 131 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 92 | first version of an act |
+| 100 | first version of an act |
 | 19 | one law on its in-force day |
 | 12 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 125 laws in the record.
-- 199 tags.
+- 130 laws in the record.
+- 213 tags.
 
 ## Dates
 
@@ -135,7 +144,7 @@ When a law gives no date of its own, the default rule applies: Not applied: ever
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e5ea3ec136cbc9a78f55d249960abe46641b01a13384df87433677ca7c2a95ed` (6579543 bytes).
+- Corpus: sha256 `3df0058473450389c0eed7e36565367bc520766be0875c1dd6df8ee4f1f58701` (6848920 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -155,6 +164,9 @@ No second build of this corpus has been compared yet.
 - Law of Marriage Act: the LII lists expression(s) 2022-07-15, but the Internet Archive holds no copy, so their changes appear in the next version that is archived.
 - Judiciary Administration Act: the first version is dated 2012-03-01, the commencement date TanzLII states ("Commenced on 1 March 2012 by Judiciary Administration Act (Date of Commencement) Order, 2012"), not 2011-06-10, the date of its expression (Gazette publication).
 - Held back from this history (kept on the preview branch only, until each can be verified): Employment and Labour Relations Act: TanzLII's listing names 2025-03-14 as current, an expression the Internet Archive does not hold; the newest archived one is 2023-12-31. Civil Procedure Code: TanzLII's listing names 2021-10-22 as current, older than the newest archived expression (2024-10-04), so which text is current cannot be confirmed. Basic Rights and Duties Enforcement Act: TanzLII's listing names 2023-12-31 as current, older than the newest archived expression (2025-03-14), and 2023-12-31 is not archived.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as passed, dated by the date printed in square brackets under its long title. Later amendments are not replayed: an Act amended since shows its original wording from that day, and each amending Act is its own folder.
+- Acts of Parliament: the text is the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz); scanned copies without a text layer are left out (no OCR).
+- Acts of Parliament: read by the shared reader Lexifina's code (config TZ): "N." opens a section, the marginal note beside it is its title; Part headings above a section, page numbers and running heads are left out; every other word from "AN ACT" to the end of the Act is in a file, checked letter for letter; an Act whose sections are not numbered 1..N without a gap is left out.
 - Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as passed, dated by the date printed in square brackets under its long title. Later amendments are not replayed: an Act amended since shows its original wording from that day, and each amending Act is its own folder.
 - Acts of Parliament: the text is the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz); scanned copies without a text layer are left out (no OCR).
 - Acts of Parliament: read by the shared reader Lexifina's code (config TZ): "N." opens a section, the marginal note beside it is its title; Part headings above a section, page numbers and running heads are left out; every other word from "AN ACT" to the end of the Act is in a file, checked letter for letter; an Act whose sections are not numbered 1..N without a gap is left out.
@@ -187,6 +199,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and code and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code and the shared Lexifina's code are deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code and the shared Lexifina's code are deterministic code.
