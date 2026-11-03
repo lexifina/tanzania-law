@@ -18,6 +18,14 @@ line; spacing, quotes and dashes were normalised; editorial notes, Part and Chap
 and the versions were arranged as git commits credited to the laws TanzLII names for each change.
 The wording of the law was not changed. Neither TanzLII nor Laws.Africa endorses this repository.
 
+<!-- acts:start -->
+Acts of Parliament in the folders act-YYYY-NNN/: copies of Acts of the Parliament of the United Republic of
+Tanzania as passed, from the Parliament of Tanzania's Acts list (https://polis.bunge.go.tz/), retrieved 2026-11-03.
+The site states no licence or terms of use. The Copyright and Neighbouring Rights Act (Cap. 218), section 7, gives
+no protection to laws. The texts are reproduced without change to their wording. Neither the Parliament of
+Tanzania nor the Government Printer endorses this repository.
+<!-- acts:end -->
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode

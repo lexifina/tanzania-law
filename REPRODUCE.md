@@ -1,6 +1,6 @@
 # How this repository was made (Tanzania)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | --- | --- | --- | --- |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-28 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 | Internet Archive Wayback Machine | <https://web.archive.org> | 2026-10-28 | Archived copies of TanzLII pages; the content licence is TanzLII's |
+| Parliament of Tanzania (Bunge la Tanzania): Acts list | <https://polis.bunge.go.tz/> | 2026-11-03 | Parliament of Tanzania website; no licence or terms of use stated. Copyright Act, 1999 (Cap. 218), section 7: no copyright in the text of laws. |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 
@@ -21,6 +22,77 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `law-of-marriage` | Law of Marriage Act | 2 | 2019-11-30 to 2023-12-31 |
 | `law-of-the-child` | Law of the Child Act | 3 | 2019-11-30 to 2024-10-11 |
 | `judiciary-administration` | Judiciary Administration Act | 5 | 2012-03-01 to 2023-12-01 |
+| `act-2015-001` | The Non-Citizens (Employment Regulation) Act, 2015 (No. 1 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-002` | The Firearms and Ammunition Control, 2015 (No. 2 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-003` | The Warehouse Receipt (Amendment) Act, 2015 (No. 3 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-004` | The National Payment System Act, 2015 (No. 4 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-006` | The Tanzania Commission for AIDS (Amendment) Act, 2015 (No. 6 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-009` | The Statistics Act, 2015 (No. 9 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-018` | The Tanzania Postal Bank (Repeal and Transitional Provisions) Act, 2015 (No. 18 of 2015) | 1 | 2015-08-04 to 2015-08-04 |
+| `act-2015-020` | The Whistleblower and Witness Protection Act, 2015 (No. 20 of 2015) | 1 | 2015-08-04 to 2015-08-04 |
+| `act-2015-022` | The Oil and Gas Revenue Management Act, 2015 (No. 22 of 2015) | 1 | 2015-08-04 to 2015-08-04 |
+| `act-2015-024` | The Employment and Labour Laws (Miscellaneous Amendments) Act, 2015 (No. 24 of 2015) | 1 | 2015-08-04 to 2015-08-04 |
+| `act-2016-001` | Appropriation Act, 2016 (No. 1 of 2016) | 1 | 2016-06-30 to 2016-06-30 |
+| `act-2016-005` | The Public Procurement (Amendment) Act, 2016 (No. 5 of 2016) | 1 | 2016-07-07 to 2016-07-07 |
+| `act-2016-009` | Access to Information Act, 2016 (No. 9 of 2016) | 1 | 2016-09-23 to 2016-09-23 |
+| `act-2016-010` | The Valuation and Valuers Registration Act, 2016 (No. 10 of 2016) | 1 | 2016-09-23 to 2016-09-23 |
+| `act-2016-011` | The Government Chemistry Laboratory Authority, 2016 (No. 11 of 2016) | 1 | 2016-09-23 to 2016-09-23 |
+| `act-2016-012` | The Chemist Professionals Act, 2016 (No. 12 of 2016) | 1 | 2016-09-23 to 2016-09-23 |
+| `act-2016-013` | The Tanzania Agricultural Research Institute Act, 2016 (No. 13 of 2016) | 1 | 2016-09-23 to 2016-09-23 |
+| `act-2016-014` | The Tanzania Fisheries Research Institute Act, 2016 (No. 14 of 2016) | 1 | 2016-09-23 to 2016-09-23 |
+| `act-2016-015` | The Media Service Act, 2016 (No. 15 of 2016) | 1 | 2016-11-16 to 2016-11-16 |
+| `act-2017-001` | The Legal Aid Act, 2017 (No. 1 of 2017) | 1 | 2017-02-21 to 2017-02-21 |
+| `act-2017-002` | The Written Laws (MIscellaneous Ammendments) Act, 2017 (No. 2 of 2017) | 1 | 2017-02-21 to 2017-02-21 |
+| `act-2017-003` | The Appropriation Act, 2017 (No. 3 of 2017) | 1 | 2017-06-30 to 2017-06-30 |
+| `act-2017-008` | The Written Laws (Miscellaneous Amendments) (No. 2) Act, 2017 (No. 8 of 2017) | 1 | 2017-07-05 to 2017-07-05 |
+| `act-2017-009` | The Written Laws (Miscellaneous Amendments) (No.3) Act, 2017 (No. 9 of 2017) | 1 | 2017-10-08 to 2017-10-08 |
+| `act-2017-011` | The Medical, Dental and Allied Health Professionals Act, 2017 (No. 11 of 2017) | 1 | 2017-10-08 to 2017-10-08 |
+| `act-2017-012` | The Tanzania Telecommunications Corporation Act, 2017 (No. 12 of 2017) | 1 | 2017-11-28 to 2017-11-28 |
+| `act-2017-013` | The Written Laws (Miscellaneous Amendments) (No.4) Act, 2017 (No. 13 of 2017) | 1 | 2017-11-28 to 2017-11-28 |
+| `act-2017-014` | The Tanzania Shipping Agencies Act, 2017 (No. 14 of 2017) | 1 | 2017-11-28 to 2017-11-28 |
+| `act-2018-001` | The Written Laws (Miscellaneous Amendments) Act, 2018 (No. 1 of 2018) | 1 | 2018-02-08 to 2018-02-08 |
+| `act-2018-003` | The Appropriation Act, 2018 (No. 3 of 2018) | 1 | 2018-06-30 to 2018-06-30 |
+| `act-2018-006` | The Tanzania Teachers’ Professional Board Act, 2018 (No. 6 of 2018) | 1 | 2018-09-24 to 2018-09-24 |
+| `act-2018-007` | The Written Laws (Miscellaneous Amendments) (No.2) Act, 2018 (No. 7 of 2018) | 1 | 2018-09-24 to 2018-09-24 |
+| `act-2018-008` | The Written Laws (Miscellaneous Amendments) (No.3) Act, 2018 (No. 8 of 2018) | 1 | 2018-09-24 to 2018-09-24 |
+| `act-2018-009` | The Public Private Partnership (Amendment) Act, 2018 (No. 9 of 2018) | 1 | 2018-09-24 to 2018-09-24 |
+| `act-2018-010` | The Microfinance Act, 2018 (No. 10 of 2018) | 1 | 2018-11-21 to 2018-11-21 |
+| `act-2019-001` | The Political Parties (Amendments) Act, 2019 (No. 1 of 2019) | 1 | 2019-02-13 to 2019-02-13 |
+| `act-2019-002` | The Tanzania Meteorological Authority Act, 2019 (No. 2 of 2019) | 1 | 2019-02-13 to 2019-02-13 |
+| `act-2019-004` | The Written Laws (Miscellaneous Amendments) (No.4) Act, 2019 (No. 4 of 2019) | 1 | 2019-02-13 to 2019-02-13 |
+| `act-2019-006` | The Written Laws (Miscellaneous Amendments) (No.2) Act, 2019 (No. 6 of 2019) | 1 | 2019-02-13 to 2019-02-13 |
+| `act-2019-007` | The Appropriation Act, 2019 (No. 7 of 2019) | 1 | 2019-06-30 to 2019-06-30 |
+| `act-2020-001` | The Written Laws (Miscellaneous Amendments) Act No. 1 of 2020 (No. 1 of 2020) | 1 | 2020-02-14 to 2020-02-14 |
+| `act-2020-002` | The Arbitration Act, 2020 (No. 2 of 2020) | 1 | 2020-02-14 to 2020-02-14 |
+| `act-2020-004` | The Plant Health Act, 2020 (No. 4 of 2020) | 1 | 2020-06-15 to 2020-06-15 |
+| `act-2020-005` | The Deep Sea Fisheries Management and Development Act, 2020 (No. 5 of 2020) | 1 | 2020-06-15 to 2020-06-15 |
+| `act-2020-007` | The Appropriation Act, 2020 (No. 7 of 2020) | 1 | 2020-06-15 to 2020-06-15 |
+| `act-2021-001` | The Written Laws (Miscellaneous Amendments) Act, 2021 (No. 1 of 2021) | 1 | 2021-04-15 to 2021-04-15 |
+| `act-2021-002` | The Appropriation Act, 2021 (No. 2 of 2021) | 1 | 2021-06-30 to 2021-06-30 |
+| `act-2021-006` | The Written Laws (Miscellaneous Amendments) (no. 4) Act, 2021 (No. 6 of 2021) | 1 | 2021-09-28 to 2021-09-28 |
+| `act-2021-007` | The Accountants and Auditors (Registration) (Amendments) Act, 2021 (No. 7 of 2021) | 1 | 2021-09-28 to 2021-09-28 |
+| `act-2022-003` | The Supplementary Appropriation (For Financial Year 2021/22) Act, 2022 (No. 3 of 2022) | 1 | 2022-02-23 to 2022-02-23 |
+| `act-2022-007` | The Written Laws (Miscellaneous Amendments) (No. 2) Act, 2022 (No. 7 of 2022) | 1 | 2022-09-30 to 2022-09-30 |
+| `act-2022-008` | The Water Resources Management (Amendment) Act, 2022 (No. 8 of 2022) | 1 | 2022-09-30 to 2022-09-30 |
+| `act-2022-009` | The Written Laws (Financial Provisions) (Amendment) Act, 2022 (No. 9 of 2022) | 1 | 2022-09-30 to 2022-09-30 |
+| `act-2023-006` | The Public Private Partnership (Amendment) Act 2023 (No. 6 of 2023) | 1 | 2023-07-05 to 2023-07-05 |
+| `act-2023-008` | The Written Laws (Miscellaneous Amendments) (No. 2) Act, 2023 (No. 8 of 2023) | 1 | 2023-09-29 to 2023-09-29 |
+| `act-2023-009` | The Written Laws (Miscellaneous Amendments) (No. 3) Act, 2023 (No. 9 of 2023) | 1 | 2023-09-29 to 2023-09-29 |
+| `act-2024-001` | Sheria ya Uchaguzi wa Rais, Wabunge na Madiwani ya Mwaka 2024 (No. 1 of 2024) | 1 | 2024-03-07 to 2024-03-07 |
+| `act-2024-002` | Sheria ya Tume Huru ya Taifa ya Uchaguzi ya Mwaka 2024 (No. 2 of 2024) | 1 | 2024-03-07 to 2024-03-07 |
+| `act-2024-003` | The Political Affairs Laws (Amendment) Act, 2024 (No. 3 of 2024) | 1 | 2024-03-07 to 2024-03-07 |
+| `act-2024-007` | Sheria ya Marekebisho ya Sheria ya Shule ya Sheria Tanzania Na. 7 ya Mwaka 2024 (No. 7 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2024-009` | Sheria ya Marekebisho ya Sheria za Hifadhi ya Jamii Na. 9 ya Mwaka 2024 (No. 9 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2024-010` | The Child Protection Laws (Miscellaneous Amendments) Act, 2024 (No. 10 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2024-011` | Sheria ya Marekebisho ya Sheria ya Kuzuia na Kupambana na Rushwa Na. 11 ya Mwaka 2024 (No. 11 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2024-012` | Sheria ya Marekebisho ya Sheria Mbalimbali Na. 12 ya Mwaka 2024 (No. 12 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2024-013` | Sheria ya Marekebisho ya Sheria ya Ushindani Na. 13 ya Mwaka 2024 (No. 13 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2024-014` | Sheria ya Marekebisho ya Sheria Mbalimbali Na. 2 Sheria Na. 14 ya Mwaka 2024 (No. 14 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2025-001` | The Written Laws (Miscellaneous Amendments) Act, 2025 (No. 1 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
+| `act-2025-002` | The Written Laws (Miscellaneous Amendments) (No. 2) Act, 2025 (No. 2 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
+| `act-2025-004` | The Labour Laws (Amendments) Act, 2025 (No. 4 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
+| `act-2025-005` | The Environmental Management (Amendment) Act, 2025 (No. 5 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
+| `act-2025-007` | The Supplementary Appropriation (For Finance Year 2024/2025) Act, 2025 (No. 7 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
 | `evidence` | Evidence Act | 2 | 2019-11-30 to 2023-12-31 |
 | `law-of-contract` | Law of Contract Act | 1 | 2019-11-30 to 2019-11-30 |
 | `interpretation-of-laws` | Interpretation of Laws Act | 2 | 2019-11-30 to 2023-12-31 |
@@ -39,19 +111,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `extradition` | Extradition Act | 1 | 2019-11-30 to 2019-11-30 |
 | `statistics` | Statistics Act | 1 | 2019-11-30 to 2019-11-30 |
 
-The build made 52 commits:
+The build made 123 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 21 | first version of an act |
+| 92 | first version of an act |
 | 19 | one law on its in-force day |
 | 12 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 65 laws in the record.
-- 61 tags.
+- 125 laws in the record.
+- 199 tags.
 
 ## Dates
 
@@ -63,13 +135,13 @@ When a law gives no date of its own, the default rule applies: Not applied: ever
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ab48fb496bb5831e9e9e0e3c13e397ca5a4cc14baca2a6b92cc4e728de716be1` (4049104 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `e5ea3ec136cbc9a78f55d249960abe46641b01a13384df87433677ca7c2a95ed` (6579543 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-43 versions of 21 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -83,6 +155,9 @@ No second build of this corpus has been compared yet.
 - Law of Marriage Act: the LII lists expression(s) 2022-07-15, but the Internet Archive holds no copy, so their changes appear in the next version that is archived.
 - Judiciary Administration Act: the first version is dated 2012-03-01, the commencement date TanzLII states ("Commenced on 1 March 2012 by Judiciary Administration Act (Date of Commencement) Order, 2012"), not 2011-06-10, the date of its expression (Gazette publication).
 - Held back from this history (kept on the preview branch only, until each can be verified): Employment and Labour Relations Act: TanzLII's listing names 2025-03-14 as current, an expression the Internet Archive does not hold; the newest archived one is 2023-12-31. Civil Procedure Code: TanzLII's listing names 2021-10-22 as current, older than the newest archived expression (2024-10-04), so which text is current cannot be confirmed. Basic Rights and Duties Enforcement Act: TanzLII's listing names 2023-12-31 as current, older than the newest archived expression (2025-03-14), and 2023-12-31 is not archived.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as passed, dated by the date printed in square brackets under its long title. Later amendments are not replayed: an Act amended since shows its original wording from that day, and each amending Act is its own folder.
+- Acts of Parliament: the text is the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz); scanned copies without a text layer are left out (no OCR).
+- Acts of Parliament: read by the shared reader Lexifina's code (config TZ): "N." opens a section, the marginal note beside it is its title; Part headings above a section, page numbers and running heads are left out; every other word from "AN ACT" to the end of the Act is in a file, checked letter for letter; an Act whose sections are not numbered 1..N without a gap is left out.
 - Part 60-batch2: acts chosen for their weight in everyday practice (evidence, contract, interpretation, land, land registration, succession, legal aid, public audit, prosecutions, ward tribunals) among the TanzLII acts whose current expression could be read with its text. An act whose newest page lists an amendment TanzLII has not yet applied was left out (for example the Criminal Procedure Act, the Magistrates' Courts Act and the Value Added Tax Act), because its last version would not be today's law; so were the Arbitration Act, 2020 and the Access to Information Act, 2016, whose History names the 2023 Revised Edition (31 December 2023) without a TanzLII version of it.
 - Version dates are TanzLII's expression dates. Laws.Africa's terminology guide (https://docs.laws.africa/getting-started/terminology-guide) says "Amendments to Principal works come into force on the Commencement date of the Amending work" and that the first point in time is "the work as originally published"; so an amendment's expression is dated by its commencement (in force), and an act's original expression by its publication, which is replaced by the commencement date the page states.
 - Credits: a version whose History names exactly one amending law (and no consolidation) between it and the previous version is credited to that law for every provision that changed. Otherwise a provision is credited only to laws that TanzLII's editorial note inside that provision links to; the rest are unexplained (publisher).
@@ -112,5 +187,6 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and code and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code and the shared Lexifina's code are deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code and the shared Lexifina's code are deterministic code.
