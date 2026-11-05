@@ -9,7 +9,7 @@ parse_one(e) -> (act | None, (key, law) | None, report). Same output shape as ac
   President's name and the date stamped on the assent page ("JOHN POMBE JOSEPH MAGUFULI / 19th September, 2019").
   An Act whose copy prints no assent date is left out (the "Passed by the National Assembly" date is not used).
 - sections: 1..N with no gap, every bold numbered line read, every body word in a unit (the reader's gate), AND
-  either the last section = the highest number in the Arrangement of Sections, or (an Act with only an Arrangement
+  either the sections read (with their letters, "4A") are exactly those the Arrangement of Sections lists, or (an Act with only an Arrangement
   of Parts, e.g. a Finance Act) the Parts the Arrangement lists are the PART headings of the body, in order, with no
   extra or missing Part.
 - Kiswahili Acts with a Schedule (JEDWALI) are kept, the schedule as text (schedule-NN units).
@@ -29,7 +29,7 @@ import tz_cl_parse as T  # noqa: E402
 import acts_tz as A  # noqa: E402  (catalogue, cache paths, configs, date parser; its reader is replaced below)
 
 A.P = T
-VERSION = 'tz_gates 2026-11-05.1'
+VERSION = 'tz_gates 2026-11-05.2'
 MIN_YEAR = 2000
 
 TZ = dict(A.TZ, start=A.TZ['start'] + r'|^PREAMBLE\b')
@@ -50,6 +50,15 @@ def roman(s: str) -> int:
 def head_text(text: str) -> str:
     m = HEAD_END.search(text)
     return text[:m.start()] if m else ''
+
+
+def toc_keys(text: str) -> set[str]:
+    """Every section number the Arrangement of Sections lists, with its letter ("4A")."""
+    head = head_text(text)
+    m = re.search(r'ARRANGEMENT\s+OF\s+SECTIONS?(?![A-Z])|MPANGILIO\s+WA\s+VIFUNGU', head)
+    if not m:
+        return set()
+    return {a + b for a, b in re.findall(r'(?m)^\s*(\d{1,3})([A-Z]{0,2})\s*\.', head[m.end():])}
 
 
 def toc_last(text: str) -> int:
@@ -127,6 +136,7 @@ def parse_one(e: dict):
         return None, None, {'ok': False, 'why': [f'date {start} far from the Act year {e["year"]}']}
     toc = toc_last(text)
     parts_note = None
+    tkeys = toc_keys(text)
     if not toc:
         ok, parts_note = parts_match(text)
         if not ok:
@@ -141,11 +151,13 @@ def parse_one(e: dict):
             return None, None, {'ok': False, 'why': [f'reader error {type(ex).__name__}: {ex}'[:160]]}
         nums = [int(re.match(r'\d+', k[4:]).group()) for k in units if k.startswith('sec-')]
         contiguous = bool(nums) and sorted(set(nums)) == list(range(1, max(nums) + 1))
-        if rep['ok'] and contiguous and (max(nums) == toc if toc else True):
+        keys = {k[4:].lstrip('0').upper() for k in units if k.startswith('sec-')}
+        if rep['ok'] and contiguous and (max(nums) == toc and keys == tkeys if toc else True):
             break
         if rep['ok']:
             rep['ok'] = False
-            rep['why'].append(f'sections read {max(nums) if nums else 0}, arrangement lists {toc}' if toc else
+            rep['why'].append(f'sections read {sorted(keys ^ tkeys)[:8]} differ from the arrangement (last {toc})'
+                              if toc else
                               'sections not numbered 1..N without a gap')
     if not rep['ok']:
         return None, None, rep

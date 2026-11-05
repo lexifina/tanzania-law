@@ -1,6 +1,6 @@
 # How this repository was made (Tanzania)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -10,6 +10,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Internet Archive Wayback Machine | <https://web.archive.org> | 2026-10-28 | Archived copies of TanzLII pages; the content licence is TanzLII's |
 | Parliament of Tanzania (Bunge la Tanzania): Acts list | <https://polis.bunge.go.tz/> | 2026-11-03 | Parliament of Tanzania website; no licence or terms of use stated. Copyright Act, 1999 (Cap. 218), section 7: no copyright in the text of laws. |
 | Parliament of Tanzania (Bunge la Tanzania): Acts list | <https://polis.bunge.go.tz/> | 2026-11-03 | Parliament of Tanzania website; no licence or terms of use stated. Copyright Act, 1999 (Cap. 218), section 7: no copyright in the text of laws. |
+| Parliament of Tanzania (Bunge la Tanzania): Acts list | <https://polis.bunge.go.tz/> | 2026-11-05 | Parliament of Tanzania website; no licence or terms of use stated. Copyright Act, 1999 (Cap. 218), section 7: no copyright in the text of laws. |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 | TanzLII (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | <https://tanzlii.org> | 2026-10-29 | CC BY-NC 4.0, crediting TanzLII as the source (https://tanzlii.org/terms-of-use/) |
 
@@ -102,6 +103,34 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-2026-005` | Sheria ya Mikopo kwa Dhamana za Mali zinazohamishika ya Mwaka 2026 (No. 5 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
 | `act-2026-006` | The Written Laws (Miscellaneous Amendments) Act, 2026 (No. 6 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
 | `act-2026-007` | The Written Laws (Miscellaneous Amendments) (No. 2) Act, 2026 (No. 7 of 2026) | 1 | 2026-09-19 to 2026-09-19 |
+| `act-2015-012` | The National Youth Council Act, 2015 (No. 12 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-013` | The Electronic Transactios Act, 2015 (No. 13 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-014` | The Cybercrimes Act, 2015 (No. 14 of 2015) | 1 | 2015-04-25 to 2015-04-25 |
+| `act-2015-015` | The Appropriation Act, 2015 (No. 15 of 2015) | 1 | 2015-06-28 to 2015-06-28 |
+| `act-2015-016` | The Finance Act, 2015 (No. 16 of 2015) | 1 | 2015-06-28 to 2015-06-28 |
+| `act-2015-017` | The One Stop Border Posts Act, 2015 (No. 17 of 2015) | 1 | 2015-08-04 to 2015-08-04 |
+| `act-2015-019` | The Commodity Exchange Act, 2015 (No. 19 of 2015) | 1 | 2015-08-04 to 2015-08-04 |
+| `act-2016-016` | The Written Laws (Miscellaneous Amendments) No. 3) Act, 2016 (No. 16 of 2016) | 1 | 2016-11-16 to 2016-11-16 |
+| `act-2017-004` | The Finance Act, 2017 (No. 4 of 2017) | 1 | 2017-06-30 to 2017-06-30 |
+| `act-2017-005` | The Natural Wealth and Resources (Permanent Sovereignty) Act, 2017 (No. 5 of 2017) | 1 | 2017-07-05 to 2017-07-05 |
+| `act-2017-006` | The Natural Wealth and Resources Contracts (Review and Re-Negotiation of Unconscionable Terms) Act, 2017 (No. 6 of 2017) | 1 | 2017-07-05 to 2017-07-05 |
+| `act-2018-002` | The Public Service Social Security Fund Act, 2018 (No. 2 of 2018) | 1 | 2018-02-08 to 2018-02-08 |
+| `act-2018-004` | The Finance Act, 2018 (No. 4 of 2018) | 1 | 2018-06-30 to 2018-06-30 |
+| `act-2018-005` | The Dodoma Capital City (Declaration) Act, 2018 (No. 5 of 2018) | 1 | 2018-09-24 to 2018-09-24 |
+| `act-2019-003` | The Land Transport Regulatory Authority Act, 2019 (No. 3 of 2019) | 1 | 2019-02-13 to 2019-02-13 |
+| `act-2019-005` | The Water Supply and Sanitation Act, 2019 (No. 5 of 2019) | 1 | 2019-02-13 to 2019-02-13 |
+| `act-2019-008` | The Finance Act, 2019 (No. 8 of 2019) | 1 | 2019-06-30 to 2019-06-30 |
+| `act-2019-010` | The e-Government Act, 2019 (No. 10 of 2019) | 1 | 2019-09-19 to 2019-09-19 |
+| `act-2019-013` | The Written Laws (Miscellaneous Amendments) (No. 6), Act, 2019 (No. 13 of 2019) | 1 | 2019-09-19 to 2019-09-19 |
+| `act-2019-014` | The Written Laws (Miscellaneous Amendments) (No.7) Act, 2019 (No. 14 of 2019) | 1 | 2019-11-19 to 2019-11-19 |
+| `act-2020-008` | The Finance Act, 2020 (No. 8 of 2020) | 1 | 2020-06-15 to 2020-06-15 |
+| `act-2021-005` | The Written Laws (Miscellaneous Amendments) (no. 3) Act, 2021 (No. 5 of 2021) | 1 | 2021-09-28 to 2021-09-28 |
+| `act-2022-002` | The Anti-Money Laundering (Amendment) Act, 2022 (No. 2 of 2022) | 1 | 2022-02-23 to 2022-02-23 |
+| `act-2022-006` | Sheria ya Usimamizi wa Maafa, 2022 (No. 6 of 2022) | 1 | 2022-09-30 to 2022-09-30 |
+| `act-2023-010` | Sheria ya Ununuzi wa Umma ya Mwaka 2023 (No. 10 of 2023) | 1 | 2023-09-29 to 2023-09-29 |
+| `act-2024-004` | The Written Laws (Miscellaneous Amendments) Act (No.4), 2024 (No. 4 of 2024) | 1 | 2024-03-07 to 2024-03-07 |
+| `act-2024-008` | Sheria ya Viwanja vya Ndege Tanzania Na. 8 ya Mwaka 2024 (No. 8 of 2024) | 1 | 2024-10-02 to 2024-10-02 |
+| `act-2025-003` | Sheria ya Shirika la Utangazaji Tanzania ya Mwaka 2025 (No. 3 of 2025) | 1 | 2025-03-04 to 2025-03-04 |
 | `evidence` | Evidence Act | 2 | 2019-11-30 to 2023-12-31 |
 | `law-of-contract` | Law of Contract Act | 1 | 2019-11-30 to 2019-11-30 |
 | `interpretation-of-laws` | Interpretation of Laws Act | 2 | 2019-11-30 to 2023-12-31 |
@@ -120,19 +149,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `extradition` | Extradition Act | 1 | 2019-11-30 to 2019-11-30 |
 | `statistics` | Statistics Act | 1 | 2019-11-30 to 2019-11-30 |
 
-The build made 131 commits:
+The build made 159 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 100 | first version of an act |
+| 128 | first version of an act |
 | 19 | one law on its in-force day |
 | 12 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 130 laws in the record.
-- 213 tags.
+- 151 laws in the record.
+- 267 tags.
 
 ## Dates
 
@@ -144,13 +173,13 @@ When a law gives no date of its own, the default rule applies: Not applied: ever
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3df0058473450389c0eed7e36565367bc520766be0875c1dd6df8ee4f1f58701` (6848920 bytes).
+- Corpus: sha256 `f63488cc4dc8e85abedb7d64a9d4c965c8e3a5d7e812dabf22f9bdc2429488f0` (8368637 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-122 versions of 100 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -170,6 +199,9 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as passed, dated by the date printed in square brackets under its long title. Later amendments are not replayed: an Act amended since shows its original wording from that day, and each amending Act is its own folder.
 - Acts of Parliament: the text is the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz); scanned copies without a text layer are left out (no OCR).
 - Acts of Parliament: read by the shared reader Lexifina's code (config TZ): "N." opens a section, the marginal note beside it is its title; Part headings above a section, page numbers and running heads are left out; every other word from "AN ACT" to the end of the Act is in a file, checked letter for letter; an Act whose sections are not numbered 1..N without a gap is left out.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as passed, dated by the date of assent printed with it (in square brackets under the long title, after "I ASSENT ... President", or stamped with the President's name on the assent page). Later amendments are not replayed: an Act amended since shows its original wording from that day, and each amending Act is its own folder. An Act whose copy prints no assent date is left out.
+- Acts of Parliament: the text is the copy in the Parliament of Tanzania's Acts list (polis.bunge.go.tz), read from the text layer of born-digital prints (2015 on); scans, OCR conversions and the 1963-1999 retyped copies (which carry recognition errors) are left out (no OCR).
+- Acts of Parliament: read by the shared common-law reader: "N." opens a section, the marginal note beside it is its title; Part headings above a section, page numbers and running heads are left out; every other word from the long title to the end of the Act is in a file, checked letter for letter; an Act is left out unless its sections run 1..N without a gap and the last is the last its Arrangement of Sections lists (an Act with only an Arrangement of Parts: every Part it lists is a Part heading of the body, in order). Kiswahili Schedules (JEDWALI) are kept as text.
 - Part 60-batch2: acts chosen for their weight in everyday practice (evidence, contract, interpretation, land, land registration, succession, legal aid, public audit, prosecutions, ward tribunals) among the TanzLII acts whose current expression could be read with its text. An act whose newest page lists an amendment TanzLII has not yet applied was left out (for example the Criminal Procedure Act, the Magistrates' Courts Act and the Value Added Tax Act), because its last version would not be today's law; so were the Arbitration Act, 2020 and the Access to Information Act, 2016, whose History names the 2023 Revised Edition (31 December 2023) without a TanzLII version of it.
 - Version dates are TanzLII's expression dates. Laws.Africa's terminology guide (https://docs.laws.africa/getting-started/terminology-guide) says "Amendments to Principal works come into force on the Commencement date of the Amending work" and that the first point in time is "the work as originally published"; so an amendment's expression is dated by its commencement (in force), and an act's original expression by its publication, which is replaced by the commencement date the page states.
 - Credits: a version whose History names exactly one amending law (and no consolidation) between it and the previous version is credited to that law for every provision that changed. Otherwise a provision is credited only to laws that TanzLII's editorial note inside that provision links to; the rest are unexplained (publisher).
@@ -199,6 +231,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and code and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code is deterministic.
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the Tanzania configuration and scripts and chose the acts. No model wrote, summarised or transformed legal text: Lexifina's code and the shared Lexifina's code are deterministic code.
