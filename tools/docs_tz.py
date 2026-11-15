@@ -43,7 +43,9 @@ def put(path: Path, text: str, anchor: str | None) -> None:
     path.write_text(s, 'utf-8', newline='\n')
 
 
-put(H / 'repo' / 'README.md', SECTION, "## A lawyer's questions as git commands")
+# Since 2026-11-15 repo/README.md is on the serbia-law model, written by hand: no Acts table is added to it.
+if '## Questions as git commands' not in (H / 'repo' / 'README.md').read_text('utf-8'):
+    put(H / 'repo' / 'README.md', SECTION, "## A lawyer's questions as git commands")
 put(H / 'README.extra.md', SECTION, None)
 LIC = f"""{A0}
 Acts of Parliament in the folders act-YYYY-NNN/: copies of Acts of the Parliament of the United Republic of
