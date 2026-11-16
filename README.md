@@ -59,6 +59,7 @@ Each change is credited to the law TanzLII's History names (`Act 1 of 2022`). Wh
 - Every TanzLII version is parsed from an archived copy of its own dated expression page, whose sha256 is in `data/versions.json`; an act's newest version is the expression TanzLII's own listing named as current when it was retrieved (October 2026).
 - Every word of an Act of Parliament, from the long title to the end, is in a file, checked letter for letter (page numbers, running heads and Part headings aside); an Act is left out unless its sections run 1, 2, 3 without a gap and match the arrangement printed with it.
 - History is append-only: no merge commits and no commit date that goes backwards.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the law TanzLII's History names (`Act 1 of 2022`). Wh
 See [`LICENSE`](LICENSE). TanzLII's texts are under CC BY-NC 4.0 with TanzLII credited as the source, so they may be used only for non-commercial purposes; neither TanzLII nor Laws.Africa endorses this repository. The Acts of Parliament are reproduced without change: the Copyright and Neighbouring Rights Act (Cap. 218), section 7, gives no protection to laws. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
