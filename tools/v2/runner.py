@@ -10,7 +10,7 @@ H = Path(__file__).parent
 sys.path.insert(0, str(H))
 from common import NOWIN, REPO, W  # noqa: E402
 
-os.environ.setdefault('GIT_SSH_COMMAND', 'ssh -o BatchMode=yes -o ServerAliveInterval=15 -o ServerAliveCountMax=4 '
+os.environ.setdefault('GIT_SSH_COMMAND', 'C:/Windows/System32/OpenSSH/ssh.exe -o BatchMode=yes -o ServerAliveInterval=15 -o ServerAliveCountMax=4 '
                                          '-o ConnectTimeout=30')
 
 

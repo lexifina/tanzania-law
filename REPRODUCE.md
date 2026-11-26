@@ -42,14 +42,14 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 
 ## In the history now
 
-745 Acts of Parliament, 79 consolidated acts, the Constitution, 4306 dated versions from 1962-07-11 to 2026-10-30.
-513 commits use the publisher's recognised text; 2269 Acts are kept whole (`text.md`); 269 carry a year-only date.
+745 Acts of Parliament, 79 consolidated acts, the Constitution, 4399 dated versions from 1962-07-11 to 2026-10-30.
+513 commits use the publisher's recognised text; 2335 Acts are kept whole (`text.md`); 269 carry a year-only date.
 
 ## Held back
 
 | Why | Documents |
 | --- | ---: |
-| no text layer (scan): no OCR | 619 |
+| no text layer (scan): no OCR | 629 |
 | no Act or G.N. number in the record | 150 |
 | no publication day printed in the copy | 83 |
 | no day printed in the copy | 25 |
