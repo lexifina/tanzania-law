@@ -15,7 +15,7 @@ import pymupdf
 MON = {'jan': 1, 'feb': 2, 'mar': 3, 'mac': 3, 'apr': 4, 'may': 5, 'mei': 5, 'jun': 6, 'jul': 7, 'aug': 8, 'ago': 8,
        'sep': 9, 'oct': 10, 'okt': 10, 'nov': 11, 'dec': 12, 'des': 12}
 DATE = r'(\d{1,2})\s*(?:st|nd|rd|th|ST|ND|RD|TH)?\s*([A-Za-z]{3,10})\s*,?\s*((?:19|20)\d\d)'
-START = re.compile(r'^(?:PREAMBLE\s*$|WHEREAS\b|AN\s+ACT\b|An\s+Act\b|A\s+N\s+A\s+C\s+T\b|AN ORDINANCE\b|An Ordinance\b|'
+START = re.compile(r'^(?:PREAMBLE\s*$|WHEREAS\b|ENACTED\s+by\b|ENACTED\s+BY\b|IMETUNGWA\b|AN\s+ACT\b|An\s+Act\b|A\s+N\s+A\s+C\s+T\b|AN ORDINANCE\b|An Ordinance\b|'
                    r'Sheria\s+(?:ya\b|kwa\b|inayo|ili\b|ambayo\b|ya kur)|SHERIA\s+(?:YA|KWA)\b)')
 END = re.compile(r'^(?:Passed (?:by|in) the (?:National Assembly|House)|I CERTIFY|I certify that|'
                  r'Printed by the Government Printer|PRINTED BY THE GOVERNMENT PRINTER|Dar es Salaam,? Printed|'
@@ -43,7 +43,7 @@ def day(dd, mon, yy):
 
 def ocr_layer(doc) -> bool:
     meta = ' '.join(str(v) for v in (doc.metadata or {}).values())
-    if re.search(r'OmniPage|FineReader|ABBYY|Tesseract|Readiris|ClearScan|Paper Capture|\bOCR\b', meta, re.I):
+    if re.search(r'OmniForm|OmniPage|FineReader|ABBYY|Tesseract|Readiris|ClearScan|Paper Capture|\bOCR\b', meta, re.I):
         return True
     for pg in list(doc)[:6]:
         if any('GlyphLess' in f[3] for f in pg.get_fonts()):
@@ -150,10 +150,15 @@ def read(b: bytes) -> dict:
     m = re.search(r'\[\s*' + DATE + r'\s*[\])]', text)
     if m:
         date = day(*m.groups())
+    date_from = 'printed'
     if not date:
         m = re.search(r'(?:I ASSENT|NAKUBALI)[\s\S]{0,200}?' + DATE, text)
         if m:
             date = day(*m.groups())
+    if not date:   # the Act Supplement's Gazette: "To The Special Gazette ... Dated 14th March, 2025"
+        m = re.search(r'Gazette[^\n]{0,160}?(?:[Dd]ated|DATED)\s*' + DATE, text)
+        if m:
+            date, date_from = day(*m.groups()), 'gazette'
     # body: from the long title after the assent/arrangement to the end marker
     start = None
     seen_assent = re.search(r'I ASSENT|NAKUBALI', text) is not None
@@ -169,8 +174,12 @@ def read(b: bytes) -> dict:
             if START.match(l['t']):
                 start = i
                 break
+    force_whole = False
     if start is None:
-        return {'ok': False, 'why': 'no long title found', 'src': src}
+        # no long title line recognised (often a recognised scan): the whole text after the assent, or all of it
+        a = next((i for i, l in enumerate(L) if re.search(r'I\s*ASSENT|NAKUBALI', l['t'])), None)
+        start = a + 1 if a is not None and a + 1 < len(L) else 0
+        force_whole = True
     end = len(L)
     for i in range(start + 1, len(L)):
         if END.match(L[i]['t']):
@@ -256,9 +265,9 @@ def read(b: bytes) -> dict:
         toc = max(nums) if nums else 0
     if contiguous and toc and plain[-1] != toc:
         contiguous = False
-    if not contiguous or len(nsec) < 1:
-        whole = '\n'.join(l['t'] for l in body_lines)
-        return {'ok': True, 'layout': 'whole', 'units': [('text', 'Text', whole)], 'date': date, 'src': src,
+    if not contiguous or len(nsec) < 1 or force_whole:
+        whole = '\n'.join(l['t'] for l in B)   # every line, margin notes included, in page order
+        return {'ok': True, 'layout': 'whole', 'units': [('text', 'Text', whole)], 'date': date, 'date_from': date_from, 'src': src,
                 'lang': lang, 'why': f'sections not read in order ({len(nsec)} found, arrangement lists {toc})'}
     out = []
     if pre_lines:
@@ -282,7 +291,7 @@ def read(b: bytes) -> dict:
             s2, k = f'{stem}-{k}', k + 1
         seen.add(s2)
         final.append((s2, h, t))
-    return {'ok': True, 'layout': 'sections', 'units': final, 'date': date, 'src': src, 'lang': lang,
+    return {'ok': True, 'layout': 'sections', 'units': final, 'date': date, 'date_from': date_from, 'src': src, 'lang': lang,
             'sections': len(nsec)}
 
 

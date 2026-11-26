@@ -177,11 +177,16 @@ def polis_item(row, have: set[str], taken: set[str]):
         f'{POLIS_NOTE}: <{url}>.',
         '', 'Language: ' + ('Kiswahili' if r['lang'] == 'sw' else 'English') + '. Text layer: ' + r['src']
         + ('. Sections not split (read as one text).' if r['layout'] == 'whole' else '.')], r['units'])
-    note = (f'The Act as passed (Act No. {n} of {y})' + (f', dated {date}, the date printed under its long title '
-            'or with the assent' if not placeholder else ', with no day of assent or commencement printed') +
+    gaz = r.get('date_from') == 'gazette'
+    note = (f'The Act as passed (Act No. {n} of {y})' + (
+        f', dated {date}, the date of the Gazette its Act Supplement was published with (no date of assent is '
+        'printed)' if gaz and not placeholder else
+        f', dated {date}, the date printed under its long title or with the assent' if not placeholder else
+        ', with no day of assent, commencement or publication printed') +
             ('; enacted in Kiswahili' if r['lang'] == 'sw' else '') + f'. {POLIS_NOTE}.')
     msg = f'{full}: the text as passed\n\n{full}: the text as passed, {when}.\n\n{note}\n\n' + trailers({
-        'Law': f'Act {n} of {y}', 'Kind': 'law', 'Enacted': None if placeholder else date, 'In-force': date,
+        'Law': f'Act {n} of {y}', 'Kind': 'law', 'Enacted': None if placeholder or gaz else date,
+        'Published': date if gaz and not placeholder else None, 'In-force': date,
         'Date-placeholder': f'year only ({y}); day unknown' if placeholder else None,
         'Source': url, 'Source-sha256': sha(b), 'Act': title, 'Provisions': len(r['units']),
         'Text-source': r['src'], 'Layout': 'whole text (sections not split)' if r['layout'] == 'whole' else None,
