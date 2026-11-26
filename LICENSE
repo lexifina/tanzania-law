@@ -29,6 +29,14 @@ The Constitution in constitution/: the official revised text in English (Cap. 2)
 Constitutional and Legal Affairs (https://nalis.sheria.go.tz/en/constitution), retrieved 2026-10-28. The site's
 footer reads "All Rights Reserved"; the Constitution is law and is not protected (Cap. 218, section 7). Reproduced
 without change to its wording; the Ministry does not endorse this repository.
+
+Acts of Parliament not in the Parliament's list, the Revised Laws chapters of the Revised Editions 2019, 2020, 2022
+and 2024 not otherwise held (revised-laws/), and subsidiary legislation (subsidiary/): copies from the Office of the
+Attorney General's legislation portal, OAG MIS (https://oagmis.oag.go.tz/public), retrieved 2026-11-26. The portal
+states no licence or terms of use, and these PDFs carry no reservation. Laws are not protected (Cap. 218, section 7).
+The Revised Edition 2023 PDFs, which state "No part of this book may be reproduced or distributed without permission
+of OAG", are not included. Reproduced without change to their wording; the Office of the Attorney General does not
+endorse this repository.
 <!-- acts:end -->
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the

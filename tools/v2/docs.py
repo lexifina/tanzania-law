@@ -27,13 +27,14 @@ def stats():
     acts = sorted({'/'.join(f.split('/')[:3]) for f in files if re.match(r'acts/\d{4}/\d{3}-', f)})
     caps = sorted({'/'.join(f.split('/')[:2]) for f in files if f.startswith('revised-laws/cap-')})
     znz = sorted({'/'.join(f.split('/')[:4]) for f in files if f.startswith('zanzibar/acts/')})
+    subs = sorted({'/'.join(f.split('/')[:4]) for f in files if re.match(r'subsidiary/\d{4}/[a-z-]+/\d{4}', f)})
     years = Counter(a.split('/')[1] for a in acts)
     log = git('log', '--format=%H%x1f%(trailers:key=In-force,valueonly,separator=)%x1f%(trailers:key=Text-source,'
                      'valueonly,separator=)%x1f%(trailers:key=Language,valueonly,separator=)%x1f%(trailers:key=Layout,'
                      'valueonly,separator=)%x1f%(trailers:key=Date-placeholder,valueonly,separator=)', 'main')
     rows = [l.split('\x1f') for l in log.split('\n') if l.count('\x1f') == 5]
     dated = [r for r in rows if re.match(r'\d{4}-\d\d-\d\d', r[1].strip())]
-    return dict(files=len(files), acts=acts, caps=caps, znz=znz, years=years, versions=len(dated),
+    return dict(files=len(files), acts=acts, caps=caps, znz=znz, subs=subs, years=years, versions=len(dated),
                 first=min(r[1].strip() for r in dated), last=max(r[1].strip() for r in dated),
                 ocr=sum(1 for r in rows if 'publisher OCR' in r[2]), sw=sum(1 for r in rows if r[3].strip() == 'sw'),
                 whole=sum(1 for r in rows if r[4].strip()), placeholder=sum(1 for r in rows if r[5].strip()),
@@ -44,8 +45,8 @@ def readme_en(t: str, s: dict) -> str:
     y0 = min(s['years']) if s['years'] else '2015'
     new_what = (f"**What is in it now:** the Constitution (the official English revised text to the 14th Amendment, "
                 f"2005); {len(s['caps'])} consolidated acts of the Revised Laws, among them the Penal Code, the Evidence "
-                f"Act, the Law of Contract Act and the Land Act; and {len(s['acts'])} Acts of Parliament as passed, "
-                f"{y0} to 2026, each as one version: {s['versions']} dated versions from {s['first']} to {s['last']}. "
+                f"Act, the Law of Contract Act, the Land Act and the Civil Procedure Code; {len(s['acts'])} Acts of Parliament as "
+                f"passed, {y0} to 2026; and {len(s['subs'])} pieces of subsidiary legislation (Government Notices): {s['versions']} dated versions from {s['first']} to {s['last']}. "
                 "[`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) the sources and the "
                 "acts held back.")
     t = re.sub(r'^\*\*What is in it now:\*\*.*$', lambda m: new_what, t, count=1, flags=re.M)
@@ -75,12 +76,23 @@ def readme_en(t: str, s: dict) -> str:
                'an Act whose sections do not run 1, 2, 3 without a gap is kept whole in one file, `text.md`, and its '
                'commit says `Layout: whole text`.', t)
     t = re.sub(r'- \*\*Most Tanzanian law\.\*\*.*$', lambda m: (
-        '- **Most Tanzanian law.** No subsidiary legislation, no Zanzibar law (the House of Representatives\' '
-        'copies are scans without a text layer) and no case law (TanzLII and ZanzibarLII refuse automated access). '
-        'The Revised Edition 2023 chapters the Office of the Solicitor General publishes are held back: each page '
-        'says it may not be reproduced without the Attorney General\'s permission. The Employment and Labour '
-        'Relations Act, the Civil Procedure Code and the Basic Rights and Duties Enforcement Act consolidations are '
-        'held back until their current text can be confirmed.'), t, count=1, flags=re.M)
+        '- **Most Tanzanian law.** Subsidiary legislation only as the Attorney General\'s portal lists it (mostly '
+        '2016 on), without notices that only license a named firm, appoint someone or set an election calendar; no '
+        'Zanzibar law (the House of Representatives\' copies are scans without a text layer) and no case law here '
+        '(TanzLII and ZanzibarLII refuse automated access). The Revised Edition 2023 chapters, published by the '
+        'Office of the Solicitor General and on the Attorney General\'s portal, are held back: each page says it may '
+        'not be reproduced without the Attorney General\'s permission, so a chapter\'s latest version here is the '
+        'Revised Edition 2019, 2020 or 2022.'), t, count=1, flags=re.M)
+    if 'oagmis.oag.go.tz' not in t:
+        t = t.replace('| [Internet Archive](https://web.archive.org/)',
+                      '| [Office of the Attorney General](https://oagmis.oag.go.tz/public) (OAG MIS legislation portal) '
+                      '| Acts as passed, Revised Laws chapters (Revised Editions 2019 to 2024), Government Notices | one '
+                      'copy per edition | Read from the text layer of each PDF; copies marked "no part may be reproduced '
+                      'without permission of OAG" are held |\n| [Internet Archive](https://web.archive.org/)', 1)
+        t = t.replace('- for the Constitution, the day of the 14th Amendment',
+                      '- for an Act or a Government Notice from the Attorney General\'s portal, the commencement day it '
+                      'gives, else the day of publication in the Gazette (`In-force-basis:` says which); for a revised '
+                      'chapter, the day it is revised up to;\n- for the Constitution, the day of the 14th Amendment', 1)
     t = t.replace('Scanned copies and copies from before 2000 are left out.',
                   'Scanned copies without a text layer are left out (no OCR); where the copy carries the publisher\'s '
                   'own recognised text, it is used and the commit says `Text-source: publisher OCR`.')
@@ -104,20 +116,20 @@ Sheria za Tanzania kama historia ya git: faili moja kwa kila kifungu, commit moj
 
 Sehemu ya [lexifina/global-law](https://github.com/lexifina/global-law): hii ni sheria ya kitaifa ya Tanzania, ambayo global-law inasoma katika `tanzania/national/acts/`.
 
-**Kilichomo sasa:** Katiba (maandishi rasmi ya Kiingereza yaliyorekebishwa hadi Mabadiliko ya Kumi na Nne, 2005); sheria {len(s['caps'])} zilizounganishwa za Sheria Zilizorekebishwa (Revised Laws), zikiwemo Kanuni ya Adhabu (Penal Code), Sheria ya Ushahidi na Sheria ya Ardhi; na Sheria {len(s['acts'])} za Bunge kama zilivyopitishwa, {y0} hadi 2026: matoleo {s['versions']} yenye tarehe kutoka {s['first']} hadi {s['last']}. [`STRUCTURE.md`](STRUCTURE.md) inaeleza mpangilio; [`REPRODUCE.md`](REPRODUCE.md) vyanzo.
+**Kilichomo sasa:** Katiba (maandishi rasmi ya Kiingereza yaliyorekebishwa hadi Mabadiliko ya Kumi na Nne, 2005); sheria {len(s['caps'])} zilizounganishwa za Sheria Zilizorekebishwa (Revised Laws), zikiwemo Kanuni ya Adhabu (Penal Code), Sheria ya Ushahidi, Sheria ya Ardhi na Sheria ya Mwenendo wa Mashauri ya Madai (Civil Procedure Code); Sheria {len(s['acts'])} za Bunge kama zilivyopitishwa, {y0} hadi 2026; na sheria ndogo {len(s['subs'])} (Matangazo ya Serikali): matoleo {s['versions']} yenye tarehe kutoka {s['first']} hadi {s['last']}. [`STRUCTURE.md`](STRUCTURE.md) inaeleza mpangilio; [`REPRODUCE.md`](REPRODUCE.md) vyanzo.
 
-Katiba iko katika `constitution/`, faili moja kwa kila ibara. Kila sheria iliyounganishwa iko katika `revised-laws/cap-NNN-<jina>/` kwa namba ya sura yake. Kila Sheria ya Bunge iko katika `acts/<mwaka>/<namba>-<jina>/`.
+Katiba iko katika `constitution/`, faili moja kwa kila ibara. Kila sheria iliyounganishwa iko katika `revised-laws/cap-NNN-<jina>/` kwa namba ya sura yake. Kila Sheria ya Bunge iko katika `acts/<mwaka>/<namba>-<jina>/`. Kila sheria ndogo iko katika `subsidiary/<mwaka>/<aina>/<namba ya GN>-<jina>/`.
 
 Maandishi ni ya Kiingereza au Kiswahili, kama Bunge lilivyoyachapisha. Hakuna OCR: nakala zilizochanganuliwa bila maandishi zimeachwa; maandishi ya OCR ya mchapishaji mwenyewe yanatumika na commit inasema `Text-source: publisher OCR`.
 
 ## Tarehe
 
-Kila commit ina tarehe ya saa sita mchana, Afrika/Dar es Salaam, katika siku toleo lilipoanza kutumika, na kiambatisho `In-force:`. Kwa Sheria ya Bunge, ni tarehe iliyochapishwa chini ya jina lake refu au pamoja na idhini ya Rais; isipochapishwa, commit inawekwa tarehe 1 Julai ya mwaka wake na kiambatisho `Date-placeholder:`.
+Kila commit ina tarehe ya saa sita mchana, Afrika/Dar es Salaam, katika siku toleo lilipoanza kutumika, na kiambatisho `In-force:`. Kwa Sheria ya Bunge, ni tarehe iliyochapishwa chini ya jina lake refu au pamoja na idhini ya Rais; isipochapishwa, commit inawekwa tarehe 1 Julai ya mwaka wake na kiambatisho `Date-placeholder:`. Kwa Sheria au Tangazo la Serikali kutoka tovuti ya Mwanasheria Mkuu wa Serikali (OAG MIS), ni siku ya kuanza kutumika inayotajwa, au siku ya kuchapishwa katika Gazeti; kwa sura iliyorekebishwa, siku ambayo imerekebishwa hadi.
 
 ## Kisichoonyeshwa
 
-- Sheria ndogo (subsidiary legislation), sheria za Zanzibar (nakala za Baraza la Wawakilishi ni picha bila maandishi) na maamuzi ya mahakama (TanzLII na ZanzibarLII zinakataa ufikiaji wa kiotomatiki).
-- Sura za Toleo Lililorekebishwa la 2023 za Ofisi ya Wakili Mkuu wa Serikali: kila ukurasa unasema hazipaswi kunakiliwa bila ruhusa ya Mwanasheria Mkuu wa Serikali.
+- Sheria ndogo zilizo nje ya orodha ya OAG MIS (nyingi ni za kabla ya 2016), na notisi zinazotoa kibali kwa kampuni moja, uteuzi au ratiba za uchaguzi; sheria za Zanzibar (nakala za Baraza la Wawakilishi ni picha bila maandishi) na maamuzi ya mahakama (TanzLII na ZanzibarLII zinakataa ufikiaji wa kiotomatiki).
+- Sura za Toleo Lililorekebishwa la 2023 (za Ofisi ya Wakili Mkuu wa Serikali na za OAG MIS): kila ukurasa unasema hazipaswi kunakiliwa bila ruhusa ya Mwanasheria Mkuu wa Serikali.
 - Marekebisho ya baadaye ya Sheria za Bunge: kila moja ni Sheria kama ilivyopitishwa.
 
 ## Leseni
@@ -146,7 +158,7 @@ Tanzania's national law (corpus `tz/national/acts`), one folder per law, one Mar
 | `revised-laws/cap-NNN-<short title>/` | Consolidated acts, named by their chapter number in the Revised Laws (R.E. 2002/2019/2023): one file per section (`sec-NNN.md`) or schedule (`sch-NN.md`), plus `long-title.md` | `revised-laws/cap-016-penal-code/sec-321.md` |
 | `acts/<year>/<NNN>-<short title>/` | Acts of Parliament as passed, by year and Act number: `preamble.md` (long title and enacting words), `sec-NNN.md`, `schedule-NN.md`; an Act whose sections could not be read in order is one file, `text.md` | `acts/2025/004-labour-laws-amendments-act/sec-001.md` |
 | `zanzibar/acts/<year>/<NNN>-<short title>/` | Acts of the House of Representatives of Zanzibar (none yet: the published copies are scans without a text layer) | |
-| `subsidiary/<year>/...` | Subsidiary legislation (none yet) | |
+| `subsidiary/<year>/<kind>/<NNNN>-<short title>/` | Subsidiary legislation (Government Notices) by year, kind (`orders`, `regulations`, `rules`, `by-laws`, `notices`, `instruments`, `proclamations`, `service-schemes`) and G.N. number; usually one file, `text.md` | `subsidiary/2024/orders/0547-amri-ya-kutangaza-msitu-wa-hifadhi-mkerezange-ya-mwaka/text.md` |
 | `data/`, `tools/` | Tables and scripts | |
 
 Each provision file starts with a heading line, `# <number>. <margin note>`, and holds one paragraph per line. Each
@@ -159,7 +171,9 @@ commit author (`Act 4 of 2025`).
 
 Trailers: `Law`, `Kind`, `Enacted`, `In-force`, `Source`, `Source-sha256`, `Act`, `Provisions`, `Text-source`
 (`typeset`, or `publisher OCR` where the publisher's PDF carries its own recognised text), and where they apply
-`Layout` (`whole text`), `Language` (`sw`) and `Date-placeholder` (year known, day not printed: placed on 1 July).
+`Layout` (`whole text`), `Language` (`sw`) and `Date-placeholder` (year known, day not printed: placed on 1 July);
+`In-force-basis` says which day an Act or Government Notice from the Attorney General's portal is dated by, and
+subsidiary legislation adds `Published`, `Instrument` and `Parent-act`.
 
 On 26 November 2026 the flat layout (`act-YYYY-NNN/`, `penal-code/` and so on at the top level) was moved to this one
 in commits of renames only (68902cd and the one after it).{capnote}
@@ -181,6 +195,7 @@ to 2026 before 26 November 2026) was built by the earlier tools in `tools/`.
 | --- | --- | --- | --- |
 | Parliament of Tanzania (Bunge la Tanzania): Acts list (`api/acts/async`) and Act PDFs | <https://polis.bunge.go.tz/> | 2026-11-03, 2026-11-26 | No licence or terms stated. Copyright and Neighbouring Rights Act (Cap. 218), s. 7: no protection for laws |
 | Ministry of Constitutional and Legal Affairs, NaLIS: the Constitution in English (Cap. 2, revised to 2005) | <https://nalis.sheria.go.tz/en/constitution> | 2026-10-28 | Site footer "All Rights Reserved"; the text is law (Cap. 218, s. 7) |
+| Office of the Attorney General, OAG MIS legislation portal: JSON lists (`acts-ajax`, `revised-acts-ajax`, `legislation-ajax`) and their PDFs | <https://oagmis.oag.go.tz/public> | 2026-11-26 | No licence or terms stated; the Revised Edition 2023 PDFs (published 2025) say "No part of this book may be reproduced or distributed without permission of OAG" and are held; the other PDFs carry no such notice. Laws are not protected (Cap. 218, s. 7) |
 | TanzLII (Judiciary of Tanzania), through Internet Archive copies | <https://tanzlii.org> | 2026-10-28 to 2026-11-05 | CC BY-NC 4.0, crediting TanzLII |
 
 Checked and not used (26 November 2026): TanzLII and ZanzibarLII answer 403 to automated requests (not worked
@@ -201,6 +216,12 @@ held until permission is given; the House of Representatives of Zanzibar's Acts
    invisible text) is used and labelled.
 3. `tools/v2/build.py`: one commit per Act, appended to main with `git fast-import`, dated by the date printed under
    the long title (or with the assent); `tools/v2/runner.py` runs it every 15 minutes and pushes main fast-forward.
+4. `tools/v2/oag.py`: the Attorney General's portal lists and PDFs, at the same pace. `build.py` adds the Acts not
+   already held from the Parliament's list (dated by the commencement day the portal gives, else the publication
+   day), the Revised Laws chapters not already held (dated by the day each edition is revised up to, in edition
+   order) and the Government Notices (dated by the commencement or publication day the portal gives). Any PDF that
+   says "No part of this book may be reproduced" is held. Notices that only license a named firm, appoint someone
+   or set an election calendar are left out.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model and are deterministic.
 
@@ -228,6 +249,14 @@ The Constitution in constitution/: the official revised text in English (Cap. 2)
 Constitutional and Legal Affairs (https://nalis.sheria.go.tz/en/constitution), retrieved 2026-10-28. The site's
 footer reads "All Rights Reserved"; the Constitution is law and is not protected (Cap. 218, section 7). Reproduced
 without change to its wording; the Ministry does not endorse this repository.
+
+Acts of Parliament not in the Parliament's list, the Revised Laws chapters of the Revised Editions 2019, 2020, 2022
+and 2024 not otherwise held (revised-laws/), and subsidiary legislation (subsidiary/): copies from the Office of the
+Attorney General's legislation portal, OAG MIS (https://oagmis.oag.go.tz/public), retrieved 2026-11-26. The portal
+states no licence or terms of use, and these PDFs carry no reservation. Laws are not protected (Cap. 218, section 7).
+The Revised Edition 2023 PDFs, which state "No part of this book may be reproduced or distributed without permission
+of OAG", are not included. Reproduced without change to their wording; the Office of the Attorney General does not
+endorse this repository.
 <!-- acts:end -->"""
 
 

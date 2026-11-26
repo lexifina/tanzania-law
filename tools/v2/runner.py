@@ -33,7 +33,8 @@ def one():
 
 def main():
     while True:
-        done = 'fetch: DONE' in (W / 'progress.log').read_text(encoding='utf-8')
+        marker = sys.argv[1] if len(sys.argv) > 1 else 'fetch: DONE'   # e.g. 'oag: DONE'
+        done = marker in (W / 'progress.log').read_text(encoding='utf-8')
         if (W / 'STOP').exists():
             log('STOP file: exiting')
             return
