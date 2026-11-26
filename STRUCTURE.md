@@ -25,3 +25,5 @@ Trailers: `Law`, `Kind`, `Enacted`, `In-force`, `Source`, `Source-sha256`, `Act`
 
 On 26 November 2026 the flat layout (`act-YYYY-NNN/`, `penal-code/` and so on at the top level) was moved to this one
 in commits of renames only (68902cd and the one after it).
+
+Chapter numbers of the 21 consolidations taken over from TanzLII (whose pages give no chapter number) were checked against the citations "<Act>, Cap. N" in the Acts of Parliament as passed in `acts/`. Confirmed: cap-001-interpretation-of-laws, cap-006-evidence, cap-013-law-of-the-child, cap-016-penal-code, cap-113-land, cap-345-law-of-contract, cap-352-probate-administration-estates, cap-368-extradition. **Not confirmed by any source read (unverified):** cap-021-legal-aid, cap-029-law-of-marriage, cap-080-civil-aviation, cap-114-village-land, cap-203-cotton-industry, cap-206-ward-tribunals, cap-237-judiciary-administration, cap-291-community-service, cap-334-land-registration, cap-351-statistics, cap-418-public-audit, cap-427-national-irrigation, cap-430-national-prosecutions-service. The chapters from the Revised Edition 2022 take their number from the edition itself.

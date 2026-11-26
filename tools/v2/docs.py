@@ -128,6 +128,14 @@ Tazama [`LICENSE`](LICENSE). Maandishi ya TanzLII ni chini ya CC BY-NC 4.0. Sher
 
 def structure(s: dict) -> str:
     yrs = ', '.join(f'{y} ({n})' for y, n in sorted(s['years'].items()))
+    cc = json.loads((W / 'capcheck.json').read_text('utf-8')) if (W / 'capcheck.json').exists() else {}
+    ok = sorted(f'cap-{v["ours"]:03d}-{k}' for k, v in cc.items() if v['found'] and v['found'][0][0] == v['ours'])
+    unv = sorted(f'cap-{v["ours"]:03d}-{k}' for k, v in cc.items() if not v['found'])
+    capnote = ('' if not cc else
+               '\n\nChapter numbers of the 21 consolidations taken over from TanzLII (whose pages give no chapter '
+               'number) were checked against the citations "<Act>, Cap. N" in the Acts of Parliament as passed in '
+               f'`acts/`. Confirmed: {", ".join(ok)}. **Not confirmed by any source read (unverified):** '
+               f'{", ".join(unv)}. The chapters from the Revised Edition 2022 take their number from the edition itself.')
     return f"""# Structure
 
 Tanzania's national law (corpus `tz/national/acts`), one folder per law, one Markdown file per provision.
@@ -154,7 +162,7 @@ Trailers: `Law`, `Kind`, `Enacted`, `In-force`, `Source`, `Source-sha256`, `Act`
 `Layout` (`whole text`), `Language` (`sw`) and `Date-placeholder` (year known, day not printed: placed on 1 July).
 
 On 26 November 2026 the flat layout (`act-YYYY-NNN/`, `penal-code/` and so on at the top level) was moved to this one
-in commits of renames only (68902cd and the one after it).
+in commits of renames only (68902cd and the one after it).{capnote}
 """
 
 
