@@ -1,5 +1,6 @@
 """Every ~15 minutes: append what the fetcher has cached since the last pass (build.py) and push main fast-forward;
 the first pass runs at once. Stops after the pass that follows the fetcher's DONE line. Log: progress.log"""
+import os
 import subprocess
 import sys
 import time
@@ -9,6 +10,9 @@ H = Path(__file__).parent
 sys.path.insert(0, str(H))
 from common import NOWIN, REPO, W  # noqa: E402
 
+os.environ.setdefault('GIT_SSH_COMMAND', 'ssh -o BatchMode=yes -o ServerAliveInterval=15 -o ServerAliveCountMax=4 '
+                                         '-o ConnectTimeout=30')
+
 
 def log(m):
     with open(W / 'progress.log', 'a', encoding='utf-8') as f:
@@ -16,7 +20,11 @@ def log(m):
 
 
 def run(*a):
-    return subprocess.run(list(a), capture_output=True, text=True, encoding='utf-8', creationflags=NOWIN)
+    try:   # a stalled push or ls-remote must not hold the loop: give up after 15 minutes and retry next pass
+        return subprocess.run(list(a), capture_output=True, text=True, encoding='utf-8', creationflags=NOWIN,
+                              timeout=900)
+    except subprocess.TimeoutExpired:
+        return subprocess.CompletedProcess(a, 124, '', 'timed out')
 
 
 def one():

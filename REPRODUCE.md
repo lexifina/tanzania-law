@@ -10,6 +10,7 @@ to 2026 before 26 November 2026) was built by the earlier tools in `tools/`.
 | Parliament of Tanzania (Bunge la Tanzania): Acts list (`api/acts/async`) and Act PDFs | <https://polis.bunge.go.tz/> | 2026-11-03, 2026-11-26 | No licence or terms stated. Copyright and Neighbouring Rights Act (Cap. 218), s. 7: no protection for laws |
 | Ministry of Constitutional and Legal Affairs, NaLIS: the Constitution in English (Cap. 2, revised to 2005) | <https://nalis.sheria.go.tz/en/constitution> | 2026-10-28 | Site footer "All Rights Reserved"; the text is law (Cap. 218, s. 7) |
 | Office of the Attorney General, OAG MIS legislation portal: JSON lists (`acts-ajax`, `revised-acts-ajax`, `legislation-ajax`) and their PDFs | <https://oagmis.oag.go.tz/public> | 2026-11-26 | No licence or terms stated; the Revised Edition 2023 PDFs (published 2025) say "No part of this book may be reproduced or distributed without permission of OAG" and are held; the other PDFs carry no such notice. Laws are not protected (Cap. 218, s. 7) |
+| FAOLEX (FAO), records listed through ECOLEX; secondary copies of Acts and Government Notices not held from an official host (`tools/v2/faolex.py`) | <https://www.ecolex.org>, <https://faolex.fao.org> | 2026-11-26 | FAO terms: reuse for non-commercial purposes with credit to FAOLEX (<https://www.fao.org/contact-us/terms/en/>); each commit carries `Source-status: secondary copy (FAOLEX, <URL>)` |
 | TanzLII (Judiciary of Tanzania), through Internet Archive copies | <https://tanzlii.org> | 2026-10-28 to 2026-11-05 | CC BY-NC 4.0, crediting TanzLII |
 
 Checked and not used (26 November 2026): TanzLII and ZanzibarLII answer 403 to automated requests (not worked
@@ -41,14 +42,14 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 
 ## In the history now
 
-745 Acts of Parliament, 79 consolidated acts, the Constitution, 2152 dated versions from 1962-07-11 to 2026-10-30.
-512 commits use the publisher's recognised text; 781 Acts are kept whole (`text.md`); 269 carry a year-only date.
+745 Acts of Parliament, 79 consolidated acts, the Constitution, 4306 dated versions from 1962-07-11 to 2026-10-30.
+513 commits use the publisher's recognised text; 2269 Acts are kept whole (`text.md`); 269 carry a year-only date.
 
 ## Held back
 
 | Why | Documents |
 | --- | ---: |
-| no text layer (scan): no OCR | 603 |
+| no text layer (scan): no OCR | 619 |
 | no Act or G.N. number in the record | 150 |
 | no publication day printed in the copy | 83 |
 | no day printed in the copy | 25 |
@@ -57,9 +58,9 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 | consolidated chapter of unknown edition | 5 |
 | no OCR | 4 |
 | no text lines after running heads | 4 |
+| no publication or commencement day | 4 |
 | no long title found | 3 |
 | no G.N. number | 3 |
-| no publication or commencement day | 2 |
 | no Act number | 1 |
 | Cap. 33 (2025-04-25): OAG MIS copy says no reproduction without permission of OAG | 1 |
 | Zanzibar Plant Breeders’ Rights Act, 2014 (Act No. 1 of 2014): WIPO Lex PDF not served to automated requests (record page or 403) | 1 |

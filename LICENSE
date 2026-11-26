@@ -37,6 +37,15 @@ states no licence or terms of use, and these PDFs carry no reservation. Laws are
 The Revised Edition 2023 PDFs, which state "No part of this book may be reproduced or distributed without permission
 of OAG", are not included. Reproduced without change to their wording; the Office of the Attorney General does not
 endorse this repository.
+
+Secondary copies (commits with a "Source-status: secondary copy (FAOLEX, <URL>)" trailer): Acts and Government
+Notices not held from an official host, from FAOLEX, the legislative database of the Food and Agriculture
+Organization of the United Nations (https://www.fao.org/faolex/), records listed through ECOLEX
+(https://www.ecolex.org), retrieved 2026-11-26. FAO terms: the material may be reproduced for non-commercial
+purposes with acknowledgement of FAO as the source (https://www.fao.org/contact-us/terms/en/).
+Attribution: Source: FAOLEX Database, Food and Agriculture Organization of the United Nations.
+The texts are law (Cap. 218, section 7) and are reproduced without change to their wording; FAO does not endorse
+this repository.
 <!-- acts:end -->
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the

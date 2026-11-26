@@ -89,6 +89,13 @@ def readme_en(t: str, s: dict) -> str:
                       '| Acts as passed, Revised Laws chapters (Revised Editions 2019 to 2024), Government Notices | one '
                       'copy per edition | Read from the text layer of each PDF; copies marked "no part may be reproduced '
                       'without permission of OAG" are held |\n| [Internet Archive](https://web.archive.org/)', 1)
+    if 'faolex.fao.org' not in t:
+        t = t.replace('| [Internet Archive](https://web.archive.org/)',
+                      '| [FAOLEX](https://www.fao.org/faolex/) (FAO), listed through [ECOLEX](https://www.ecolex.org) '
+                      '| Secondary copies: Acts and Government Notices not on an official host | no, one copy per '
+                      'record | Only where no official copy is held; each commit says `Source-status: secondary copy '
+                      '(FAOLEX, <URL>)` and is dated by the day printed in the copy |\n'
+                      '| [Internet Archive](https://web.archive.org/)', 1)
         t = t.replace('- for the Constitution, the day of the 14th Amendment',
                       '- for an Act or a Government Notice from the Attorney General\'s portal, the commencement day it '
                       'gives, else the day of publication in the Gazette (`In-force-basis:` says which); for a revised '
@@ -196,6 +203,7 @@ to 2026 before 26 November 2026) was built by the earlier tools in `tools/`.
 | Parliament of Tanzania (Bunge la Tanzania): Acts list (`api/acts/async`) and Act PDFs | <https://polis.bunge.go.tz/> | 2026-11-03, 2026-11-26 | No licence or terms stated. Copyright and Neighbouring Rights Act (Cap. 218), s. 7: no protection for laws |
 | Ministry of Constitutional and Legal Affairs, NaLIS: the Constitution in English (Cap. 2, revised to 2005) | <https://nalis.sheria.go.tz/en/constitution> | 2026-10-28 | Site footer "All Rights Reserved"; the text is law (Cap. 218, s. 7) |
 | Office of the Attorney General, OAG MIS legislation portal: JSON lists (`acts-ajax`, `revised-acts-ajax`, `legislation-ajax`) and their PDFs | <https://oagmis.oag.go.tz/public> | 2026-11-26 | No licence or terms stated; the Revised Edition 2023 PDFs (published 2025) say "No part of this book may be reproduced or distributed without permission of OAG" and are held; the other PDFs carry no such notice. Laws are not protected (Cap. 218, s. 7) |
+| FAOLEX (FAO), records listed through ECOLEX; secondary copies of Acts and Government Notices not held from an official host (`tools/v2/faolex.py`) | <https://www.ecolex.org>, <https://faolex.fao.org> | 2026-11-26 | FAO terms: reuse for non-commercial purposes with credit to FAOLEX (<https://www.fao.org/contact-us/terms/en/>); each commit carries `Source-status: secondary copy (FAOLEX, <URL>)` |
 | TanzLII (Judiciary of Tanzania), through Internet Archive copies | <https://tanzlii.org> | 2026-10-28 to 2026-11-05 | CC BY-NC 4.0, crediting TanzLII |
 
 Checked and not used (26 November 2026): TanzLII and ZanzibarLII answer 403 to automated requests (not worked
@@ -257,6 +265,15 @@ states no licence or terms of use, and these PDFs carry no reservation. Laws are
 The Revised Edition 2023 PDFs, which state "No part of this book may be reproduced or distributed without permission
 of OAG", are not included. Reproduced without change to their wording; the Office of the Attorney General does not
 endorse this repository.
+
+Secondary copies (commits with a "Source-status: secondary copy (FAOLEX, <URL>)" trailer): Acts and Government
+Notices not held from an official host, from FAOLEX, the legislative database of the Food and Agriculture
+Organization of the United Nations (https://www.fao.org/faolex/), records listed through ECOLEX
+(https://www.ecolex.org), retrieved 2026-11-26. FAO terms: the material may be reproduced for non-commercial
+purposes with acknowledgement of FAO as the source (https://www.fao.org/contact-us/terms/en/).
+Attribution: Source: FAOLEX Database, Food and Agriculture Organization of the United Nations.
+The texts are law (Cap. 218, section 7) and are reproduced without change to their wording; FAO does not endorse
+this repository.
 <!-- acts:end -->"""
 
 

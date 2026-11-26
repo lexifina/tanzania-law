@@ -6,7 +6,7 @@ Sheria za Tanzania kama historia ya git: faili moja kwa kila kifungu, commit moj
 
 Sehemu ya [lexifina/global-law](https://github.com/lexifina/global-law): hii ni sheria ya kitaifa ya Tanzania, ambayo global-law inasoma katika `tanzania/national/acts/`.
 
-**Kilichomo sasa:** Katiba (maandishi rasmi ya Kiingereza yaliyorekebishwa hadi Mabadiliko ya Kumi na Nne, 2005); sheria 79 zilizounganishwa za Sheria Zilizorekebishwa (Revised Laws), zikiwemo Kanuni ya Adhabu (Penal Code), Sheria ya Ushahidi, Sheria ya Ardhi na Sheria ya Mwenendo wa Mashauri ya Madai (Civil Procedure Code); Sheria 745 za Bunge kama zilivyopitishwa, 1962 hadi 2026; na sheria ndogo 1294 (Matangazo ya Serikali): matoleo 2152 yenye tarehe kutoka 1962-07-11 hadi 2026-10-30. [`STRUCTURE.md`](STRUCTURE.md) inaeleza mpangilio; [`REPRODUCE.md`](REPRODUCE.md) vyanzo.
+**Kilichomo sasa:** Katiba (maandishi rasmi ya Kiingereza yaliyorekebishwa hadi Mabadiliko ya Kumi na Nne, 2005); sheria 79 zilizounganishwa za Sheria Zilizorekebishwa (Revised Laws), zikiwemo Kanuni ya Adhabu (Penal Code), Sheria ya Ushahidi, Sheria ya Ardhi na Sheria ya Mwenendo wa Mashauri ya Madai (Civil Procedure Code); Sheria 745 za Bunge kama zilivyopitishwa, 1962 hadi 2026; na sheria ndogo 3448 (Matangazo ya Serikali): matoleo 4306 yenye tarehe kutoka 1962-07-11 hadi 2026-10-30. [`STRUCTURE.md`](STRUCTURE.md) inaeleza mpangilio; [`REPRODUCE.md`](REPRODUCE.md) vyanzo.
 
 Katiba iko katika `constitution/`, faili moja kwa kila ibara. Kila sheria iliyounganishwa iko katika `revised-laws/cap-NNN-<jina>/` kwa namba ya sura yake. Kila Sheria ya Bunge iko katika `acts/<mwaka>/<namba>-<jina>/`. Kila sheria ndogo iko katika `subsidiary/<mwaka>/<aina>/<namba ya GN>-<jina>/`.
 
