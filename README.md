@@ -11,11 +11,11 @@ The law of Tanzania as a git history: one file per section, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tanzania's national law, which global-law reads at `tanzania/national/acts/`.
 
-**What is in it now:** the Constitution (the official English revised text to the 14th Amendment, 2005); 28 consolidated acts of the Revised Laws, among them the Penal Code, the Evidence Act, the Law of Contract Act and the Land Act; and 117 Acts of Parliament as passed, 2015 to 2026, each as one version: 177 dated versions from 2002-07-31 to 2026-09-19. [`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) the sources and the acts held back.
+**What is in it now:** the Constitution (the official English revised text to the 14th Amendment, 2005); 31 consolidated acts of the Revised Laws, among them the Penal Code, the Evidence Act, the Law of Contract Act and the Land Act; and 595 Acts of Parliament as passed, 1963 to 2026, each as one version: 658 dated versions from 1963-04-17 to 2026-09-19. [`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) the sources and the acts held back.
 
 The Constitution is `constitution/`, one file per article. Each consolidated act is a folder `revised-laws/cap-NNN-<short title>/` named by its chapter in the Revised Laws, with one file per section or schedule (`revised-laws/cap-016-penal-code/sec-321.md` is section 321 of the Penal Code, Cap. 16, on setting fire to crops). Each Act of Parliament is a folder `acts/<year>/<number>-<short title>/` (`acts/2025/004-labour-laws-amendments-act/` is the Labour Laws (Amendments) Act, 2025, No. 4 of 2025).
 
-The text is in English, as TanzLII and the Parliament publish them, except 9 Acts of Parliament enacted in Kiswahili; TanzLII's editorial notes (kept only where a provision has no other text) and the Part and Chapter headings are left out.
+The text is in English, as TanzLII and the Parliament publish them, except 12 Acts of Parliament enacted in Kiswahili; TanzLII's editorial notes (kept only where a provision has no other text) and the Part and Chapter headings are left out.
 
 ## Questions as git commands
 

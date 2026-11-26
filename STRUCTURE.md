@@ -13,7 +13,7 @@ Tanzania's national law (corpus `tz/national/acts`), one folder per law, one Mar
 
 Each provision file starts with a heading line, `# <number>. <margin note>`, and holds one paragraph per line. Each
 folder has a `README.md` listing its provisions. No folder holds more than 1,000 entries; `acts/` has one folder per
-year: 2015 (17), 2016 (10), 2017 (13), 2018 (10), 2019 (13), 2020 (8), 2021 (9), 2022 (7), 2023 (6), 2024 (12), 2025 (6), 2026 (6).
+year: 1963 (25), 1964 (34), 1965 (19), 1966 (21), 1967 (14), 1968 (6), 1969 (12), 1970 (13), 1971 (14), 1972 (15), 1973 (26), 1974 (31), 1975 (16), 1976 (14), 1977 (9), 1978 (13), 1979 (17), 1980 (25), 1981 (18), 1982 (18), 1983 (12), 1984 (12), 1985 (4), 1986 (4), 1987 (4), 1988 (3), 1989 (6), 1990 (15), 1991 (20), 1992 (9), 1993 (4), 1994 (7), 1995 (10), 2015 (18), 2016 (12), 2017 (13), 2018 (10), 2019 (14), 2020 (8), 2021 (9), 2022 (10), 2023 (7), 2024 (12), 2025 (6), 2026 (6).
 
 One commit per version, dated noon Africa/Dar_es_Salaam on the day it took effect, with the day in an `In-force:`
 trailer (the trailer is the source of truth; git cannot store days before 1970). The law that made the version is the

@@ -122,6 +122,8 @@ def read(b: bytes) -> dict:
     chars = Counter()
     for l in L:
         chars[l['sz']] += len(l['t'])
+    if not chars:
+        return {'ok': False, 'why': 'no text lines after running heads'}
     body = chars.most_common(1)[0][0]
     # editorial footnotes: smaller type in the bottom fifth of a page, starting with their number
     starts = {}
