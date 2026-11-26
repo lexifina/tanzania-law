@@ -15,8 +15,8 @@ import pymupdf
 MON = {'jan': 1, 'feb': 2, 'mar': 3, 'mac': 3, 'apr': 4, 'may': 5, 'mei': 5, 'jun': 6, 'jul': 7, 'aug': 8, 'ago': 8,
        'sep': 9, 'oct': 10, 'okt': 10, 'nov': 11, 'dec': 12, 'des': 12}
 DATE = r'(\d{1,2})\s*(?:st|nd|rd|th|ST|ND|RD|TH)?\s*([A-Za-z]{3,10})\s*,?\s*((?:19|20)\d\d)'
-START = re.compile(r'^(?:AN\s+ACT\b|An\s+Act\b|A\s+N\s+A\s+C\s+T\b|AN ORDINANCE\b|An Ordinance\b|'
-                   r'Sheria\s+(?:ya|kwa|inayo|ili|ambayo)\b|SHERIA\s+(?:YA|KWA)\b)')
+START = re.compile(r'^(?:PREAMBLE\s*$|WHEREAS\b|AN\s+ACT\b|An\s+Act\b|A\s+N\s+A\s+C\s+T\b|AN ORDINANCE\b|An Ordinance\b|'
+                   r'Sheria\s+(?:ya\b|kwa\b|inayo|ili\b|ambayo\b|ya kur)|SHERIA\s+(?:YA|KWA)\b)')
 END = re.compile(r'^(?:Passed (?:by|in) the (?:National Assembly|House)|I CERTIFY|I certify that|'
                  r'Printed by the Government Printer|PRINTED BY THE GOVERNMENT PRINTER|Dar es Salaam,? Printed|'
                  r'OBJECTS AND REASONS|MADHUMUNI NA SABABU|Imepitishwa (?:na|katika) (?:Bunge|Baraza)|'
