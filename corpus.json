@@ -1,0 +1,22 @@
+{
+ "corpus": "tz/national/acts",
+ "country": "TZ",
+ "name": "Tanzania",
+ "tz": "Africa/Dar_es_Salaam",
+ "layout": {
+  "constitution": "constitution/",
+  "revised_laws": "revised-laws/cap-NNN-<slug>/",
+  "acts": "acts/<year>/<NNN>-<slug>/",
+  "subsidiary": "subsidiary/<year>/",
+  "zanzibar": "zanzibar/"
+ },
+ "record": {
+  "from": "2002-07-31",
+  "to": "2026-09-19",
+  "versions": 177,
+  "acts": 117,
+  "revised_laws": 28,
+  "constitution": true
+ },
+ "licence": "CC0-1.0 for Lexifina's arrangement; see LICENSE for each source"
+}

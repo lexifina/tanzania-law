@@ -19,11 +19,16 @@ and the versions were arranged as git commits credited to the laws TanzLII names
 The wording of the law was not changed. Neither TanzLII nor Laws.Africa endorses this repository.
 
 <!-- acts:start -->
-Acts of Parliament in the folders act-YYYY-NNN/: copies of Acts of the Parliament of the United Republic of
-Tanzania as passed, from the Parliament of Tanzania's Acts list (https://polis.bunge.go.tz/), retrieved 2026-11-03.
-The site states no licence or terms of use. The Copyright and Neighbouring Rights Act (Cap. 218), section 7, gives
-no protection to laws. The texts are reproduced without change to their wording. Neither the Parliament of
-Tanzania nor the Government Printer endorses this repository.
+Acts of Parliament in acts/<year>/<number>-<short title>/: copies of Acts of the Parliament of the United Republic of
+Tanzania as passed, from the Parliament of Tanzania's Acts list (https://polis.bunge.go.tz/), retrieved 2026-11-03 and
+2026-11-26. The site states no licence or terms of use. The Copyright and Neighbouring Rights Act (Cap. 218),
+section 7, gives no protection to laws. The texts are reproduced without change to their wording. Neither the
+Parliament of Tanzania nor the Government Printer endorses this repository.
+
+The Constitution in constitution/: the official revised text in English (Cap. 2), published by the Ministry of
+Constitutional and Legal Affairs (https://nalis.sheria.go.tz/en/constitution), retrieved 2026-10-28. The site's
+footer reads "All Rights Reserved"; the Constitution is law and is not protected (Cap. 218, section 7). Reproduced
+without change to its wording; the Ministry does not endorse this repository.
 <!-- acts:end -->
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the

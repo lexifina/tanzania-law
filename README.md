@@ -5,13 +5,15 @@
 <img alt="Tanzanian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+[Kiswahili](README.sw.md)
+
 The law of Tanzania as a git history: one file per section, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a section; picking a date gives the text in force that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tanzania's national law, which global-law reads at `tanzania/national/acts/`.
 
-**What is in it now:** 21 acts consolidated by TanzLII, among them the Penal Code, the Evidence Act, the Law of Contract Act, the Law of Marriage Act and the Land Act, with 43 versions from 31 July 2002 to 30 June 2025; and 107 Acts of Parliament as passed from 2015 to 2026, each as one version. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists the 151 laws the history names, with their dates.
+**What is in it now:** the Constitution (the official English revised text to the 14th Amendment, 2005); 28 consolidated acts of the Revised Laws, among them the Penal Code, the Evidence Act, the Law of Contract Act and the Land Act; and 117 Acts of Parliament as passed, 2015 to 2026, each as one version: 177 dated versions from 2002-07-31 to 2026-09-19. [`STRUCTURE.md`](STRUCTURE.md) gives the layout; [`REPRODUCE.md`](REPRODUCE.md) the sources and the acts held back.
 
-Each TanzLII act is a folder named after its short title, with one file per section or schedule, plus `long-title.md` and a `README.md` listing its provisions and their changes (`penal-code/sec-321.md` is section 321 of the Penal Code, Cap. 16, on setting fire to crops). Each Act of Parliament is a folder named by its year and number (`act-2025-004/` is the Labour Laws (Amendments) Act, 2025, No. 4 of 2025).
+The Constitution is `constitution/`, one file per article. Each consolidated act is a folder `revised-laws/cap-NNN-<short title>/` named by its chapter in the Revised Laws, with one file per section or schedule (`revised-laws/cap-016-penal-code/sec-321.md` is section 321 of the Penal Code, Cap. 16, on setting fire to crops). Each Act of Parliament is a folder `acts/<year>/<number>-<short title>/` (`acts/2025/004-labour-laws-amendments-act/` is the Labour Laws (Amendments) Act, 2025, No. 4 of 2025).
 
 The text is in English, as TanzLII and the Parliament publish them, except 9 Acts of Parliament enacted in Kiswahili; TanzLII's editorial notes (kept only where a provision has no other text) and the Part and Chapter headings are left out.
 
@@ -19,10 +21,10 @@ The text is in English, as TanzLII and the Parliament publish them, except 9 Act
 
 | Question | Command |
 | --- | --- |
-| Every change to section 321 of the Penal Code | `git log -p --word-diff -- penal-code/sec-321.md` |
-| Which law wrote each line of section 321? | `git blame penal-code/sec-321.md` |
-| Every version of the Penal Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- penal-code ':!penal-code/README.md'` |
-| Section 321 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 penal-code sec-321` |
+| Every change to section 321 of the Penal Code | `git log -p --word-diff -- revised-laws/cap-016-penal-code/sec-321.md` |
+| Which law wrote each line of section 321? | `git blame revised-laws/cap-016-penal-code/sec-321.md` |
+| Every version of the Penal Code, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- revised-laws/cap-016-penal-code ':!revised-laws/cap-016-penal-code/README.md'` |
+| Section 321 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 revised-laws/cap-016-penal-code sec-321` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add tanzania/national/acts
-python3 tools/law.py show 2026-01-01 tanzania/national/acts/penal-code/sec-321.md
+python3 tools/law.py show 2026-01-01 tanzania/national/acts/revised-laws/cap-016-penal-code/sec-321.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -49,7 +51,8 @@ Each commit is dated at noon, Africa/Dar_es_Salaam, on the day the version took 
 
 - for a TanzLII act, the date of TanzLII's point-in-time version (expression): for an amendment, the day it came into force, as TanzLII's amendment list gives it; for a revised edition, the day the edition is as at (the Revised Laws of 31 July 2002, 30 November 2019 and 31 December 2023);
 - for a TanzLII act as enacted, its Gazette publication, or the commencement day TanzLII states (the Judiciary Administration Act, published on 10 June 2011, is dated 1 March 2012);
-- for an Act of Parliament, the date of assent printed with it; a later commencement day is not shown.
+- for an Act of Parliament, the date printed under its long title or with the assent; a later commencement day is not shown. Where no day is printed, the commit is placed on 1 July of its year and says so in a `Date-placeholder:` trailer; days before 1970 are in the `In-force:` trailer, the commit date being held at 1 January 1970;
+- for the Constitution, the day of the 14th Amendment (22 April 2005), the last amendment the official revised text takes in.
 
 Each change is credited to the law TanzLII's History names (`Act 1 of 2022`). Where one version takes in several laws or is a revised edition, a provision is credited to a law only if TanzLII's editorial note in it names that law; the rest are committed by the publisher (`TanzLII`) and labelled unexplained (12 commits). The first version of the Judiciary Administration Act is the act as enacted, credited to Act 4 of 2011; for the other 20 TanzLII acts it is the "oldest version available", credited to TanzLII. Each Act of Parliament is credited to itself (`Act 4 of 2025`).
 
@@ -57,16 +60,16 @@ Each change is credited to the law TanzLII's History names (`Act 1 of 2022`). Wh
 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 150 versions of 128 acts, 0 mismatches; every commit's trailers parse (see [`REPRODUCE.md`](REPRODUCE.md)).
 - Every TanzLII version is parsed from an archived copy of its own dated expression page, whose sha256 is in `data/versions.json`; an act's newest version is the expression TanzLII's own listing named as current when it was retrieved (October 2026).
-- Every word of an Act of Parliament, from the long title to the end, is in a file, checked letter for letter (page numbers, running heads and Part headings aside); an Act is left out unless its sections run 1, 2, 3 without a gap and match the arrangement printed with it.
+- Every word of an Act of Parliament, from the long title to the end, is in a file, checked letter for letter (page numbers, running heads and Part headings aside); an Act whose sections do not run 1, 2, 3 without a gap is kept whole in one file, `text.md`, and its commit says `Layout: whole text`.
 - History is append-only: no merge commits and no commit date that goes backwards.
 - [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
-- **Most Tanzanian law.** Only these acts: no subsidiary legislation and no case law. The Constitution (published by TanzLII in Kiswahili only), the Employment and Labour Relations Act, the Civil Procedure Code and the Basic Rights and Duties Enforcement Act were built but are held back until their current text can be confirmed; acts with an amendment TanzLII has not yet applied (the Criminal Procedure Act, the Magistrates' Courts Act and others) are left out.
+- **Most Tanzanian law.** No subsidiary legislation, no Zanzibar law (the House of Representatives' copies are scans without a text layer) and no case law (TanzLII and ZanzibarLII refuse automated access). The Revised Edition 2023 chapters the Office of the Solicitor General publishes are held back: each page says it may not be reproduced without the Attorney General's permission. The Employment and Labour Relations Act, the Civil Procedure Code and the Basic Rights and Duties Enforcement Act consolidations are held back until their current text can be confirmed.
 - **Changes before TanzLII's oldest version.** 4 acts start at the Revised Laws 2002, 12 at the Revised Laws 2019 and 4 at their version of 14 March 2025; a listed version with no archived text (the Law of Marriage Act's of 15 July 2022) is folded into the next.
 - **Which Act made the Revised Laws 2023's changes.** TanzLII publishes the edition as a consolidation, so wording it changed is credited to `TanzLII` unless a note names an Act; each such commit message names the Acts the version also takes in.
-- **Later changes to the Acts of Parliament.** Each is the Act as passed: amendments are not applied to it, and each amending Act is its own folder. Scanned copies and copies from before 2000 are left out.
+- **Later changes to the Acts of Parliament.** Each is the Act as passed: amendments are not applied to it, and each amending Act is its own folder. Scanned copies without a text layer are left out (no OCR); where the copy carries the publisher's own recognised text, it is used and the commit says `Text-source: publisher OCR`.
 - **Changes within a line.** Each paragraph is one line, so blame credits a whole paragraph; use `git log -p --word-diff` for the words.
 
 ## Sources
@@ -75,6 +78,7 @@ Each change is credited to the law TanzLII's History names (`Act 1 of 2022`). Wh
 | --- | --- | --- | --- |
 | [TanzLII](https://tanzlii.org) (Judiciary of Tanzania, on the Laws.Africa Peachjam platform) | Legal information institute: consolidated acts | yes, each dated point-in-time version | The text, the day each version took effect, the History and amendment lists, and editorial notes naming the amending laws |
 | [Parliament of Tanzania](https://polis.bunge.go.tz/) (Bunge la Tanzania), Acts list | Acts of Parliament as passed (Act Supplement to the Gazette) | no, the Act as passed | Read from the text layer of each PDF; no OCR |
+| [Ministry of Constitutional and Legal Affairs](https://nalis.sheria.go.tz/en/constitution) (NaLIS) | The Constitution, official revised text in English (Cap. 2) | no, one revised text (to 2005) | Read from the PDF's text layer |
 | [Internet Archive](https://web.archive.org/) | Archived copies of TanzLII's pages | as archived | The copy read for each version whose address in `data/versions.json` is on web.archive.org |
 
 ## Licence
